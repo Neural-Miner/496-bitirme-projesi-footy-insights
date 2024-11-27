@@ -26,7 +26,8 @@ WebDriverWait(driver, 30).until(
 print("Eklenti basariyla yüklendi!")
 
 # Ana sayfaya git
-url = 'https://beinsports.com.tr/mac-ozetleri-goller/super-lig/ozet/2023-2024/38/fenerbahce-6-0-istanbulspor-mac-ozeti'
+# url = 'https://beinsports.com.tr/mac-ozetleri-goller/super-lig/ozet/2023-2024/38/fenerbahce-6-0-istanbulspor-mac-ozeti'
+url = 'https://beinsports.com.tr/mac-ozetleri-goller/super-lig/ozet/2023-2024/38'
 driver.get(url)
 time.sleep(5)  # Sayfanın yüklenmesi için bekle
 
@@ -42,34 +43,45 @@ if(iframe){
 # Bekleme tanimla
 wait = WebDriverWait(driver, 10)
 
-# Videoya erisim
-try:
-    # 'video' etiketini bul ve source altındaki src'ye eriş
-    video_element = driver.find_element(By.ID, "bitmovinplayer-video-bs-player-wrapper")
+counter = 1
 
-    # 'source' etiketini bul ve src değerini al
-    source_element = video_element.find_element(By.TAG_NAME, "source")
-    video_src = source_element.get_attribute("src")
-    print(f"Video SRC: {video_src}")
+# Sınıfa sahip tüm 'a' elementlerini bul
+elements = WebDriverWait(driver, 10).until(
+    EC.presence_of_all_elements_located((By.CSS_SELECTOR, 
+            ".text-decoration-none.rounded-circle.bg-secondary.goals_play-icon-wrapper__DH44c"))
+    )
 
-    """
-    # Yeni sekmede bu linki aç
-    driver.execute_script(f"window.open('{video_src}', '_blank');")
-    time.sleep(3)
-    """
+# Linklerin href değerlerini al
+href_links = [element.get_attribute("href") for element in elements]
 
-    counter = 1
 
-    # Videoyu kaydet..
-    # Video URL'sini bilgisayara kaydet
-    response = requests.get(video_src, stream=True) # Video dosyasini indirme
-    if response.status_code == 200:
-        with open(f"video{counter}.mp4", "wb") as file:
-            for chunk in response.iter_content(chunk_size=1024):
-                file.write(chunk)
-        print("Video başarıyla kaydedildi: video.mp4")
-        counter += 1
-    else:
-        print(f"Video indirilemedi. HTTP Hatası: {response.status_code}")
-except Exception as e:
-    print(f"Video veya src bulunamadı: {e}")
+for link in href_links:
+    if link:  # Href boş değilse
+        print(f"Link aciliyor: {link}")
+        driver.get(link)
+
+        time.sleep(5)
+
+        # Videoya erisim
+        try:
+            # 'video' etiketini bul ve source altındaki src'ye eriş
+            video_element = driver.find_element(By.ID, "bitmovinplayer-video-bs-player-wrapper")
+
+            # 'source' etiketini bul ve src değerini al
+            source_element = video_element.find_element(By.TAG_NAME, "source")
+            video_src = source_element.get_attribute("src")
+            print(f"Video SRC: {video_src}")
+
+            # Videoyu kaydet..
+            # Video URL'sini bilgisayara kaydet
+            response = requests.get(video_src, stream=True) # Video dosyasini indirme
+            if response.status_code == 200:
+                with open(f"video{counter}.mp4", "wb") as file:
+                    for chunk in response.iter_content(chunk_size=1024):
+                        file.write(chunk)
+                print("Video başarıyla kaydedildi: video.mp4")
+                counter += 1
+            else:
+                print(f"Video indirilemedi. HTTP Hatası: {response.status_code}")
+        except Exception as e:
+            print(f"Video veya src bulunamadı: {e}")
