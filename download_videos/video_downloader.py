@@ -15,25 +15,23 @@ service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
 chrome_options = Options()
-"""
 extension_path = os.path.join(
     os.path.dirname(__file__),
     "extensions",
     "BGNKHHNNAMICMPEENAELNJFHIKGBKLLG_5_0_170_0.crx",
 )
 chrome_options.add_extension(extension_path)
-"""
+
 
 # WebDriver
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-"""
 # AdBlocker eklentisi
 WebDriverWait(driver, 30).until(
     EC.presence_of_element_located((By.CSS_SELECTOR, "body"))
 )
 print("Eklenti yuklendi!")
-"""
+
 
 # Videolarin indirilecegi linklerin bulundugu json dosyasi
 input_file = "download_videos\match_highlights.json"
@@ -73,7 +71,7 @@ for url in urls:
     # Linklerin href degerlerini al
     href_links = [element.get_attribute("href") for element in elements]
 
-    save_directory = r"download_videos\DownloadedVideos"
+    save_directory = r"download_videos\downloaded_videos"
     os.makedirs(save_directory, exist_ok=True)
 
     for link in href_links:
