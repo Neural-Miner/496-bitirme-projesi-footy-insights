@@ -102,7 +102,7 @@ for url in selectedURLs:
     wait = WebDriverWait(driver, 5)
 
     # Sinifa sahip tum 'a' elementlerini bul
-    elements = WebDriverWait(driver, 10).until(
+    elements = WebDriverWait(driver, 30).until(
         EC.presence_of_all_elements_located(
             (
                 By.CSS_SELECTOR,
