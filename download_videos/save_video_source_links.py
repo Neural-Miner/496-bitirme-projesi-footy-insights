@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 import time
 import os
 import json
@@ -49,7 +50,7 @@ chrome_options.add_extension(extension_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # AdBlocker eklentisi
-WebDriverWait(driver, 30).until(
+WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.CSS_SELECTOR, "body"))
 )
 print("Eklenti yuklendi!")
@@ -81,6 +82,7 @@ selectedURLs = [
     for item in data["match_highlights"]
     # if item["season"].startswith(season) and lowerWeekLimit <= int(item["week"]) <= upperWeekLimit
     if item["season"] in ["2019-2020"]
+    # and 13 <= int(item["week"]) <= 34
 ]
 
 for url in selectedURLs:
@@ -100,16 +102,18 @@ for url in selectedURLs:
 
     # Bekleme
     wait = WebDriverWait(driver, 5)
-
-    # Sinifa sahip tum 'a' elementlerini bul
-    elements = WebDriverWait(driver, 30).until(
-        EC.presence_of_all_elements_located(
-            (
-                By.CSS_SELECTOR,
-                ".text-decoration-none.rounded-circle.bg-secondary.goals_play-icon-wrapper__DH44c",
+    try:
+        # Sinifa sahip tum 'a' elementlerini bul
+        elements = WebDriverWait(driver, 30).until(
+            EC.presence_of_all_elements_located(
+                (
+                    By.CSS_SELECTOR,
+                    ".text-decoration-none.rounded-circle.bg-secondary.goals_play-icon-wrapper__DH44c",
+                )
             )
         )
-    )
+    except TimeoutException:
+        continue
 
     # Linklerin href degerlerini al
     href_links = [element.get_attribute("href") for element in elements]
