@@ -6,10 +6,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import requests
 import os
 import json
-import random
 
 
 def extract_match_details(file_name):
@@ -73,17 +71,16 @@ else:
     # Eğer dosya yoksa, boş bir liste başlat
     json_data = []
 
-selectedURLs = []
 
-season = input("Videolarini indirmek istediginiz sezon?: ")
-lowerWeekLimit = int(input("Hangi haftadan baslansin?"))
-upperWeekLimit = int(input("Hangi haftada bitsin?"))
+# season = input("Videolarini indirmek istediginiz sezon?: ")
+# lowerWeekLimit = int(input("Hangi haftadan baslansin?"))
+# upperWeekLimit = int(input("Hangi haftada bitsin?"))
 
 selectedURLs = [
     item["url"]
     for item in data["match_highlights"]
-    if item["season"].startswith(season)
-    and lowerWeekLimit <= int(item["week"]) <= upperWeekLimit
+    # if item["season"].startswith(season) and lowerWeekLimit <= int(item["week"]) <= upperWeekLimit
+    if item["season"] in ["2019-2020"]
 ]
 
 for url in selectedURLs:
@@ -105,7 +102,7 @@ for url in selectedURLs:
     wait = WebDriverWait(driver, 5)
 
     # Sinifa sahip tum 'a' elementlerini bul
-    elements = WebDriverWait(driver, 5).until(
+    elements = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located(
             (
                 By.CSS_SELECTOR,
