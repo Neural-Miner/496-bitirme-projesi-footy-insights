@@ -6,10 +6,31 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import requests
 import os
 import json
-import random
+
+
+def extract_match_details(file_name):
+    # 1. Sezon ve hafta bilgisini ayır
+    season_week_part = file_name.split("_", 2)[:2]  # İlk iki kısmı al
+    season = season_week_part[0]  # Sezon bilgisi
+    week = season_week_part[1]  # Hafta bilgisi
+
+    # 2. Takım bilgileri ve skor
+    main_part = file_name.split("_", 2)[2]  # 3. kısmı al (takımlar ve skor)
+    main_part = main_part.rsplit("-mac-ozeti", 1)[0]  # "-mac-ozeti" kısmını kaldır
+
+    # 3. Takımları ve skoru ayır
+    parts = main_part.split("-")
+    for i, part in enumerate(parts):
+        if part.isdigit():  # Skorun başlangıcını bul
+            team1 = "-".join(parts[:i])  # Skor öncesi takım 1
+            team2 = "-".join(parts[i + 2 :])  # Skor sonrası takım 2
+            return season, week, team1, team2
+
+    # Eğer skor bulunamazsa hata ver
+    raise ValueError("Dosya adi formatinda skor bilgisi bulunamadi.")
+
 
 # ChromeDrive service
 service = Service(ChromeDriverManager().install())
@@ -33,44 +54,34 @@ WebDriverWait(driver, 30).until(
 )
 print("Eklenti yuklendi!")
 
-
 # Videolarin indirilecegi linklerin bulundugu json dosyasi
 input_file = "download_videos\match_highlights.json"
 with open(input_file, "r", encoding="utf-8") as json_file:
     data = json.load(json_file)
 
-selectedURLs = []
+# JSON dosyasının adı
+output_file = r"download_videos\video_data_with_details.json"
 
-downloadType = int(
-    input(
-        "Belirli bir sezona ait videolari indir. (1) \nSezon fark etmeden karisik indir. (2)"
-    )
-)
+# Mevcut dosyayı kontrol et ve içeriği yükle
+if os.path.exists(output_file):
+    # Eğer dosya varsa, içeriği yükle
+    with open(output_file, "r", encoding="utf-8") as json_file:
+        json_data = json.load(json_file)
+else:
+    # Eğer dosya yoksa, boş bir liste başlat
+    json_data = []
 
-if downloadType == 1:
-    season = input("Videolarini indirmek istediginiz sezon?: ")
-    lowerWeekLimit = int(input("Hangi haftadan baslansin?"))
-    upperWeekLimit = int(input("Hangi haftada bitsin?"))
 
-    selectedURLs = [
-        item["url"]
-        for item in data["match_highlights"]
-        if item["season"].startswith(season)
-        and lowerWeekLimit <= int(item["week"]) <= upperWeekLimit
-    ]
-elif downloadType == 2:
-    numberOfVideos = int(input("Indirmek istediginiz video sayisini giriniz: "))
+# season = input("Videolarini indirmek istediginiz sezon?: ")
+# lowerWeekLimit = int(input("Hangi haftadan baslansin?"))
+# upperWeekLimit = int(input("Hangi haftada bitsin?"))
 
-    if numberOfVideos > len(data["match_highlights"]):
-        print(
-            f'Sadece {len(data["match_highlights"])} adet URL mevcut. Daha az bir sayi girin.'
-        )
-    else:
-        allURLs = [item["url"] for item in data["match_highlights"]]
-        selectedURLs = random.sample(allURLs, numberOfVideos)
-        for i in selectedURLs:
-            print(i)
-
+selectedURLs = [
+    item["url"]
+    for item in data["match_highlights"]
+    # if item["season"].startswith(season) and lowerWeekLimit <= int(item["week"]) <= upperWeekLimit
+    if item["season"] in ["2019-2020"]
+]
 
 for url in selectedURLs:
 
@@ -91,7 +102,7 @@ for url in selectedURLs:
     wait = WebDriverWait(driver, 5)
 
     # Sinifa sahip tum 'a' elementlerini bul
-    elements = WebDriverWait(driver, 5).until(
+    elements = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located(
             (
                 By.CSS_SELECTOR,
@@ -108,13 +119,13 @@ for url in selectedURLs:
 
     for link in href_links:
         if link:
-            print(f"Link aciliyor: {link}")
+            # print(f"Link aciliyor: {link}")
             driver.get(link)
 
             video_title = link.split("/ozet/")[1].replace("/", "_")
-            # print("title: " + video_title)
+            season, week, team1, team2 = extract_match_details(video_title)
 
-            save_path = os.path.join(save_directory, f"{video_title}.mp4")
+            print(f"{season} - {week} - {team1} - {team2}")
 
             time.sleep(5)
 
@@ -128,19 +139,24 @@ for url in selectedURLs:
                 # 'source' etiketini bul ve src degerini al
                 source_element = video_element.find_element(By.TAG_NAME, "source")
                 video_src = source_element.get_attribute("src")
-                print(f"Video SRC: {video_src}")
+                # print(f"Video SRC: {video_src}")
 
-                # Videoyu kaydet..
-                response = requests.get(
-                    video_src, stream=True
-                )  # Video dosyasini indirme
-                if response.status_code == 200:
-                    with open(save_path, "wb") as file:
-                        for chunk in response.iter_content(chunk_size=1024):
-                            file.write(chunk)
-                    print("Video basariyla indirildi.")
+                # JSON için kaydet
+                new_entry = {
+                    "season": season,
+                    "week": week,
+                    "team1": team1,
+                    "team2": team2,
+                    "link": link,
+                    "src": video_src,
+                }
 
-                else:
-                    print(f"Video indirilemedi. HTTP Hatasi: {response.status_code}")
+                json_data.append(new_entry)
+
+                # JSON dosyasını her adımda güncelle
+                with open(output_file, "w", encoding="utf-8") as json_file:
+                    json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+                print(f"Yeni veri eklendi: {new_entry}")
+
             except Exception as e:
                 print(f"Video veya src bulunamadi: {e}")
