@@ -81,7 +81,8 @@ selectedURLs = [
     item["url"]
     for item in data["match_highlights"]
     # if item["season"].startswith(season) and lowerWeekLimit <= int(item["week"]) <= upperWeekLimit
-    if item["season"] in ["2019-2020"]
+    if item["season"]
+    in ["2015-2016", "2014-2015", "2013-2014", "2012-2013", "2011-2012"]
     # and 13 <= int(item["week"]) <= 34
 ]
 
