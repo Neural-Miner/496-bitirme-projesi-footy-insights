@@ -3,44 +3,93 @@ import requests
 from bs4 import BeautifulSoup
 import unicodedata
 #from fuzzywuzzy import fuzz
+import re
+import json
 
-def normalize_string(s):
-    return unicodedata.normalize('NFKD', s).strip().casefold()
+def processStringToSet(s):
+    cleanedString = [char for char in s.strip().lower() if re.match(r'[a-zA-ZçÇğĞıİöÖşŞüÜ]', char)]
+    return sorted(cleanedString)
 
-def string_to_set(s):
-    return sorted(s.lower().strip())  # Stringi sıralanmış bir listeye dönüştür
+def extract_team_data(soup, team_key, team_id_prefix, takimAdi, macDetaylari):
+    # Team Name
+    macDetaylari["takimlar"][team_key]["takimAdi"].append(takimAdi)
 
-# Flashscore icin
-"""
-def fetchMatchInfo(season, week, firstTeam, secondTeam):
-    seasonURL = f"https://www.flashscore.com/football/turkey/super-lig-{season}/results/"
-    print(seasonURL)
+    # Starting 11
+    players = soup.select(f'a[id*="_{team_id_prefix}_rptKadrolar"]')
+    for player in players:
+        player_name = player.text.strip()
+        jersey_number = player.find_previous('span').text.strip()
+        jersey_number = jersey_number[:-1] if jersey_number.endswith('.') else jersey_number
+        macDetaylari["takimlar"][team_key]["ilk11"].append({
+            "oyuncuAdi:": player_name,
+            "formaNo": jersey_number
+        })
 
-    # Send an HTTP GET request to fetch the page content
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
-    response = requests.get(seasonURL, headers=headers)
+    # Substitutes
+    substitutes = soup.select(f'a[id*="_{team_id_prefix}_rptYedekler"]')
+    for substitute in substitutes:
+        player_name = substitute.text.strip()
+        jersey_number = substitute.find_previous('span').text.strip()
+        jersey_number = jersey_number[:-1] if jersey_number.endswith('.') else jersey_number
+        macDetaylari["takimlar"][team_key]["yedekler"].append({
+            "oyuncuAdi:": player_name,
+            "formaNo": jersey_number
+        })
 
-    # Check if the request was successful
-    if response.status_code != 200:
-        print("Veriler çekilemedi. Hata Kodu:", response.status_code)
-        return None
-    
-    with open("fetched_page.html", "w", encoding="utf-8") as file:
-        file.write(response.text)
-    print("HTML content saved to fetched_page.html")
+    # Technical Staff
+    technical_staff = soup.select(f'a[id*="_{team_id_prefix}_rptTeknikKadro_ctl01_lnkTeknikSorumlu"]')
+    for staff in technical_staff:
+        macDetaylari["takimlar"][team_key]["teknikSorumlu"].append(staff.text.strip())
 
-    
-    # Parse the HTML content
-    soupObject = BeautifulSoup(response.text, "html.parser")
+    # Cards
+    cards = soup.select(f'a[id*="_{team_id_prefix}_rptKartlar"]')
+    for card in cards:
+        player_name = card.text.strip()
+        card_type = card.find_previous('img')['alt']
+        minute = card.find_next('span').text.strip()
+        macDetaylari["takimlar"][team_key]["kartlar"].append({
+            "oyuncu": player_name,
+            "kartTuru": card_type,
+            "dakika": minute
+        })
 
-    # Find the specified week
-    roundElement = soupObject.find("div", class_="event__round", string=f"Round {week}")
-    if not roundElement:
-        print(f"Week {week} not found.")
-        return None
-"""
+    # Substituted Out Players
+    outgoing_players = soup.select(f'a[id*="_{team_id_prefix}_rptCikanlar"]')
+    for player in outgoing_players:
+        player_name = player.text.strip()
+        minute = player.find_next('span').text.strip()
+        macDetaylari["takimlar"][team_key]["oyundanCikanlar"].append({
+            "oyuncu": player_name,
+            "dakika": minute
+        })
+
+    # Substituted In Players
+    incoming_players = soup.select(f'a[id*="_{team_id_prefix}_rptGirenler"]')
+    for player in incoming_players:
+        player_name = player.text.strip()
+        minute = player.find_next('span').text.strip()
+        macDetaylari["takimlar"][team_key]["oyunaGirenler"].append({
+            "oyuncu": player_name,
+            "dakika": minute
+        })
+
+    # Goller
+    goals = soup.select(f'a[id*="_{team_id_prefix}_rptGoller"]')
+    for goal in goals:
+        # regex kullanarak
+        match = re.match(r"^(.*?),(\d+\+?\d*\.dk) \((.*?)\)$", goal.text.strip())
+
+        if match:
+            player_name = match.group(1)
+            goal_minute = match.group(2)
+            goal_type = match.group(3)
+
+            macDetaylari["takimlar"][team_key]["goller"].append({
+                "oyuncu": player_name,
+                "dakika": goal_minute,
+                "golTipi": goal_type
+            })
+
 
 # TFF sitesinden macin kadrosunu cekebilmek icin
 def fetchMatchInfo(season, week, firstTeam, secondTeam):
@@ -57,7 +106,7 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
         print("Veriler çekilemedi. Hata Kodu:", response.status_code)
         return None
     
-    with open("fetched_page.html", "w", encoding="utf-8") as file:
+    with open("detectMatchDetails/fetched_page.html", "w", encoding="utf-8") as file:
         file.write(response.text)
     print("HTML content saved to fetched_page.html")
 
@@ -80,15 +129,13 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
         print("Veriler çekilemedi. Hata Kodu:", response.status_code)
         return None
     
-    with open("fetched_page_2.html", "w", encoding="utf-8") as file:
+    with open("detectMatchDetails/fetched_page_2.html", "w", encoding="utf-8") as file:
         file.write(response.text)
     print("HTML content saved to fetched_page_2.html")
     
     # Parse the HTML content
     soupObject = BeautifulSoup(response.text, "html.parser")
     
-    # Search for rows in the table
-    # rows = soupObject.find('table', class_='genelBorder fiksturListesiTable').find_all('tr')
 
     # Find all 'td' elements with the week information
     weekElements = soupObject.find_all('td', class_='belirginYazi')
@@ -114,63 +161,98 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
                     if len(cells) == 3:  # Ensure it's a valid match row
                         firstTeamExtracted = cells[0].text
                         secondTeamExtracted = cells[2].text
+
+                        #print("Score deneme ", cells[1])
                         
-                        inputTeams = sorted([string_to_set(firstTeam), string_to_set(secondTeam)])
-                        extractedTeams = sorted([string_to_set(firstTeamExtracted), string_to_set(secondTeamExtracted)])
+                        inputTeams = [processStringToSet(firstTeam), processStringToSet(secondTeam)]
+                        extractedTeams = [processStringToSet(firstTeamExtracted), processStringToSet(secondTeamExtracted)]
 
                         # print(type(firstTeamExtracted))
                         # print(type(firstTeam))
 
                         # for i in inputTeams:
-                        #     print(f"Input: {i}")
+                        #     print(f"Input: {i} - Length: {len(i)}")
                         # for i in extractedTeams:
-                        #     print(f"Extracted: {i}")
+                        #     print(f"Extracted: {i} - Length: {len(i)}")
 
-                        if inputTeams == extractedTeams:  # Match the teams
-                            print("Deneme!!!")
+                        if sorted(inputTeams) == sorted(extractedTeams):  # Match the teams
+                            print("Match found!")
                             scoreCell = cells[1]  # The middle cell contains the score
                             matchLink = scoreCell.get('href')  # Extract the href
                             break
                 if matchLink:  # If the match is found, exit the loop
                     break
 
-
-    print(firstTeamExtracted)
-    #print(firstTeam)
-    print(secondTeamExtracted)
-    #print(secondTeam)
-    print(weekText)
-
     if matchLink:
+        matchLink = "https://www.tff.org" + matchLink
         print(f"The detailed link for the match between {firstTeam} and {secondTeam} is: {matchLink}")
     else:
         print("No link was found for the specified teams.")
 
 
-    # for row in rows:
-    #     if 'belirginYazi' in row.get('class', []):
-    #         currentWeek = row.text.strip()  # Update the current week
-    #     elif currentWeek == week:  # If we are in the target week
-    #         cells = row.find_all('a')  # Find all <a> tags in the row
-    #         if len(cells) == 3:  # Ensure the row has three columns (team1, score, team2)
-    #             extractedFirstTeam = cells[0].text.strip()
-    #             extractedSecondTeam = cells[2].text.strip()
-    #             # Compare team names (case-insensitive and order-independent)
-    #             input_teams = {firstTeam.lower(), secondTeam.lower()}
-    #             extracted_teams = {extractedFirstTeam.lower(), extractedSecondTeam.lower()}
-    #             if input_teams == extracted_teams:
-    #                 matchDetailLink = cells[1]['href']  # Extract the match link
-    #                 break
+        # Kadro bilgisini alma
 
+    # Fetch the HTML of specified match
+    response = requests.get(matchLink, headers=headers)
+    # Check if the request was successful
+    if response.status_code != 200:
+        print("Veriler çekilemedi. Hata Kodu:", response.status_code)
+        return None
     
+    with open("detectMatchDetails/fetched_page_3.html", "w", encoding="utf-8") as file:
+        file.write(response.text)
+    print("HTML content saved to fetched_page_3.html")
+    
+    # Parse the HTML content
+    soupObject = BeautifulSoup(response.text, "html.parser")
+
+
+    macDetaylari = {
+        "takimlar": {
+            "takim_1": {
+                "takimAdi": [],
+                "ilk11": [],
+                "yedekler": [],
+                "teknikSorumlu": [],
+                "kartlar": [],
+                "oyundanCikanlar": [],
+                "oyunaGirenler": [],
+                "goller": []
+            },
+            "takim_2": {
+                "takimAdi": [],
+                "ilk11": [],
+                "yedekler": [],
+                "teknikSorumlu": [],
+                "kartlar": [],
+                "oyundanCikanlar": [],
+                "oyunaGirenler": [],
+                "goller": []
+            }
+        }
+    }
+
+    # Extract data for team 1
+    extract_team_data(soupObject, "takim_1", "grdTakim1", firstTeamExtracted, macDetaylari)
+
+    # Extract data for team 2
+    extract_team_data(soupObject, "takim_2", "grdTakim2", secondTeamExtracted, macDetaylari)
+
+    # Write to JSON file
+    with open(f"detectMatchDetails/{season}_{week}_{firstTeamExtracted}_{secondTeamExtracted}.json", 'w', encoding='utf-8') as json_file:
+        json.dump(macDetaylari, json_file, ensure_ascii=False, indent=4)
 
 
 
-season = input("Sezon?")
-week = input("Hafta?")
-firstTeam = input("Birinci Takım Adı?")
-secondTeam = input("İkinci Takım Adı?")
+# season = input("Sezon?")
+# week = input("Hafta?") + "" + ".Hafta"
+# firstTeam = input("Birinci Takım Adı?")
+# secondTeam = input("İkinci Takım Adı?")
+
+season = "2007-2008"
+week = "7.Hafta"
+firstTeam = "Vestel Manisaspor"
+secondTeam = "Büyükşehir Bld.Spor"
+
 fetchMatchInfo(season, week, firstTeam, secondTeam)
-
-# webbrowser.open(seasonURL)
 
