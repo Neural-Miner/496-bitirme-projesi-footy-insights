@@ -1,38 +1,90 @@
 .App {
   text-align: center;
+  width: 100%;
+  height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.55);
+  backdrop-filter: blur(.5vw);
+  pointer-events: none;
 }
 
-@keyframes App-logo-spin {
+/* Sayfa acilis animasyonu */
+@keyframes fadeInScale {
   from {
-    transform: rotate(0deg);
+    opacity: 0;
+    transform: scale(0.8);
   }
   to {
-    transform: rotate(360deg);
+    opacity: 1;
+    transform: scale(1);
   }
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  width: 70%;
+  background-color: #202020dc;
+  border-radius: 2vw;
+  box-shadow: 0 4vw 10vw rgba(0, 0, 0, 1);
+  z-index: 1;
+  animation: fadeInScale 1s ease-in-out;
+}
+
+
+.label {
+  color: #c4c3c3; /* Koyu gri metin */
+  font-size: 1.2rem; /* Yazı boyutu */
+  text-align: center; /* Metni ortala */
+  font-family: Arial, sans-serif; /* Yazı tipi */
+}
+
+.playPauseButton {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  border: none;
+  border-radius: 50%;
+  width: 3vw;
+  height: 3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  transition: background 0.3s ease;
+  z-index: 10;
+}
+
+.playPauseButton:hover {
+  background: rgba(129, 129, 129, 0.8);
 }
