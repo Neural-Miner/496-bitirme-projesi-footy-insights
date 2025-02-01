@@ -14,6 +14,14 @@ def extract_team_data(soup, team_key, team_id_prefix, takimAdi, macDetaylari):
     # Team Name
     macDetaylari["takimlar"][team_key]["takimAdi"].append(takimAdi)
 
+    score_element = None
+    if team_key == "takim_1":
+        score_element = soup.select_one('span[id$="_lblTakim1Skor"]')
+    elif team_key == "takim_2":
+        score_element = soup.select_one('span[id$="_Label12"]')
+
+    macDetaylari["takimlar"][team_key]["skor"].append(score_element.text.strip())
+
     # Starting 11
     players = soup.select(f'a[id*="_{team_id_prefix}_rptKadrolar"]')
     for player in players:
@@ -106,7 +114,7 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
         print("Veriler çekilemedi. Hata Kodu:", response.status_code)
         return None
     
-    with open("detectMatchDetails/fetched_page.html", "w", encoding="utf-8") as file:
+    with open("fetched_page.html", "w", encoding="utf-8") as file:
         file.write(response.text)
     print("HTML content saved to fetched_page.html")
 
@@ -114,6 +122,15 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
     soupObject = BeautifulSoup(response.text, "html.parser")
 
     link = soupObject.find('a', href=True, string=lambda x: x and season in x)
+
+    if not link:
+    # Tüm <a> etiketlerini tara ve içindeki <font> gibi alt etiketleri kontrol et
+        all_links = soupObject.find_all('a', href=True)
+        for a_tag in all_links:
+            font_tag = a_tag.find('font')  # <font> etiketi varsa bul
+            if font_tag and season in font_tag.text:
+                link = a_tag
+                break
 
     # Link of the season
     if link:
@@ -129,7 +146,7 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
         print("Veriler çekilemedi. Hata Kodu:", response.status_code)
         return None
     
-    with open("detectMatchDetails/fetched_page_2.html", "w", encoding="utf-8") as file:
+    with open("fetched_page_2.html", "w", encoding="utf-8") as file:
         file.write(response.text)
     print("HTML content saved to fetched_page_2.html")
     
@@ -199,7 +216,7 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
         print("Veriler çekilemedi. Hata Kodu:", response.status_code)
         return None
     
-    with open("detectMatchDetails/fetched_page_3.html", "w", encoding="utf-8") as file:
+    with open("fetched_page_3.html", "w", encoding="utf-8") as file:
         file.write(response.text)
     print("HTML content saved to fetched_page_3.html")
     
@@ -208,9 +225,12 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
 
 
     macDetaylari = {
+        "sezon": [],
+        "hafta": [],
         "takimlar": {
             "takim_1": {
                 "takimAdi": [],
+                "skor": [],
                 "ilk11": [],
                 "yedekler": [],
                 "teknikSorumlu": [],
@@ -221,6 +241,7 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
             },
             "takim_2": {
                 "takimAdi": [],
+                "skor": [],
                 "ilk11": [],
                 "yedekler": [],
                 "teknikSorumlu": [],
@@ -232,6 +253,11 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
         }
     }
 
+    week = week.split('.')[0]
+
+    macDetaylari["sezon"].append(season)
+    macDetaylari["hafta"].append(week)
+
     # Extract data for team 1
     extract_team_data(soupObject, "takim_1", "grdTakim1", firstTeamExtracted, macDetaylari)
 
@@ -239,7 +265,7 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
     extract_team_data(soupObject, "takim_2", "grdTakim2", secondTeamExtracted, macDetaylari)
 
     # Write to JSON file
-    with open(f"detectMatchDetails/{season}_{week}_{firstTeamExtracted}_{secondTeamExtracted}.json", 'w', encoding='utf-8') as json_file:
+    with open(f"{season}_{week}_{firstTeamExtracted}_{secondTeamExtracted}.json", 'w', encoding='utf-8') as json_file:
         json.dump(macDetaylari, json_file, ensure_ascii=False, indent=4)
 
 
@@ -249,10 +275,9 @@ def fetchMatchInfo(season, week, firstTeam, secondTeam):
 # firstTeam = input("Birinci Takım Adı?")
 # secondTeam = input("İkinci Takım Adı?")
 
-season = "2007-2008"
-week = "7.Hafta"
-firstTeam = "Vestel Manisaspor"
-secondTeam = "Büyükşehir Bld.Spor"
+season = "2013-2014"
+week = "2.Hafta"
+firstTeam = "Gençlerbirliği"
+secondTeam = "Akhisar Belediye Gençlik ve Spor"
 
 fetchMatchInfo(season, week, firstTeam, secondTeam)
-

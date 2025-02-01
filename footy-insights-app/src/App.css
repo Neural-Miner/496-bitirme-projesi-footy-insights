@@ -47,15 +47,19 @@ video {
 
 .container {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   height: 70vh;
   width: 70%;
-  background-color: #202020dc;
+  background-color: #202020e7;
   border-radius: 2vw;
   box-shadow: 0 4vw 10vw rgba(0, 0, 0, 1);
   z-index: 1;
   animation: fadeInScale 1s ease-in-out;
+}
+
+.form-group {
+  margin: 1.5vw;
 }
 
 
