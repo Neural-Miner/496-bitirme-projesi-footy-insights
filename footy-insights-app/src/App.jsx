@@ -2,9 +2,8 @@ import './App.css';
 import React, { useState, useRef, useEffect } from 'react';
 // import videoBg from './assets/background_video_2.mp4'
 import videoBg from './assets/background_video.mp4'
-import matchesData from './components/matches.json'; // JSON dosyanızı içe aktarın
-//import matchDetailsData from './mac_verileri/2017-2018/2017-2018_1_BEŞİKTAŞ A.Ş._ANTALYASPOR A.Ş..json'; // ornek mac detaylari
-import matchDetailsData from './components/mac_verileri/2018-2019/2018-2019_10_FENERBAHÇE A.Ş._MKE ANKARAGÜCÜ.json'
+import matchesData from './components/matches_with_paths.json'; // JSON dosyanızı içe aktarın
+// import matchDetailsData from './components/mac_verileri/2018-2019/2018-2019_10_FENERBAHÇE A.Ş._MKE ANKARAGÜCÜ.json'
 
 import MatchDetails from './MatchDetails';
 
@@ -55,6 +54,7 @@ const UploadBox = () => {
   const [selectedMatch, setSelectedMatch] = useState('');
   const [showDetails, setShowDetails] = useState(false);
   const [fadeOut, setFadeOut] = useState(false);  // Form'un kaybolma animasyonu icin
+  const [matchDetailsLink, setMatchDetailsLink] = useState('');
 
   const seasonWeekLimits = Object.fromEntries(
     [...Array(9)].map((_, i) => [`${2011 + i}-${2012 + i}`, 34])
@@ -88,8 +88,10 @@ const UploadBox = () => {
       const matches = matchesData[selectedSeason]?.[selectedWeek] || [];
       setMatchList(matches);
       setSelectedMatch('');
+      setMatchDetailsLink('');
     }
   }, [selectedSeason, selectedWeek]);
+  
 
   const handleContinue = () => {
     // Form kaybolma animasyonunu baslat
@@ -99,6 +101,20 @@ const UploadBox = () => {
     setTimeout(() => {
       setShowDetails(true);
     }, 500); // CSS'teki fadeOutScale suresine esitleyin
+  };
+
+  const handleMatchChange = (e) => {
+    const matchValue = e.target.value;
+    setSelectedMatch(matchValue);
+
+    // Seçilen maçın JSON yolunu bul ve set et
+    const match = matchList.find(
+      (m) => `${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}` === matchValue
+    );
+
+    if (match && match.detailsPath) {
+      setMatchDetailsLink(match.detailsPath);
+    }
   };
 
   return (
@@ -146,7 +162,7 @@ const UploadBox = () => {
               <select
                 className="dropdown"
                 value={selectedMatch}
-                onChange={(e) => setSelectedMatch(e.target.value)}
+                onChange={handleMatchChange}
               >
                 <option value="">Maç Seçiniz</option>
                 {matchList.map((match, index) => (
@@ -161,16 +177,19 @@ const UploadBox = () => {
             </>
           )}
 
-          {selectedMatch && (
+          {selectedMatch && matchDetailsLink && (
+            <>
             <button onClick={handleContinue}>Devam</button>
+            <p>{matchDetailsLink}</p>
+            </>
           )}
         </div>
       )}
 
       {/* Detay Kapsayici */}
-      {showDetails && (
+      {showDetails && matchDetailsLink && (
         <div className="detailsWrapper fadeInScale">
-          <MatchDetails details={matchDetailsData} />
+          <MatchDetails link={matchDetailsLink} />
         </div>
       )}
     </div>
