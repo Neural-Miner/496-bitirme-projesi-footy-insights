@@ -1,0 +1,284 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "33"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ELAZIĞSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DENİZ ASLAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "OGNJEN VRANJES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET NAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MARVİN ROMEO KWASİE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TIDIANE SANE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENİZ YILMAZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "TANJU KAYHAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KARADENİZ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞLAR BİRİNCİ",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM KAŞ",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EROL ERDAL ALKAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "NOYAN ÖZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "HAKAN SÖYLER",
+                    "formaNo": "68"
+                }
+            ],
+            "teknikSorumlu": [
+                "İRFAN SARALOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İBRAHİM KAŞ",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "18.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "VANJA IVESA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "DENİZ YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET NAS",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "DENİZ ASLAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OGNJEN VRANJES",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM KAŞ",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PEDRO CAMILO FRANCO ULLOA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "RAMON DE MORAES MOTTA",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "JERMAINE JUNIOR JONES",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "UĞUR BORAL",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "TUGAY KAYA",
+                    "formaNo": "36"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "SLAVEN BİLİC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN TÖRE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "RAMON DE MORAES MOTTA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İSMAİL KÖYBAŞI",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÖKHAN TÖRE",
+                    "dakika": "39.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

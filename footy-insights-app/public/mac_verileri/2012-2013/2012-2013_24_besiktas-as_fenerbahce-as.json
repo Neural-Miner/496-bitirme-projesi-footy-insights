@@ -1,0 +1,300 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALLAN JAMES MCGREGOR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ROBERTO JAN HİLBERT",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM TORAMAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FILIP HOLOSKO",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU HAMİDOU NİANG",
+                    "formaNo": "53"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JULIEN ESCUDE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KURUMUŞ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE ÖZKAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN SÜZEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN SÜZEN",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE ÖZKAN",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAMADOU HAMİDOU NİANG",
+                    "dakika": "60.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIRK KUIJT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RAUL JOSE TRINDADE MEIRELES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "EMRE BELÖZOĞLU",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "RETO PİRMİN ZİEGLER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH MICHAEL YOBO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPUZ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "BEKİR İRTEGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "EGEMEN KORKMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                },
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "RAUL JOSE TRINDADE MEIRELES",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET TOPUZ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "24.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "dakika": "40.dk",
+                    "golTipi": "K"
+                },
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "63.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

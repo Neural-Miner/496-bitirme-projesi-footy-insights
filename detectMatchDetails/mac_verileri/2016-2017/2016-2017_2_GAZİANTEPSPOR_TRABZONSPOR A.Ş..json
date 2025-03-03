@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "83"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BART LAMBERTUS WİLHELMUS VAN HİNTUM",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ALPAY KOÇAKLI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI KISLIAK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "N'GUESSAN DAVY CLAUDE ANGAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BRUNO DA MOTA MIRANDA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İLKER GÜNASLAN",
+                    "formaNo": "33"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALPAY KOÇAKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "MUHAMED ILDIZ",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ALPAY KOÇAKLI",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "N'GUESSAN DAVY CLAUDE ANGAN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ŞENOL CAN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "88.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JAN DURICA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OGENYI EDDY ONAZI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HYUNJUN SUK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MATUS BERO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "LUIS EZEQUIEL IBANEZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR DEMİROK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "HYUNJUN SUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "OGENYI EDDY ONAZI",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LUIS EZEQUIEL IBANEZ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "HYUNJUN SUK",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "MATUS BERO",
+                    "dakika": "53.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

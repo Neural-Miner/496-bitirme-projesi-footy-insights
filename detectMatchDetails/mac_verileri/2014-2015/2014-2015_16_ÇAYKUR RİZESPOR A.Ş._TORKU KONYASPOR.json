@@ -1,0 +1,273 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "REMZİ GİRAY KAÇAR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LUDOVIC SYLVESTRE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "KIVANÇ KARAKAŞ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ALI LIBAN ABDI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "FILIP HOLOSKO",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AYKUT ERÇETİN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "LOMANA TRESOR LUALUA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KORKMAZ",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "KAĞAN SÖYLEMEZGİLLER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SERCAN KAYA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KORAY ALTINAY",
+                    "formaNo": "4"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KIVANÇ KARAKAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KIVANÇ KARAKAŞ",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "FILIP HOLOSKO",
+                    "dakika": "36.dk"
+                },
+                {
+                    "oyuncu": "ALI LIBAN ABDI",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LOMANA TRESOR LUALUA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ÜMİT KORKMAZ",
+                    "dakika": "36.dk"
+                },
+                {
+                    "oyuncu": "TEVFİK KÖSE",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "9.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TORKU KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VID BELEC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOKALOVIC",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "RECEP AYDIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BENJAMİN FUCHS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ANDREI GABRIEL TORJE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VEDAT BORA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BARİŞ ÖRÜCÜ",
+                    "formaNo": "52"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ TURAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALİ TURAN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BENJAMİN FUCHS",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "VOLKAN FINDIKLI",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "ANDREI GABRIEL TORJE",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,267 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OLIVIER VEIGNEAU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "DAVID PAVELKA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ANDRE DE CASTRO PEREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EREN DERDİYOK",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "VASIL BOZHIKOV",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "FERHAT KİRAZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "HAMİT YILDIRIM",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SANHARIB BÜYÜKSAL",
+                    "formaNo": "16"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KENNETH JOSIAH OMERUO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "STRAHIL VENKOV POPOV",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "EREN DERDİYOK",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SANHARIB BÜYÜKSAL",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MOSTAPHA EL KABIR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ALIAKSANDR HLEB",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "OLAFUR INGI SKULASON",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "10"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI PALITSEVICH",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "GUY LUCIEN MICHEL LANDEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                }
+            ],
+            "teknikSorumlu": [
+                "İBRAHİM ÜZÜLMEZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "ALIAKSANDR HLEB",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HAKAN ASLANTAŞ",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BALIKESİRSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMRULLAH ŞALK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "UĞUR AKDEMİR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HASAN HATİPOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERAY ATASEVEN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ÜNAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "BURAK ÇALIK",
+                    "formaNo": "24"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZEKİ AYVAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "OKAN ALKAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ABDULHAMİT YILDIZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ANDRE FILIPE BERNARDES SANTOS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ALAN CARLOS GOMES DA COSTA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÖZTÜRK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "11"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRULLAH ŞALK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BURAK ÇALIK",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "dakika": "36.dk"
+                },
+                {
+                    "oyuncu": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALAN CARLOS GOMES DA COSTA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ALİ ÖZTÜRK",
+                    "dakika": "36.dk"
+                },
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "dakika": "7.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "dakika": "13.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İBRAHİM DEMİR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "FERHAT YAZGAN",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "MERTCAN ÇAM",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FATİH ATİK",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSA NİZAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "6.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA AKBAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "İSHAK DOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA NİZAM",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "FERHAT YAZGAN",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "İSHAK DOĞAN",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "18"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BARRY JAMES DOUGLAS",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JENS JONSSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JAGOS VUKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM SÖNMEZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DIMITAR DIMITROV RANGELOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRE CAN ATİLA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "CAN DEMİR AKTAV",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "IOAN HORA",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "JAGOS VUKOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                },
+                {
+                    "oyuncu": "BARRY JAMES DOUGLAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "6.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL İBRAHİM SÖNMEZ",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DIMITAR DIMITROV RANGELOV",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "AMIR HADZIAHMETOVIC",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "CAN DEMİR AKTAV",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "5.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "58.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "JAKOB JANSTER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MARWANE SAADANE",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "RECEP NİYAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ALPEREN UYSAL",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE PETRUCCI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ HAN AYNAOĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MATIC FINK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "OSAGIE BRIGHT EDOMWONYI",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MARWANE SAADANE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "OSAGIE BRIGHT EDOMWONYI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR ÇEK",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "RECEP NİYAZ",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OSAGIE BRIGHT EDOMWONYI",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "OĞUZ HAN AYNAOĞLU",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RECEP NİYAZ",
+                    "dakika": "35.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

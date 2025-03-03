@@ -1,0 +1,272 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "27"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIRK KUIJT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RAUL JOSE TRINDADE MEIRELES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "RETO PİRMİN ZİEGLER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPUZ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KESİMAL",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "ORHAN ŞAM",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BEKİR İRTEGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MIROSLAV STOCH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPUZ",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ORHAN ŞAM",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MIROSLAV STOCH",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "83.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OĞUZ DAĞLAROĞLU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞDAŞ ATAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SERTAN VARDAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EMİN ALADAĞ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "THEOFANIS GKEKAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİMA SONKO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EMRAH EREN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EVREN ÖZYİĞİT",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "SERKAN YALÇIN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AHMET CEBE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "AHMET ÇİÇEK",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "KEREM BULUT",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERTAN VARDAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÇAĞDAŞ ATAN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "EMİN ALADAĞ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KEREM BULUT",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "BRUNO FERREIRA MOMBRA ROSA",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

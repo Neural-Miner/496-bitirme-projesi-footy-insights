@@ -1,0 +1,269 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OĞUZ DAĞLAROĞLU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KONUK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "THEOFANIS GKEKAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS FERREIRA",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZEKİ AYVAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN TAŞDELEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "RICARDO JORGE VAZ TE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LAZARO LUAN SCAPOLAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "LOMANA TRESOR LUALUA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "PEKİN KÖŞNEK",
+                    "formaNo": "58"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERCAN KAHYAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MERTER YÜCE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KADİR KELEŞ",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "BRUNO FERREIRA MOMBRA ROSA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RICARDO JORGE VAZ TE",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "LOMANA TRESOR LUALUA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DOUGLAS FERREIRA",
+                    "dakika": "75.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SUAT ALTIN İNŞAAT KAYSERİ ERCİYESSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JACQUES ZOUA DAOGARI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ROYSTON RİCKY DRENTHE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOHN BOYE",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ MEMİŞ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "YACOUBA SYLLA",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YUSUF BALCIOĞLU",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GEORGES CONSTANT MANDJECK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BJÖRN VLEMINCKX",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZTÜRK",
+                    "formaNo": "42"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANIL KARAER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "ROYSTON RİCKY DRENTHE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BARIŞ MEMİŞ",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "YACOUBA SYLLA",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GEORGES CONSTANT MANDJECK",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

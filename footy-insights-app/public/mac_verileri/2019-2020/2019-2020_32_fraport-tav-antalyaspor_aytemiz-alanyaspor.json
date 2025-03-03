@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "32"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FRAPORT-TAV ANTALYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "FEDOR KUDRIASHOV",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AMILTON MINERVINO DA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ADIS JAHOVIC",
+                    "formaNo": "81"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "YAKUP MERT ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO EZEQUIEL BLANCO LESCHUK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT HAN EKELİK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ERDİLMAN",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "ERMAN HERMAN VARDAR",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                "TAMER TUNA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EREN ALBAYRAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "BÜNYAMİN BALCI",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SALİH DURSUN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "LUIS FRANCISCO GRANDO",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO EZEQUIEL BLANCO LESCHUK",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "22.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JOSE CARLOS COENTRAO MARAFONA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "PAPISS DEMBA CISSE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "JUAN FRANCISCO MORENO FUERTES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "STEVEN ROY CAULKER",
+                    "formaNo": "44"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ONUR BULUT",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "LOKMAN GÖR",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "EMİRCAN ALTINTAŞ",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "EROL BULUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "PAPISS DEMBA CISSE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "47.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SALİH UÇAN",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMMANOUIL SIOPIS",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "EMİRCAN ALTINTAŞ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

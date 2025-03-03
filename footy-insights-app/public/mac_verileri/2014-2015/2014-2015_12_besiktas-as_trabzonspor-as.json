@@ -1,0 +1,289 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DEMBA BA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "PEDRO CAMILO FRANCO ULLOA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "RAMON DE MORAES MOTTA",
+                    "formaNo": "31"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRE METİN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FURKAN YAMAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                }
+            ],
+            "teknikSorumlu": [
+                "SLAVEN BİLİC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKHAN TÖRE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN TÖRE",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "DEMBA BA",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "KERİM FREİ",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "dakika": "5.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DEMBA BA",
+                    "dakika": "22.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "83.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ESSEID BELKALEM",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AVRAAM PAPADOPOULOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İBRAHİM DEMİR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "KEVIN CONSTANT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "WARIS MAJEED",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "FATİH ATİK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "86"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSA NİZAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "36.dk"
+                },
+                {
+                    "oyuncu": "ESSEID BELKALEM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "AVRAAM PAPADOPOULOS",
+                    "dakika": "35.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FATİH ATİK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "KEVIN CONSTANT",
+                    "dakika": "35.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

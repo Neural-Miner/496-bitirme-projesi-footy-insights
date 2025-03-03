@@ -1,0 +1,305 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "13"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DANIEL GRAOVAC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FALL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AHMET EMİN ENGİN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MİCKAEL SYLVAİN TIRPAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "RAOUL PETRETTA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "BERSANT CELINA",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "FLORENT HADERGJONAJ",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "ALİ SÜHAN DEMİREL",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YUNUS EMRE ŞENTÜRK",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "JEFFREY KEVIN VAN HOMOET",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN EFE YILMAZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET FEYZİ YILDIRIM",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SELİM DİLLİ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "BERAT KALKAN",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZCAN",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "NİHAT ERİŞ",
+                    "formaNo": "74"
+                }
+            ],
+            "teknikSorumlu": [
+                "NECATİ ERKMEN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALİ SÜHAN DEMİREL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AHMET EMİN ENGİN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MAMADOU FALL",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BERAT KALKAN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "58.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "NIHAD MUJAKIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UROS RADAKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "YASİN GÜRELER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "KEVIN MALCUIT",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "PEDRO FILIPE BARBOSA MOREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "GIORGI BERIDZE",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "JESE RODRIGUEZ RUIZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALI SOWE",
+                    "formaNo": "22"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BAHADIR HAN GÜNGÖRDÜ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN RIDVAN ÇANKAYA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ CEYLAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "FIRATCAN ÜZÜM",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "LAMINE DIACK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ŞAHVERDİ ÇETİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PEDRO FILIPE FIGUEIREDO RODRIGUES",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OMOGBOLAHAN GREGORY ARIYIBI",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS CHATZIGIOVANIS",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÖMER ERDOĞAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANASTASIOS CHATZIGIOVANIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "KEVIN MALCUIT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN AKKAN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "TAYLAN ANTALYALI",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "GIORGI BERIDZE",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "JESE RODRIGUEZ RUIZ",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BAHADIR HAN GÜNGÖRDÜ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "PEDRO FILIPE FIGUEIREDO RODRIGUES",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS CHATZIGIOVANIS",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANASTASIOS CHATZIGIOVANIS",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

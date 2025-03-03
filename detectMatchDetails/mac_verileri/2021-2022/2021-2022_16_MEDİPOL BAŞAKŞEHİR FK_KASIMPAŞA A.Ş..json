@@ -1,0 +1,320 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİPOL BAŞAKŞEHİR FK"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUHAMMED ŞENGEZER",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO CAMPOS DUARTE DA SILVA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "BERKAY ÖZCAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "NACER CHADLI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "YOUSSUF NDAYISHIMIYE",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "CHUKA STEFANO OKAKA",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU EPUREANU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DANİJEL ALEKSİC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AHMED KUTUCU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CARLOS DOS SANTOS RODRIGUES",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "METİN EMRE KARAAL",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "LUCAS PEDRO ALVES DE LIMA",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "ATABEY ÇİÇEK",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERDİNÇ SÖZER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MAHMUT TEKDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "LEONARDO CAMPOS DUARTE DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HASAN ALİ KALDIRIM",
+                    "dakika": "90+7.dk"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LUCAS PEDRO ALVES DE LIMA",
+                    "dakika": "90+7.dk"
+                },
+                {
+                    "oyuncu": "TOLGA CİĞERCİ",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAHMUT TEKDEMİR",
+                    "dakika": "90+2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JEFFREY KEVIN VAN HOMOET",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MICHAL TRAVNIK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN EYSSERIC",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "TARKAN SERBEST",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UMUT DİLAN BOZOK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "KEVIN VARGA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FLORENT HADERGJONAJ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMED MORTADHA BEN OUANES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "NICOLAI MICK KOFOED JORGENSEN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AHMET EMİN ENGİN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "TOMAS BRECKA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MEHMET FEYZİ YILDIRIM",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "DOĞUCAN HASPOLAT",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "HASAN EMRE YEŞİLYURT",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "DOĞUCAN HASPOLAT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+7.dk"
+                },
+                {
+                    "oyuncu": "MICHAL TRAVNIK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "UMUT DİLAN BOZOK",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "TARKAN SERBEST",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "KEVIN VARGA",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "JEFFREY KEVIN VAN HOMOET",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "NICOLAI MICK KOFOED JORGENSEN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "DOĞUCAN HASPOLAT",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "TOMAS BRECKA",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "dakika": "78.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

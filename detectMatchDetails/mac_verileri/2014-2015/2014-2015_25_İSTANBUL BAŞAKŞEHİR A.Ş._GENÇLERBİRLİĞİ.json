@@ -1,0 +1,303 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "25"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "İSTANBUL BAŞAKŞEHİR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU EPUREANU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TAYFUN PEKTÜRK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "JEREMY LOUIS PERBET",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE BADJI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "87"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "SEDAT AĞÇAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET BATDAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ALPARSLAN ERDEM",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR UÇAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "FERHAT ÖZTORUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "JOSE MARCIO DA COSTA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SEMİH ŞENTÜRK",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "TAYFUN PEKTÜRK",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "JEREMY LOUIS PERBET",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET BATDAL",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SEMİH ŞENTÜRK",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "dakika": "87.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALIAKSANDR HLEB",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "GUIDO KOÇER",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MOSTAPHA EL KABIR",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "GUY LUCIEN MICHEL LANDEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "BERAT TOSUN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞRI BÜLBÜL",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "7"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SEDAT BAYRAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                },
+                {
+                    "oyuncu": "AHMET YILMAZ ÇALIK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "GUY LUCIEN MICHEL LANDEL",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "GUIDO KOÇER",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BERAT TOSUN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "NEMANJA TOMIC",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DUSKO TOSIC",
+                    "dakika": "67.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SAFET NADAREVİÇ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SEZGİN COŞKUN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO DE DEUS SANTOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZBAYRAKTAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YILDIZ",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYACAN ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "VİTOR HUGO GOMES PASSOS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KARADENİZ",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT ERTUĞRUL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KRIS BOYD",
+                    "formaNo": "83"
+                }
+            ],
+            "teknikSorumlu": [
+                "MICHAEL HEINZ SKIBBE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERDAR ÖZBAYRAKTAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                },
+                {
+                    "oyuncu": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET YILDIZ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "BÜLENT ERTUĞRUL",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "dakika": "25.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM TORAMAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SIMAO PEDRO DA FONSECA SABROSA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RÜŞTÜ REÇBER",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AURELIO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SIDNEI RECHEL DA SILVA JUNIOR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ERNST",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "EDUARDO GONÇALVES DE OLIVEIRA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "TANJU KAYHAN",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "CARLOS AUGUSTO SOARES DA COSTA FARIA CARVALHAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İBRAHİM TORAMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EDUARDO GONÇALVES DE OLIVEIRA",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

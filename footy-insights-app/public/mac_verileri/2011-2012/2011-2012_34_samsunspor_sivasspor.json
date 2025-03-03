@@ -1,0 +1,308 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "34"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SAMSUNSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANDRE LUIZ BAHIA SANTOS VIANA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL FINK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EHIOSUN EKIGHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KEMAL TOKAK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "PAL LAZAR",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "UĞUR BORAL",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "DEJAN KELHAR",
+                    "formaNo": "84"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "87"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA ÖZMEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN AZĞAR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ANIL DİLAVER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AKAKI KHUBUTIA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "YENAL TUNCER",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇİFT",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ATİLLA ÖZMEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "KEMAL TOKAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "ANDRE LUIZ BAHIA SANTOS VIANA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MICHAEL FINK",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MURAT CEYLAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AKAKI KHUBUTIA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ANIL DİLAVER",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MICHAEL FINK",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ATİLLA KOCA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KAMIL PAWEL GROSICKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERMAN KILIÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL ENERAMO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MILAN CERNY",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DOUDOU JACQUES FATY",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JAKUB NAVRATIL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "KAĞAN TİMURCİN KONUK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "UĞUR KAVUK",
+                    "formaNo": "67"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MEHMET NAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CİHAN ÖZKARA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RICARDO PEDRIEL SUAREZ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "JAN RAJNOCH",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KIVANÇ KARAKAŞ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "TOMAS RADA",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR KAVUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "JAKUB NAVRATIL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "12.dk"
+                },
+                {
+                    "oyuncu": "KAMIL PAWEL GROSICKI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "MURAT AKÇA",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MILAN CERNY",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET NAS",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "JAN RAJNOCH",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "58.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MICHAEL ENERAMO",
+                    "dakika": "33.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "dakika": "80.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

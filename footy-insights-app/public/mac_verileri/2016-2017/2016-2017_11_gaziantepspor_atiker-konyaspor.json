@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "83"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EVANS KANGWA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "FRANTISEK RAJTORAL",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "DANIEL KOLAR",
+                    "formaNo": "85"
+                },
+                {
+                    "oyuncuAdi": "NABIL GHILAS",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BRUNO DA MOTA MIRANDA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUHAMED ILDIZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "FRANTISEK RAJTORAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUHAMED ILDIZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DANIEL ALEXANDER LARSSON",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "EVANS KANGWA",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BARRY JAMES DOUGLAS",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DIMITAR DIMITROV RANGELOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKERİM BARDAKCI",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MARC GHISLAIN KIBONG A MBAMBA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ALBAN MEHA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM SÖNMEZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "IOAN HORA",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VOLKAN FINDIKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DIMITAR DIMITROV RANGELOV",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "IOAN HORA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "AMIR HADZIAHMETOVIC",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MARC GHISLAIN KIBONG A MBAMBA",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "15.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "60.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AMIR HADZIAHMETOVIC",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "7"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JAN DURICA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HYUNJUN SUK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OGENYI EDDY ONAZI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MATUS BERO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DAME N'DOYE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "RAMIL SHEIDAEV",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MATUS BERO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "HYUNJUN SUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "OGENYI EDDY ONAZI",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "HYUNJUN SUK",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "DAME N'DOYE",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS FERREIRA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JOEL LANDRY TSAFACK NGUEMO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "MERVAN ÇELİK",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RICARDO JORGE VAZ TE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ABDOU LWAHID SISSOKO",
+                    "formaNo": "20"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FATİH ÖZTÜRK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "DOUGLAS FERREIRA",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDOU LWAHID SISSOKO",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "TOLGA ÜNLÜ",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

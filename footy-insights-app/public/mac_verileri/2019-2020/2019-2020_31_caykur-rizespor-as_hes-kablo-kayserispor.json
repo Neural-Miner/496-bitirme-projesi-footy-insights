@@ -1,0 +1,338 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MONTASSAR OMAR TALBI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MILAN SKODA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "YAN MEDEIROS SASSE",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "AMEDEJ VETRİH",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "DARIO MELNJAK",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "IVANILDO  JORGE MENDES FERNANDES",
+                    "formaNo": "64"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZAFER GÖRGEN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "BOĞAÇHAN KAZMAZ",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN AKKAYNAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DENYS GARMASH",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BURAK ALBAYRAK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ALBERK KOÇ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ KAĞAN GÜÇTEKİN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "TIEMOKO ISMAEL DIOMANDE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ANDRII BORIACHUK",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ÇELİK",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜNAL KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ORHAN OVACIKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO HENRIQUE BOLDRIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "AMEDEJ VETRİH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ORHAN OVACIKLI",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "DARIO MELNJAK",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "AMEDEJ VETRİH",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "YAN MEDEIROS SASSE",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ATAKAN AKKAYNAK",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DENYS GARMASH",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ALBERK KOÇ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "TIEMOKO ISMAEL DIOMANDE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ANDRII BORIACHUK",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "dakika": "11.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DENYS GARMASH",
+                    "dakika": "90+1.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "IVANILDO  JORGE MENDES FERNANDES",
+                    "dakika": "90+3.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "HES KABLO KAYSERİSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "HASAN HÜSEYİN ACAR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ARTEM KRAVETS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ZORAN KVRZIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MURIS MESANOVIC",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BRICE FLORENTIN DJA DJEDJE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "KARAHAN YASİR SUBAŞI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BERNARD MENSAH",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN-IONUT SAPUNARU",
+                    "formaNo": "84"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO CAMPANHARO",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İSMAİL ÇİPE",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EMRE DEMİR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ÖMER UZUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AKSEL AKTAŞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MERT KULA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BEN RIENSTRA",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "MARIO SITUM",
+                    "formaNo": "92"
+                }
+            ],
+            "teknikSorumlu": [
+                "ROBERT PROSINECKI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HASAN HÜSEYİN ACAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO CAMPANHARO",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HASAN HÜSEYİN ACAR",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "KARAHAN YASİR SUBAŞI",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MURIS MESANOVIC",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BEN RIENSTRA",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MARIO SITUM",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "dakika": "31.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ARTEM KRAVETS",
+                    "dakika": "86.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

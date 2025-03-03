@@ -1,0 +1,302 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "10"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JEAN MICHAEL SERI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RYAN GUNO BABEL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FLORIN ANDONE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN NEKADIO LUYINDAMA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "YUTO NAGATOMO",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "EMRE MOR",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "MARIO RENE JUNIOR LEMINA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YOUNES BELHANDA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MARIANO FERREIRA FILHO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SOFIANE FEGHOULI",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "STEVEN NKEMBOANZA MIKE CHRISTOPHER NZONZI",
+                    "formaNo": "92"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ŞENER ÖZBAYRAKLI",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "EMRE MOR",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MARIANO FERREIRA FILHO",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "JAKUP JİMMY DURMAZ",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "dakika": "18.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED ABARHOUN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MONTASSAR OMAR TALBI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH LARWEH ATTAMAH",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "TIEMOKO ISMAEL DIOMANDE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "AMEDEJ VETRİH",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "DARIO MELNJAK",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MYKOLA MOROZIUK",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN AKKAYNAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MARKO SCEPOVIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NILL DE PAUW",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ALICI",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BURAK ALBAYRAK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ KAĞAN GÜÇTEKİN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "MONTASSAR OMAR TALBI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "TIEMOKO ISMAEL DIOMANDE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN AKKAN",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "TIEMOKO ISMAEL DIOMANDE",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TARIK ÇETİN",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ ALICI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MONTASSAR OMAR TALBI",
+                    "dakika": "15.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "7"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "KEVIN CONSTANT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ESSEID BELKALEM",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İBRAHİM DEMİR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "WARIS MAJEED",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "38"
+                }
+            ],
+            "teknikSorumlu": [
+                "VAHİD HALILHODZIC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "CARL MEDJANI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "CARL MEDJANI",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "WARIS MAJEED",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ESSEID BELKALEM",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "63.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "67.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "90+4.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL JOHN CHIBUIKE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ŞEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GBENGA AROKOYO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CARLO YAIR COSTLY YAIR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BINYA AUGUSTIN GILLES",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GBENGA AROKOYO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KORAY ARSLAN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "EMRE NEFİZ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "EMMANUEL JOHN CHIBUIKE",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "KORAY ARSLAN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "BINYA AUGUSTIN GILLES",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "7.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ERDEM ŞEN",
+                    "dakika": "18.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "52.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EMMANUEL JOHN CHIBUIKE",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

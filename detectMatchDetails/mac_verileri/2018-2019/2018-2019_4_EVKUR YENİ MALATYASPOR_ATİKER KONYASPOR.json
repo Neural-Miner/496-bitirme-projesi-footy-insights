@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "EVKUR YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME COSTA MARQUES",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KHALİD BOUTAIB",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL PEREIRA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUENFUH SETH SİNCERE",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "DANİJEL ALEKSİC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ISSAM CHEBAKE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ARTURO RAFEAL MİNA MEZA",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FABİEN CEDDY FARNOLLE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EREN TOZLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ISSIAR DIA",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "AHMED ILDIZ",
+                    "formaNo": "19"
+                }
+            ],
+            "teknikSorumlu": [
+                "EROL BULUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ARTURO RAFEAL MİNA MEZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME COSTA MARQUES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MICHAEL PEREIRA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DANİJEL ALEKSİC",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ISSIAR DIA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "AHMED ILDIZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JENS JONSSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MARKO JEVTOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "VEDAT BORA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FALLOU DIAGNE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ADIS JAHOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "WİLFRİED MOKE ABRO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "YEVHEN OPANASENKO",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "MÜCAHİT CAN AKÇAY",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SELİM AY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "VEDAT BORA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "47.dk"
+                },
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "MARKO JEVTOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FERHAT ÖZTORUN",
+                    "dakika": "34.dk"
+                },
+                {
+                    "oyuncu": "VEDAT BORA",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "MARKO JEVTOVIC",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YEVHEN OPANASENKO",
+                    "dakika": "34.dk"
+                },
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "WİLFRİED MOKE ABRO",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "14.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

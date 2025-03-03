@@ -1,0 +1,317 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GÖZTEPE A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ANTONIO ALBERTO BASTOS PIMPAREL",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ANDRE DE CASTRO PEREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANDRE BIYOGO POKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "WALLACE REIS SILVA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CAMERON ZISHAN RANA JEROME",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "75"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET GÖKTÜĞ BAKIRBAŞ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EREN BİLEN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CELSO BORGES MORA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YOAN PATRICK GOUFFRAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AXEL THOMAS NGANDO ELESSA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN KAYAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "EROL HAKAN SEPİL",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "20"
+                }
+            ],
+            "teknikSorumlu": [
+                "TAMER TUNA"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ANDRE DE CASTRO PEREIRA",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YOAN PATRICK GOUFFRAN",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "CELSO BORGES MORA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ALPASLAN ÖZTÜRK",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "10.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "35.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "66.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "72.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALY CİSSOKHO",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT ERDİNÇ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "AMILTON MINERVINO DA SILVA",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "BOZA JEAN ARMEL DROLE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ERMAN HERMAN VARDAR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "HARUN ALPSOY",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SOULEYMANE DOUKARA",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "SERGEN YATAĞAN",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ONDREJ CELUSTKA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "RUUD JORGE BOFFIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "AMILTON MINERVINO DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEVLÜT ERDİNÇ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "AMILTON MINERVINO DA SILVA",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SOULEYMANE DOUKARA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "BOZA JEAN ARMEL DROLE",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEVLÜT ERDİNÇ",
+                    "dakika": "18.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

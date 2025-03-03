@@ -1,0 +1,325 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "18"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ALTAY"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MATEUSZ LIS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANDRE BIYOGO POKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "CEBRAİL KARAYEL",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "CESAR IGNACIO PINARES TAMAYO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KARAMOKO DAOUDA BAMBA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "KHALY IYANE THIAM",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "LEANDRO DEYRINIO KAPPEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MARTİN VLAMIDIR RODRİGUEZ TORREJON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MOHAMMAD NADERI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "8"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CİHAN TOPALOĞLU",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AHMED YASSER ANWAR MOHAMED MOHAMED RAYAN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "EREN ERDOĞAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "KAZIMCAN KARATAŞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MARCO FILIPE LOPES PAIXAO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÖZKAYA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "SERGE ARNAUD AKA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "THACIANO MICKAEL DA SILVA",
+                    "formaNo": "16"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA DENİZLİ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANDRE BIYOGO POKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "CESAR IGNACIO PINARES TAMAYO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MOHAMMAD NADERI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CESAR IGNACIO PINARES TAMAYO",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "MARTİN VLAMIDIR RODRİGUEZ TORREJON",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MARCO FILIPE LOPES PAIXAO",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "AHMED YASSER ANWAR MOHAMED MOHAMED RAYAN",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CEBRAİL KARAYEL",
+                    "dakika": "33.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANDERS TRONDSEN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS EVALD CORNELIUS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MAREK HAMSIK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JORGE DJANINY TAVARES SEMEDO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "EDGAR MIGUEL IE",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BRUNO DA SILVA PERES",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ARDA AKBULUT",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YUSUF SARI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "YUNUS MALLI",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR PARMAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "AHMETCAN KAPLAN",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ASAN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "JORGE DJANINY TAVARES SEMEDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                },
+                {
+                    "oyuncu": "MAREK HAMSIK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "EMMANOUIL SIOPIS",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EDGAR MIGUEL IE",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ANDERS TRONDSEN",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DORUKHAN TOKÖZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AHMETCAN KAPLAN",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "HÜSEYİN TÜRKMEN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANDREAS EVALD CORNELIUS",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ANDREAS EVALD CORNELIUS",
+                    "dakika": "88.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

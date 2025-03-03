@@ -1,0 +1,271 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JAN ANDREAS ISAKSSON",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SANCAK KAPLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KALU UCHE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TABARE URUGUAY VIUDEZ MORA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞERAS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ BAŞDAŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ERNST",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "SENİJAD İBRİCİC",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "49"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM HALİL ÇOLAK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "PABLO CESAR PINTOS CABRAL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İLHAN EKER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MATIAS LIONEL FRITZLER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ŞAHİN AYGÜNEŞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ERHAN KARTAL",
+                    "formaNo": "93"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "FABIAN ERNST",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "SENİJAD İBRİCİC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "KALU UCHE",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "TABARE URUGUAY VIUDEZ MORA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ŞAHİN AYGÜNEŞ",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "PABLO CESAR PINTOS CABRAL",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "İLHAN EKER",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TABARE URUGUAY VIUDEZ MORA",
+                    "dakika": "37.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "KALU UCHE",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH KARMİL",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "REMZİ GİRAY KAÇAR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "DEGUY ALAIN DIDIER ZOKORA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO COLMAN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MAREK SAPARA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "PAULO HENRIQUE CARNEIRO FILHO",
+                    "formaNo": "12"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SOULEYMAN BAMBA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "AYKUT AKGÜN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ALAN CARLOS GOMES DA COSTA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HALİL ALTINTOP",
+                    "formaNo": "21"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDULLAH KARMİL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MAREK SAPARA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DEGUY ALAIN DIDIER ZOKORA",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HALİL ALTINTOP",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALAN CARLOS GOMES DA COSTA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

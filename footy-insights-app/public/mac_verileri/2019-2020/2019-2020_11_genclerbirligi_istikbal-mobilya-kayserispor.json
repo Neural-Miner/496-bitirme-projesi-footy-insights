@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NADİR ÇİFTÇİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE SESSEGNON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GIOVANNI-GUY YANN SIO",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FLAVIO DA SILVA RAMOS",
+                    "formaNo": "32"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDOULAYE DIALLO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIK MATTIAS BJARSMYR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FABRICIO SANTOS DE JESUS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RAHMETULLAH BERİŞBEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MATS SEUNTJENS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ARDA KIZILDAĞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE SADIO DIALLO",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "GIOVANNI-GUY YANN SIO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL İBRAHİM PEHLİVAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "NADİR ÇİFTÇİ",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "RAHMETULLAH BERİŞBEK",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "FABRICIO SANTOS DE JESUS",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "81.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTİKBAL MOBİLYA KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SHEYI EMMANUEL ADEBAYOR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "AYMEN ABDENNOUR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HASAN HÜSEYİN ACAR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "PEDRO HENRIQUE KONZEN MEDINA DA SILVA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BRICE FLORENTIN DJA DJEDJE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "KARAHAN YASİR SUBAŞI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BERNARD MENSAH",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "66"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İSMAİL ÇİPE",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BENOIT GUY JEAN POULAIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BİLAL BAŞACIKOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EMRE DEMİR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NURETTİN KORKMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MERT KULA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BEN RIENSTRA",
+                    "formaNo": "38"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT UYGUN"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "BERNARD MENSAH",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "BRICE FLORENTIN DJA DJEDJE",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NURETTİN KORKMAZ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "EMRE DEMİR",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "BİLAL BAŞACIKOĞLU",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AYMEN ABDENNOUR",
+                    "dakika": "14.dk",
+                    "golTipi": "K"
+                },
+                {
+                    "oyuncu": "EMRE DEMİR",
+                    "dakika": "71.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

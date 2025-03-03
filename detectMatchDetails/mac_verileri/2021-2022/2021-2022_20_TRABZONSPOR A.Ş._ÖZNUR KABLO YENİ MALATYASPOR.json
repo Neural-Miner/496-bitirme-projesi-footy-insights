@@ -1,0 +1,273 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY NNADUZOR NWAKAEME",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS EVALD CORNELIUS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MAREK HAMSIK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BRUNO DA SILVA PERES",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ARDA AKBULUT",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YUSUF SARI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SALİH KAVRAZLI",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "YUNUS MALLI",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEM AKPINAR",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "AHMETCAN KAPLAN",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DORUKHAN TOKÖZ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ANDREAS EVALD CORNELIUS",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMMANOUIL SIOPIS",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "YUSUF SARI",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANDREAS EVALD CORNELIUS",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÖZNUR KABLO YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "PHILIP GAMELI AWUKU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AABID RAYANE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "STEPHEN PATRICK MALLAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MOUNIR CHOUIAR",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "JOSPIN NSHIMIRIMANA",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULSAMED DAMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AHMET EYÜP TÜRKASLAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ERIC NDIZEYE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MERT ÖRNEK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAQI OSMAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MERT MİRAÇ ALTINTAŞ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED EMİN SARIKAYA",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "MARIUS NINEL ŞUMUDICA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "JOSPIN NSHIMIRIMANA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KUBİLAY KANATSIZKUŞ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "STEPHEN PATRICK MALLAN",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HAQI OSMAN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MERT MİRAÇ ALTINTAŞ",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

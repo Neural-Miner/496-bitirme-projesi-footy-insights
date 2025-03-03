@@ -1,0 +1,305 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOSE RODRIGUEZ MARTINEZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "JASON GREGORY DENAYER",
+                    "formaNo": "64"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JEM PAUL KARACAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "CLAUDİO ANDRE TAFFAREL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "NESTOR FERNANDO MUSLERA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                },
+                {
+                    "oyuncu": "JASON GREGORY DENAYER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BURAK YILMAZ",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "JOSE RODRIGUEZ MARTINEZ",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SABRİ SARIOĞLU",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "9.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SELÇUK İNAN",
+                    "dakika": "90+1.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "SEZER BADUR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME MILHOMEM GUSMAO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER KANDEMİR",
+                    "formaNo": "65"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LAZAREVIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "LOKMAN GÖR",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "SERGES FLAVIER MBILLA ETAME",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA ATİ GÖKSU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖMER KANDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "ONDREJ CELUSTKA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "5.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "LAMİNE DIARRA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME MILHOMEM GUSMAO",
+                    "dakika": "43.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "dakika": "43.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SEZER BADUR",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "82.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "dakika": "90+2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

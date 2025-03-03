@@ -1,0 +1,270 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "33"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALI NADHOIM AHAMADA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DIEGO HIPOLITO DA SILVA LOPEZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MARKO SIMIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "VANDERLEY DIAS MARINHO",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULAZİZ DEMİRCAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BİROL PARLAK",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SİNAN BAKIŞ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BERKAN EMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "SRDAN MIJAILOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "DIEGO HIPOLITO DA SILVA LOPEZ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "VANDERLEY DIAS MARINHO",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "CEM CAN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "SİNAN BAKIŞ",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "7.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDICANA SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERNESTAS SETKUS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOHN BOYE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "JOAN OUMARI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "CESAR DAVID TEXEIRA TORRES",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ TEWFİK TAOUIL",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZTÜRK",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN TANASE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ETZAZ MUZAFAR HUSSAIN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "CRISTIAN TANASE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BEYKAN ŞİMŞEK",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CRISTIAN TANASE",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "80.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

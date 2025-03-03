@@ -1,0 +1,60 @@
+.match-details-container {
+    width: 100%;         /* Container'ın tamamını kullansın */
+    text-align: center;  /* Üst başlıkları ortalamak için */
+    color: #fff;         /* Koyu arka plan üstünde görünür renk */
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+  }
+  
+  /* Üst taraftaki başlıklar */
+  .match-title {
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+  }
+  .season-week, .score {
+    margin: 0.25rem 0;
+  }
+  
+  /* İki takımı yan yana yerleştireceğimiz kapsayıcı */
+  .teams-wrapper {
+    display: flex;
+    flex-wrap: wrap;     /* Ekran daralırsa alt satıra geçebilsin */
+    justify-content: center;
+    gap: 2rem;           /* Takımlar arası boşluk */
+    margin-top: 1rem;
+    /* Eğer yatayda da çok genişlerse, yatay scroll isterseniz: */
+    /* overflow-x: auto; */
+  }
+  
+  /* Tek tek takım blokları */
+  .team-block {
+    flex: 1 1 300px;     /* En az 300px genişlik, otomatik yerleşim */
+    max-width: 400px;    /* Çok büyümesin, isterseniz arttırın */
+    background-color: #333;
+    padding: 1rem;
+    border-radius: 8px;
+    border: 1px solid #555;
+    text-align: left;
+    margin-bottom: 1rem; /* Alt boşluk (dar ekranda alt alta gelirse) */
+  }
+  
+  .team-block h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .team-block h4 {
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+  }
+  
+  .team-block ul {
+    list-style: disc inside;
+    margin-left: 1rem;
+  }
+  
+  .team-block p {
+    margin: 0.25rem 0;
+  }
+  

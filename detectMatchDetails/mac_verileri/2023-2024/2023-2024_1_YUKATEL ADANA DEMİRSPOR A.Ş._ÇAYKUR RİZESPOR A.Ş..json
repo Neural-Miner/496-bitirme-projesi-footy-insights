@@ -1,0 +1,379 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "YUKATEL ADANA DEMİRSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SEMİH GÜLER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ANDREAW RAYAN GRAVILLON",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YUSUF SARI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YOUNES BELHANDA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JONAS SVENSSON",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "KEVIN MANUEL  RODRIGUES",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "BENJAMİN FERNAND LUCIEN  FRANCOİS STAMBOULI",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "PAPE CHERIF NDIAYE",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GORAN KARACIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL ÇOKÇALIŞ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHİM DURSUN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "TAYFUN AYDOĞAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MBAYE HAMADY NIANG",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "BABAJIDE DAVID AKINTOLA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOVAN  MANEV",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "İZZET ÇELİK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                }
+            ],
+            "teknikSorumlu": [
+                "PATRICK STEPHAN KLUIVERT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "SEMİH GÜLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+16.dk"
+                },
+                {
+                    "oyuncu": "YOUNES BELHANDA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "JONAS SVENSSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+15.dk"
+                },
+                {
+                    "oyuncu": "KEVIN MANUEL  RODRIGUES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "MBAYE HAMADY NIANG",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "YUSUF SARI",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "PAPE CHERIF NDIAYE",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "KEVIN MANUEL  RODRIGUES",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DORUKHAN TOKÖZ",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "BABAJIDE DAVID AKINTOLA",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ABDURRAHİM DURSUN",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "MBAYE HAMADY NIANG",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YOUNES BELHANDA",
+                    "dakika": "27.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "90+1.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KHUSNIDDIN  ALIKULOV",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BENHUR KESER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLASUNKANMI IBRAHIM OLAWOYIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OUMAR  DIOUF",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OSCAR FRANCISCO  GARCIA QUINTELA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ERAY KORKMAZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN TOPÇU",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MİTHAT PALA",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ALTIN ZEQIRI",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZAFER GÖRGEN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "DAL  VARESANOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOHN MARY UZUEGBUNAM HONI",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "EREN EMRE AYDIN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SEYFETTİN ANIL YAŞAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ALBERK KOÇ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA ŞAHİN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "GÜVENÇ USTA",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ENES ŞEBELEK",
+                    "formaNo": "96"
+                }
+            ],
+            "teknikSorumlu": [
+                "İLHAN PALUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALBERK KOÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMET TAHA ŞAHİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "EMİRHAN TOPÇU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+16.dk"
+                },
+                {
+                    "oyuncu": "MİTHAT PALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ALTIN ZEQIRI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "4.dk"
+                },
+                {
+                    "oyuncu": "OSCAR FRANCISCO  GARCIA QUINTELA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL İBRAHİM PEHLİVAN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ERAY KORKMAZ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "KHUSNIDDIN  ALIKULOV",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "OSCAR FRANCISCO  GARCIA QUINTELA",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "OUMAR  DIOUF",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALBERK KOÇ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMET TAHA ŞAHİN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "SEYFETTİN ANIL YAŞAR",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "JOHN MARY UZUEGBUNAM HONI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DAL  VARESANOVIC",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOHN MARY UZUEGBUNAM HONI",
+                    "dakika": "87.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "13"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "RAMS BAŞAKŞEHİR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO CAMPOS DUARTE DA SILVA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "LEO MICHEL JOSEPH CLAUDE DUBOIS",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "CEMALİ SERTEL",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "JEROME OPOKU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ ABEID",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN İLKHAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "BERKAY ÖZCAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JOAO VITOR BRANDAO FIGUEIREDO",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "KRZYSZTOF PIATEK",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "DENİZ DİLMEN",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "EDEN KARZEV",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ONUR ERGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LUCAS PEDRO ALVES DE LIMA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PHILIPPE PAULIN KENY",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS PELKAS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "OUSSEYNOU  BA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "21"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÇAĞDAŞ ATAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JEROME OPOKU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CEMALİ SERTEL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EMİRHAN İLKHAN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "LEO MICHEL JOSEPH CLAUDE DUBOIS",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ ABEID",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LUCAS PEDRO ALVES DE LIMA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DIMITRIOS PELKAS",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ONUR ERGÜN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEHDİ ABEID",
+                    "dakika": "12.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOAO VITOR BRANDAO FIGUEIREDO",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LUCAS PEDRO ALVES DE LIMA",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "KRZYSZTOF PIATEK",
+                    "dakika": "63.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERDEM CANPOLAT",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BERKAY SÜLÜNGÖZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL RIBEIRO DA CRUZ JERONIMO SEQUEIRRA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKDAĞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ARNAUD RENE LUSAMBA",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ENDRI ÇEKIÇI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAY DIABY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ERENCAN YARDIMCI",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BURAK ÖĞÜR",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ASAN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "JOHER KHADIM RASSOUL",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JOSIP VUKOVIC",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK MIDTSJO",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "OSCAR DAVID ROMERO VILLAMAYOR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GÖKCAN KAYA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ROGERIO CONCEIÇAO DO ROSARIO",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "AHMED HASSAN MOHAMED ABDEL MONEM MOHAMED MAHGOUB",
+                    "formaNo": "19"
+                }
+            ],
+            "teknikSorumlu": [
+                "IVO RICARDO ABREU VIEIRA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "WELINTON SOUZA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BERKAY SÜLÜNGÖZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İBRAHİM AKDAĞ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ERENCAN YARDIMCI",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAY DIABY",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ENDRI ÇEKIÇI",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FREDRIK MIDTSJO",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "GÖKCAN KAYA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ROGERIO CONCEIÇAO DO ROSARIO",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "JOSIP VUKOVIC",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ERENCAN YARDIMCI",
+                    "dakika": "36.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

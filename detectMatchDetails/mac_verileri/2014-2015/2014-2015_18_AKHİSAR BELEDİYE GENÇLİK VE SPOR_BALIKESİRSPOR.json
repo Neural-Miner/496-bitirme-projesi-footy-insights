@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "18"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OĞUZ DAĞLAROĞLU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ORHAN TAŞDELEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "THEOFANIS GKEKAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS FERREIRA",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "DEGUY ALAIN DIDIER ZOKORA",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "PEKİN KÖŞNEK",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "SERTAN VARDAR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRAH TUNCEL",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LAZARO LUAN SCAPOLAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "GÜNAY HALİS",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "SERKAN CANSOY",
+                    "formaNo": "92"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERCAN KAHYAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "PEKİN KÖŞNEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERTAN VARDAR",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BRUNO FERREIRA MOMBRA ROSA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MERTER YÜCE",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BİLAL KISA",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "40.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DOUGLAS FERREIRA",
+                    "dakika": "61.dk",
+                    "golTipi": "K"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BALIKESİRSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ANDRIJA VUKOVIC",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "UĞUR AKDEMİR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HASAN HATİPOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VİTOR HUGO GOMES DA SILVA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ÜNAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRULLAH ŞALK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OKAN ALKAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ABDULHAMİT YILDIZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ANDRE FILIPE BERNARDES SANTOS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ERAY ATASEVEN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÖZTÜRK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "50"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUĞDAT ÇELİK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "AYKUT ÇEVİKER",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALİ ÖZTÜRK",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ERAY ATASEVEN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANTE KULUSIC",
+                    "dakika": "90+3.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

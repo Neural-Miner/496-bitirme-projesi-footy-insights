@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİPOL BAŞAKŞEHİR FK"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MEHMET BATDAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE BADJI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ALPARSLAN ERDEM",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "EMRE BELÖZOĞLU",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "GENÇER CANSEV",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET BATDAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "ENVER CENK ŞAHİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "STEPHANE BADJI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET BATDAL",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "JOSE MARCIO DA COSTA",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ENVER CENK ŞAHİN",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YALÇIN AYHAN",
+                    "dakika": "3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS FRANCO TEIXEIRA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KEVIN CONSTANT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE MBIA ETOUNDI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LUIS PEDRO CAVANDA",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DAME N'DOYE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LUIS PEDRO CAVANDA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "DOUGLAS FRANCO TEIXEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "7.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "STEPHANE MBIA ETOUNDI",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DAME N'DOYE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "CARL MEDJANI",
+                    "dakika": "53.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

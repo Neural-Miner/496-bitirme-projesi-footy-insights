@@ -1,0 +1,354 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DRIES MERTENS",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DAZET WILFRIED ARMEL ZAHA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MATEUS CARDOSO LEMOS MARTINS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM DERVİŞOĞLU",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "VICTOR ENOK NELLSON",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LUCAS SEBASTIAN TORREIRA DI PASCUA",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKERİM BARDAKCI",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ALPER YILMAZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "TANGUY NDOMBELE ALVARO",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "SACHA BOEY",
+                    "formaNo": "93"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EYÜP AYDIN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KEREM DEMİRBAY",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BERKAN İSMAİL KUTLU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "KAAN AYHAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "GÖKDENİZ GÜRPÜZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "BARAN DEMİROĞLU",
+                    "formaNo": "56"
+                },
+                {
+                    "oyuncuAdi": "ALİ YEŞİLYURT",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "HAMZA YİĞİT AKMAN",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "KAZIMCAN KARATAŞ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DRIES MERTENS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL İBRAHİM DERVİŞOĞLU",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "DRIES MERTENS",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "LUCAS SEBASTIAN TORREIRA DI PASCUA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "MATEUS CARDOSO LEMOS MARTINS",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "TANGUY NDOMBELE ALVARO",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KAAN AYHAN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "EYÜP AYDIN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "KEREM DEMİRBAY",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "BARAN DEMİROĞLU",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "BERKAN İSMAİL KUTLU",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VICTOR ENOK NELLSON",
+                    "dakika": "26.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DRIES MERTENS",
+                    "dakika": "86.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MONDİHOME KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BİLAL BAYAZIT",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH LARWEH ATTAMAH",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALI KARIMI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SAZDAĞI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE CEDRIC BAHOKEN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ERAY ÖZBEK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN CİVELEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ARİF KOCAMAN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "AYLTON FILIPE BOA MORTE",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "YAW ACKAH",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ONURCAN PİRİ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS KOLOVETSIOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BERAT ESKİN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "KARTAL KAYRA YILMAZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AHMET KAĞAN MALATYALI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT EMRE ÇELTİK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HAYRULLAH ERKİP",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LIONEL JULES CAROLE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BARAN ALİ GEZEK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TALHA SARIARSLAN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "RECEP UÇAR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RAMAZAN CİVELEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                },
+                {
+                    "oyuncu": "GÖKHAN SAZDAĞI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "HASAN ALİ KALDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ARİF KOCAMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "MEHMET ERAY ÖZBEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+4.dk"
+                },
+                {
+                    "oyuncu": "ALI KARIMI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RAMAZAN CİVELEK",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MEHMET ERAY ÖZBEK",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "YAW ACKAH",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ALI KARIMI",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "AYLTON FILIPE BOA MORTE",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HAYRULLAH ERKİP",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "TALHA SARIARSLAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "YİĞİT EMRE ÇELTİK",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "BARAN ALİ GEZEK",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "LIONEL JULES CAROLE",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AYLTON FILIPE BOA MORTE",
+                    "dakika": "57.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

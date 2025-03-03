@@ -1,0 +1,314 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "26"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ EMRE YANAR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CLAUDIO WINCK NETO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÜL",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FALL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL DA COSTA JOIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JACKSON GABRIEL POROZO VERNAZA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZCAN",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MELİH AKYÜZ",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "EROL KARAMAN",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "TRAZIE THOMAS ZAI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DIOGO FILIPE COSTA ROCHA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YUNUS EMRE GEDİK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SARP YAVRUCU",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SELİM DİLLİ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN UTKU AYDIN",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NUNO MIGUEL DA COSTA JOIA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "JACKSON GABRIEL POROZO VERNAZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "YASİN ÖZCAN",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN GÜL",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DIOGO FILIPE COSTA ROCHA",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "YUNUS EMRE GEDİK",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "LORET SADIKU",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "NUNO MIGUEL DA COSTA JOIA",
+                    "dakika": "11.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "VAVACARS FATİH KARAGÜMRÜK"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SALVATORE SIRIGU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE BIRASCHI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN EYSSERIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN YALÇIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EMRE MOR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MÜNİR LEVENT MERCAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RYAN ISAAC MENDES",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS  KOURMPELIS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRE BİLGİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MARCUS CHRISTER ROHDEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CAN KELEŞ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SOFIANE FEGHOULI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KEVIN  LASAGNA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EMİR TİNTİŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FEDERICO CECCHERINI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MARCOS VINICIUS DO AMARAL ALVES",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "FLAVIO PAOLETTI",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "TONIO TEKLIC",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE MOR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "RYAN ISAAC MENDES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "EMRE MOR",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "RYAN ISAAC MENDES",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "DIMITRIOS  KOURMPELIS",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KEVIN  LASAGNA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "CAN KELEŞ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SOFIANE FEGHOULI",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "MARCUS CHRISTER ROHDEN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MARCOS VINICIUS DO AMARAL ALVES",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VALENTIN EYSSERIC",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

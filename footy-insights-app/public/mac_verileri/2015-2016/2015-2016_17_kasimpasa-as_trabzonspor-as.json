@@ -1,0 +1,285 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OLIVIER VEIGNEAU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "ANDRE DE CASTRO PEREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EZEQUIEL OSCAR SCARIONE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EREN DERDİYOK",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "JAN ANDREAS ISAKSSON",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ERHAN KARTAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞERAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "AYDIN YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SANHARIB BÜYÜKSAL",
+                    "formaNo": "16"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "7.dk"
+                },
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "OLIVIER VEIGNEAU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "24.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "EZEQUIEL OSCAR SCARIONE",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "AYDIN YILMAZ",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EREN DERDİYOK",
+                    "dakika": "17.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE MBIA ETOUNDI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "LUIS PEDRO CAVANDA",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET BEŞİR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DENİZ YILMAZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MARKO MARIN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALPER ULUDAĞ",
+                    "formaNo": "64"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "SADETTİN TEKELİOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA YUMLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MARKO MARIN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "DENİZ YILMAZ",
+                    "dakika": "56.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUSTAFA YUMLU",
+                    "dakika": "20.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

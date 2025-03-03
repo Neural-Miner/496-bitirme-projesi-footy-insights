@@ -1,0 +1,340 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "DOMINIK LIVAKOVIC",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO NASCIMENTO FRANCA",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "BRIGHT OSAYI SAMUEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MİHA ZAJC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "FERDİ ERENAY KADIOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SEBASTIAN SZYMANSKI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "FREDERICO RODRIGUES DE PAULA SANTOS",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ ÜNDER",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DUSAN TADIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EDIN DZEKO",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SAMET AKAYDİN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDER KWABENA BAIDOOH DJIKU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MERT MÜLDÜR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL CRESPO DA SILVA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EFEKAN KARAYAZI",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RYAN KENT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOSHUA CHRISTIAN KOJO KING",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MICHY BATSHUAYI ATUNGA",
+                    "formaNo": "23"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BRIGHT OSAYI SAMUEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL CRESPO DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO NASCIMENTO FRANCA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CENGİZ ÜNDER",
+                    "dakika": "5.dk"
+                },
+                {
+                    "oyuncu": "MİHA ZAJC",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "SEBASTIAN SZYMANSKI",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DUSAN TADIC",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "5.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL CRESPO DA SILVA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "RYAN KENT",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDER KWABENA BAIDOOH DJIKU",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EDIN DZEKO",
+                    "dakika": "45+1.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "56.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "SEBASTIAN SZYMANSKI",
+                    "dakika": "80.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BITEXEN ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HELTON BRANT ALEIXO LEITE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERDAL RAKIP",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DARIO  SARIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADAM  BUKSA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SAM ANDREAS LARSSON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÖMER TOPRAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDER GERARD  VAN DE STREEK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET ATABERK DADAKDENİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ERKAN EYİBİL",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "RAMZI  SAFURI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MERT YILMAZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SAGIV SHALOM JEHEZKEL",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ERDİLMAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "EMRE UZUN",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "BRITT CURTIS ASSOMBALONGA",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "JOAO CARLOS VALADO TRALHAO"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖMER TOPRAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "ADAM  BUKSA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "SAGIV SHALOM JEHEZKEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BÜNYAMİN BALCI",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "ERDAL RAKIP",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BRITT CURTIS ASSOMBALONGA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "SAGIV SHALOM JEHEZKEL",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "RAMZI  SAFURI",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADAM  BUKSA",
+                    "dakika": "31.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ADAM  BUKSA",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

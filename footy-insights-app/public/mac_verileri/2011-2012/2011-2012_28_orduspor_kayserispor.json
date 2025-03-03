@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "28"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JUAN EMMANUEL CULİO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL ANGELO MOITA GARCIA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GOSSO JEAN JACQUES GOSSO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO JAVIER PERAL PERIANE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ONUR BİLGİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "WILFRIED DALMAT",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FATİH TEKKE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "İRFAN BAŞARAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "86"
+                }
+            ],
+            "teknikSorumlu": [
+                "HECTOR RAUL CUPER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDURRAHMAN DERELİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "GOSSO JEAN JACQUES GOSSO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO JAVIER PERAL PERIANE",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE ÖZKAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "BRUNO FERREIRA MOMBRA ROSA",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "WILFRIED DALMAT",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YALÇIN AYHAN",
+                    "dakika": "47.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NICOLAS GASTON NAVARRO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "İLHAN EKER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JAMES TROİSİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "NOUREDDINE AMRABAT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MIGUEL RIVEROS NUNEZ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "EMIR KUJOVIC",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "BERKAY TOLGA DABANLI",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "PETER PEKARIK",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BABACAR MBAYE DIOP",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "UMUT SÖZEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "NURETTİN KAYAOĞLU",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "26"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HASAN ALİ KALDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "NOUREDDINE AMRABAT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "BABACAR MBAYE DIOP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NOUREDDINE AMRABAT",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "PETER PEKARIK",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BABACAR MBAYE DIOP",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "KAMİL AHMET ÇÖREKÇİ",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

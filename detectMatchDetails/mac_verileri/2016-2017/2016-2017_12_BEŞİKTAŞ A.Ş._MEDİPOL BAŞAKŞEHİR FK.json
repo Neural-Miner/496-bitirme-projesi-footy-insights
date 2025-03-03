@@ -1,0 +1,273 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FABRICIO MARTIN AGOSTO RAMIREZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ADRIANO CORREIA CLARO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ATINÇ NUKAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MARCELO ANTONIO GUEDES FILHO",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BECK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN İNLER",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "VINCENT ABOUBAKAR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "TOLGAY ALİ ARSLAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "17"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANDREAS BECK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ADRIANO CORREIA CLARO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN İNLER",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ADRIANO CORREIA CLARO",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "VINCENT ABOUBAKAR",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TOLGAY ALİ ARSLAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN GÖNÜL",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARCELO ANTONIO GUEDES FILHO",
+                    "dakika": "50.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİPOL BAŞAKŞEHİR FK"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EMRE BELÖZOĞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU EPUREANU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MEHMET BATDAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ ÜNDER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH LARWEH ATTAMAH",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "STEFANO NAPOLEONI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "19"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CENGİZ ÜNDER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "18.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "MEHMET BATDAL",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "FERHAT ÖZTORUN",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JOSEPH LARWEH ATTAMAH",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "EREN ALBAYRAK",
+                    "dakika": "57.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CENGİZ ÜNDER",
+                    "dakika": "21.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

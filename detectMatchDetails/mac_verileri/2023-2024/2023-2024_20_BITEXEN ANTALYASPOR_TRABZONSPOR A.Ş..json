@@ -1,0 +1,290 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BITEXEN ANTALYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HELTON BRANT ALEIXO LEITE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DARIO  SARIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADAM  BUKSA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SAM ANDREAS LARSSON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RAMZI  SAFURI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JAKUB  KALUZINSKI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SAGIV SHALOM JEHEZKEL",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET ATABERK DADAKDENİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖMER TOPRAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDER GERARD  VAN DE STREEK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EGE BİLSEL",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ZYMER BYTYQI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "EMRE UZUN",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "BRITT CURTIS ASSOMBALONGA",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALİ RIZA SERGEN YALÇIN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SAM ANDREAS LARSSON",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "RAMZI  SAFURI",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SAGIV SHALOM JEHEZKEL",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "UFUK AKYOL",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ZYMER BYTYQI",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAGIV SHALOM JEHEZKEL",
+                    "dakika": "68.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RAYYAN BANİYA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "BATISTA ADELINO MENDY",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ENIS BARDHI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TAXIARCHIS FOUNTAS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MEHMET CAN AYDIN",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ENİS DESTAN",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "FILIP BENKOVIC",
+                    "formaNo": "32"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA TEPE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "JOAQUIN FERNANDEZ  MORENO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ONURALP ÇEVİKKAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OGNJEN BAKIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ARİF BOŞLUK",
+                    "formaNo": "73"
+                },
+                {
+                    "oyuncuAdi": "ENGİN POYRAZ EFE YILDIRIM",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "ENİS DESTAN",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "MEHMET CAN AYDIN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "TAXIARCHIS FOUNTAS",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ARİF BOŞLUK",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "ENGİN POYRAZ EFE YILDIRIM",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "HÜSEYİN TÜRKMEN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "UMUT GÜNEŞ",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TAXIARCHIS FOUNTAS",
+                    "dakika": "2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

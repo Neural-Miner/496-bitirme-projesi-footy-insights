@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOSE RODRIGUEZ MARTINEZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LIONEL JULES CAROLE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JASON GREGORY DENAYER",
+                    "formaNo": "64"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "JEM PAUL KARACAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SEMİH KAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "19.dk"
+                },
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "JOSE RODRIGUEZ MARTINEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JEM PAUL KARACAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "dakika": "11.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "56.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SEYFETTİN SEDEF",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "OGNJEN VRANJES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ŞEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL JOHN CHIBUIKE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JUCIMAR LIMA PACHECO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ALPEREN UYSAL",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN TÜRK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "GBENGA AROKOYO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "FERHAT AYAZ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA DURAK",
+                    "formaNo": "21"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUTLU TOPÇU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMMANUEL JOHN CHIBUIKE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "DANIEL ALEXANDER LARSSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "DANIEL ALEXANDER LARSSON",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "JUCIMAR LIMA PACHECO",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA DURAK",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "FERHAT AYAZ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "9.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

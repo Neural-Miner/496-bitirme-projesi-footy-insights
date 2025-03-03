@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DEGUY ALAIN DIDIER ZOKORA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SOULEYMAN BAMBA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PAULO HENRIQUE CARNEIRO FILHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "FLORENT JOHAN MALOUDA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "AYKUT AKGÜN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZEKİ AYVAZ",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ADRIAN MIERZEJEWSKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR ÖZDEMİR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA REŞİT AKÇAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OLCAN ADIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "AYKUT DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "DEGUY ALAIN DIDIER ZOKORA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "18.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AYKUT AKGÜN",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "EMRE GÜRAL",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "PAULO HENRIQUE CARNEIRO FILHO",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE GÜRAL",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "KADİR KELEŞ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ADRIAN MIERZEJEWSKI",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FLORENT JOHAN MALOUDA",
+                    "dakika": "44.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "EMRE GÜRAL",
+                    "dakika": "81.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM DAĞAŞAN",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ARSLAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "PETR JANDA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRE TORUN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "NIKOLA ZIZIC",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AHMET ÖZDEN",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "FEHMİ EMRE GÜNGÖR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA NİZAM",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM DAĞAŞAN",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ÖMER ARSLAN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "EMRE TORUN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "UĞUR İNCEMAN",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "31.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "23"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SCOTT PAUL CARSON",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "MILAN STEPANOV",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ALFRED JOHN MOMAR NDIAYE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "OZAN İPEK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "STANISLAV SESTAK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "PABLO MARTIN BATALLA",
+                    "formaNo": "10"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ ÖZKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ERDOĞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SAK",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "TURGAY BAHADIR",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "IBRAHIM TETEH BANGURA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "KARL GUSTAV JOHAN SWENSON",
+                    "formaNo": "13"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERTUĞRUL SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "PABLO MARTIN BATALLA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SCOTT PAUL CARSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM KOÇAK",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "MILAN STEPANOV",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ÖMER ERDOĞAN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "TURGAY BAHADIR",
+                    "dakika": "58.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PABLO MARTIN BATALLA",
+                    "dakika": "50.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOHAN ERİK CALVİN ELMANDER",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FELIPE MELO DE CARVALHO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALBERT RIERA ORTEGA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOMAS UJFALUSİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞLAR BİRİNCİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ZAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İSMAİL GÖKOĞLAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BAYTAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "KAZIM KAZIM",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FELIPE MELO DE CARVALHO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "FELIPE MELO DE CARVALHO",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ALBERT RIERA ORTEGA",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KAZIM KAZIM",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ENGİN BAYTAR",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "YİĞİT İSMAİL GÖKOĞLAN",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

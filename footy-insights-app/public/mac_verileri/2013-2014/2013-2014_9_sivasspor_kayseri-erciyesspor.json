@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "9"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "CICERO JOAO DE CESARE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "JAKUB NAVRATIL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RAFIK ZOHEIR DJEBBOUR",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "82"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR ÖZGEN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EREN AYDIN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ TEWFİK TAOUIL",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "CHUKWUDI JOHN UTAKA",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "CESAR DOMİNGO MENDİONDO LOPEZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RAFIK ZOHEIR DJEBBOUR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "KADİR BEKMEZCİ",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "RAFIK ZOHEIR DJEBBOUR",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CHUKWUDI JOHN UTAKA",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "20.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "75.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİ ERCİYESSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BOJAN JORGACEVIC",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ABDOU KADER MANGANE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "BJÖRN VLEMINCKX",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SENİJAD İBRİCİC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "RANDALL AZOFEIFA CORRALES",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KALOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZTÜRK",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "ERHAN GÜVEN",
+                    "formaNo": "44"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA KOCA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "FAZLI KOCABAŞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ATAK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKIN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "GEORGES CONSTANT MANDJECK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN OKUMAK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "34"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CEM CAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MURAT AKIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "RANDALL AZOFEIFA CORRALES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "BJÖRN VLEMINCKX",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "BOJAN JORGACEVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SİNAN KALOĞLU",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "ERHAN GÜVEN",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ABDOU KADER MANGANE",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MURAT AKIN",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "GEORGES CONSTANT MANDJECK",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "FAZLI KOCABAŞ",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

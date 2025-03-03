@@ -1,0 +1,294 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "36"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUNIR MOHAND MOHAMEDI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JEAN CLAUDE BILLONG",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PABLO RENAN DOS SANTOS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDROS KATRANIS",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AABID RAYANE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "BABAJIDE DAVID AKINTOLA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ADAMA TRAORE",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AARON SALEM BOUPENDZA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MAME BIRAM DIOUF",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AKIN ALKAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "EKREM KILIÇARSLAN",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "SONER ÖRNEK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MESUT ÇAYTEMEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH AKOMADI",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "BURAK CAN ÇAMOĞLU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED MERT",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN CANLI",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MOHAMMED KESSELLY KAMARA",
+                    "formaNo": "30"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MAME BIRAM DIOUF",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AABID RAYANE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "AARON SALEM BOUPENDZA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ADAMA TRAORE",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ISAAC SACKEY",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MOHAMMED KESSELLY KAMARA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMED MERT",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AARON SALEM BOUPENDZA",
+                    "dakika": "19.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAME BIRAM DIOUF",
+                    "dakika": "55.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "AARON SALEM BOUPENDZA",
+                    "dakika": "67.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FRAPORT-TAV ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EDINALDO GOMES PEREIRA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AMILTON MINERVINO DA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MERT YILMAZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ALİ EREN İYİCAN",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "DOĞUKAN ÖZKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DEVER AKEEM ORGILL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BOZA JEAN ARMEL DROLE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT HAN EKELİK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OMAR İMERİ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ KOÇ",
+                    "formaNo": "96"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "54.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UFUK AKYOL",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "DEVER AKEEM ORGILL",
+                    "dakika": "54.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AMILTON MINERVINO DA SILVA",
+                    "dakika": "46.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "86.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

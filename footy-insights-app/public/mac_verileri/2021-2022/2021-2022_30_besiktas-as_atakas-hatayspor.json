@@ -1,0 +1,315 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMRE BİLGİN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN ANDRE HENRI ROSIER",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN YILMAZ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MICHY BATSHUAYI ATUNGA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CAN BOZDOĞAN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "CYLE CHRISTOPHER LARIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RACHID GHEZZAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DOMAGOJ VIDA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN YALÇIN",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKTUĞ BAYTEKİN",
+                    "formaNo": "74"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO JAVIER MONTERO RUBIO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GEORGES KEVIN NKOUDOU MBIDA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "KEREM KALAFAT",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "SERDAR SAATÇI",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN İLKHAN",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ UMUT MERAŞ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ALEX TEIXEIRA SANTOS",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÖNDER KARAVELİ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CAN BOZDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "CYLE CHRISTOPHER LARIN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "CAN BOZDOĞAN",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERDAR SAATÇI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALEX TEIXEIRA SANTOS",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ATIBA HUTCHINSON",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "GEORGES KEVIN NKOUDOU MBIDA",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MICHY BATSHUAYI ATUNGA",
+                    "dakika": "16.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUNIR MOHAND MOHAMEDI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ONUR ERGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ BOUDJEMAA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SABA LOBJANIDZE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL AYOMIDE ADEKUGBE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AYOUB EL KAABİ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BURAK ÖKSÜZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MAME BIRAM DIOUF",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULLAH YİĞİTER",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "SIMON AUGUSTIN FALETTE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD ABDELMONEM ABDELHAMID  SOLIMAN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SELİMCAN TEMEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "FATİH KURUCUK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRE KAPLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "YASSINE BENZIA",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "EREN FANSA",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "DYLAN CYPRİEN SAINT LOUIS",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "BERTUĞ ÖZGÜR YILDIRIM",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÖMER ERDOĞAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ONUR ERGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL AYOMIDE ADEKUGBE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "AYOUB EL KAABİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SABA LOBJANIDZE",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "AYOUB EL KAABİ",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DYLAN CYPRİEN SAINT LOUIS",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "SELİMCAN TEMEL",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "BERTUĞ ÖZGÜR YILDIRIM",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SABA LOBJANIDZE",
+                    "dakika": "41.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

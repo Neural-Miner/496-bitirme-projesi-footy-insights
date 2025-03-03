@@ -1,0 +1,354 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "14"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KERİM ALICI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FAOUZİ GHOULAM",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ DEMİR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "GUY MARCELIN KILAMA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CHANDREL GERAUD MASSANGA MATONDO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ÖMER FARUK BEYAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLUWAFİSAYO FARUQ DELE-BASHİRU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RIGOBERTO MANUEL RIVAS VINDEL",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "DİDİER LAMKEL ZE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SERGIO CARLOS STRANDBERG",
+                    "formaNo": "10"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VİSAR BEKAJ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "GİORGİ ABURJANİA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "NIKOLA MAKSIMOVIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BURAK BEKAROĞLU",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "RECEP BURAK YILMAZ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GÖRKEM  SAĞLAM",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ARMİN HODZİC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ENGİN CAN AKSOY",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "AABID RAYANE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JOELSON AUGUSTO MENDES MANGO FERNANDES",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CENGİZ DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "CHANDREL GERAUD MASSANGA MATONDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖMER FARUK BEYAZ",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "SERGIO CARLOS STRANDBERG",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "CHANDREL GERAUD MASSANGA MATONDO",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "FAOUZİ GHOULAM",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "RIGOBERTO MANUEL RIVAS VINDEL",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GİORGİ ABURJANİA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "JOELSON AUGUSTO MENDES MANGO FERNANDES",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "BURAK BEKAROĞLU",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "GÖRKEM  SAĞLAM",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "ARMİN HODZİC",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERGIO CARLOS STRANDBERG",
+                    "dakika": "19.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "KERİM ALICI",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GUY MARCELIN KILAMA",
+                    "dakika": "71.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BITEXEN ANTALYASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HELTON BRANT ALEIXO LEITE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERDAL RAKIP",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DARIO  SARIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADAM  BUKSA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SAM ANDREAS LARSSON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDER GERARD  VAN DE STREEK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAGIV SHALOM JEHEZKEL",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "EDINALDO GOMES PEREIRA",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET ATABERK DADAKDENİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RAMZI  SAFURI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "JAKUB  KALUZINSKI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ERDİLMAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "GERRIT STEPHAN HOLTMANN",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "EGE BİLSEL",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "HARUN TOPRAK",
+                    "formaNo": "72"
+                },
+                {
+                    "oyuncuAdi": "ZYMER BYTYQI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "BRITT CURTIS ASSOMBALONGA",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "JOAO CARLOS VALADO TRALHAO"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "RAMZI  SAFURI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+13.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BÜNYAMİN BALCI",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "EDINALDO GOMES PEREIRA",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "ERDAL RAKIP",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDER GERARD  VAN DE STREEK",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "DARIO  SARIC",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UFUK AKYOL",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ZYMER BYTYQI",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "BRITT CURTIS ASSOMBALONGA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "JAKUB  KALUZINSKI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RAMZI  SAFURI",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "35.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ADAM  BUKSA",
+                    "dakika": "57.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ADAM  BUKSA",
+                    "dakika": "88.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

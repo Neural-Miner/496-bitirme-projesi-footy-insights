@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "7"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "TIAGO JORGE OLIVEIRA LOPES",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RYAN ISAAC MENDES",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE BADJI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "OLEKSANDR KUCHER",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "JEAN ARMEL KANA BIYIK",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "ATİLA TURAN",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GONZALO ALEJANDRO ESPINOZA TOLEDO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DEJAN MELEG",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "NIKOLA STOJILJKOVIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN-IONUT SAPUNARU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ERDAL ÖZTÜRK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "BIA MUJANGI",
+                    "formaNo": "63"
+                }
+            ],
+            "teknikSorumlu": [
+                "MARIUS NINEL ŞUMUDICA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RYAN ISAAC MENDES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CRISTIAN-IONUT SAPUNARU",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO HENRIQUE BOLDRIN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "BIA MUJANGI",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "15.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JEAN ARMEL KANA BIYIK",
+                    "dakika": "73.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "RYAN ISAAC MENDES",
+                    "dakika": "87.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "WİLLİAM PAUL EKONG",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AZİZ ERALTAY",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "NDUBISI MIKEL AGU",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL AGYEMAN BADU",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "DENİZ YILMAZ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DELARGE DZON",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "JIRES KEMBO EKOKO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "28"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ŞENGEZER",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "PASCHAL ONYEDIKA OKOLI",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SİNAN BAKIŞ",
+                    "formaNo": "12"
+                }
+            ],
+            "teknikSorumlu": [
+                "PAUL JOSEPH MARİE LE GUEN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AZİZ ERALTAY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "CHRISTIAN CHAGAS TAROUCO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BARIŞ YARDIMCI",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DELARGE DZON",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "JIRES KEMBO EKOKO",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "WİLLİAM PAUL EKONG",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

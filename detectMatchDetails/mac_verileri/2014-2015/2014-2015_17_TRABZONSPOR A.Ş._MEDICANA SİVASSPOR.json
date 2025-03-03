@@ -1,0 +1,284 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "FATİH ATİK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İBRAHİM DEMİR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "MERTCAN ÇAM",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ACAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "FERHAT YAZGAN",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SALİH DURSUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA NİZAM",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "FATİH ATİK",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "FERHAT YAZGAN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "MERTCAN ÇAM",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "20.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDICANA SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "CICERO JOAO DE CESARE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MANUEL MROUAN DA COSTA TRINDADE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KARADENİZ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ TEWFİK TAOUIL",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM TORAMAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL ENERAMO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUSA SİNAN YILMAZER",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKIN",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "ORHAN KAYNAK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MICHAEL ENERAMO",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "MUSA SİNAN YILMAZER",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM AKIN",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "dakika": "45.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NABIL DIRAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GIULIANO VICTOR DE PAULA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ROMAN NEUSTAEDTER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MARTIN SKRTEL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "ROBERTO SOLDADO RILLO",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "IDRIS CARLOS KAMENİ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LUIS CARLOS NOVO NETO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "VINCENT PETRUS ANNA SEBASTIAAN JANSSEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MATHİEU VALBUENA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ KAĞAN GÜÇTEKİN",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "NABIL DIRAR",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ROBERTO SOLDADO RILLO",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "MATHİEU VALBUENA",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "VINCENT PETRUS ANNA SEBASTIAAN JANSSEN",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "14.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ROBERTO SOLDADO RILLO",
+                    "dakika": "20.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GIULIANO VICTOR DE PAULA",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MATHİEU VALBUENA",
+                    "dakika": "90.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DANON ISSOUF JOHANNES DJOUROU GBADJERE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MAICON MARQUES BITENCOURT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SOULEYMANE DOUKARA",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HARUN ALPSOY",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MILAN JEVTOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "DANON ISSOUF JOHANNES DJOUROU GBADJERE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "23.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YEKTA KURTULUŞ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "SAKIB AYTAÇ",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MILAN JEVTOVIC",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "EMRE GÜRAL",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "HARUN ALPSOY",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SOULEYMANE DOUKARA",
+                    "dakika": "36.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JAN ANDREAS ISAKSSON",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "49"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SANCAK KAPLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞERAS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ANDRE DE CASTRO PEREIRA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "RYAN GUNO BABEL",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TABARE URUGUAY VIUDEZ MORA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EZEQUIEL OSCAR SCARIONE",
+                    "formaNo": "11"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERHAN KARTAL",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM HALİL ÇOLAK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "SANHARIB BÜYÜKSAL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MERT KULA",
+                    "formaNo": "34"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SANCAK KAPLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "TABARE URUGUAY VIUDEZ MORA",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ALPASLAN ÖZTÜRK",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "SANHARIB BÜYÜKSAL",
+                    "dakika": "64.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EZEQUIEL OSCAR SCARIONE",
+                    "dakika": "74.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH BOUM II",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SEDDAR KARAMAN",
+                    "formaNo": "64"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKÇEK VEDERSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MUSA NİZAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "KORAY ARSLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UĞUR İNCEMAN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "SERKAN BALCI",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MURAT DURUER",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "KÖKSAL YEDEK",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

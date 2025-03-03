@@ -1,0 +1,305 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ADANASPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GORAN KARACIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO LONGO FREITAS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RENAN SOUZA DINIZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK ALTINDAĞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "VLAGYIMIR KOMAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CEM ÖZDEMİR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "EDGAR BRUNO DA SILVA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "EMRE UĞUR URUÇ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SAMİCAN KESKİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CANBERK DİLAVER",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AHMET BAHÇIVAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RENAN RODRIGUES DA SILVA",
+                    "formaNo": "32"
+                }
+            ],
+            "teknikSorumlu": [
+                "KRUNOSLAV JURCIC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OUSMANE VIERA DIARRASSOUBA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "23.dk"
+                },
+                {
+                    "oyuncu": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "OUSMANE VIERA DIARRASSOUBA",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RENAN RODRIGUES DA SILVA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "CANBERK DİLAVER",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "EDGAR BRUNO DA SILVA",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TEVFİK ALTINDAĞ",
+                    "dakika": "26.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "dakika": "45.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "dakika": "65.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DENİZ VURAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE BA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "WILDE DONALD GUERRIER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "VAGNER SILVA DE SOUZA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZDENEK ZLAMAL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "CARLOS GARCIA BADIAS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "GÖKAY IRAVUL",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ERHAN KARTAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "32"
+                }
+            ],
+            "teknikSorumlu": [
+                "HÜSEYİN KALPAR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TAHA YALÇINER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAYE BA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "KENNETH JOSIAH OMERUO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "WILDE DONALD GUERRIER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                },
+                {
+                    "oyuncu": "MAYELE FABRİCE NSAKALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TAHA YALÇINER",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "DENİZ VURAL",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GÖKAY IRAVUL",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ABDOULAYE BA",
+                    "dakika": "30.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "WILDE DONALD GUERRIER",
+                    "dakika": "54.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

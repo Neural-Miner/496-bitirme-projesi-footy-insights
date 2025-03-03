@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "13"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "TOMAS NECID",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "HAJIME HOSOGAI",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BALAZS DZSUDZSAK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "LUIS JAN PIERS ADVINCULA CASTRILLON",
+                    "formaNo": "82"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JUAN ISAAC CUENCA LOPEZ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "TOM DENISE H. DE SUTTER",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AZİZ ERALTAY",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERTUĞRUL SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "TOMAS NECID",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "HAJIME HOSOGAI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MIROSLAV STOCH",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "HAJIME HOSOGAI",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JUAN ISAAC CUENCA LOPEZ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "TOM DENISE H. DE SUTTER",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "dakika": "55.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "dakika": "28.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "KAYACAN ERDOĞAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "VANDERLEY DIAS MARINHO",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULAZİZ DEMİRCAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DIEGO HIPOLITO DA SILVA LOPEZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SİNAN BAKIŞ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MARKO SIMIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AYEGBENI YAKUBU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "LARRYS DESTIN MABIALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SRDAN MIJAILOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "12.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "VANDERLEY DIAS MARINHO",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MARKO SIMIC",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "AYEGBENI YAKUBU",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VANDERLEY DIAS MARINHO",
+                    "dakika": "19.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ZEKİ YAVRU",
+                    "dakika": "50.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

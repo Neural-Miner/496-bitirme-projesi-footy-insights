@@ -1,0 +1,297 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "19"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TORKU KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DIMITAR DIMITROV RANGELOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ALBAN MEHA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JAGOS VUKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MARC GHISLAIN KIBONG A MBAMBA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ALİBAZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKERİM BARDAKCI",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM SÖNMEZ",
+                    "formaNo": "61"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ TURAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "DIMITAR DIMITROV RANGELOV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "NEJC SKUBIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "DIMITAR DIMITROV RANGELOV",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ALBAN MEHA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "HALİL İBRAHİM SÖNMEZ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MARC GHISLAIN KIBONG A MBAMBA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JAGOS VUKOVIC",
+                    "dakika": "90.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ABDULAZİZ DEMİRCAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DIEGO HIPOLITO DA SILVA LOPEZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "VANDERLEY DIAS MARINHO",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYACAN ERDOĞAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SİNAN BAKIŞ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MARKO SIMIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MERT ÖZYILDIRIM",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "35"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZEKİ YAVRU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA AKBAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "LARRYS DESTIN MABIALA",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SAMBA SOW",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "DIEGO HIPOLITO DA SILVA LOPEZ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "VANDERLEY DIAS MARINHO",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "SRDAN MIJAILOVIC",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "SİNAN BAKIŞ",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

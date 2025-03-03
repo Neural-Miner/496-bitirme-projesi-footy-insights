@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "33"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "GOSSO JEAN JACQUES GOSSO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OKTAY DELİBALTA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "FATİH SERKAN KURTULUŞ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "YUSUF EMRE GÜLTEKİN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "ARTSIOM RADZKOU",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DENİZ NAKİ",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "JOHAN HELGE DAHLIN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "MERVAN ÇELİK",
+                    "formaNo": "11"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET YILMAZ ÇALIK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "ANTE KULUSIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "GOSSO JEAN JACQUES GOSSO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YUSUF EMRE GÜLTEKİN",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "DENİZ NAKİ",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "ARTSIOM RADZKOU",
+                    "dakika": "31.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NEMANJA TOMIC",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "MERVAN ÇELİK",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "ANTE KULUSIC",
+                    "dakika": "31.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OKTAY DELİBALTA",
+                    "dakika": "63.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "26"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH BOUM II",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "REMZİ GİRAY KAÇAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "İLKAY DURMUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN ÇEVİK",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "SEDDAR KARAMAN",
+                    "formaNo": "64"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERKAN BALCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "JOSEPH BOUM II",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UĞUR İNCEMAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KÖKSAL YEDEK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RAMAZAN ÇEVİK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JOSEPH BOUM II",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "52.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LAMİNE DIARRA",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

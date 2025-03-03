@@ -1,0 +1,297 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SIMON THORUP KJAER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ROBIN VAN PERSIE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ROMAN NEUSTAEDTER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MARTIN SKRTEL",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FABIANO RIBEIRO DE FREITAS",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL CHINENYE EMENIKE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "DİRK NİCOLAAS ADVOCAAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ROBIN VAN PERSIE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "MARTIN SKRTEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "ROBIN VAN PERSIE",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMMANUEL CHINENYE EMENIKE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "SALİH UÇAN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ROBIN VAN PERSIE",
+                    "dakika": "45.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ROBIN VAN PERSIE",
+                    "dakika": "78.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EREN DERDİYOK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ARMINDO TUE NA BANGNA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LIONEL JULES CAROLE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "NİGEL DE JONG",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "LUIS PEDRO CAVANDA",
+                    "formaNo": "39"
+                }
+            ],
+            "teknikSorumlu": [
+                "JOHANNES HENDRİKUS OLDE RİEKERİNK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "TOLGA CİĞERCİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "LUIS PEDRO CAVANDA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "LIONEL JULES CAROLE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "NİGEL DE JONG",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "EREN DERDİYOK",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "LUIS PEDRO CAVANDA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

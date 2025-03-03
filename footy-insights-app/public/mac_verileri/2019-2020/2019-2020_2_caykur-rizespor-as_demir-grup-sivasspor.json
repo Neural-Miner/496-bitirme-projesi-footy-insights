@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED ABARHOUN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MOSTAPHA EL KABIR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "NILL DE PAUW",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS CHATZIISAIAS",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH LARWEH ATTAMAH",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AMEDEJ VETRİH",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "DARIO MELNJAK",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MYKOLA MOROZIUK",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TIEMOKO ISMAEL DIOMANDE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN AKKAYNAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MONTASSAR OMAR TALBI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ALICI",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BURAK ALBAYRAK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ KAĞAN GÜÇTEKİN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "JOSEPH LARWEH ATTAMAH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "dakika": "13.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO HENRIQUE BOLDRIN",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "NILL DE PAUW",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "13.dk"
+                },
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ ALICI",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "dakika": "54.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "FERNANDO HENRIQUE BOLDRIN",
+                    "dakika": "58.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAMADOU SAMASSA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MARCELO AUGUSTO FERREIRA TEIXEIRA",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "AARON CHRISTOPHER BILLY ONDELE APPINDANGOYE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "PAUL PAPP",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ARMIN DERLEK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SERHIY RYBALKA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HUGO FILIPE DA COSTA OLIVEIRA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO ANDRADE DOS SANTOS",
+                    "formaNo": "7"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "AARON CHRISTOPHER BILLY ONDELE APPINDANGOYE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MERT HAKAN YANDAŞ",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ISAAC COFIE",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERHIY RYBALKA",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO ANDRADE DOS SANTOS",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FERNANDO ANDRADE DOS SANTOS",
+                    "dakika": "79.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

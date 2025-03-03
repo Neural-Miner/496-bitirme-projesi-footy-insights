@@ -1,0 +1,267 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ADRIANO FACHINI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "OLAFUR INGI SKULASON",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ANDRE BIYOGO POKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "VLADIMIR RODIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LAZAREVIC",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ BAŞDAŞ",
+                    "formaNo": "22"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCÜMENT KAFKASYALI",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DELİKTAŞ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ÇINAR TARHAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOKALOVIC",
+                    "formaNo": "44"
+                }
+            ],
+            "teknikSorumlu": [
+                "IGOR TUDOR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BARIŞ BAŞDAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "VLADIMIR RODIC",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ELVIS KOKALOVIC",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ÇINAR TARHAN",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "17.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "34.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "83"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BART LAMBERTUS WİLHELMUS VAN HİNTUM",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EVANS KANGWA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FRANTISEK RAJTORAL",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "DANIEL KOLAR",
+                    "formaNo": "85"
+                },
+                {
+                    "oyuncuAdi": "NABIL GHILAS",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BRUNO DA MOTA MIRANDA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FATAU MOHOMED",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DANIEL KOLAR",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "25.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "EVANS KANGWA",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BRUNO DA MOTA MIRANDA",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "FATAU MOHOMED",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

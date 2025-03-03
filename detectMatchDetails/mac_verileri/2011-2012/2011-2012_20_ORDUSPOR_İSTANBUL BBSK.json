@@ -1,0 +1,269 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOAO DA ROCHA RIBEIRO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JUAN EMMANUEL CULİO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL ANGELO MOITA GARCIA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ONUR TUNCER",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ONUR BİLGİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALP KULGA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "WILFRIED DALMAT",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "İRFAN BAŞARAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "MURAT KALKAN",
+                    "formaNo": "69"
+                }
+            ],
+            "teknikSorumlu": [
+                "HECTOR RAUL CUPER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "JOAO DA ROCHA RIBEIRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "JUAN EMMANUEL CULİO",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "JOAO DA ROCHA RIBEIRO",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "MURAT KALKAN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "WILFRIED DALMAT",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "74.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBUL BBSK"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OĞUZHAN BAHADIR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "CAN ARAT",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "METİN DEPE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EFE İNANÇ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "WELLINGTON BRITO DA SILVA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "RIZVAN ŞAHİN",
+                    "formaNo": "53"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BEHRAM ZÜLALOĞLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MARCUS VINICIUS CESARIO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ KORKMAZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EREN AYDIN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM YILMAZ",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "ARİF ERDEM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "METİN DEPE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "EFE İNANÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                },
+                {
+                    "oyuncu": "EKREM EKŞİOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFE İNANÇ",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "WELLINGTON BRITO DA SILVA",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TEVFİK KÖSE",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

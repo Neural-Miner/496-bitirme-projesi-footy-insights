@@ -1,0 +1,294 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "14"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "TURGUT DOĞAN ŞAHİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "BEKİR OZAN HAS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KEMAL TOKAK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MARIUS STANKEVICIUS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA DURAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HARIS MEDUNJANIN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BINYA AUGUSTIN GILLES",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SERDAR KULBİLGE",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "ORHAN GÜLLE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EKREM HAYYAM DAĞ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZBAYRAKTAR",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ARTEM MILEVSKYI",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜNYAMİN SÜRAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BEKİR OZAN HAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "HARIS MEDUNJANIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "MARIUS STANKEVICIUS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "23.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TURGUT DOĞAN ŞAHİN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA DURAK",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERDAR ÖZBAYRAKTAR",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM AKIN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "ORHAN GÜLLE",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "5.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "31.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "63.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DEGUY ALAIN DIDIER ZOKORA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SOULEYMAN BAMBA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PAULO HENRIQUE CARNEIRO FILHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "FLORENT JOHAN MALOUDA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR ÖZDEMİR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO COLMAN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZEKİ AYVAZ",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "AYKUT AKGÜN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA REŞİT AKÇAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DEGUY ALAIN DIDIER ZOKORA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "SOULEYMAN BAMBA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KADİR KELEŞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ABDULKADİR ÖZDEMİR",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO COLMAN",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AYKUT DEMİR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EMRE GÜRAL",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FLORENT JOHAN MALOUDA",
+                    "dakika": "57.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "EMRE GÜRAL",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

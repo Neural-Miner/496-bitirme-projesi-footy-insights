@@ -1,0 +1,267 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "26"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "DENYS BOIKO",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MARCELO ANTONIO GUEDES FILHO",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BECK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "MARIO GOMEZ GARCIA",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALEXIS RUANO DELGADO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "TOLGAY ALİ ARSLAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "11.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MARIO GOMEZ GARCIA",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "TOLGAY ALİ ARSLAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "27.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ADI RAIS MBOLHI",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN ŞİMŞEK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "RAMON DE MORAES MOTTA",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SERGES FLAVIER MBILLA ETAME",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL INKOOM",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MACIEL SOUSA CAMPOS RİCHARD DANILO",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "JOSE MANUEL FERREİRA DE MORAİS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "JEAN II MAKOUN",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MACIEL SOUSA CAMPOS RİCHARD DANILO",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JENS JONSSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "WİLFRİED MOKE ABRO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ BOURABIA",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "87"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRULLAH ŞALK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "PATRIK ULF ANDERS CARLGREN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "VEDAT BORA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSA ARAZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "ADIS JAHOVIC",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                },
+                {
+                    "oyuncu": "WİLFRİED MOKE ABRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "FERHAT ÖZTORUN",
+                    "dakika": "19.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VEDAT BORA",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "EREN ALBAYRAK",
+                    "dakika": "19.dk"
+                },
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "11.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "86.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DAVID PAVELKA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OLIVIER VEIGNEAU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "BERNARD MENSAH",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "MBAYE DIAGNE",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KADEM BURAK YAŞAR",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL EMEM EDUOK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SYAM HABIB BEN YOUSSEF",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "FRANCK ETOUNDI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JHON EDUARD MURILLO ROMANA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "HASAN BİLAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "AHMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ONUR URAL",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "HAKAN DEMİR",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "BURAK TURAN",
+                    "formaNo": "96"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LORET SADIKU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "LORET SADIKU",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JHON EDUARD MURILLO ROMANA",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL EMEM EDUOK",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

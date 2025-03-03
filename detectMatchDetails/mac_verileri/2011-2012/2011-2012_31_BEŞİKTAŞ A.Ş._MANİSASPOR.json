@@ -1,0 +1,290 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ROBERTO JAN HİLBERT",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SIMAO PEDRO DA FONSECA SABROSA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ERNST",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UMUT KAYA",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AURELIO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EKREM HAYYAM DAĞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPLAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EDUARDO GONÇALVES DE OLIVEIRA",
+                    "formaNo": "33"
+                }
+            ],
+            "teknikSorumlu": [
+                "CARLOS AUGUSTO SOARES DA COSTA FARIA CARVALHAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "ROBERTO JAN HİLBERT",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "EKREM HAYYAM DAĞ",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "dakika": "17.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "dakika": "61.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "dakika": "65.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "dakika": "88.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MANİSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TOK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MURAT ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "JIMMY DIXON",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇÖKMÜŞ",
+                    "formaNo": "85"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "HİKMET BALİOĞLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "LABINOT HARBUZI",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA VUCİCEVIC",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CLAUDIO MEJOLARO",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "REHA KEMAL ERGİNER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YİĞİT İNCEDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "FERHAT ÇÖKMÜŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "JERRY AKAMINKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "19.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "NİZAMETTİN ÇALIŞKAN",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NEMANJA VUCİCEVIC",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FERHAT ÇÖKMÜŞ",
+                    "dakika": "90.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

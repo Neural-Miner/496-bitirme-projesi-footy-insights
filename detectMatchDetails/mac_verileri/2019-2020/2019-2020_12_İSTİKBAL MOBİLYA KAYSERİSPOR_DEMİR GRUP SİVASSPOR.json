@@ -1,0 +1,308 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "İSTİKBAL MOBİLYA KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SHEYI EMMANUEL ADEBAYOR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "AYMEN ABDENNOUR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "BENOIT GUY JEAN POULAIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HASAN HÜSEYİN ACAR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "PEDRO HENRIQUE KONZEN MEDINA DA SILVA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BRICE FLORENTIN DJA DJEDJE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "KARAHAN YASİR SUBAŞI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "66"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL ÇİPE",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN EMİRHAN CİVELEK",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BİLAL BAŞACIKOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ARTEM KRAVETS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EMRE DEMİR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MERT KULA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BEN RIENSTRA",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ALKURT",
+                    "formaNo": "61"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT UYGUN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "PEDRO HENRIQUE KONZEN MEDINA DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "HASAN HÜSEYİN ACAR",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BİLAL BAŞACIKOĞLU",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "EMRE DEMİR",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "BEN RIENSTRA",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PEDRO HENRIQUE KONZEN MEDINA DA SILVA",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAMADOU SAMASSA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MARCELO AUGUSTO FERREIRA TEIXEIRA",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "AARON CHRISTOPHER BILLY ONDELE APPINDANGOYE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO ANDRADE DOS SANTOS",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "PAUL PAPP",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ARMIN DERLEK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HUGO FILIPE DA COSTA OLIVEIRA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FATİH AKSOY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MERT HAKAN YANDAŞ",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO ANDRADE DOS SANTOS",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FERNANDO ANDRADE DOS SANTOS",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "68.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "74.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "90+4.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

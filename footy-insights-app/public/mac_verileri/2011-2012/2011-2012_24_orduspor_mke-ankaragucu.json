@@ -1,0 +1,264 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALP KULGA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ONUR TUNCER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JUAN EMMANUEL CULİO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO JAVIER PERAL PERIANE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "27"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ONUR BİLGİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "WILFRIED DALMAT",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MURAT KALKAN",
+                    "formaNo": "69"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "İRFAN BAŞARAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL ANGELO MOITA GARCIA",
+                    "formaNo": "15"
+                }
+            ],
+            "teknikSorumlu": [
+                "HECTOR RAUL CUPER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖMER ALP KULGA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO JAVIER PERAL PERIANE",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "BRUNO FERREIRA MOMBRA ROSA",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "WILFRIED DALMAT",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "27.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "45.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BAYRAM OLGUN",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ÇOĞUM",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AYDIN TOSCALI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "BİLAL GÜLDEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED TÜRKMEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "VELİ TORUN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "SEROL DEMİRHAN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ERDOĞAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ATİLLA AYBARS GARHAN",
+                    "formaNo": "27"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CİHAN BAL",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "GÜRKAN ALVER",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAŞCI",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ORHAN EVCİ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ŞİRİN",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "MERT ERDOĞAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET ÇOĞUM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "BİLAL GÜLDEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VELİ TORUN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "BİLAL GÜLDEN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ORHAN EVCİ",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "KAAN KANAK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

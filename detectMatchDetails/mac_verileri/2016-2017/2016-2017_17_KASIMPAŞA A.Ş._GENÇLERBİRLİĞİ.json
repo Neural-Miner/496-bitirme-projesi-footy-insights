@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DAVID PAVELKA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OLIVIER VEIGNEAU",
+                    "formaNo": "31"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KADEM BURAK YAŞAR",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL EMEM EDUOK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "HEROLIND SHALA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AHMED ILDIZ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "VASIL BOZHIKOV",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "KENNETH KARIM OTIGBA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TURGUT DOĞAN ŞAHİN",
+                    "formaNo": "17"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "DAVID PAVELKA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SAMUEL EMEM EDUOK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "HEROLIND SHALA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "TURGUT DOĞAN ŞAHİN",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CHRISTIAN CHAGAS TAROUCO",
+                    "dakika": "5.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "13.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DAVID PAVELKA",
+                    "dakika": "15.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ORHAN ŞAM",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI PALITSEVICH",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KAMAL ISSAH",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ALEKSANDAR SCEKIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FERHAT GÖRGÜLÜ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "COSMIN GABRIEL MATEI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MARKO MILINKOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOKELO ANTHONY RANTIE",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ERIK JONATHAN RING",
+                    "formaNo": "14"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜMİT ÖZAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ORHAN ŞAM",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "COSMIN GABRIEL MATEI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "KAMAL ISSAH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TOKELO ANTHONY RANTIE",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "COSMIN GABRIEL MATEI",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "ERIK JONATHAN RING",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

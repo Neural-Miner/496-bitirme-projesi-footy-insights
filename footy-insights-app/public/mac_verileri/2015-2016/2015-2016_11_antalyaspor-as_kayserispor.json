@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ADI RAIS MBOLHI",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "SEZER BADUR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OZAN İPEK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER KANDEMİR",
+                    "formaNo": "65"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LAZAREVIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "LOKMAN GÖR",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "SERGES FLAVIER MBILLA ETAME",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA ATİ GÖKSU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "ÖMER KANDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                },
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SEZER BADUR",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "LAMİNE DIARRA",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "JEAN II MAKOUN",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "KADİR BEKMEZCİ",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "46.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "KAYACAN ERDOĞAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "VANDERLEY DIAS MARINHO",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULAZİZ DEMİRCAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DIEGO HIPOLITO DA SILVA LOPEZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MARKO SIMIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AYEGBENI YAKUBU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZEKİ YAVRU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "MARKO SIMIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "SAMBA SOW",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAFA AKBAŞ",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "VANDERLEY DIAS MARINHO",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MARKO SIMIC",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "AYEGBENI YAKUBU",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "SRDAN MIJAILOVIC",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAMBA SOW",
+                    "dakika": "65.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

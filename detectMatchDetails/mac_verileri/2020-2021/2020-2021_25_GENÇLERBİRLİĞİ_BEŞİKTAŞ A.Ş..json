@@ -1,0 +1,315 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "25"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BO KRISTOFFER NORDFELDT",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MATTIAS ERIK JOHANSSON",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ARDA KIZILDAĞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DOMINIK GRZEGORZ FURMAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SONER DİKMEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LUCAS ANDRES MUGNI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "FLOYD AMA NINO AYITE",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "PIERRE YVES NICOLAS POLOMAT",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÜBEYD ADIYAMAN",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SRDAN SPIRIDONOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "İLKER KARAKAŞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RAHMETULLAH BERİŞBEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SAMİ GÖKHAN ALTIPARMAK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ÖMÜRCAN ARTAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ALTIPARMAK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "FLOYD AMA NINO AYITE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "DOMINIK GRZEGORZ FURMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "36.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "FLOYD AMA NINO AYITE",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "LUCAS ANDRES MUGNI",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "İLKER KARAKAŞ",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "SRDAN SPIRIDONOVIC",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERSİN DESTANOĞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN ANDRE HENRI ROSIER",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "VINCENT ABOUBAKAR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CYLE CHRISTOPHER LARIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RACHID GHEZZAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ADEM LJAJIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "26"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRE BİLGİN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "UTKU YUVAKURAN",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "GEORGES KEVIN NKOUDOU MBIDA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AJDIN HASIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BİLAL CEYLAN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "BERNARD MENSAH",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "SERDAR SAATÇI",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALİ RIZA SERGEN YALÇIN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DORUKHAN TOKÖZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+8.dk"
+                },
+                {
+                    "oyuncu": "JOSEF DE SOUZA DIAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VINCENT ABOUBAKAR",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "CYLE CHRISTOPHER LARIN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "RACHID GHEZZAL",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN TÖRE",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "BERNARD MENSAH",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "GEORGES KEVIN NKOUDOU MBIDA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RACHID GHEZZAL",
+                    "dakika": "4.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "90+4.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

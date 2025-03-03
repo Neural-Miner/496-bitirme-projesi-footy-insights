@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "WILFRIED DALMAT",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JUAN EMMANUEL CULİO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL ANGELO MOITA GARCIA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GOSSO JEAN JACQUES GOSSO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FATİH TEKKE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "ONUR TUNCER",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOAO DA ROCHA RIBEIRO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "İRFAN BAŞARAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "MURAT KALKAN",
+                    "formaNo": "69"
+                }
+            ],
+            "teknikSorumlu": [
+                "METİN DİYADİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JUAN EMMANUEL CULİO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "GOSSO JEAN JACQUES GOSSO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ONUR TUNCER",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "JUAN EMMANUEL CULİO",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "WILFRIED DALMAT",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "JOAO DA ROCHA RIBEIRO",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "İRFAN BAŞARAN",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "11.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MANİSASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TOK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İSMAİL GÖKOĞLAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JOSHUA CHRISTOPHER SIMPSON",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ÖMER AYSAN BARIŞ",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL WLADYSLAW KLUKOWSKI",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "JIMMY DIXON",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AZIZA MAKUKULA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MURAT ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇÖKMÜŞ",
+                    "formaNo": "85"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "HÜSEYİN TOK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "JIMMY DIXON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "JIMMY DIXON",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "JERRY AKAMINKO",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "AZIZA MAKUKULA",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

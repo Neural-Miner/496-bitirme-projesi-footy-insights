@@ -1,0 +1,275 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM DAĞAŞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ISMAİL AİSSATİ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERGÜN TEBER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DENİZ BARIŞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SAMMY NDJOCK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ALİ TANDOĞAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EREN BOYRAZ",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İBRAHİM DAĞAŞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "11.dk"
+                },
+                {
+                    "oyuncu": "MURAT DURUER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM DAĞAŞAN",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "PROMISE ISAAC",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "MEHMET EREN BOYRAZ",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LAMİNE DIARRA",
+                    "dakika": "29.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LAMİNE DIARRA",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "SERVET ÇETİN",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO DE DEUS SANTOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HÜRRİYET GÜCER",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ATDHE NUHIU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "6"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SİNAN ÖREN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "SEROL DEMİRHAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DURSUN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "PATRYK ADRIAN MALECKI",
+                    "formaNo": "19"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HÜRRİYET GÜCER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "SEROL DEMİRHAN",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ATDHE NUHIU",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

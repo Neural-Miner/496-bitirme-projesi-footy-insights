@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TORKU KONYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ALBAN MEHA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BARRY JAMES DOUGLAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "JAGOS VUKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM SÖNMEZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIMITAR DIMITROV RANGELOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MARC GHISLAIN KIBONG A MBAMBA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL İBRAHİM SÖNMEZ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DIMITAR DIMITROV RANGELOV",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "VOLKAN FINDIKLI",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "28.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS FRANCO TEIXEIRA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MARKO MARIN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "SERGE OGNADON AKAKPO",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN ÖVÜÇ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ AYGÜN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET BEŞİR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KARADENİZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "FATİH ATİK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMİ MANDIRALI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "RAMAZAN ÖVÜÇ",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "DOUGLAS FRANCO TEIXEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "SERGE OGNADON AKAKPO",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SEMİH KARADENİZ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "26"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "RENATO CIVELLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO DANIEL BELLUSCHI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "AZİZ ERALTAY",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "formaNo": "30"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BAKAYE TRAORE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ENES ÜNAL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SÜHEYL ÇETİN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "OZAN İPEK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "CEDRİC BAKAMBU",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE TAŞDEMİR",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "RENATO CIVELLI",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENES ÜNAL",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ERTUĞRUL ERSOY",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "CEDRİC BAKAMBU",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "34.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "45.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SUAT ALTIN İNŞAAT KAYSERİ ERCİYESSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT ÖZEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ROYSTON RİCKY DRENTHE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "PAPA MALICKOU DIAKHATE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BJÖRN VLEMINCKX",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JOHN BOYE",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ARNALDO EDI LOPES DA SİLVA",
+                    "formaNo": "36"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZTÜRK",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ORHAN GÜLLE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JACQUES ZOUA DAOGARI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİRKOL",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ETHEM ERCAN PÜLGİR",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMİT CİHAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE ÖZTÜRK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "MAHMUT ÖZEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "JACQUES ZOUA DAOGARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "BJÖRN VLEMINCKX",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ARNALDO EDI LOPES DA SİLVA",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "ORHAN GÜLLE",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "JACQUES ZOUA DAOGARI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ABDOULAYE DIALLO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE PETRUCCI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MARWANE SAADANE",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JAKOB JANSTER",
+                    "formaNo": "7"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "IYAYI BELIEVE ATIEMWEN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED ALI YAKOUBI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "MATIC FINK",
+                    "formaNo": "27"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "12.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "IYAYI BELIEVE ATIEMWEN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR ÇEK",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FABRICIO MARTIN AGOSTO RAMIREZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BECK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MARCELO ANTONIO GUEDES FILHO",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "TOLGAY ALİ ARSLAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ARAS ÖZBİLİZ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LUIZ RHODOLFO DINI GAIOTO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ADRIANO CORREIA CLARO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "VINCENT ABOUBAKAR",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TOLGAY ALİ ARSLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MARCELO ANTONIO GUEDES FILHO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "ADRIANO CORREIA CLARO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ADRIANO CORREIA CLARO",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "VINCENT ABOUBAKAR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADRIANO CORREIA CLARO",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,280 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "10"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JOHAN HELGE DAHLIN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HİKMET BALİOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "MERVAN ÇELİK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GUIDO KOÇER",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "LIVIU ION ANTAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ARTUN AKÇAKIN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "33"
+                }
+            ],
+            "teknikSorumlu": [
+                "NACİ ŞENSOY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HAKAN ASLANTAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MERVAN ÇELİK",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "GUIDO KOÇER",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RADOSAV PETROVIC",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ARTUN AKÇAKIN",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "23.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BOY WATERMAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AYKUT AKGÜN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "TANJU KAYHAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH ENEOJO AKPALA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULAZİZ DEMİRCAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN NICOLAS VIOLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DOMİ KUMBELA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BERTUL KOCABAŞ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ONUR CENİK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ALPAY KOÇAKLI",
+                    "formaNo": "78"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT AKÇA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "VALENTIN NICOLAS VIOLA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AYKUT AKGÜN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "JOSEPH ENEOJO AKPALA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VALENTIN NICOLAS VIOLA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "DOMİ KUMBELA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "40.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "VALENTIN NICOLAS VIOLA",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

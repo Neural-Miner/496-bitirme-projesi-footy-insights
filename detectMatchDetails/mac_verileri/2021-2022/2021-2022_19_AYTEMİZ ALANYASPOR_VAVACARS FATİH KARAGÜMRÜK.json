@@ -1,0 +1,321 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "19"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JOSE CARLOS COENTRAO MARAFONA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EFKAN BEKİROĞLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FAMARA DIEDHIOU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO BARBADAS NOVAIS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA MILUNOVIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JUAN FRANCISCO MORENO FUERTES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MIHA MEVLJA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "DAVIDSON DA LUZ PEREIRA",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YUSUF KARAGÖZ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "AHMET GÜLAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AHMED ILDIZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ELHADJI BABACAR KHOUMA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FURKAN BAYIR",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ AYDIN",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TAYFUR BİNGÖL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "DAVIDSON DA LUZ PEREIRA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "FAMARA DIEDHIOU",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO BARBADAS NOVAIS",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "FATİH AKSOY",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ELHADJI BABACAR KHOUMA",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "57.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "VAVACARS FATİH KARAGÜMRÜK"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMILIANO VIVIANO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DERRICK LUCKASSEN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ERVIN ZUKANOVIC",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "VEGAR EGGEN HEDENSTAD",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JURE BALKOVEC",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "LUCAS RODRIGO BIGLIA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ADNAN UĞUR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALEKSANDAR PESIC",
+                    "formaNo": "72"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "10"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UTKU YUVAKURAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ALPARSLAN ERDEM",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "RAYYAN BANİYA",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "EFE TATLI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ERHUN AKSEL ÖZTÜMER",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YANNIS ROMARIC SALIBUR",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "FABIO BORINI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SAMED ONUR",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BAHATTİN BERKE DEMİRCAN",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "ATILAY CANEL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SALİH DURSUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "JAKUP JİMMY DURMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "7.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "JAKUP JİMMY DURMAZ",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "VEGAR EGGEN HEDENSTAD",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ADNAN UĞUR",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YANNIS ROMARIC SALIBUR",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "BAHATTİN BERKE DEMİRCAN",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "SALİH DURSUN",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "ERHUN AKSEL ÖZTÜMER",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "FABIO BORINI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ALEKSANDAR PESIC",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

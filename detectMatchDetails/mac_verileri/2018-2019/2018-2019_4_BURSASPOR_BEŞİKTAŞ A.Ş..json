@@ -1,0 +1,302 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HENRI GREGOIRE SAIVET",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALLANO BRENDON DE SOUZA LIMA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPACAK",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ŞENGEZER",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SANTIAGO VERGINI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JIRES KEMBO EKOKO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED EMİN SARIKAYA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ UMUT MERAŞ",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN KESKİN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "DIAFRA SAKHO",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "BURAK KAPACAK",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "ALLANO BRENDON DE SOUZA LIMA",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DIAFRA SAKHO",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIAFRA SAKHO",
+                    "dakika": "86.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "LORIS SVEN KARIUS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "KEPLER LAVERAN DE LIMA FERREIRA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DOMAGOJ VIDA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ADRIANO CORREIA CLARO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GARY ALEXIS MEDEL SOTO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TOLGAY ALİ ARSLAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RYAN GUNO BABEL",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALVARO NEGREDO SANCHEZ",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UTKU YUVAKURAN",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ENZO PABLO ROCO ROCO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "JEREMAIN MARCIANO LENS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ADEM LJAJIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "CYLE CHRISTOPHER LARIN",
+                    "formaNo": "95"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GARY ALEXIS MEDEL SOTO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "LORIS SVEN KARIUS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN GÖNÜL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "TOLGAY ALİ ARSLAN",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "GARY ALEXIS MEDEL SOTO",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "CYLE CHRISTOPHER LARIN",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

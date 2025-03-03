@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "15"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SIMON THORUP KJAER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BRUNO EDUARDO REGUFE ALVES",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FABIANO RIBEIRO DE FREITAS",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "DIEGO RIBAS DA CUNHA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ROBIN VAN PERSIE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MICHAL KADLEC",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "LAZAR MARKOVIC",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE BA",
+                    "formaNo": "53"
+                }
+            ],
+            "teknikSorumlu": [
+                "VİTOR MANUEL DE OLIVEIRA LOPES PEREIRA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "SIMON THORUP KJAER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "OZAN TUFAN",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "DIEGO RIBAS DA CUNHA",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ROBIN VAN PERSIE",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİPOL BAŞAKŞEHİR FK"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MEHMET BATDAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE BADJI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EMRE BELÖZOĞLU",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ALPARSLAN ERDEM",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "RAJKO ROTMAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "GENÇER CANSEV",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YALÇIN AYHAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "UĞUR UÇAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "MAHMUT TEKDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "ENVER CENK ŞAHİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "STEPHANE BADJI",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "JOSE MARCIO DA COSTA",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ENVER CENK ŞAHİN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "RAJKO ROTMAN",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

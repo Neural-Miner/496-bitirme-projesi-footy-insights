@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "AHMET ŞAHİN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "RAUL ANDREI RUSESCU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AVDIJA VRSAJEVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ADEWOLE RAHEEM LAWAL",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "DELARGE DZON",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ANDREI GABRIEL TORJE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LUKASZ SZUKALA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA REŞİT AKÇAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR DEMİROK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DELARGE DZON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DELARGE DZON",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ANDREI GABRIEL TORJE",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "86.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL JOHN CHIBUIKE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JUCIMAR LIMA PACHECO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "PRİNCE DESİRE GNAHORE GOUANO",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO MARCAL DE OLIVEIRA",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ALPEREN UYSAL",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÇİNEMRE",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                },
+                {
+                    "oyuncuAdi": "DOĞANAY KILIÇ",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "HÜRRİYET GÜCER",
+                    "formaNo": "78"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUTLU TOPÇU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HÜRRİYET GÜCER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ZYDRUNAS KARCEMARSKAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE NEFİZ",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "PRİNCE DESİRE GNAHORE GOUANO",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HÜRRİYET GÜCER",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ÇİNEMRE",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

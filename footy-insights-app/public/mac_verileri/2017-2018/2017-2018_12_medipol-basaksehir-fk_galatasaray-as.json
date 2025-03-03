@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİPOL BAŞAKŞEHİR FK"
+            ],
+            "skor": [
+                "5"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GAEL DİMİTRİ CLICHY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH LARWEH ATTAMAH",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU EPUREANU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SHEYI EMMANUEL ADEBAYOR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ELJERO GEORGE RINALDO ELIA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN İNLER",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "STEFANO NAPOLEONI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT ERDİNÇ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MANUEL MROUAN DA COSTA TRINDADE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ALPARSLAN ERDEM",
+                    "formaNo": "39"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "SHEYI EMMANUEL ADEBAYOR",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ELJERO GEORGE RINALDO ELIA",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "MEVLÜT ERDİNÇ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "KERİM FREİ",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOSEPH LARWEH ATTAMAH",
+                    "dakika": "25.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "SHEYI EMMANUEL ADEBAYOR",
+                    "dakika": "42.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "SHEYI EMMANUEL ADEBAYOR",
+                    "dakika": "57.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SHEYI EMMANUEL ADEBAYOR",
+                    "dakika": "76.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "KERİM FREİ",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MARIANO FERREIRA FILHO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MAICON PEREIRA ROQUE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EREN DERDİYOK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "YOUNES BELHANDA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BAFETIBI GOMIS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO FRANCISCO REGES",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "JASON GREGORY DENAYER",
+                    "formaNo": "64"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY İŞCAN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "CEDRİC PASCAL REGİS CARRASSO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MARTIN LINNES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "GARRY MENDES RODRIGUES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "KORAY GÜNTER",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "IGOR TUDOR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO FRANCISCO REGES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YOUNES BELHANDA",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GARRY MENDES RODRIGUES",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BAFETIBI GOMIS",
+                    "dakika": "55.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

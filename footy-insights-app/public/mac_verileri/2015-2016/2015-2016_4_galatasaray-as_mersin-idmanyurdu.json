@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOSE RODRIGUEZ MARTINEZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "JEM PAUL KARACAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "JASON GREGORY DENAYER",
+                    "formaNo": "64"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HAKAN KADİR BALTA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "SELÇUK İNAN",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "OLCAN ADIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "SABRİ SARIOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "JOSE RODRIGUEZ MARTINEZ",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "dakika": "50.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MERSİN İDMANYURDU"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "WELLITON SOARES MORAIS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MILAN MITROVIC",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NGUIMBE PREJUCE NAKOULMA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "RICARDO PEDRIEL SUAREZ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "SERVET ÇETİN",
+                    "formaNo": "76"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NIKOLAY BORISLAVOV MIHAYLOV",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN VAROL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EFE HALİL ÖZARSLAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "NURULLAH KAYA",
+                    "formaNo": "72"
+                },
+                {
+                    "oyuncuAdi": "MARCO FUTACS",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKÇEK VEDERSON",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "LORET SADIKU",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GÜVEN VAROL",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TAŞ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "WELLITON SOARES MORAIS",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

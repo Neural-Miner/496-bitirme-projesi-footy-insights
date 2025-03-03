@@ -1,0 +1,272 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ORHAN TAŞDELEN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ABDOU LWAHID SISSOKO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RICARDO JORGE VAZ TE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JOEL LANDRY TSAFACK NGUEMO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KESİMAL",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ORHAN TAŞDELEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "8.dk"
+                },
+                {
+                    "oyuncu": "RICARDO JORGE VAZ TE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ABDOU LWAHID SISSOKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUĞDAT ÇELİK",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "RICARDO JORGE VAZ TE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RICARDO JORGE VAZ TE",
+                    "dakika": "82.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JENS JONSSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JAGOS VUKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DIMITAR DIMITROV RANGELOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MARC GHISLAIN KIBONG A MBAMBA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "VEDAT BORA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM SÖNMEZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "IOAN HORA",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AMIR HADZIAHMETOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "AMIR HADZIAHMETOVIC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "IOAN HORA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DIMITAR DIMITROV RANGELOV",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "HALİL İBRAHİM SÖNMEZ",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

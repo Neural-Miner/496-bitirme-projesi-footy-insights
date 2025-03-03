@@ -1,0 +1,303 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "19"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BORA SEVİM",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "OGNJEN VRANJES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ŞEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABOUBACAR DEMBA CAMARA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL JOHN CHIBUIKE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JUCIMAR LIMA PACHECO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO MARCAL DE OLIVEIRA",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ALPEREN UYSAL",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÇİNEMRE",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MAHAMADOU BEZANNIER",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                },
+                {
+                    "oyuncuAdi": "HÜRRİYET GÜCER",
+                    "formaNo": "78"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUTLU TOPÇU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BARIŞ YARDIMCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ERDEM ŞEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MAHAMADOU BEZANNIER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "47.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ABOUBACAR DEMBA CAMARA",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "JUCIMAR LIMA PACHECO",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MAHAMADOU BEZANNIER",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "HÜRRİYET GÜCER",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EMMANUEL JOHN CHIBUIKE",
+                    "dakika": "29.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EMMANUEL JOHN CHIBUIKE",
+                    "dakika": "82.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAJIME HOSOGAI",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "RICARDO WILLIAM FATY",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "BALAZS DZSUDZSAK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "TOMAS NECID",
+                    "formaNo": "15"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FURKAN EMRE ÜNVER",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN AYDOĞAN",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "5"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERDEM ÖZGENÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "TOMAS NECID",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MIROSLAV STOCH",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "BALAZS DZSUDZSAK",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERDEM ÖZGENÇ",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TOMAS NECID",
+                    "dakika": "72.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

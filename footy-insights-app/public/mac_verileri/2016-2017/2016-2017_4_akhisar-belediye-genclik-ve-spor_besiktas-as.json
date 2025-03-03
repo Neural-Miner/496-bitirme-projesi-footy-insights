@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "RICARDO JORGE VAZ TE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "LEOCISIO JULIO SAMI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JOEL LANDRY TSAFACK NGUEMO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KESİMAL",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ORHAN TAŞDELEN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ABDOU LWAHID SISSOKO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERDAR KESİMAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "RICARDO JORGE VAZ TE",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "LEOCISIO JULIO SAMI",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUĞDAT ÇELİK",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "45.dk",
+                    "golTipi": "K"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FABRICIO MARTIN AGOSTO RAMIREZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MARCELO ANTONIO GUEDES FILHO",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN İNLER",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ANDERSON SOUZA CONCEIÇAO",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ADRIANO CORREIA CLARO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "VINCENT ABOUBAKAR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "TOLGAY ALİ ARSLAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BECK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "LUIZ RHODOLFO DINI GAIOTO",
+                    "formaNo": "44"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKHAN GÖNÜL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "DUSKO TOSIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "MARCELO ANTONIO GUEDES FILHO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN İNLER",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ADRIANO CORREIA CLARO",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "TOLGAY ALİ ARSLAN",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "VINCENT ABOUBAKAR",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANDERSON SOUZA CONCEIÇAO",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

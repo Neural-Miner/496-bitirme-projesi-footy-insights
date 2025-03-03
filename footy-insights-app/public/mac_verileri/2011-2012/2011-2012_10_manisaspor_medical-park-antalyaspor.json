@@ -1,0 +1,267 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "10"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MANİSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TOK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İSMAİL GÖKOĞLAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JOSHUA CHRISTOPHER SIMPSON",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MURAT ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER AYSAN BARIŞ",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL WLADYSLAW KLUKOWSKI",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "JIMMY DIXON",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YİĞİT İSMAİL GÖKOĞLAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "NİZAMETTİN ÇALIŞKAN",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "JOSHUA CHRISTOPHER SIMPSON",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PROMISE ISAAC",
+                    "dakika": "80.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ÖMER ÇATKIÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM DAĞAŞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUSA AYDIN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "VESELIN MILCHEV MINEV",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SEDAT AĞÇAY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ALİ TANDOĞAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DENİZ BARIŞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EREN BOYRAZ",
+                    "formaNo": "67"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SAMMY NDJOCK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞERAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ERKAN SEKMAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALI ZITOUNI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "86"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "19.dk"
+                },
+                {
+                    "oyuncu": "VESELIN MILCHEV MINEV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "18.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA AYDIN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "SEDAT AĞÇAY",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ALI ZITOUNI",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

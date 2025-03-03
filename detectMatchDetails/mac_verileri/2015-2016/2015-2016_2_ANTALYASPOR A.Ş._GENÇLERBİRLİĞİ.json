@@ -1,0 +1,318 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "JOSIP KVESIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LAZAREVIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "LOKMAN GÖR",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "ÖMER KANDEMİR",
+                    "formaNo": "65"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CAN ARAT",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ERMAN KILIÇ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "SERGES FLAVIER MBILLA ETAME",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA ATİ GÖKSU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OSMAN ÇELİK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "dakika": "88.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "90+2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "PANAJOTIS DIMITRIADIS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MOSTAPHA EL KABIR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MARTIN SPELMANN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "WALID ATTA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OLAFUR INGI SKULASON",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "BERAT TOSUN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FERHAT GÖRGÜLÜ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ATABEY ÇİÇEK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "33"
+                }
+            ],
+            "teknikSorumlu": [
+                "STUART WILLIAM BAXTER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "BERAT TOSUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "OLAFUR INGI SKULASON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "MARTIN SPELMANN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NEMANJA TOMIC",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "MARTIN SPELMANN",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "BERAT TOSUN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "HALİL İBRAHİM PEHLİVAN",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "dakika": "37.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

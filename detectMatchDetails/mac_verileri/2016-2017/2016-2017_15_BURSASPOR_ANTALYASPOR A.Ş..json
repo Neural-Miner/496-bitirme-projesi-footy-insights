@@ -1,0 +1,313 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "15"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KONUK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "AZİZ ERALTAY",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "PABLO MARTIN BATALLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "DENİZ YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "VIEUX YAKHYA SANE",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JOSUA ARNOLD JOHN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOMAS NECID",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "RICARDO WILLIAM FATY",
+                    "formaNo": "14"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERDEM ÖZGENÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "ERTUĞRUL ERSOY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "5.dk"
+                },
+                {
+                    "oyuncu": "PABLO MARTIN BATALLA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "DENİZ YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KUBİLAY KANATSIZKUŞ",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RICARDO WILLIAM FATY",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "BİLAL KISA",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "JOSUA ARNOLD JOHN",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "KUBİLAY KANATSIZKUŞ",
+                    "dakika": "20.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "PABLO MARTIN BATALLA",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN ŞİMŞEK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "MACIEL SOUSA CAMPOS RİCHARD DANILO",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "SERGES FLAVIER MBILLA ETAME",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KENAN HORIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RAMON DE MORAES MOTTA",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "MILAN JEVTOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "SAKIB AYTAÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "RIDVAN ŞİMŞEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "MACIEL SOUSA CAMPOS RİCHARD DANILO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "RIDVAN ŞİMŞEK",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "MACIEL SOUSA CAMPOS RİCHARD DANILO",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "JEAN II MAKOUN",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "41.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

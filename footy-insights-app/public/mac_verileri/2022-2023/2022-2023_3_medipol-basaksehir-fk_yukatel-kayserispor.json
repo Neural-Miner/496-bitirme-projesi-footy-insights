@@ -1,0 +1,337 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "3"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİPOL BAŞAKŞEHİR FK"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUHAMMED ŞENGEZER",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DANİJEL ALEKSİC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "PATRYK KONRAD SZYSZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "BERKAY ÖZCAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "LUCAS RODRIGO BIGLIA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "NACER CHADLI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "YOUSSUF NDAYISHIMIYE",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "AHMED TOUBA",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "LUCAS PEDRO ALVES DE LIMA",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "UILSON DE SOUZA PAULA JUNIOR",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "DENİZ DİLMEN",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO CAMPOS DUARTE DA SILVA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MESUT ÖZİL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MOUNIR CHOUIAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ENZO VITO GABRIEL CRIVELLI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "CHUKA STEFANO OKAKA",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERDİNÇ SÖZER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "DANİJEL ALEKSİC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ENZO VITO GABRIEL CRIVELLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "LUCAS PEDRO ALVES DE LIMA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "AHMED TOUBA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NACER CHADLI",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BERKAY ÖZCAN",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "LUCAS RODRIGO BIGLIA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "PATRYK KONRAD SZYSZ",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MOUNIR CHOUIAR",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MAHMUT TEKDEMİR",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ENZO VITO GABRIEL CRIVELLI",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "MESUT ÖZİL",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "NACER CHADLI",
+                    "dakika": "21.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "BERKAY ÖZCAN",
+                    "dakika": "50.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "YUKATEL KAYSERİSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BİLAL BAYAZIT",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS KOLOVETSIOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SEYEDMAJID HOSSEINI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALI KARIMI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL FILIPE NUNES CARDOSO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LIONEL JULES CAROLE",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "THIAM MAME BABA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ONUR BULUT",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SAZDAĞI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CARLOS MANUEL CARDOSO MANE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BARAN ALİ GEZEK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN CİVELEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "BERNARD MENSAH",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "NURETTİN KORKMAZ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY CHIGAEMEZU UZODIMMA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO CAMPANHARO",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÇAĞDAŞ ATAN"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL FILIPE NUNES CARDOSO",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ALI KARIMI",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CARLOS MANUEL CARDOSO MANE",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BARAN ALİ GEZEK",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "BERNARD MENSAH",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO CAMPANHARO",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

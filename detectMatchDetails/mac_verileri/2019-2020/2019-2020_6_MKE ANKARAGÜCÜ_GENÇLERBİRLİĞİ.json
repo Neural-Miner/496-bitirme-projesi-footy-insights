@@ -1,0 +1,302 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "STYLIANOS KITSIOU",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MICHAL PAZDAN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "WİLFRİED MOKE ABRO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SEDAT AĞÇAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "HASAN KAYA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RICARDO WILLIAM FATY",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DEVER AKEEM ORGILL",
+                    "formaNo": "12"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FURKAN BEKLEVİÇ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ALİHAN KUBALAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "AHMET CAN ARIK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EZEQUIEL OSCAR SCARIONE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ZAUR SADAEV",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT AKAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BERKE GÜRBÜZ",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "METİN DİYADİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SEDAT AĞÇAY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "HASAN KAYA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "RICARDO WILLIAM FATY",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "MEHMET SAK",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "YALÇIN AYHAN",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "KORCAN ÇELİKAY",
+                    "dakika": "75.dk",
+                    "golTipi": "K"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "68.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FABRICIO SANTOS DE JESUS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE SESSEGNON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FLOYD AMA NINO AYITE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GIOVANNI-GUY YANN SIO",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FLAVIO DA SILVA RAMOS",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "PIERRE YVES NICOLAS POLOMAT",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDOULAYE DIALLO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIK MATTIAS BJARSMYR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "NADİR ÇİFTÇİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RAHMETULLAH BERİŞBEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MATS SEUNTJENS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA KAPLAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZARGO TOURE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "23.dk"
+                },
+                {
+                    "oyuncu": "GIOVANNI-GUY YANN SIO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "FLAVIO DA SILVA RAMOS",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "FLOYD AMA NINO AYITE",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NADİR ÇİFTÇİ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "RAHMETULLAH BERİŞBEK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "dakika": "56.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

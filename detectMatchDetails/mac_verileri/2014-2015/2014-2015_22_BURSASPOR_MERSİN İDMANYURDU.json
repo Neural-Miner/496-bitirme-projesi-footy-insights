@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "22"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RENATO CIVELLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AZİZ ERALTAY",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO DANIEL BELLUSCHI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "CEDRİC BAKAMBU",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "OZAN İPEK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SÜHEYL ÇETİN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ENES ÜNAL",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HARUN TEKİN",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "17.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "CEDRİC BAKAMBU",
+                    "dakika": "18.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL TOBIAS HOLMEN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "OKAN KOCUK",
+                    "dakika": "18.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "59.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "RENATO CIVELLI",
+                    "dakika": "76.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MERSİN İDMANYURDU"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "EFE HALİL ÖZARSLAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MILAN MITROVIC",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN VAROL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "NGUIMBE PREJUCE NAKOULMA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "WELLITON SOARES MORAIS",
+                    "formaNo": "73"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SERKAN YANIK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAŞ",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "RICARDO PEDRIEL SUAREZ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KALOĞLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MARCO FUTACS",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKÇEK VEDERSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "NGUIMBE PREJUCE NAKOULMA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "WELLITON SOARES MORAIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT CEYLAN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "WELLITON SOARES MORAIS",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SİNAN KALOĞLU",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MARCO FUTACS",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MILAN MITROVIC",
+                    "dakika": "19.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALTAY BAYINDIR",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO ANIBAL ISLA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MAX BENNET KRUSE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NABIL DIRAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LUIZ GUSTAVO DIAS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "GARRY MENDES RODRIGUES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "JAILSON MARQUES,SIQUEIRA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SIMON AUGUSTIN FALETTE",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TOLGAY ALİ ARSLAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT ERDİNÇ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FERDİ ERENAY KADIOĞLU",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MİHA ZAJC",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MURAT SAĞLAM",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ADIL RAMI",
+                    "formaNo": "34"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "ALTAY BAYINDIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "JAILSON MARQUES,SIQUEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TOLGA CİĞERCİ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GARRY MENDES RODRIGUES",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "NABIL DIRAR",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MEVLÜT ERDİNÇ",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "FERDİ ERENAY KADIOĞLU",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAX BENNET KRUSE",
+                    "dakika": "53.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JOSE CARLOS COENTRAO MARAFONA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "PAPISS DEMBA CISSE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ONUR BULUT",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "STEVEN ROY CAULKER",
+                    "formaNo": "44"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "WANDERSON DE SOUZA CARNEIRO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "EMİRCAN ALTINTAŞ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "YACINE BAMMOU",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "EROL BULUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SALİH UÇAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                },
+                {
+                    "oyuncu": "WELINTON SOUZA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "JOSE CARLOS COENTRAO MARAFONA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "EMMANOUIL SIOPIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "SALİH UÇAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PAPISS DEMBA CISSE",
+                    "dakika": "29.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

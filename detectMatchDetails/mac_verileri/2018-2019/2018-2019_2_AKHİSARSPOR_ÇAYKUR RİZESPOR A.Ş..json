@@ -1,0 +1,284 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSARSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "AVDIJA VRSAJEVIC",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YEVGEN SELEZNOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ABDOU LWAHID SISSOKO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOFI OKYERE WIAFE MANU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SERGIO ANTONIO BORGES JUNIOR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERAY ATASEVEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ONURCAN GÜLER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAFET SUSİÇ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YEVGEN SELEZNOV",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BİLAL KISA",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "AVDIJA VRSAJEVIC",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "dakika": "22.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ONURCAN GÜLER",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "22.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUSTAFA YUMLU",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JAKUB BRABEC",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MARWANE SAADANE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "MATIC FINK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SAMIR UJKANI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MONTASSAR OMAR TALBI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JAROSLAW PRZEMYSLAW JACH",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SÜLEYMAN KOÇ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SAYMAK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ARMAND MOUHAMED TRAORE",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE PETRUCCI",
+                    "formaNo": "8"
+                }
+            ],
+            "teknikSorumlu": [
+                "İBRAHİM ÜZÜLMEZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MATIC FINK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA SAYMAK",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "28.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

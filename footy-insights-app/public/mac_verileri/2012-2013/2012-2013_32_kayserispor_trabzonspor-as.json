@@ -1,0 +1,290 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "32"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "EREN GÜNGÖR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZURAB KHIZANISHVILI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DEYVISON ROGERIO DA SILVA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "BİLAL YENER ARICA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MIGUEL RIVEROS NUNEZ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "CLEYTON ALEXANDRE HENRIQUE SILVA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MARKO SIMIC",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BABACAR MBAYE DIOP",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "NURETTİN KAYAOĞLU",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ERDAL AKDARI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "RESUL ÖZGEN",
+                    "formaNo": "41"
+                }
+            ],
+            "teknikSorumlu": [
+                "ROBERT PROSINECKI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CRISTIAN MIGUEL RIVEROS NUNEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "MARKO SIMIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "BİLAL YENER ARICA",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "KAMİL AHMET ÇÖREKÇİ",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DEYVISON ROGERIO DA SILVA",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "REMZİ GİRAY KAÇAR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MAREK CECH",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DEGUY ALAIN DIDIER ZOKORA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "AYKUT AKGÜN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ADRIAN MIERZEJEWSKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "HALİL ALTINTOP",
+                    "formaNo": "21"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "ALAN CARLOS GOMES DA COSTA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "PAULO HENRIQUE CARNEIRO FILHO",
+                    "formaNo": "12"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA YUMLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "ONUR RECEP KIVRAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "REMZİ GİRAY KAÇAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "AYKUT AKGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "PAULO HENRIQUE CARNEIRO FILHO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "DEGUY ALAIN DIDIER ZOKORA",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ADRIAN MIERZEJEWSKI",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "PAULO HENRIQUE CARNEIRO FILHO",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ALAN CARLOS GOMES DA COSTA",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OLCAN ADIN",
+                    "dakika": "88.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

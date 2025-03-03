@@ -1,0 +1,272 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "OGNJEN VRANJES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ŞEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL JOHN CHIBUIKE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JUCIMAR LIMA PACHECO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO MARCAL DE OLIVEIRA",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA SEVİM",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SEYFETTİN SEDEF",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GBENGA AROKOYO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "FERHAT AYAZ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA DURAK",
+                    "formaNo": "21"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUTLU TOPÇU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERDEM ŞEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "MUHAMED ILDIZ",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "EMMANUEL JOHN CHIBUIKE",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO MARCAL DE OLIVEIRA",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GBENGA AROKOYO",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MUHAMED ILDIZ",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "MEHMET SEYFETTİN SEDEF",
+                    "dakika": "15.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "63.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM DAĞAŞAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MARKO SIMIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "VANDERLEY DIAS MARINHO",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYACAN ERDOĞAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ÖZBEK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DIEGO HIPOLITO DA SILVA LOPEZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AYEGBENI YAKUBU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "35"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FURKAN ÖZÇAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "MARKO SIMIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İBRAHİM DAĞAŞAN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA AKBAŞ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AYEGBENI YAKUBU",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "BERKAN EMİR",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

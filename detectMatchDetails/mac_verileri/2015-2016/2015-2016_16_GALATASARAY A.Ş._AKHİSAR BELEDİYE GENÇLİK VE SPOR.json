@@ -1,0 +1,269 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "38"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "JEM PAUL KARACAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JOSE RODRIGUEZ MARTINEZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "KORAY GÜNTER",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA DENİZLİ"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "OSMAN TARIK ÇAMDAL",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "JOSE RODRIGUEZ MARTINEZ",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "26.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "dakika": "39.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "56.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KONUK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LEOCISIO JULIO SAMI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET CEBE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JOEL LANDRY TSAFACK NGUEMO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR ÖZDEMİR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "LOMANA TRESOR LUALUA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "MERVAN ÇELİK",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "CİHAT ARSLAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İSMAİL KONUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "LEOCISIO JULIO SAMI",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BRUNO FERREIRA MOMBRA ROSA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LOMANA TRESOR LUALUA",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOEL LANDRY TSAFACK NGUEMO",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "74.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

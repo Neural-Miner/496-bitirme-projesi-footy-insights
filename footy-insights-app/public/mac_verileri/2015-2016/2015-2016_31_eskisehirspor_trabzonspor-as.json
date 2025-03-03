@@ -1,0 +1,270 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JORDI FIGUERAS MONTEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "KIVANÇ KARAKAŞ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "GORAN CAUSIC",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "MEHMET MURAT UÇAR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "TORNIKE OKRIASHVILI",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NADİR ÇİFTÇİ",
+                    "formaNo": "27"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SEZGİN COŞKUN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ ÖDEN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ANEL HADZİC",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "LOTETEKA BOKILA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AXEL MEYE ME NDONG",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KIVANÇ KARAKAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "ANEL HADZİC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KIVANÇ KARAKAŞ",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "NADİR ÇİFTÇİ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "TORNIKE OKRIASHVILI",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANEL HADZİC",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "LOTETEKA BOKILA",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "DORUKHAN TOKÖZ",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ENGİN BEKDEMİR",
+                    "dakika": "48.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS FRANCO TEIXEIRA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KARADENİZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET BEŞİR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MELİH KABASAKAL",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMİ MANDIRALI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "SEMİH KARADENİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "8.dk"
+                },
+                {
+                    "oyuncu": "AYKUT DEMİR",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "MELİH KABASAKAL",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

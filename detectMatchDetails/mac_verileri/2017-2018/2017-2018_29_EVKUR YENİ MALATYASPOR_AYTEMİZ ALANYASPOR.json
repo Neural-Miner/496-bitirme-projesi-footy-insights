@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "29"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "EVKUR YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL PEREIRA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KHALİD BOUTAIB",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OKECHUKWU GODSON AZUBUIKE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALY CİSSOKHO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ISSAM CHEBAKE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ARTURO RAFEAL MİNA MEZA",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FABİEN CEDDY FARNOLLE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MATHEUS DORIA MACEDO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EREN TOZLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BERK YILDIZ",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ISSIAR DIA",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO EMANUEL DENING",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "GILBERTO OLIVERA SOUZA JUNIOR",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE SADIO DIALLO",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "EROL BULUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "OKECHUKWU GODSON AZUBUIKE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "ARTURO RAFEAL MİNA MEZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "MICHAEL PEREIRA",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "GILBERTO OLIVERA SOUZA JUNIOR",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO EMANUEL DENING",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "IOANNIS MANIATIS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "DYANFRES DOUGLAS CHAGAS MATOS",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "FILIPE AUGUSTO CARVALHO SOUZA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERGES FLAVIER MBILLA ETAME",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO WANDERSON DO CARMO CARNEIRO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FOFANA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ BAŞDAŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LAMİNE GASSAMA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "IOANNIS MANIATIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "IOANNIS MANIATIS",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "DYANFRES DOUGLAS CHAGAS MATOS",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FRANCISCO WANDERSON DO CARMO CARNEIRO",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "CENK AHMET ALKILIÇ",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "SERGES FLAVIER MBILLA ETAME",
+                    "dakika": "58.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "WELINTON SOUZA SILVA",
+                    "dakika": "90+3.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

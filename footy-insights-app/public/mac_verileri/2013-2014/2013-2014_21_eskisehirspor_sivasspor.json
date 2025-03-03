@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SEZGİN COŞKUN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO DE DEUS SANTOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ADEWOLE RAHEEM LAWAL",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERMAN KILIÇ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "HENRİ BİENVENU NTSAMA",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SİNAN ÖREN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "SERVET ÇETİN",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "ONUR BAYRAMOĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ERKUT ŞENTÜRK",
+                    "formaNo": "19"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERTUĞRUL SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "LEONARDO DE DEUS SANTOS",
+                    "dakika": "25.dk"
+                },
+                {
+                    "oyuncu": "ADEWOLE RAHEEM LAWAL",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR ÇEK",
+                    "dakika": "25.dk"
+                },
+                {
+                    "oyuncu": "ONUR BAYRAMOĞLU",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HENRİ BİENVENU NTSAMA",
+                    "dakika": "18.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT BEZGİN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "CICERO JOAO DE CESARE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MANUEL MROUAN DA COSTA TRINDADE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "82"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ TEWFİK TAOUIL",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FATİH KIRAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CİHAN ÖZKARA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET ŞAHBAZ",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÖZTÜRK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "CHUKWUDI JOHN UTAKA",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "CESAR DOMİNGO MENDİONDO LOPEZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "CHUKWUDI JOHN UTAKA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CHUKWUDI JOHN UTAKA",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "CİHAN ÖZKARA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "AYKUT ÖZTÜRK",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "dakika": "69.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

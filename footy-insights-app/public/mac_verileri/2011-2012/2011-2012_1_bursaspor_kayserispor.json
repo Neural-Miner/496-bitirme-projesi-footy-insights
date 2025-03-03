@@ -1,0 +1,269 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SCOTT PAUL CARSON",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL BASSER CHRETIEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "TURGAY BAHADIR",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ALFRED JOHN MOMAR NDIAYE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OZAN İPEK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "PABLO MARTIN BATALLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "IBRAHIM TETEH BANGURA",
+                    "formaNo": "19"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ ÖZKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MILAN STEPANOV",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "AHMET ARI",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "FEDERICO INSUA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN SAL",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ERDOĞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "PRINCE TAGOE",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERTUĞRUL SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKÇEK VEDERSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "PABLO MARTIN BATALLA",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "IBRAHIM TETEH BANGURA",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MILAN STEPANOV",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "FEDERICO INSUA",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "PRINCE TAGOE",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OZAN İPEK",
+                    "dakika": "34.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "GÖKÇEK VEDERSON",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "PABLO MARTIN BATALLA",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EREN GÜNGÖR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZURAB KHIZANISHVILI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JAMES TROİSİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ÜNAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FRANCO DARIO CANGELE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "NOUREDDINE AMRABAT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MIGUEL RIVEROS NUNEZ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "PETER PEKARIK",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NICOLAS GASTON NAVARRO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İLHAN EKER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JONATHAN SANTANA GEHRE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "JONATHAN SANTANA GEHRE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "FRANCO DARIO CANGELE",
+                    "dakika": "33.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JONATHAN SANTANA GEHRE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "33.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MANİSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TOK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İSMAİL GÖKOĞLAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JOSHUA CHRISTOPHER SIMPSON",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MURAT ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER AYSAN BARIŞ",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL WLADYSLAW KLUKOWSKI",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "AZIZA MAKUKULA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JIMMY DIXON",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YİĞİT İNCEDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "ÖMER AYSAN BARIŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "YİĞİT İNCEDEMİR",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "JOSHUA CHRISTOPHER SIMPSON",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NİZAMETTİN ÇALIŞKAN",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "dakika": "5.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NICOLAS GASTON NAVARRO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EREN GÜNGÖR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZURAB KHIZANISHVILI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ÜNAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NOUREDDINE AMRABAT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JONATHAN SANTANA GEHRE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MIGUEL RIVEROS NUNEZ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "PETER PEKARIK",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "OKAN ALKAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "İLHAN EKER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "NADİR ÇİFTÇİ",
+                    "formaNo": "24"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZURAB KHIZANISHVILI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "JONATHAN SANTANA GEHRE",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "NOUREDDINE AMRABAT",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NADİR ÇİFTÇİ",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "FURKAN ÖZÇAL",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

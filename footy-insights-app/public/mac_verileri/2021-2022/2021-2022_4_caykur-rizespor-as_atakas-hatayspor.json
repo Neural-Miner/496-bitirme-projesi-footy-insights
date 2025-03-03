@@ -1,0 +1,314 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RASMUS SEBASTIAN HOLMEN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DAMJAN DOKOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TYLER DOMINIC BOYD",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JOEL JULIUS ILMARI POHJANPALO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "LEBOGANG LELANI PHIRI",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FABRICIO SANTOS DE JESUS",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "BOLASIE YALA",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CEMALİ SERTEL",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "LOİC ALEX TELİERE HUBERT REMY",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENİZ HÜMMET",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN TOPÇU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ALBERK KOÇ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ERİK SABO",
+                    "formaNo": "52"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT UYGUN"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "CEMALİ SERTEL",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "TYLER DOMINIC BOYD",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "LEBOGANG LELANI PHIRI",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "JOEL JULIUS ILMARI POHJANPALO",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DENİZ HÜMMET",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "EMİRHAN TOPÇU",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ERİK SABO",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUNIR MOHAND MOHAMEDI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BURAK ÖKSÜZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "FATİH KURUCUK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL AYOMIDE ADEKUGBE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ONUR ERGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ADAMA TRAORE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MOHAMMED KESSELLY KAMARA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "AYOUB EL KAABİ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MAME BIRAM DIOUF",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULLAH YİĞİTER",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "EREN FANSA",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "BURAK CAN ÇAMOĞLU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SADIK BAŞ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED MERT",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DYLAN CYPRİEN SAINT LOUIS",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ BOUDJEMAA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "61"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÖMER ERDOĞAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ONUR ERGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "MAME BIRAM DIOUF",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ADAMA TRAORE",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MOHAMMED KESSELLY KAMARA",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL AYOMIDE ADEKUGBE",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHDİ BOUDJEMAA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ISAAC SACKEY",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "BÜLENT CEVAHİR",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DYLAN CYPRİEN SAINT LOUIS",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAME BIRAM DIOUF",
+                    "dakika": "80.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "AYOUB EL KAABİ",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

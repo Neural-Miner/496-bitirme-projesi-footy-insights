@@ -1,0 +1,280 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BOY WATERMAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH ENEOJO AKPALA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LOMANA TRESOR LUALUA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "79"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "JUGURTHA HAMROUN",
+                    "formaNo": "39"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERKAN KAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "FURKAN ÖZÇAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "LOMANA TRESOR LUALUA",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FURKAN ÖZÇAL",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "BEYKAN ŞİMŞEK",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "40.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "LARRYS DESTIN MABIALA",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KORAY ALTINAY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALI ADNAN KADHIM AL TAMEEMI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "CUMALİ BİŞİ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KIVANÇ KARAKAŞ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "LUDOVIC SYLVESTRE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "UCHE KALU",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NECATİ YILMAZ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "SEZER ÖZMEN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CENK GÜVENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN BERBER",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DAVID ALBERTO DEPETRIS",
+                    "formaNo": "32"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ORHAN OVACIKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "KIVANÇ KARAKAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "OUSMANE VIERA DIARRASSOUBA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CENK AHMET ALKILIÇ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "CUMALİ BİŞİ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "UCHE KALU",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ORHAN OVACIKLI",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "EREN ALBAYRAK",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "DAVID ALBERTO DEPETRIS",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TEVFİK KÖSE",
+                    "dakika": "69.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

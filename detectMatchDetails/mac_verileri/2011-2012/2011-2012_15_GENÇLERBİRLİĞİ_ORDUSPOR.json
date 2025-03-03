@@ -1,0 +1,278 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "15"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SEYFETTİN SEDEF",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "DEBATIK CURRI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "RANDALL AZOFEIFA CORRALES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HURŞUT MERİÇ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HERVE GERMAIN TUM",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "İHSAN BURAK ÖZSARAÇ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "JOACHIM LUBANGWANA MUNUNGA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET SEYFETTİN SEDEF",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HURŞUT MERİÇ",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "RANDALL AZOFEIFA CORRALES",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JOACHIM LUBANGWANA MUNUNGA",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKGÜN",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HERVE GERMAIN TUM",
+                    "dakika": "59.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "MURAT KALKAN",
+                    "formaNo": "69"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ONUR TUNCER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "GOSSO JEAN JACQUES GOSSO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JUAN EMMANUEL CULİO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "FATİH TEKKE",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "İRFAN BAŞARAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "WILFRIED DALMAT",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MÜSLÜM YELKEN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TOBIAS NICKENIG",
+                    "formaNo": "3"
+                }
+            ],
+            "teknikSorumlu": [
+                "METİN DİYADİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SEDAT BAYRAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ONUR TUNCER",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "ABDURRAHMAN DERELİ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "TOBIAS NICKENIG",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "WILFRIED DALMAT",
+                    "dakika": "55.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JUAN EMMANUEL CULİO",
+                    "dakika": "46.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YALÇIN AYHAN",
+                    "dakika": "89.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

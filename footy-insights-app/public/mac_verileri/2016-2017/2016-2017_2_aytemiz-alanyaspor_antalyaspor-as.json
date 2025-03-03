@@ -1,0 +1,261 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERHAN KARTAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "CARLOS GARCIA BADIAS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE BA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ISMAİL AİSSATİ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "WILDE DONALD GUERRIER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "SAJAD SHAHBAZZADEHGALINBOLAGH",
+                    "formaNo": "8"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZDENEK ZLAMAL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BİROL PARLAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DENİZ VURAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FOFANA",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "JONATHAN SERGE FOLLY AYITE",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "HÜSEYİN KALPAR"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ISMAİL AİSSATİ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "SAJAD SHAHBAZZADEHGALINBOLAGH",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MAYELE FABRİCE NSAKALA",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DENİZ VURAL",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "JONATHAN SERGE FOLLY AYITE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BERKAN EMİR",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "WILDE DONALD GUERRIER",
+                    "dakika": "61.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "JONATHAN SERGE FOLLY AYITE",
+                    "dakika": "90+3.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN ŞİMŞEK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "RAMON DE MORAES MOTTA",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SERGES FLAVIER MBILLA ETAME",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "KENAN HORIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MILAN JEVTOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AMADAIYA RENNIE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "JEAN II MAKOUN",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MILAN JEVTOVIC",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "EMRE GÜRAL",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "5.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

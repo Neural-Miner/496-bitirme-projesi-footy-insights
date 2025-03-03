@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "VINCENTE ALFREDO MONJE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ROVERSIO  RODRIGUES DE BARROS",
+                    "formaNo": "84"
+                },
+                {
+                    "oyuncuAdi": "MÜSLÜM YELKEN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JAVIER HORACIO UMBIDES",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇÖKMÜŞ",
+                    "formaNo": "85"
+                },
+                {
+                    "oyuncuAdi": "ATİLA TURAN",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL ANGELO MOITA GARCIA",
+                    "formaNo": "15"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DAVID BARRAL TORRES",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALP KULGA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MURAT TORUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JAIME ROMERO GOMEZ",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "ANIL TAŞDEMİR",
+                    "formaNo": "21"
+                }
+            ],
+            "teknikSorumlu": [
+                "HECTOR RAUL CUPER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MÜSLÜM YELKEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL ANGELO MOITA GARCIA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "JAIME ROMERO GOMEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MÜSLÜM YELKEN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "VINCENTE ALFREDO MONJE",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "DAVID BARRAL TORRES",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "JAIME ROMERO GOMEZ",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JAVIER HORACIO UMBIDES",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MÜSLÜM YELKEN",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DEBATIK CURRI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "RANDALL AZOFEIFA CORRALES",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BJÖRN VLEMINCKX",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "HURŞUT MERİÇ",
+                    "formaNo": "17"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "EHIOSUN EKIGHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇAPA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ARTUN AKÇAKIN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LEKIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FATİH SERKAN KURTULUŞ",
+                    "formaNo": "16"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANTE KULUSIC",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "RADOSAV PETROVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "BJÖRN VLEMINCKX",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "DEBATIK CURRI",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "BJÖRN VLEMINCKX",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EHIOSUN EKIGHO",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ARTUN AKÇAKIN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LEKIC",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DEJAN LEKIC",
+                    "dakika": "71.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

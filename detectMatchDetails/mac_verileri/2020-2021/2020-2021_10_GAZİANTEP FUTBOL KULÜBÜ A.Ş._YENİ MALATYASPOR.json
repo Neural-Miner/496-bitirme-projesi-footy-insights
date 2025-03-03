@@ -1,0 +1,356 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "10"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ CEYLAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EL HADJI PAPY MISON DJILOBODJI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JEAN ARMEL KANA BIYIK",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "ALIN DORINEL TOŞCA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU IULIAN MAXIM",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "PAWEL MIROSLAW OLKOWSKI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "KEVIN ANTONIO J. MIRALLAS Y CASTILLO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ANDRE ALEXANDRE CARREIRA DE SOUSA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "7"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÇAĞLAR ŞAHİN AKBABA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY AKTAŞ",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ERDEM UĞURLU",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AMEDEJ VETRİH",
+                    "formaNo": "74"
+                },
+                {
+                    "oyuncuAdi": "JEFFERSON NOGUEIRA JUNIOR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ZVONIMIR KOZULJ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ANDRE FELIPE RIBEIRO DE SOUZA",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "MARIUS NINEL ŞUMUDICA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+4.dk"
+                },
+                {
+                    "oyuncu": "OĞUZ CEYLAN",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "48.dk"
+                },
+                {
+                    "oyuncu": "ALIN DORINEL TOŞCA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDRU IULIAN MAXIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "ANDRE ALEXANDRE CARREIRA DE SOUSA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDRU IULIAN MAXIM",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "KEVIN ANTONIO J. MIRALLAS Y CASTILLO",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANDRE FELIPE RIBEIRO DE SOUZA",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "AMEDEJ VETRİH",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "ENVER CENK ŞAHİN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "JEFFERSON NOGUEIRA JUNIOR",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "KEVIN ANTONIO J. MIRALLAS Y CASTILLO",
+                    "dakika": "19.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "JEAN ARMEL KANA BIYIK",
+                    "dakika": "74.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ABDULSAMED DAMLU",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AFRIYIE ACQUAH",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "WALLACE FORTUNA DOS SANTOS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BENJAMIN TETTEH",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "YOUSSUF NDAYISHIMIYE",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "ISSAM CHEBAKE",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BERK YILDIZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO RUBEN ZUQUI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TEENAGE LINGANI HADEBE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "JETMİR TOPALLİ",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KUBİLAY KANATSIZKUŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "AFRIYIE ACQUAH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "KUBİLAY KANATSIZKUŞ",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "ISSAM CHEBAKE",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "YOUSSUF NDAYISHIMIYE",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMED ILDIZ",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA ESKİHELLAÇ",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "JETMİR TOPALLİ",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "50.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JETMİR TOPALLİ",
+                    "dakika": "90+5.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

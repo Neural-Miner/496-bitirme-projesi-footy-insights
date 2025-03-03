@@ -1,0 +1,308 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "14"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MARTIN LINNES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ARMINDO TUE NA BANGNA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LIONEL JULES CAROLE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "NİGEL DE JONG",
+                    "formaNo": "34"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HAMİT ALTINTOP",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EREN DERDİYOK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "LUIS PEDRO CAVANDA",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "JOHANNES HENDRİKUS OLDE RİEKERİNK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SELÇUK İNAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ARMINDO TUE NA BANGNA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "47.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MARTIN LINNES",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SEMİH KAYA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "EREN DERDİYOK",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SABRİ SARIOĞLU",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "12.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "90+4.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "83"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DOĞANAY KILIÇ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EVANS KANGWA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BRUNO DA MOTA MIRANDA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FATAU MOHOMED",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "NABIL GHILAS",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI KISLIAK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "N'GUESSAN DAVY CLAUDE ANGAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FRANTISEK RAJTORAL",
+                    "formaNo": "27"
+                }
+            ],
+            "teknikSorumlu": [
+                "TAHSİN TAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDULLAH ELYASA SÜME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DOĞANAY KILIÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "EVANS KANGWA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "FATAU MOHOMED",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DOĞANAY KILIÇ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "EVANS KANGWA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "BRUNO DA MOTA MIRANDA",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "N'GUESSAN DAVY CLAUDE ANGAN",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ABDULLAH ELYASA SÜME",
+                    "dakika": "74.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

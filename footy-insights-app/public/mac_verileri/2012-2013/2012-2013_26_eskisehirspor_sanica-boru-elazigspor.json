@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "26"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO DE DEUS SANTOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HÜRRİYET GÜCER",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "10"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SİNAN ÖREN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "SEROL DEMİRHAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "GORAN CAUSIC",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ATDHE NUHIU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OSMAN TARIK ÇAMDAL",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ATDHE NUHIU",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR ÇEK",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "dakika": "13.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "90+2.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SANİCA BORU ELAZIĞSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN AK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KALOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EREN AYDIN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "IVAN SESAR",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "FABIO ALVES DA SILVA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "TIDIANE SANE",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ÖZGEN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ÇAKIR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SARP",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKYÜZ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ALPER KALEMCİ",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT ERTUĞRUL",
+                    "formaNo": "20"
+                }
+            ],
+            "teknikSorumlu": [
+                "YILMAZ VURAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA SARP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SİNAN KALOĞLU",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "IVAN SESAR",
+                    "dakika": "34.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET ÇAKIR",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "BÜLENT ERTUĞRUL",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA SARP",
+                    "dakika": "34.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "KÖKSAL YEDEK",
+                    "dakika": "42.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "74.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

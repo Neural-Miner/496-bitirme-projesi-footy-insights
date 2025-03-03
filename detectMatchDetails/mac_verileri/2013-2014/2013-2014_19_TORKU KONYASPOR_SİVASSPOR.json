@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "19"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TORKU KONYASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CHARLES HUBERT ITANDJE",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ERGÜN TEBER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ALIAKSANDR HLEB",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "THEOFANIS GKEKAS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "TOMAS BOREK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOKALOVIC",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ERDİNÇ YAVUZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "YUNUS EMRE YALÇIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ESENKAYA",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERDAL KILIÇASLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "THEOFANIS GKEKAS",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ALIAKSANDR HLEB",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERDAL KILIÇASLAN",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ERDİNÇ YAVUZ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "dakika": "6.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "25.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "THEOFANIS GKEKAS",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "CICERO JOAO DE CESARE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MANUEL MROUAN DA COSTA TRINDADE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "82"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "PEDRO HENRIQUE OLDONI DO NASCIMENTO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "CİHAN ÖZKARA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JAKUB NAVRATIL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "AHMET ŞAHBAZ",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ TEWFİK TAOUIL",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "CESAR DOMİNGO MENDİONDO LOPEZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ÜMİT KURT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "KADİR BEKMEZCİ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CİHAN ÖZKARA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "PEDRO HENRIQUE OLDONI DO NASCIMENTO",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

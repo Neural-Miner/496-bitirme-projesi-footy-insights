@@ -1,0 +1,309 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÖZNUR KABLO YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "OUSSAMA HADADI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AABID RAYANE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "IBRAHİM DİDİER NDONG",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "WALLACE FORTUNA DOS SANTOS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "BENJAMIN TETTEH",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MOUNIR CHOUIAR",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "STEPHEN PATRICK MALLAN",
+                    "formaNo": "14"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET EYÜP TÜRKASLAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "PHILIP GAMELI AWUKU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MERT ÖRNEK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAQI OSMAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "WALTER BINENE SABWA BWALYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED EMİN SARIKAYA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "İRFAN BUZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SADIK ÇİFTPINAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA ESKİHELLAÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BENJAMIN TETTEH",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "STEPHEN PATRICK MALLAN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MOUNIR CHOUIAR",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "WALTER BINENE SABWA BWALYA",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "HAQI OSMAN",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS GOUTAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLARENWAJU AYOBAMI KAYODE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JORGE FELIX MUNOZ GARCIA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "PEDRO HENRIQUE KONZEN MEDINA DA SILVA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FAYCAL FAJR",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "KEREM ATAKAN KESGİN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK STENSOE ULVESTAD",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OKECHUKWU GODSON AZUBUIKE",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ALBAYRAK",
+                    "formaNo": "96"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "FAYCAL FAJR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "OLARENWAJU AYOBAMI KAYODE",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "PEDRO HENRIQUE KONZEN MEDINA DA SILVA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "JORGE FELIX MUNOZ GARCIA",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "FREDRIK STENSOE ULVESTAD",
+                    "dakika": "57.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIMITRIOS GOUTAS",
+                    "dakika": "70.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

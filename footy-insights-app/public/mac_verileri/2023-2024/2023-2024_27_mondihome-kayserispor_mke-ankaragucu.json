@@ -1,0 +1,364 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "27"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MONDİHOME KAYSERİSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BİLAL BAYAZIT",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN CİVELEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL FILIPE NUNES CARDOSO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KARTAL KAYRA YILMAZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DUCKENS  NAZON",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ BOURABIA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SAZDAĞI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LIONEL JULES CAROLE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ARİF KOCAMAN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "AYLTON FILIPE BOA MORTE",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "JULIAN MARC JEANVIER",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ONURCAN PİRİ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH LARWEH ATTAMAH",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS KOLOVETSIOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE CEDRIC BAHOKEN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ERAY ÖZBEK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "CARLOS MANUEL CARDOSO MANE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "TALHA SARIARSLAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "OTABEK SHUKUROV",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "YAW ACKAH",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "HARI VUKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RAMAZAN CİVELEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+5.dk"
+                },
+                {
+                    "oyuncu": "ARİF KOCAMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "10.dk"
+                },
+                {
+                    "oyuncu": "CARLOS MANUEL CARDOSO MANE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "AYLTON FILIPE BOA MORTE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RAMAZAN CİVELEK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ARİF KOCAMAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LIONEL JULES CAROLE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL FILIPE NUNES CARDOSO",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DUCKENS  NAZON",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CARLOS MANUEL CARDOSO MANE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DIMITRIOS KOLOVETSIOS",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "HASAN ALİ KALDIRIM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "STEPHANE CEDRIC BAHOKEN",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "OTABEK SHUKUROV",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DUCKENS  NAZON",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JULIAN MARC JEANVIER",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CARLOS MANUEL CARDOSO MANE",
+                    "dakika": "90+3.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BAHADIR HAN GÜNGÖRDÜ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN RIDVAN ÇANKAYA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NIHAD MUJAKIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UROS RADAKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "YILDIRIM MERT ÇETİN",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN   MOUGANG BASSOGOG",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "PEDRO FILIPE BARBOSA MOREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ALI SOWE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EFKAN BEKİROĞLU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS CHATZIGIOVANIS",
+                    "formaNo": "7"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HAYRULLAH BİLAZER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "KAZIMCAN KARATAŞ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ARDA ÜNYAY",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ALİ KAAN GÜNEREN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RICCARDO SAPONARA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ALEXIS LAURENT PATRICE ROGER FLIPS",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OLIMPIU VASILE MORUTAN",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "RENALDO SHOWAYNE CEPHAS",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "EMRE BELÖZOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ATAKAN RIDVAN ÇANKAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+5.dk"
+                },
+                {
+                    "oyuncu": "ALI SOWE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "UROS RADAKOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ALI SOWE",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS CHATZIGIOVANIS",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "NIHAD MUJAKIC",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "CHRISTIAN   MOUGANG BASSOGOG",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALİ KAAN GÜNEREN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "KAZIMCAN KARATAŞ",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "OLIMPIU VASILE MORUTAN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "RENALDO SHOWAYNE CEPHAS",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CHRISTIAN   MOUGANG BASSOGOG",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "45+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

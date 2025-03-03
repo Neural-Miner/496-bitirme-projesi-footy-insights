@@ -1,0 +1,297 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "29"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MILAN BORJAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ERMAN KILIÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL ENERAMO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JAKUB NAVRATIL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ARKADIUSZ PIECH",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "UĞUR KAVUK",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET NAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RICARDO PEDRIEL SUAREZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KAMIL PAWEL GROSICKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KAAN KILCI",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR KAVUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "MICHAEL ENERAMO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM KOÇAK",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ARKADIUSZ PIECH",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KAMIL PAWEL GROSICKI",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "KADİR BEKMEZCİ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RANDALL AZOFEIFA CORRALES",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ARTUN AKÇAKIN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR İLERİ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "DEBATIK CURRI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÖZKAN KARABULUT",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HURŞUT MERİÇ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LEKIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇAPA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KERİM ZENGİN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EHIOSUN EKIGHO",
+                    "formaNo": "12"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RAMAZAN KÖSE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "AYKUT DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "DUSKO TOSIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ARTUN AKÇAKIN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DEBATIK CURRI",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "NEMANJA TOMIC",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DEJAN LEKIC",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "HURŞUT MERİÇ",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "16.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "RAMAZAN KÖSE",
+                    "dakika": "76.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

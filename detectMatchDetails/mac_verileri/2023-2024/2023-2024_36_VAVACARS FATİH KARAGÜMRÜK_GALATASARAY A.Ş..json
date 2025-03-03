@@ -1,0 +1,319 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "36"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "VAVACARS FATİH KARAGÜMRÜK"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SALVATORE SIRIGU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "MARCUS CHRISTER ROHDEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CAN KELEŞ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN EYSSERIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MÜNİR LEVENT MERCAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RYAN ISAAC MENDES",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS  KOURMPELIS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KORAY GÜNTER",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "FEDERICO CECCHERINI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MARCOS VINICIUS DO AMARAL ALVES",
+                    "formaNo": "70"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRE BİLGİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE BIRASCHI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN YALÇIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KEVIN  LASAGNA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EMİR TİNTİŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ADNAN UĞUR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "FLAVIO PAOLETTI",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "TONIO TEKLIC",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RYAN ISAAC MENDES",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "NAZIM SANGARE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DIMITRIOS  KOURMPELIS",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MARCUS CHRISTER ROHDEN",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KEVIN  LASAGNA",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "DAVIDE BIRASCHI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "FLAVIO PAOLETTI",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RYAN ISAAC MENDES",
+                    "dakika": "34.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MARCOS VINICIUS DO AMARAL ALVES",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KEREM DEMİRBAY",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MAURO EMANUEL ICARDI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DRIES MERTENS",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DERRICK ARTHUR KÖHN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKIM ZIYECH",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "KAAN AYHAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "VICTOR ENOK NELLSON",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LUCAS SEBASTIAN TORREIRA DI PASCUA",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKERİM BARDAKCI",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ALPER YILMAZ",
+                    "formaNo": "53"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EYÜP AYDIN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DAVINSON SANCHEZ MINA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DAZET WILFRIED ARMEL ZAHA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BERKAN İSMAİL KUTLU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MATEUS CARDOSO LEMOS MARTINS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "TANGUY NDOMBELE ALVARO",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "SERGE ALAIN STEPHANE AURIER",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "CARLOS VINICIUS ALVES MORAIS",
+                    "formaNo": "95"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDÜLKERİM BARDAKCI",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "KEREM DEMİRBAY",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ ALPER YILMAZ",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "DRIES MERTENS",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "HAKIM ZIYECH",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DAVINSON SANCHEZ MINA",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "BERKAN İSMAİL KUTLU",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "DAZET WILFRIED ARMEL ZAHA",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "SERGE ALAIN STEPHANE AURIER",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BARIŞ ALPER YILMAZ",
+                    "dakika": "45+4.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DRIES MERTENS",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BERKAN İSMAİL KUTLU",
+                    "dakika": "90.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

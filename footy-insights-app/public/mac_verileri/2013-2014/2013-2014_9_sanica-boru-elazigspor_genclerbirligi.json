@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "9"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SANİCA BORU ELAZIĞSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "DENİZ ASLAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM KAŞ",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÖZKAYA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "PAPE HABIB SOW",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "VİCTOR JAVİER ANİNO BERMUDEZ",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "TIDIANE SANE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "YOUSSOUF HADJI",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NOYAN ÖZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "LUKE ISAAC MOORE",
+                    "formaNo": "28"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MÜCAHİT ATALAY",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FABIO ALVES DA SILVA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "HAKAN SÖYLER",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "MEHMET NAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "32"
+                }
+            ],
+            "teknikSorumlu": [
+                "TROND JOHAN SOLLİED"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖZGÜR ÖZKAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "8.dk"
+                },
+                {
+                    "oyuncu": "VİCTOR JAVİER ANİNO BERMUDEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "PAPE HABIB SOW",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "YOUSSOUF HADJI",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "VİCTOR JAVİER ANİNO BERMUDEZ",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KÖKSAL YEDEK",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "MEHMET NAS",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "42.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR İLERİ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "GOSSO JEAN JACQUES GOSSO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FATİH SERKAN KURTULUŞ",
+                    "formaNo": "16"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "DENİZ NAKİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SERKAN YANIK",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MERVAN ÇELİK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OKTAY DELİBALTA",
+                    "formaNo": "13"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SEDAT BAYRAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "14.dk"
+                },
+                {
+                    "oyuncu": "GOSSO JEAN JACQUES GOSSO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖZGÜR İLERİ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "JAKUP JİMMY DURMAZ",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "NEMANJA TOMIC",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "OKTAY DELİBALTA",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SEDAT BAYRAK",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

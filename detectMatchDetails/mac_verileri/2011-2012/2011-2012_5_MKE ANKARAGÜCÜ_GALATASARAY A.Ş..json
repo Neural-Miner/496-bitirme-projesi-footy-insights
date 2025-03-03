@@ -1,0 +1,280 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ÖZDEN ÖNGÜN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "HÜRRİYET GÜCER",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "EDİZ BAHTİYAROĞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TONIA D. TISDELL",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "KAĞAN SÖYLEMEZGİLLER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "TURGUT DOĞAN ŞAHİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ERGİN KELEŞ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "AYDIN TOSCALI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "JAN RAJNOCH",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BAYRAM OLGUN",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH KESEROĞLU",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "ORHAN EVCİ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "UMUT SÖZEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN VAROL",
+                    "formaNo": "19"
+                }
+            ],
+            "teknikSorumlu": [
+                "ZİYAEDDİN DOĞAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AYDIN TOSCALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "EDİZ BAHTİYAROĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "KAĞAN SÖYLEMEZGİLLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERGİN KELEŞ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "KAĞAN SÖYLEMEZGİLLER",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UMUT SÖZEN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "GÜVEN VAROL",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JAN RAJNOCH",
+                    "dakika": "12.dk",
+                    "golTipi": "K"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ZAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOHAN ERİK CALVİN ELMANDER",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FELIPE MELO DE CARVALHO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALBERT RIERA ORTEGA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOMAS UJFALUSİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BAYTAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "KAZIM KAZIM",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AYKUT ERÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MILAN BAROS",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL EBOUE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SERVET ÇETİN",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KAZIM KAZIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MILAN BAROS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ENGİN BAYTAR",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "JOHAN ERİK CALVİN ELMANDER",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ALBERT RIERA ORTEGA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MILAN BAROS",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "EMMANUEL EBOUE",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "KAZIM KAZIM",
+                    "dakika": "20.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MILAN BAROS",
+                    "dakika": "85.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

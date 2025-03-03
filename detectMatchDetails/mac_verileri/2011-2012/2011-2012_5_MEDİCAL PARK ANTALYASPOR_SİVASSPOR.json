@@ -1,0 +1,280 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ÖMER ÇATKIÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM DAĞAŞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUSA AYDIN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "VESELIN MILCHEV MINEV",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ALİ TANDOĞAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "POLAT KESER",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ERKAN SEKMAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SEDAT AĞÇAY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN ATALAY",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "IVAN RADELJIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YILMAZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İBRAHİM DAĞAŞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "ALİ TURAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UĞUR İNCEMAN",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "MUSA AYDIN",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SEDAT AĞÇAY",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "29.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "60.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ATİLLA KOCA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET NAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KAMIL PAWEL GROSICKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERMAN KILIÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RASMUSSEN MORTEN NİCOLAS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL ENERAMO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JAKUB NAVRATIL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HAYRETTİN YERLİKAYA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "UĞUR KAVUK",
+                    "formaNo": "67"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SANDRO DA SILVA MENDONÇA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MILAN CERNY",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "CİHAN ÖZKARA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "CİHAN YILMAZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "KAĞAN TİMURCİN KONUK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SOULEYMANE KEITA",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR KAVUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "MILAN CERNY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET NAS",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "RASMUSSEN MORTEN NİCOLAS",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CİHAN ÖZKARA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MILAN CERNY",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "CİHAN YILMAZ",
+                    "dakika": "53.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "KAMIL PAWEL GROSICKI",
+                    "dakika": "6.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MICHAEL ENERAMO",
+                    "dakika": "79.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

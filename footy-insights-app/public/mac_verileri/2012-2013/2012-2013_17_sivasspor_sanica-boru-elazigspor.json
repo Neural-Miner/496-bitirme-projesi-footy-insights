@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MILAN BORJAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RICARDO PEDRIEL SUAREZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ERMAN KILIÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL ENERAMO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JAKUB NAVRATIL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "JAN RAJNOCH",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "UĞUR KAVUK",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA KOCA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "MEHMET NAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR ÖZGEN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "KAMIL PAWEL GROSICKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERHAN GÜVEN",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "HAYRETTİN YERLİKAYA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "KAAN KILCI",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JAN RAJNOCH",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UĞUR KAVUK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERHAN GÜVEN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "KAMIL PAWEL GROSICKI",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "MEHMET NAS",
+                    "dakika": "55.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "dakika": "18.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "dakika": "20.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MEHMET NAS",
+                    "dakika": "81.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SANİCA BORU ELAZIĞSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN AK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GÖKSU TÜRKDOĞAN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT ERTUĞRUL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SEZER BADUR",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "FABIO ALVES DA SILVA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "MARVİN ROMEO KWASİE",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET ŞAHİN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "PASCAL FEINDOUNO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ARİF ŞAHİN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMET GÖRKEM GÖRK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MURAT KAYALI",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CANER BULUT",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "COŞKUN YILDIZ",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "YILMAZ VURAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KÖKSAL YEDEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ORHAN AK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "BÜLENT ERTUĞRUL",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "GÖKSU TÜRKDOĞAN",
+                    "dakika": "31.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CANER BULUT",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "MURAT KAYALI",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "PASCAL FEINDOUNO",
+                    "dakika": "31.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PASCAL FEINDOUNO",
+                    "dakika": "34.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

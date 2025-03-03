@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "AYKUT ERÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ZAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOHAN ERİK CALVİN ELMANDER",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FELIPE MELO DE CARVALHO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALBERT RIERA ORTEGA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOMAS UJFALUSİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BAYTAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "KAZIM KAZIM",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞLAR BİRİNCİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MILAN BAROS",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ENGİN BAYTAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "SELÇUK İNAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "SABRİ SARIOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "17.dk"
+                },
+                {
+                    "oyuncu": "KAZIM KAZIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ENGİN BAYTAR",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "KAZIM KAZIM",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ALBERT RIERA ORTEGA",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YEKTA KURTULUŞ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÖKHAN ZAN",
+                    "dakika": "26.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "FELIPE MELO DE CARVALHO",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SEZGİN COŞKUN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO DE DEUS SANTOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SAFET NADAREVİÇ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YILDIZ",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYACAN ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT ERTUĞRUL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "VİTOR HUGO GOMES PASSOS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "KRIS BOYD",
+                    "formaNo": "83"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZBAYRAKTAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                }
+            ],
+            "teknikSorumlu": [
+                "MICHAEL HEINZ SKIBBE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KORAY ARSLAN",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "MEHMET YILDIZ",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZBAYRAKTAR",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "VİTOR HUGO GOMES PASSOS",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

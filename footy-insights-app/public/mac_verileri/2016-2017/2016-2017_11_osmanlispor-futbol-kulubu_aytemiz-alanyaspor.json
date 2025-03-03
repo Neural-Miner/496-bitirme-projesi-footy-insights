@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "VACLAV PROCHAZKA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DELARGE DZON",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AVDIJA VRSAJEVIC",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "LUKASZ SZUKALA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RAUL ANDREI RUSESCU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ADAM MAHER",
+                    "formaNo": "93"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA REŞİT AKÇAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NUMAN ÇÜRÜKSU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "10.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "DELARGE DZON",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ERDAL KILIÇASLAN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "ADAM MAHER",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "34.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZDENEK ZLAMAL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JONATHAN SERGE FOLLY AYITE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "NURU SULEY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE BA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "WILDE DONALD GUERRIER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "VAGNER SILVA DE SOUZA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BİROL PARLAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ISMAİL AİSSATİ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "HÜSEYİN KALPAR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JONATHAN SERGE FOLLY AYITE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAYE BA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MAYELE FABRİCE NSAKALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "JONATHAN SERGE FOLLY AYITE",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ISAAC SACKEY",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TAHA YALÇINER",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ISMAİL AİSSATİ",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

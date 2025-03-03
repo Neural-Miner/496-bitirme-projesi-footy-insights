@@ -1,0 +1,324 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "23"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMED MORTADHA BEN OUANES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "TARKAN SERBEST",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "AHMET EMİN ENGİN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UMUT DİLAN BOZOK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "TOMAS BRECKA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DOĞUCAN HASPOLAT",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "FLORENT HADERGJONAJ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERDEM CANPOLAT",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KEVIN VARGA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MEHMET FEYZİ YILDIRIM",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TAHA VEYSEL KEMENDİ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FALL",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SARP YAVRUCU",
+                    "formaNo": "79"
+                },
+                {
+                    "oyuncuAdi": "HASAN EMRE YEŞİLYURT",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜMİT ŞENGÜL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "RYAN HENK DONK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UMUT DİLAN BOZOK",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "AHMET EMİN ENGİN",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KEVIN VARGA",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "MEHMET FEYZİ YILDIRIM",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "MAMADOU FALL",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "UMUT DİLAN BOZOK",
+                    "dakika": "39.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AHMET EMİN ENGİN",
+                    "dakika": "52.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "YUKATEL KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH LARWEH ATTAMAH",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SEYEDMAJID HOSSEINI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SAZDAĞI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MARIO GAVRANOVIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ONUR BULUT",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "KARAHAN YASİR SUBAŞI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR PARMAK",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BİLAL BAYAZIT",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL FILIPE NUNES CARDOSO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLIVER MICHEL KEMEN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EMRE DEMİR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CARLOS MANUEL CARDOSO MANE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKDAĞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN CİVELEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "YILDIRIM MERT ÇETİN",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKHAN SAZDAĞI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN SAZDAĞI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "KARAHAN YASİR SUBAŞI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MARIO GAVRANOVIC",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İBRAHİM AKDAĞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL FILIPE NUNES CARDOSO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "CARLOS MANUEL CARDOSO MANE",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARIO GAVRANOVIC",
+                    "dakika": "12.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "KARAHAN YASİR SUBAŞI",
+                    "dakika": "15.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

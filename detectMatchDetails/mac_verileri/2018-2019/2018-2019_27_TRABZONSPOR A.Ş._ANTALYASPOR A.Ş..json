@@ -1,0 +1,299 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "27"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SEYEDMAJID HOSSEINI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "CALEB ANSAH EKUBAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR PARMAK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "LUIS EZEQUIEL IBANEZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY NNADUZOR NWAKAEME",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ARDA AKBULUT",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "VAHID AMIRI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEM AKPINAR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "HASAN BATUHAN ARTARSLAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO DA SILVA PEREIRA",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "KORAY KILINÇ",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜNAL KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KAMİL AHMET ÇÖREKÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KAMİL AHMET ÇÖREKÇİ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JOAO PEDRO DA SILVA PEREIRA",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "MURAT CEM AKPINAR",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANTHONY NNADUZOR NWAKAEME",
+                    "dakika": "21.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CALEB ANSAH EKUBAN",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "67.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MURAT CEM AKPINAR",
+                    "dakika": "90+4.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ALY CİSSOKHO",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "SOULEYMANE DOUKARA",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "AMILTON MINERVINO DA SILVA",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BOZA JEAN ARMEL DROLE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HARUN ALPSOY",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT ERDİNÇ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "SERGEN YATAĞAN",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "SOULEYMANE DOUKARA",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "AMILTON MINERVINO DA SILVA",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "BOZA JEAN ARMEL DROLE",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SOULEYMANE DOUKARA",
+                    "dakika": "9.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

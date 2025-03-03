@@ -1,0 +1,289 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JAN DURICA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DAME N'DOYE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "OGENYI EDDY ONAZI",
+                    "formaNo": "17"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SERGE OGNADON AKAKPO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "7"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR DEMİROK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "DAME N'DOYE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "OGENYI EDDY ONAZI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SIMON THORUP KJAER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ROMAN NEUSTAEDTER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "JEREMAIN MARCIANO LENS",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FABIANO RIBEIRO DE FREITAS",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "YİĞİTHAN GÜVELİ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "CANER KOCA",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "DİRK NİCOLAAS ADVOCAAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "İSMAİL KÖYBAŞI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "ROMAN NEUSTAEDTER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "JEREMAIN MARCIANO LENS",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OZAN TUFAN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "SALİH UÇAN",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "28.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "40.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JEREMAIN MARCIANO LENS",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

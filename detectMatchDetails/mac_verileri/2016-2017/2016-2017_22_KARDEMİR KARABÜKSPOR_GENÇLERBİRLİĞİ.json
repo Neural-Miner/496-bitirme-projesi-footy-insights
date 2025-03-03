@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "22"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "AHMET ŞAHİN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "MARIUS VALERICA GAMAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "KERİM ZENGİN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ANDRE BIYOGO POKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YEVGEN SELEZNOV",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN TANASE",
+                    "formaNo": "30"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCÜMENT KAFKASYALI",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "PAUL PAPP",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLAFUR INGI SKULASON",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DELİKTAŞ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "FATİH ATİK",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ZORAN BARISIC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MARIUS VALERICA GAMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "CRISTIAN TANASE",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "PAUL PAPP",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "OLAFUR INGI SKULASON",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YEVGEN SELEZNOV",
+                    "dakika": "39.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "TOKELO ANTHONY RANTIE",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "COSMIN GABRIEL MATEI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI PALITSEVICH",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "LUCCAS CLARO DOS SANTOS",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "79"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TAHA CENGİZ DEMİRTAŞ",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ALEKSANDAR SCEKIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RENATO ESCOBAR BARUFFI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ETIEN VELIKONJA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "UMUT SÖZEN",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MARKO MILINKOVIC",
+                    "formaNo": "11"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜMİT ÖZAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANIL KARAER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ALEKSANDAR SCEKIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "TOKELO ANTHONY RANTIE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "LUCCAS CLARO DOS SANTOS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "COSMIN GABRIEL MATEI",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "TOKELO ANTHONY RANTIE",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MARKO MILINKOVIC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALEKSANDAR SCEKIC",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "ETIEN VELIKONJA",
+                    "dakika": "57.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}
