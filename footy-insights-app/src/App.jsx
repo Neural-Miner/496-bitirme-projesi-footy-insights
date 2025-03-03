@@ -180,7 +180,6 @@ const UploadBox = () => {
           {selectedMatch && matchDetailsLink && (
             <>
             <button onClick={handleContinue}>Devam</button>
-            <p>{matchDetailsLink}</p>
             </>
           )}
         </div>
