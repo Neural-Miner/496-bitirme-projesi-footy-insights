@@ -8,12 +8,22 @@ import matchesData from './components/matches_with_paths.json'; // JSON dosyanı
 import MatchDetails from './MatchDetails';
 
 import { FaPlay, FaPause } from "react-icons/fa"; // oynat-duraklat ikonlari
-import { SlArrowLeft } from "react-icons/sl";
+// import { SlArrowLeft } from "react-icons/sl";
 
 function App() {
 
   const videoRef = useRef(null); // video kontrolu
   const [isPlaying, setIsPlaying] = useState(true);
+
+  // arkaplan videosunun kararmasini kontrol eden state
+  const [dimBg, setDimBg] = useState(false);
+
+  const handleDimBackground = () => {
+    if (videoRef.current) {
+      videoRef.current.pause();
+    }
+    setDimBg(true);
+  };
 
   const togglePlayPause = () => {
     if (videoRef.current.paused) {
@@ -28,9 +38,10 @@ function App() {
   return (
     <div className="App">
       <div className="overlay"></div>
-        <video ref={videoRef} src={videoBg} autoPlay loop muted />
+        <video ref={videoRef} src={videoBg} autoPlay loop muted
+                className={dimBg ? "videoBg dimVideo" : "videoBg"}/>
           <div className="content">
-            <UploadBox />
+            <UploadBox onDimBackground={handleDimBackground}/>
           </div>
       <button className="playPauseButton" onClick={togglePlayPause}>
         {isPlaying ? <FaPause /> : <FaPlay />}
@@ -39,7 +50,7 @@ function App() {
   );
 }
 
-const UploadBox = () => {
+const UploadBox = ({ onDimBackground }) => {
 
   const [video, setVideo] = useState(null);
 
@@ -55,6 +66,7 @@ const UploadBox = () => {
   const [showDetails, setShowDetails] = useState(false);
   const [fadeOut, setFadeOut] = useState(false);  // Form'un kaybolma animasyonu icin
   const [matchDetailsLink, setMatchDetailsLink] = useState('');
+  const [showMatchDetails, setShowMatchDetails] = useState(true);
 
   const seasonWeekLimits = Object.fromEntries(
     [...Array(9)].map((_, i) => [`${2011 + i}-${2012 + i}`, 34])
@@ -188,7 +200,100 @@ const UploadBox = () => {
       {/* Detay Kapsayici */}
       {showDetails && matchDetailsLink && (
         <div className="detailsWrapper fadeInScale">
-          <MatchDetails link={matchDetailsLink} />
+          {showMatchDetails && (
+            <MatchDetails link={matchDetailsLink} />
+          )}
+
+          <DownloadAndPlay
+            selectedSeason={selectedSeason}
+            selectedWeek={selectedWeek}
+            selectedMatch={matchList.find(
+              (m) => `${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}` === selectedMatch
+            )}
+            onDownloadStart={() => setShowMatchDetails(false)}
+            onDimBackground={onDimBackground}
+          />
+        </div>
+      )}
+    </div>
+  );
+};
+
+const DownloadAndPlay = ({ selectedSeason, selectedWeek, selectedMatch, onDownloadStart, onDimBackground }) => {
+  const [isDownloading, setIsDownloading] = useState(false);
+  const [videoUrl, setVideoUrl] = useState(null);
+  
+  const handleDownload = async () => {
+    if (!selectedSeason || !selectedWeek || !selectedMatch) return;
+
+    if (onDownloadStart) {
+      onDownloadStart();
+    }
+    if (onDimBackground) {
+      onDimBackground();
+    }
+
+    setIsDownloading(true);
+    setVideoUrl(null);
+
+    const bodyData = {
+      season: selectedSeason,
+      week: selectedWeek,
+      homeTeam: selectedMatch.homeTeam,
+      awayTeam: selectedMatch.awayTeam,
+    };
+
+    try {
+      const response = await fetch("http://localhost:5000/download-video", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(bodyData),
+      });
+      const result = await response.json();
+
+      if (result.success) {
+        const fileName = result.videoFileName
+        const servedUrl = `http://localhost:5000/downloads/${fileName}`; 
+        setVideoUrl(servedUrl);
+      } else {
+        alert("Video bulunamadi: " + result.message);
+      }
+    } catch (err) {
+      console.error("Error fetching /download-video:", err);
+      alert("Sunucu hatasi veya baglanti sorunu.");
+    } finally {
+      setIsDownloading(false);
+    }
+  };
+
+  return (
+    <div>
+      {!videoUrl && !isDownloading && (
+        <button 
+          onClick={handleDownload} 
+          style={{ fontSize: "1vw", padding: "0.5vw 0.8vw" }}
+        >
+          Mac Ozet Videosunu Oynat &nbsp; {/* buraya ikon koyabilirsiniz */}
+        </button>
+      )}
+
+      {isDownloading && (
+        <p>Lütfen bekleyiniz...</p>
+      )}
+
+      {videoUrl && (
+        <div style={{height: "auto"}}>
+          <h4>{selectedMatch.homeTeam} x {selectedMatch.awayTeam}</h4>
+          <h3>{selectedMatch.homeScore} x {selectedMatch.awayScore}</h3>
+          <video 
+            src={videoUrl} 
+            style={{
+              width: "90%",
+              height: "auto"
+            }}
+            controls 
+            autoPlay 
+          />
         </div>
       )}
     </div>
