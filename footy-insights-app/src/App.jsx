@@ -1,27 +1,21 @@
+// src/App.jsx
 import './App.css';
 import React, { useState, useRef, useEffect } from 'react';
-// import videoBg from './assets/background_video_2.mp4'
-import videoBg from './assets/background_video.mp4'
-import matchesData from './components/matches_with_paths.json'; // JSON dosyanızı içe aktarın
-// import matchDetailsData from './components/mac_verileri/2018-2019/2018-2019_10_FENERBAHÇE A.Ş._MKE ANKARAGÜCÜ.json'
+import { AnimatePresence, motion } from 'framer-motion';
+import { FaPlay, FaPause, FaArrowRight, FaArrowLeft } from 'react-icons/fa';
 
+import videoBg from './assets/background_video.mp4';
+import matchesData from './components/matches_with_paths.json';
 import MatchDetails from './MatchDetails';
 
-import { FaPlay, FaPause } from "react-icons/fa"; // oynat-duraklat ikonlari
-// import { SlArrowLeft } from "react-icons/sl";
-
 function App() {
-
-  const videoRef = useRef(null); // video kontrolu
+  const videoRef = useRef(null);
   const [isPlaying, setIsPlaying] = useState(true);
-
-  // arkaplan videosunun kararmasini kontrol eden state
   const [dimBg, setDimBg] = useState(false);
+  const [uploadKey, setUploadKey] = useState(0);
 
   const handleDimBackground = () => {
-    if (videoRef.current) {
-      videoRef.current.pause();
-    }
+    if (videoRef.current) videoRef.current.pause();
     setDimBg(true);
   };
 
@@ -35,14 +29,35 @@ function App() {
     }
   };
 
+  // Tam sıfırlama: form ve arka plan videosunu yeniden başlatır
+  const handleReset = () => {
+    setUploadKey(k => k + 1);
+    setDimBg(false);
+    if (videoRef.current) {
+      videoRef.current.play();
+      setIsPlaying(true);
+    }
+  };
+
   return (
     <div className="App">
-      <div className="overlay"></div>
-        <video ref={videoRef} src={videoBg} autoPlay loop muted
-                className={dimBg ? "videoBg dimVideo" : "videoBg"}/>
-          <div className="content">
-            <UploadBox onDimBackground={handleDimBackground}/>
-          </div>
+      <div className="overlay" />
+      <video
+        ref={videoRef}
+        src={videoBg}
+        autoPlay
+        loop
+        muted
+        className={dimBg ? 'videoBg dimVideo' : 'videoBg'}
+      />
+      <div className="content">
+        {/* key değiştiğinde UploadBox yeniden mount olur */}
+        <UploadBox
+          key={uploadKey}
+          onDimBackground={handleDimBackground}
+          onReset={handleReset}
+        />
+      </div>
       <button className="playPauseButton" onClick={togglePlayPause}>
         {isPlaying ? <FaPause /> : <FaPlay />}
       </button>
@@ -50,21 +65,14 @@ function App() {
   );
 }
 
-const UploadBox = ({ onDimBackground }) => {
-
-  const [video, setVideo] = useState(null);
-
-  const handleVideoUpload = (e) => {
-    setVideo(e.target.files[0]);
-    alert(`${e.target.files[0].name} yüklendi!`);
-  };
-
+const UploadBox = ({ onDimBackground, onReset }) => {
+  const [isDownloading, setIsDownloading] = useState(false);
   const [selectedSeason, setSelectedSeason] = useState('');
   const [selectedWeek, setSelectedWeek] = useState('');
   const [matchList, setMatchList] = useState([]);
   const [selectedMatch, setSelectedMatch] = useState('');
   const [showDetails, setShowDetails] = useState(false);
-  const [fadeOut, setFadeOut] = useState(false);  // Form'un kaybolma animasyonu icin
+  const [fadeOut, setFadeOut] = useState(false);
   const [matchDetailsLink, setMatchDetailsLink] = useState('');
   const [showMatchDetails, setShowMatchDetails] = useState(true);
 
@@ -78,64 +86,52 @@ const UploadBox = ({ onDimBackground }) => {
       ])
   );
 
-  const handleSeasonChange = (e) => {
-    const season = e.target.value;
-    setSelectedSeason(season);
+  useEffect(() => {
+    if (selectedSeason && selectedWeek) {
+      const m = matchesData[selectedSeason]?.[selectedWeek] || [];
+      setMatchList(m);
+      setSelectedMatch('');
+      setMatchDetailsLink('');
+    }
+  }, [selectedSeason, selectedWeek]);
+
+  const handleSeasonChange = e => {
+    setSelectedSeason(e.target.value);
     setSelectedWeek('');
     setMatchList([]);
     setSelectedMatch('');
     setShowDetails(false);
     setFadeOut(false);
   };
-
-  const handleWeekChange = (e) => {
+  const handleWeekChange = e => {
     setSelectedWeek(e.target.value);
     setShowDetails(false);
     setFadeOut(false);
   };
-
-  // Sezon ve hafta secimi sonrasi maclari listele
-  useEffect(() => {
-    if (selectedSeason && selectedWeek) {
-      const matches = matchesData[selectedSeason]?.[selectedWeek] || [];
-      setMatchList(matches);
-      setSelectedMatch('');
-      setMatchDetailsLink('');
-    }
-  }, [selectedSeason, selectedWeek]);
-  
+  const handleMatchChange = e => {
+    const val = e.target.value;
+    setSelectedMatch(val);
+    const m = matchList.find(
+      mm => `${mm.homeTeam} ${mm.homeScore}-${mm.awayScore} ${mm.awayTeam}` === val
+    );
+    if (m?.detailsPath) setMatchDetailsLink(m.detailsPath);
+  };
 
   const handleContinue = () => {
-    // Form kaybolma animasyonunu baslat
     setFadeOut(true);
-
-    // Animasyon suresi (0.5s) bittikten sonra formu DOM'dan kaldirip detaylari goster
-    setTimeout(() => {
-      setShowDetails(true);
-    }, 500); // CSS'teki fadeOutScale suresine esitleyin
+    setTimeout(() => setShowDetails(true), 500);
   };
 
-  const handleMatchChange = (e) => {
-    const matchValue = e.target.value;
-    setSelectedMatch(matchValue);
-
-    // Seçilen maçın JSON yolunu bul ve set et
-    const match = matchList.find(
-      (m) => `${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}` === matchValue
-    );
-
-    if (match && match.detailsPath) {
-      setMatchDetailsLink(match.detailsPath);
-    }
-  };
+  // Geri butonu: tam reset
+  const handleBack = () => onReset();
 
   return (
     <div className="container">
-      {/* Form Kapsayici */}
+      {/* Sezon/Hafta/Maç formu */}
       {!showDetails && (
         <div className={`formWrapper ${fadeOut ? 'fadeOutScale' : 'fadeInScale'}`}>
           <div className="form-group">
-            <label className="label" htmlFor="season">Sezon Seç:</label>
+            <label className="label" htmlFor="season">Sezon</label>
             <select
               id="season"
               className="dropdown"
@@ -143,162 +139,190 @@ const UploadBox = ({ onDimBackground }) => {
               onChange={handleSeasonChange}
             >
               <option value="">Sezon Seçiniz</option>
-              {Object.keys(seasonWeekLimits).map((season) => (
-                <option key={season} value={season}>{season}</option>
+              {Object.keys(seasonWeekLimits).map(sez => (
+                <option key={sez} value={sez}>{sez}</option>
               ))}
             </select>
           </div>
 
-          {selectedSeason && (
-            <div className="form-group">
-              <label className="label" htmlFor="week">Hafta Seç:</label>
-              <select
-                id="week"
-                className="dropdown"
-                value={selectedWeek}
-                onChange={handleWeekChange}
+          <AnimatePresence>
+            {selectedSeason && (
+              <motion.div
+                key="week"
+                className="form-group"
+                initial={{ opacity: 0, height: 0 }}
+                animate={{ opacity: 1, height: 'auto' }}
+                exit={{ opacity: 0, height: 0 }}
+                transition={{ duration: 0.5 }}
+                style={{ overflow: 'hidden' }}
               >
-                <option value="">Hafta Seçiniz</option>
-                {[...Array(seasonWeekLimits[selectedSeason])].map((_, index) => (
-                  <option key={index + 1} value={index + 1}>
-                    {index + 1}. Hafta
-                  </option>
-                ))}
-              </select>
-            </div>
-          )}
+                <label className="label" htmlFor="week">Hafta</label>
+                <select
+                  id="week"
+                  className="dropdown"
+                  value={selectedWeek}
+                  onChange={handleWeekChange}
+                >
+                  <option value="">Hafta Seçiniz</option>
+                  {[...Array(seasonWeekLimits[selectedSeason])].map((_, i) => (
+                    <option key={i} value={i+1}>{i+1}. Hafta</option>
+                  ))}
+                </select>
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-          {selectedWeek && matchList.length > 0 && (
-            <>
-              <label className="label">Maç Seç:</label>
-              <select
-                className="dropdown"
-                value={selectedMatch}
-                onChange={handleMatchChange}
+          <AnimatePresence>
+            {selectedWeek && matchList.length > 0 && (
+              <motion.div
+                key="match"
+                className="form-group"
+                initial={{ opacity: 0, height: 0 }}
+                animate={{ opacity: 1, height: 'auto' }}
+                exit={{ opacity: 0, height: 0 }}
+                transition={{ duration: 0.5 }}
+                style={{ overflow: 'hidden' }}
               >
-                <option value="">Maç Seçiniz</option>
-                {matchList.map((match, index) => (
-                  <option
-                    key={index}
-                    value={`${match.homeTeam} ${match.homeScore}-${match.awayScore} ${match.awayTeam}`}
-                  >
-                    {match.homeTeam} | {match.homeScore}-{match.awayScore} | {match.awayTeam}
-                  </option>
-                ))}
-              </select>
-            </>
-          )}
+                <label className="label">Maç</label>
+                <select
+                  className="dropdown"
+                  value={selectedMatch}
+                  onChange={handleMatchChange}
+                >
+                  <option value="">Maç Seçiniz</option>
+                  {matchList.map((m, i) => (
+                    <option
+                      key={i}
+                      value={`${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}`}  >
+                      {m.homeTeam} | {m.homeScore}-{m.awayScore} | {m.awayTeam}
+                    </option>
+                  ))}
+                </select>
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-          {selectedMatch && matchDetailsLink && (
-            <>
-            <button onClick={handleContinue}>Devam</button>
-            </>
-          )}
+          <AnimatePresence>
+            {!showDetails && selectedMatch && matchDetailsLink && (
+              <motion.button
+                key="cont"
+                className="continue-button"
+                onClick={handleContinue}
+                initial={{ opacity: 0, scale: 0.8 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.8 }}
+                transition={{ duration: 0.25 }}
+              >
+                <FaArrowRight size="1.2em" />
+              </motion.button>
+            )}
+          </AnimatePresence>
         </div>
       )}
 
-      {/* Detay Kapsayici */}
+      {/* Maç detayları */}
       {showDetails && matchDetailsLink && (
-        <div className="detailsWrapper fadeInScale">
-          {showMatchDetails && (
-            <MatchDetails link={matchDetailsLink} />
-          )}
-
+        <>  
+          <div className="detailsWrapper fadeInScale">
+            {showMatchDetails && <MatchDetails link={matchDetailsLink} />}
+          </div>
+          {/* Play Video Button: scrollable olmayan alana taşındı */}
           <DownloadAndPlay
             selectedSeason={selectedSeason}
             selectedWeek={selectedWeek}
             selectedMatch={matchList.find(
-              (m) => `${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}` === selectedMatch
+              m => `${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}` === selectedMatch
             )}
-            onDownloadStart={() => setShowMatchDetails(false)}
+            onDownloadStart={() => {
+              setShowMatchDetails(false);
+              setIsDownloading(true);
+            }}
+            onDownloadEnd={() => setIsDownloading(false)}
             onDimBackground={onDimBackground}
+            isDownloading={isDownloading}
           />
-        </div>
+
+          {/* Geri butonu her zaman reset’e döner */}
+          {!isDownloading && (
+            <button className="back-button" onClick={handleBack}>
+              <FaArrowLeft size="1.5em" />
+            </button>
+          )}
+        </>
       )}
     </div>
   );
 };
 
-const DownloadAndPlay = ({ selectedSeason, selectedWeek, selectedMatch, onDownloadStart, onDimBackground }) => {
-  const [isDownloading, setIsDownloading] = useState(false);
+const DownloadAndPlay = ({
+  selectedSeason,
+  selectedWeek,
+  selectedMatch,
+  onDownloadStart,
+  onDownloadEnd,
+  onDimBackground,
+  isDownloading
+}) => {
   const [videoUrl, setVideoUrl] = useState(null);
-  
+
   const handleDownload = async () => {
     if (!selectedSeason || !selectedWeek || !selectedMatch) return;
 
-    if (onDownloadStart) {
-      onDownloadStart();
-    }
-    if (onDimBackground) {
-      onDimBackground();
-    }
-
-    setIsDownloading(true);
+    onDownloadStart();
+    onDimBackground();
     setVideoUrl(null);
 
-    const bodyData = {
-      season: selectedSeason,
-      week: selectedWeek,
-      homeTeam: selectedMatch.homeTeam,
-      awayTeam: selectedMatch.awayTeam,
-    };
-
     try {
-      const response = await fetch("http://localhost:5000/download-video", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(bodyData),
+      const res = await fetch('/download-video', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          season: selectedSeason,
+          week: selectedWeek,
+          homeTeam: selectedMatch.homeTeam,
+          awayTeam: selectedMatch.awayTeam,
+        }),
       });
-      const result = await response.json();
-
+      const result = await res.json();
       if (result.success) {
-        const fileName = result.videoFileName
-        const servedUrl = `http://localhost:5000/downloads/${fileName}`; 
-        setVideoUrl(servedUrl);
+        setVideoUrl(`http://localhost:5000/downloads/${result.videoFileName}`);
       } else {
-        alert("Video bulunamadi: " + result.message);
+        alert('Video bulunamadi: ' + result.message);
       }
     } catch (err) {
-      console.error("Error fetching /download-video:", err);
-      alert("Sunucu hatasi veya baglanti sorunu.");
+      console.error(err);
+      alert('Sunucu hatasi veya baglanti sorunu.');
     } finally {
-      setIsDownloading(false);
+      onDownloadEnd();
     }
   };
 
   return (
     <div>
       {!videoUrl && !isDownloading && (
-        <button 
-          onClick={handleDownload} 
-          style={{ fontSize: "1vw", padding: "0.5vw 0.8vw" }}
-        >
-          Mac Ozet Videosunu Oynat &nbsp; {/* buraya ikon koyabilirsiniz */}
+        <button className="play-video-button" onClick={handleDownload}>
+          <FaPlay size="1.2em" />
         </button>
       )}
-
-      {isDownloading && (
-        <p>Lütfen bekleyiniz...</p>
-      )}
-
+      {isDownloading && <p>Lütfen bekleyiniz...</p>}
       {videoUrl && (
-        <div style={{height: "auto"}}>
-          <h4>{selectedMatch.homeTeam} x {selectedMatch.awayTeam}</h4>
-          <h3>{selectedMatch.homeScore} x {selectedMatch.awayScore}</h3>
-          <video 
-            src={videoUrl} 
-            style={{
-              width: "90%",
-              height: "auto"
-            }}
-            controls 
-            autoPlay 
+        <div style={{ height: 'auto' }}>
+          <h4>
+            {selectedMatch.homeTeam} x {selectedMatch.awayTeam}
+          </h4>
+          <h3>
+            {selectedMatch.homeScore} x {selectedMatch.awayScore}
+          </h3>
+          <video
+            src={videoUrl}
+            style={{ width: '90%', height: 'auto' }}
+            controls
+            autoPlay
           />
         </div>
       )}
     </div>
   );
 };
-
 
 export default App;

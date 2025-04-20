@@ -33,6 +33,10 @@ video {
   pointer-events: none;
 }
 
+.formWrapper {
+  width: 100%;
+}
+
 /* Sayfa acilis animasyonu */
 @keyframes fadeInScale {
   from {
@@ -71,8 +75,8 @@ video {
   flex-direction: column; /* İçerikleri dikey hizalayabilmek için */
   align-items: center;
   justify-content: center;
-  height: 70vh;
-  width: 70%;
+  height: 75vh;
+  width: 80%;
   background-color: #202020e7;
   border-radius: 2vw;
   box-shadow: 0 4vw 10vw rgba(0, 0, 0, 1);
@@ -85,6 +89,9 @@ video {
 
 .form-group {
   margin: 1.5vw;
+  display: flex;            
+  flex-direction: column;
+  align-items: center;
 }
 
 
@@ -93,6 +100,9 @@ video {
   font-size: 1.2rem; /* Yazı boyutu */
   text-align: center; /* Metni ortala */
   font-family: Arial, sans-serif; /* Yazı tipi */
+  margin-right: 1vw;
+  margin-bottom: 1vw;
+  
 }
 
 .playPauseButton {
@@ -139,7 +149,69 @@ video {
   max-height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  border-radius: 8px;
-  width: 90%;
+  width: 85%;
   margin: auto;
+}
+
+.dropdown {
+  border-radius: 0.8vw;
+  /* İsteğe bağlı: kenarlık ve padding ekleyebilirsiniz */
+  padding: 1%; 
+  background-color: rgb(194, 194, 194);
+}
+
+.continue-button {
+  border-radius: 0.8vw;
+  background-color: rgb(194, 194, 194);
+  color: rgb(56, 56, 56);
+  border: none;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  position: relative;
+  left: 47%;
+  top: 10%;
+}
+
+.continue-button:hover {
+  background-color: #e2e2e2; 
+}
+
+.back-button {
+  border-radius: 0.8vw;
+  background-color: rgb(194, 194, 194);
+  color: rgb(56, 56, 56);
+  border: none;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  z-index: 2;
+  transition: background-color 0.2s ease;
+  position: relative;
+  left: 47%;
+  bottom: 4%;
+}
+
+.back-button:hover {
+  background-color: #e2e2e2; 
+}
+
+.play-video-button {
+  border-radius: 0.8vw;
+  background-color: rgb(194, 194, 194);
+  color: rgb(56, 56, 56);
+  border: none;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 55%;
+  left: 900%;
+}
+
+.play-video-button:hover {
+  background-color: #e2e2e2;
 }

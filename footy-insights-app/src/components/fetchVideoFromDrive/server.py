@@ -7,6 +7,27 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)   # tum routelar icin herkese acik izin sagliyor
 
+# ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(__file__)
+DOWNLOAD_DIR = os.path.join(ROOT, "downloads")
+CLIENT_SECRETS = os.path.join(ROOT, "client_secrets.json")
+CREDENTIALS_FILE = os.path.join(ROOT, "mycreds.json")
+
+os.makedirs(DOWNLOAD_DIR, exist_ok=True)
+
+# Google drive kimlik dogrulamasi
+gauth = GoogleAuth()
+
+gauth.LoadClientConfigFile(CLIENT_SECRETS)
+gauth.LoadCredentialsFile(CREDENTIALS_FILE)
+
+if not gauth.credentials or gauth.access_token_expired:
+    # tarayici acilip dogrulama yapilir
+    gauth.LocalWebserverAuth()
+    gauth.SaveCredentialsFile( os.path.join("mycreds.json") )
+
+drive = GoogleDrive(gauth)
+
 TEAM_DRIVE_TAGS = {
     "Adana Demirspor": ["adana-demirspor"],
     "Adanaspor": ["adanaspor"],
@@ -52,18 +73,6 @@ TEAM_DRIVE_TAGS = {
     "Denizlispor": ["denizlispor"]
 }
 
-# Google drive kimlik dogrulamasi
-gauth = GoogleAuth()
-
-gauth.LoadCredentialsFile("mycreds.json")
-
-if not gauth.credentials or gauth.access_token_expired:
-    # Kimlik dogrulamasi yoksa, tarayici acilip dogrulama yapilir
-    gauth.LocalWebserverAuth()
-
-    gauth.SaveCredentialsFile("mycreds.json")
-
-drive = GoogleDrive(gauth)
 
 def generatePossibleDriveNames(season, week, homeTeam, awayTeam):
 
@@ -106,7 +115,7 @@ def findAndDownloadFromDrive(possibleNames, folder_id=None):
             file = file_list[0]
             print(f"Found! Downloading {file['title']}")
 
-            downloadPath = os.path.join("downloads", file['title'])
+            downloadPath = os.path.join(DOWNLOAD_DIR, file['title'])
             file.GetContentFile(downloadPath)
             print(f"Downloaded to {downloadPath}")
             return name  # indirilen dosyanin adi return
@@ -116,7 +125,13 @@ def findAndDownloadFromDrive(possibleNames, folder_id=None):
 
 @app.route("/downloads/<path:filename>")
 def serve_downloads(filename):
-    return send_from_directory("downloads", filename)
+    # DOWNLOAD_DIR: indirdiğiniz videoların bulunduğu klasörün tam yolu
+    return send_from_directory(
+        DOWNLOAD_DIR,   # directory
+        filename,       # filename
+        mimetype="video/mp4",
+        conditional=True  # Range isteği desteği
+    )
 
 # React'ten gelecek post istegi yakalanir
 @app.route("/download-video", methods=["POST"])
@@ -158,5 +173,4 @@ def downloadVideo():
     
 
 if __name__ == "__main__":
-    os.makedirs("downloads", exist_ok=True)
     app.run(port=5000, debug=True)

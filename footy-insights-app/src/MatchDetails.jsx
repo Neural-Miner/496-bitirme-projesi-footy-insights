@@ -2,183 +2,109 @@ import React, { useState, useEffect } from 'react';
 import './MatchDetails.css';
 
 const MatchDetails = ({ link }) => {
-  // const { sezon, hafta, takimlar } = details;
   const [details, setDetails] = useState(null);
 
   useEffect(() => {
-    const fetchMatchDetails = async () => {
+    async function fetchData() {
       try {
-        const response = await fetch(link);
-        if (!response.ok) throw new Error("JSON dosyası yüklenemedi!");
-        const data = await response.json();
-        setDetails(data);
-      } catch (error) {
-        console.error("Hata:", error);
+        const res = await fetch(link);
+        if (!res.ok) throw new Error('JSON yüklenemedi!');
+        setDetails(await res.json());
+      } catch (err) {
+        console.error(err);
       }
-    };
-
-    if (link) {
-      fetchMatchDetails();
     }
+    if (link) fetchData();
   }, [link]);
 
-  if (!details) {
-    return <div>{link}</div>;
-  }
-  
-  const { sezon, hafta, takimlar } = details;
+  if (!details) return <div>Yükleniyor...</div>;
 
-    // Örnek: takim_1 ve takim_2
-    const team1 = takimlar.takim_1;
-    const team2 = takimlar.takim_2;
-  
-    const team1Name = team1.takimAdi[0];
-    const team2Name = team2.takimAdi[0];
-    const team1Score = team1.skor[0];
-    const team2Score = team2.skor[0];
-  
-    const season = sezon[0];
-    const week = hafta[0];
+  const { sezon, hafta, takimlar } = details;
+  const team1 = takimlar.takim_1;
+  const team2 = takimlar.takim_2;
+  const teams = [team1, team2];
+  const names = teams.map(t => t.takimAdi[0]);
+  const scores = teams.map(t => t.skor[0]);
+
+  const sections = [
+    { title: 'İlk 11',           key: 'ilk11',            isText: false },
+    { title: 'Yedekler',         key: 'yedekler',         isText: false },
+    { title: 'Teknik Sorumlu',   key: 'teknikSorumlu',    isText: true  },
+    { title: 'Kartlar',          key: 'kartlar',          isText: false },
+    { title: 'Goller',           key: 'goller',           isText: false },
+    { title: 'Oyundan Çıkanlar', key: 'oyundanCikanlar',  isText: false },
+    { title: 'Oyuna Girenler',   key: 'oyunaGirenler',    isText: false },
+  ];
 
   return (
     <div className="match-details-container">
       <h2 className="match-title">
-        {team1Name}  x  {team2Name}
+        {names[0]} x {names[1]}
       </h2>
-      <p className="season-week">Sezon: {season}</p>
-      <p className="season-week">Hafta: {week}</p>
-      <p className="score">Skor: {team1Score} - {team2Score}</p>
+      <p className="season-week">Sezon: {sezon[0]}</p>
+      <p className="season-week">Hafta: {hafta[0]}</p>
+      <p className="score">Skor: {scores[0]} - {scores[1]}</p>
 
-      <div className="teams-wrapper">
-        {/* Sol Takım */}
-        <div className="team-block">
-          <h3>{team1Name}</h3>
+      <div className="columns-header">
+        {names.map((n, i) => <div key={i}>{n}</div>)}
+      </div>
 
-          <h4>İlk 11</h4>
-          <ul>
-            {team1.ilk11.map((player, idx) => (
-              <li key={idx}>
-                {player.oyuncuAdi} - {player.formaNo}
-              </li>
-            ))}
-          </ul>
-
-          {/* Devamı: yedekler, kartlar, goller, vb. */}
-
-          <h4>Yedekler</h4>
-          <ul>
-            {team1.yedekler.map((player, idx) => (
-              <li key={idx}>
-                {player.oyuncuAdi} - {player.formaNo}
-              </li>
-            ))}
-          </ul>
-
-          <h4>Teknik Sorumlu</h4>
-          {team1.teknikSorumlu}
-
-          <h4>Kartlar</h4>
-          <ul>
-            {team1.kartlar.map((kart, idx) => (
-              <li key={idx}>
-                {kart.kartTuru} - {kart.dakika} - {kart.oyuncu} 
-              </li>
-            ))}
-          </ul>
-
-          <h4>Goller</h4>
-          <ul>
-            {team1.goller.map((gol, idx) => (
-              <li key={idx}>
-                {gol.dakika} - {gol.oyuncu} - {gol.golTipi}
-              </li>
-            ))}
-          </ul>
-
-          <h4>Oyundan Çıkanlar</h4>
-          <ul>
-            {team1.oyundanCikanlar.map((player, idx) => (
-              <li key={idx}>
-                {player.oyuncu} - {player.dakika}
-              </li>
-            ))}
-          </ul>
-
-          <h4>Oyuna Girenler</h4>
-          <ul>
-            {team1.oyunaGirenler.map((player, idx) => (
-              <li key={idx}>
-                {player.oyuncu} - {player.dakika}
-              </li>
-            ))}
-          </ul>
-
-        </div>
-
-        {/* Sağ Takım */}
-        <div className="team-block">
-          <h3>{team2Name}</h3>
-
-          <h4>İlk 11</h4>
-          <ul>
-            {team2.ilk11.map((player, idx) => (
-              <li key={idx}>
-                {player.oyuncuAdi} - {player.formaNo}
-              </li>
-            ))}
-          </ul>
-
-          {/* Devamı: yedekler, kartlar, goller, vb. */}
-
-          <h4>Yedekler</h4>
-          <ul>
-            {team2.yedekler.map((player, idx) => (
-              <li key={idx}>
-                {player.oyuncuAdi} - {player.formaNo}
-              </li>
-            ))}
-          </ul>
-
-          <h4>Teknik Sorumlu</h4>
-          {team1.teknikSorumlu}
-
-          <h4>Kartlar</h4>
-          <ul>
-            {team2.kartlar.map((kart, idx) => (
-              <li key={idx}>
-                {kart.kartTuru} - {kart.dakika} - {kart.oyuncu} 
-              </li>
-            ))}
-          </ul>
-
-          <h4>Goller</h4>
-          <ul>
-            {team2.goller.map((gol, idx) => (
-              <li key={idx}>
-                {gol.dakika} - {gol.oyuncu} - {gol.golTipi}
-              </li>
-            ))}
-          </ul>
-
-          <h4>Oyundan Çıkanlar</h4>
-          <ul>
-            {team2.oyundanCikanlar.map((player, idx) => (
-              <li key={idx}>
-                {player.oyuncu} - {player.dakika}
-              </li>
-            ))}
-          </ul>
-
-          <h4>Oyuna Girenler</h4>
-          <ul>
-            {team2.oyunaGirenler.map((player, idx) => (
-              <li key={idx}>
-                {player.oyuncu} - {player.dakika}
-              </li>
-            ))}
-          </ul>
-
-        </div>
+      <div className="sections-wrapper">
+        {sections.map(({ title, key, isText }) => (
+          <div className="section" key={key}>
+            <h4 className="section-title">{title}</h4>
+            <div className="section-content">
+              {teams.map((team, idx) => (
+                <div
+                  className="section-col"
+                  key={idx}
+                  style={{ textAlign: isText ? 'center' : (idx === 1 ? 'right' : 'left') }}
+                >
+                  {isText
+                    ? <p className="section-text">{team[key]}</p>
+                    : <ul>
+                        {team[key].map((item, i) => {
+                          let prefix = '', text = '', suffix = '';
+                          switch (key) {
+                            case 'ilk11':
+                            case 'yedekler':
+                              prefix = item.formaNo;
+                              text = item.oyuncuAdi;
+                              break;
+                            case 'kartlar':
+                              prefix = item.dakika;
+                              text = item.oyuncu;
+                              suffix = item.kartTuru;
+                              break;
+                            case 'goller':
+                              prefix = item.dakika;
+                              text = item.oyuncu;
+                              suffix = item.golTipi;
+                              break;
+                            case 'oyundanCikanlar':
+                            case 'oyunaGirenler':
+                              prefix = item.dakika;
+                              text = item.oyuncu;
+                              break;
+                          }
+                          const right = idx === 1;
+                          return (
+                            <li key={i}>
+                              {!right && <span className="item-prefix-left">{prefix}</span>}
+                              {!right && suffix && <span className="item-suffix-left">{suffix}</span>}
+                              <span className="item-text">{text}</span>
+                              {right && suffix && <span className="item-suffix-right">{suffix}</span>}
+                              {right  && <span className="item-prefix-right">{prefix}</span>}
+                            </li>
+                          );
+                        })}
+                      </ul>
+                  }
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   );
