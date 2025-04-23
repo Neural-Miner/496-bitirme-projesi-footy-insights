@@ -29,7 +29,6 @@ function App() {
     }
   };
 
-  // Tam sıfırlama: form ve arka plan videosunu yeniden başlatır
   const handleReset = () => {
     setUploadKey(k => k + 1);
     setDimBg(false);
@@ -51,7 +50,6 @@ function App() {
         className={dimBg ? 'videoBg dimVideo' : 'videoBg'}
       />
       <div className="content">
-        {/* key değiştiğinde UploadBox yeniden mount olur */}
         <UploadBox
           key={uploadKey}
           onDimBackground={handleDimBackground}
@@ -71,10 +69,18 @@ const UploadBox = ({ onDimBackground, onReset }) => {
   const [selectedWeek, setSelectedWeek] = useState('');
   const [matchList, setMatchList] = useState([]);
   const [selectedMatch, setSelectedMatch] = useState('');
-  const [showDetails, setShowDetails] = useState(false);
-  const [fadeOut, setFadeOut] = useState(false);
   const [matchDetailsLink, setMatchDetailsLink] = useState('');
-  const [showMatchDetails, setShowMatchDetails] = useState(true);
+
+  const [showDetails, setShowDetails] = useState(false);
+  const [showVoiceSelect, setShowVoiceSelect] = useState(false);
+  const [selectedVoice, setSelectedVoice] = useState('');
+  const [voiceConfirmed, setVoiceConfirmed] = useState(false);
+
+  const voiceOptions = [
+    { value: 'voice1', label: 'Spiker 1' },
+    { value: 'voice2', label: 'Spiker 2' },
+    { value: 'voice3', label: 'Spiker 3' },
+  ];
 
   const seasonWeekLimits = Object.fromEntries(
     [...Array(9)].map((_, i) => [`${2011 + i}-${2012 + i}`, 34])
@@ -92,21 +98,20 @@ const UploadBox = ({ onDimBackground, onReset }) => {
       setMatchList(m);
       setSelectedMatch('');
       setMatchDetailsLink('');
+      // reset downstream stages
+      setShowDetails(false);
+      setShowVoiceSelect(false);
+      setSelectedVoice('');
+      setVoiceConfirmed(false);
     }
   }, [selectedSeason, selectedWeek]);
 
   const handleSeasonChange = e => {
     setSelectedSeason(e.target.value);
     setSelectedWeek('');
-    setMatchList([]);
-    setSelectedMatch('');
-    setShowDetails(false);
-    setFadeOut(false);
   };
   const handleWeekChange = e => {
     setSelectedWeek(e.target.value);
-    setShowDetails(false);
-    setFadeOut(false);
   };
   const handleMatchChange = e => {
     const val = e.target.value;
@@ -117,19 +122,25 @@ const UploadBox = ({ onDimBackground, onReset }) => {
     if (m?.detailsPath) setMatchDetailsLink(m.detailsPath);
   };
 
-  const handleContinue = () => {
-    setFadeOut(true);
-    setTimeout(() => setShowDetails(true), 500);
+  const handleToDetails = () => {
+    setShowDetails(true);
   };
-
-  // Geri butonu: tam reset
-  const handleBack = () => onReset();
+  const handleToVoiceSelect = () => {
+    setShowVoiceSelect(true);
+  };
+  const handleVoiceConfirm = () => {
+    setVoiceConfirmed(true);
+  };
+  const handleBack = () => {
+    onReset();
+  };
 
   return (
     <div className="container">
-      {/* Sezon/Hafta/Maç formu */}
+      {/* 1) Maç seçimi */}
       {!showDetails && (
-        <div className={`formWrapper ${fadeOut ? 'fadeOutScale' : 'fadeInScale'}`}>
+        <div className="formWrapper fadeInScale">
+          {/* Sezon */}
           <div className="form-group">
             <label className="label" htmlFor="season">Sezon</label>
             <select
@@ -144,17 +155,15 @@ const UploadBox = ({ onDimBackground, onReset }) => {
               ))}
             </select>
           </div>
-
+          {/* Hafta */}
           <AnimatePresence>
             {selectedSeason && (
               <motion.div
-                key="week"
                 className="form-group"
                 initial={{ opacity: 0, height: 0 }}
                 animate={{ opacity: 1, height: 'auto' }}
                 exit={{ opacity: 0, height: 0 }}
-                transition={{ duration: 0.5 }}
-                style={{ overflow: 'hidden' }}
+                transition={{ duration: 0.3 }}
               >
                 <label className="label" htmlFor="week">Hafta</label>
                 <select
@@ -165,23 +174,21 @@ const UploadBox = ({ onDimBackground, onReset }) => {
                 >
                   <option value="">Hafta Seçiniz</option>
                   {[...Array(seasonWeekLimits[selectedSeason])].map((_, i) => (
-                    <option key={i} value={i+1}>{i+1}. Hafta</option>
+                    <option key={i} value={i+1}>{i+1}</option>
                   ))}
                 </select>
               </motion.div>
             )}
           </AnimatePresence>
-
+          {/* Maç */}
           <AnimatePresence>
             {selectedWeek && matchList.length > 0 && (
               <motion.div
-                key="match"
                 className="form-group"
                 initial={{ opacity: 0, height: 0 }}
                 animate={{ opacity: 1, height: 'auto' }}
                 exit={{ opacity: 0, height: 0 }}
-                transition={{ duration: 0.5 }}
-                style={{ overflow: 'hidden' }}
+                transition={{ duration: 0.3 }}
               >
                 <label className="label">Maç</label>
                 <select
@@ -193,7 +200,8 @@ const UploadBox = ({ onDimBackground, onReset }) => {
                   {matchList.map((m, i) => (
                     <option
                       key={i}
-                      value={`${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}`}  >
+                      value={`${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}`}
+                    >
                       {m.homeTeam} | {m.homeScore}-{m.awayScore} | {m.awayTeam}
                     </option>
                   ))}
@@ -201,54 +209,99 @@ const UploadBox = ({ onDimBackground, onReset }) => {
               </motion.div>
             )}
           </AnimatePresence>
-
+          {/* Continue */}
           <AnimatePresence>
-            {!showDetails && selectedMatch && matchDetailsLink && (
+            {selectedMatch && matchDetailsLink && (
               <motion.button
-                key="cont"
                 className="continue-button"
-                onClick={handleContinue}
+                onClick={handleToDetails}
                 initial={{ opacity: 0, scale: 0.8 }}
                 animate={{ opacity: 1, scale: 1 }}
                 exit={{ opacity: 0, scale: 0.8 }}
-                transition={{ duration: 0.25 }}
+                transition={{ duration: 0.2 }}
               >
-                <FaArrowRight size="1.2em" />
+                <FaArrowRight />
               </motion.button>
             )}
           </AnimatePresence>
         </div>
       )}
 
-      {/* Maç detayları */}
-      {showDetails && matchDetailsLink && (
-        <>  
-          <div className="detailsWrapper fadeInScale">
-            {showMatchDetails && <MatchDetails link={matchDetailsLink} />}
+      {/* 2) Maç Detayları + Continue */}
+      {showDetails && !showVoiceSelect && !voiceConfirmed && (
+        <>
+        <button className="back-button-details" onClick={handleBack}>
+            <FaArrowLeft />
+        </button>
+        <div className="detailsWrapper fadeInScale">
+          <MatchDetails link={matchDetailsLink} />
+        </div>
+        <button className="continue-button-details" onClick={handleToVoiceSelect}>
+          <FaArrowRight />
+        </button>
+        </>
+      )}
+
+      {/* 3) Spiker Seçimi + Continue */}
+      {showDetails && showVoiceSelect && !voiceConfirmed && (
+        <>
+        <motion.div
+          className="formWrapper"
+          initial={{ opacity: 0, scale: 0.9 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, scale: 0.9 }}
+          transition={{ duration: 0.3 }}
+          style={{ transformOrigin: 'top center' }}
+        >
+          <div className="form-group">
+            <label className="label" htmlFor="voice">Spiker Seçimi</label>
+            <select
+              id="voice"
+              className="dropdown"
+              value={selectedVoice}
+              onChange={e => setSelectedVoice(e.target.value)}
+            >
+              <option value="">Seçiniz</option>
+              {voiceOptions.map(opt => (
+                <option key={opt.value} value={opt.value}>{opt.label}</option>
+              ))}
+            </select>
           </div>
-          {/* Play Video Button: scrollable olmayan alana taşındı */}
+          <button
+            className="play-video-button"
+            disabled={!selectedVoice}
+            onClick={handleVoiceConfirm}
+          >
+            <FaPlay />
+          </button>
+          <button
+            className="back-button-spiker"
+            onClick={handleBack}
+          >
+            <FaArrowLeft />
+          </button>
+        </motion.div>
+        </>
+      )}
+
+      {/* 4) DownloadAndPlay */}
+      {showDetails && showVoiceSelect && voiceConfirmed && (
+        <>
           <DownloadAndPlay
             selectedSeason={selectedSeason}
             selectedWeek={selectedWeek}
-            selectedMatch={matchList.find(
-              m => `${m.homeTeam} ${m.homeScore}-${m.awayScore} ${m.awayTeam}` === selectedMatch
-            )}
-            onDownloadStart={() => {
-              setShowMatchDetails(false);
-              setIsDownloading(true);
-            }}
+            selectedMatch={selectedMatch}
+            onDownloadStart={() => setIsDownloading(true)}
             onDownloadEnd={() => setIsDownloading(false)}
             onDimBackground={onDimBackground}
             isDownloading={isDownloading}
           />
-
-          {/* Geri butonu her zaman reset’e döner */}
-          {!isDownloading && (
-            <button className="back-button" onClick={handleBack}>
-              <FaArrowLeft size="1.5em" />
-            </button>
-          )}
         </>
+      )}
+      {showDetails && showVoiceSelect && voiceConfirmed && (
+        <button className="back-button" onClick={handleBack}>
+          <FaArrowLeft />
+        </button>
       )}
     </div>
   );
@@ -264,6 +317,11 @@ const DownloadAndPlay = ({
   isDownloading
 }) => {
   const [videoUrl, setVideoUrl] = useState(null);
+  const [isAnalyzing, setIsAnalyzing] = useState(false);
+
+  useEffect(() => {
+    handleDownload();
+  }, []);
 
   const handleDownload = async () => {
     if (!selectedSeason || !selectedWeek || !selectedMatch) return;
@@ -272,6 +330,7 @@ const DownloadAndPlay = ({
     onDimBackground();
     setVideoUrl(null);
 
+    let fileName, alreadyExists=false;
     try {
       const res = await fetch('/download-video', {
         method: 'POST',
@@ -279,46 +338,57 @@ const DownloadAndPlay = ({
         body: JSON.stringify({
           season: selectedSeason,
           week: selectedWeek,
-          homeTeam: selectedMatch.homeTeam,
-          awayTeam: selectedMatch.awayTeam,
+          homeTeam: selectedMatch.split(' ')[0],
+          awayTeam: selectedMatch.split(' ').slice(-1)[0],
         }),
       });
       const result = await res.json();
-      if (result.success) {
-        setVideoUrl(`http://localhost:5000/downloads/${result.videoFileName}`);
-      } else {
-        alert('Video bulunamadi: ' + result.message);
-      }
-    } catch (err) {
-      console.error(err);
-      alert('Sunucu hatasi veya baglanti sorunu.');
-    } finally {
+      alreadyExists = result.message === 'Dosya zaten mevcut';
+      fileName = result.videoFileName;
+      setVideoUrl(`http://localhost:5000/downloads/${fileName}`);
+      
+      console.log("download-video body:", {
+        season: selectedSeason,
+        week: selectedWeek,
+        homeTeam: selectedMatch.split(' ')[0],
+        awayTeam: selectedMatch.split(' ').slice(-1)[0]
+      });
+
+    } catch {
+      alert('Video indirme hatasi');
       onDownloadEnd();
+      return;
     }
+
+    if (!alreadyExists) {
+      setIsAnalyzing(true);
+      try {
+        await fetch('/predict-video', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ videoFileName: fileName }),
+        });
+      } catch {
+        /* keep message visible */
+      }
+      setIsAnalyzing(false);
+    }
+    onDownloadEnd();
   };
 
   return (
-    <div>
+    <div className="playWrapper">
       {!videoUrl && !isDownloading && (
         <button className="play-video-button" onClick={handleDownload}>
-          <FaPlay size="1.2em" />
+          <FaPlay />
         </button>
       )}
-      {isDownloading && <p>Lütfen bekleyiniz...</p>}
-      {videoUrl && (
-        <div style={{ height: 'auto' }}>
-          <h4>
-            {selectedMatch.homeTeam} x {selectedMatch.awayTeam}
-          </h4>
-          <h3>
-            {selectedMatch.homeScore} x {selectedMatch.awayScore}
-          </h3>
-          <video
-            src={videoUrl}
-            style={{ width: '90%', height: 'auto' }}
-            controls
-            autoPlay
-          />
+      {isDownloading && <p>Video yukleniyor...</p>}
+      {videoUrl && isAnalyzing && <p>Mactaki olaylar tespit ediliyor...</p>}
+      {videoUrl && !isAnalyzing && (
+        <div className="videoContainer">
+          <h4 className='match-name-playing'>{selectedMatch}</h4>
+          <video className="mac-video" src={videoUrl} controls autoPlay />
         </div>
       )}
     </div>

@@ -10,6 +10,10 @@ video {
   object-fit: cover;
 }
 
+.mac-video {
+  width: 100%;
+}
+
 .content {
   position: absolute;
   width: 100%;
@@ -178,22 +182,81 @@ video {
   background-color: #e2e2e2; 
 }
 
+.continue-button-details {
+  border-radius: 0.8vw;
+  background-color: rgb(194, 194, 194);
+  color: rgb(56, 56, 56);
+  border: none;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  position: relative;
+  left: 47%;
+  top: -5%;
+}
+
+.continue-button-spiker {
+  border-radius: 0.8vw;
+  background-color: rgb(194, 194, 194);
+  color: rgb(56, 56, 56);
+  border: none;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  position: relative;
+  left: 49%;
+  top: 85%;
+}
+
 .back-button {
   border-radius: 0.8vw;
   background-color: rgb(194, 194, 194);
   color: rgb(56, 56, 56);
   border: none;
   padding: 0.6rem 1rem;
+  font-size: 1rem;
   cursor: pointer;
   z-index: 2;
   transition: background-color 0.2s ease;
-  position: relative;
-  left: 47%;
-  bottom: 4%;
+  position: absolute;
+  left: 12%;
+  top: 76%;
 }
 
 .back-button:hover {
   background-color: #e2e2e2; 
+}
+
+.back-button-details {
+  border-radius: 0.8vw;
+  background-color: rgb(194, 194, 194);
+  color: rgb(56, 56, 56);
+  border: none;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  z-index: 2;
+  transition: background-color 0.2s ease;
+  position: relative;
+  right: 47%;
+  top: 86%;
+}
+
+.back-button-spiker {
+  border-radius: 0.8vw;
+  background-color: rgb(194, 194, 194);
+  color: rgb(56, 56, 56);
+  border: none;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  z-index: 2;
+  transition: background-color 0.2s ease;
+  position: relative;
+  right: 49%;
+  top: 85%;
 }
 
 .play-video-button {
@@ -208,10 +271,32 @@ video {
   align-items: center;
   justify-content: center;
   position: relative;
-  top: 55%;
-  left: 900%;
+  top: 84%;
+  left: 49%;
 }
 
 .play-video-button:hover {
   background-color: #e2e2e2;
+}
+
+.match-name-playing {
+  position: relative;
+  top: 50%;
+}
+
+.videoContainer {
+  position: relative;
+  display: inline-block; /* veya blok düzende tam genişlik için block */  
+}
+
+.match-name-playing {
+  position: relative;
+  top: 70%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;            /* videonun üstünde görünmesi için */
+  color: white;           /* okunabilirlik için */
+  background: rgba(182, 182, 182, 0.267);
+  padding: 0.5vw 0.5vw;
+  border-radius: 5vw;
 }
