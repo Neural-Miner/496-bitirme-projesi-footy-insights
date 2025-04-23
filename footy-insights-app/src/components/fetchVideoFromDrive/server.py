@@ -1,4 +1,8 @@
 import os
+import gc
+
+import subprocess
+
 from flask import Flask, request, jsonify, send_from_directory
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
@@ -12,8 +16,10 @@ ROOT = os.path.dirname(__file__)
 DOWNLOAD_DIR = os.path.join(ROOT, "downloads")
 CLIENT_SECRETS = os.path.join(ROOT, "client_secrets.json")
 CREDENTIALS_FILE = os.path.join(ROOT, "mycreds.json")
+ANALYSIS_DIR = os.path.join(ROOT, "analysis")   # action modeli icin
 
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
+os.makedirs(ANALYSIS_DIR, exist_ok=True)
 
 # Google drive kimlik dogrulamasi
 gauth = GoogleAuth()
@@ -93,6 +99,9 @@ def generatePossibleDriveNames(season, week, homeTeam, awayTeam):
             filename = f"{season}_{week}_{aTag}_{hTag}.mp4"
             possibleNames.append(filename)
 
+    for i in possibleNames:
+        print(f"Possible {i}")
+
     return possibleNames
 
 def findAndDownloadFromDrive(possibleNames, folder_id=None):
@@ -164,13 +173,83 @@ def downloadVideo():
         return jsonify({"success": False, "message": "Eksik parametre"}), 400
     
     possible_names = generatePossibleDriveNames(season, week, homeTeam, awayTeam)
-    result = findAndDownloadFromDrive(possible_names)
 
-    if result:
-        return jsonify({"success": True, "message": "Dosya bulundu, indirildi!", "videoFileName": result})
+    for name in possible_names:
+        localPath = os.path.join(DOWNLOAD_DIR, name)
+        if os.path.isfile(localPath):
+            return jsonify({
+                "success": True,
+                "alreadyExists": True,
+                "message": "Dosya zaten mevcut",
+                "videoFileName": name,
+                "localPath": localPath
+            })
+
+    # 2) Yerelde yoksa Drive'dan indir
+    gauth = GoogleAuth()
+    gauth.LoadCredentialsFile("mycreds.json")
+    if not gauth.credentials or gauth.access_token_expired:
+        gauth.LocalWebserverAuth()
+        gauth.SaveCredentialsFile("mycreds.json")
+    global drive
+    drive = GoogleDrive(gauth)
+
+    downloaded = findAndDownloadFromDrive(possible_names)
+    if downloaded:
+        return jsonify({
+            "success": True,
+            "alreadyExists": False,
+            "message": "Dosya Drive'dan indirildi",
+            "videoFileName": downloaded,
+            "localPath": os.path.join(DOWNLOAD_DIR, downloaded)
+        })
     else:
-        return jsonify({"success": False, "message": "Dosya bulunamadi!"})
+        return jsonify({"success": False, "message": "Dosya bulunamadi!"}), 404
     
+
+@app.route("/predict-video", methods=["POST"])
+def predict_video():
+    """
+    React'ten gelen JSON:
+    { "videoFileName": "2023-2024_1_antalyaspor_besiktas.mp4" }
+
+    Dönen cevap:
+    {
+      "success": true,
+      "eventsOnly": "/analysis/2023-2024_1_antalyaspor_besiktas/events_only_goals.json",
+      "eventsWithout": "/analysis/2023-2024_1_antalyaspor_besiktas/events_without_goals.json"
+    }
+    """
+    data = request.get_json()
+    video_filename = data.get("videoFileName")
+    if not video_filename:
+        return jsonify({"success": False, "message": "Eksik parametre: videoFileName"}), 400
+
+    video_path = os.path.join(DOWNLOAD_DIR, video_filename)
+    if not os.path.exists(video_path):
+        return jsonify({"success": False, "message": "Video dosyası bulunamadı"}), 404
+
+    # Oyun adını dosya adından türet
+    game_name = os.path.splitext(video_filename)[0]
+    output_dir = os.path.join(ANALYSIS_DIR, game_name)
+    os.makedirs(output_dir, exist_ok=True)
+
+    # predict_action.py ile analiz işlemi
+    try:
+        subprocess.run([
+            "python3", os.path.join(ROOT, "predict_action.py"),
+            "--video_path", video_path,
+            "--output_dir", output_dir,
+            "--game_name", game_name
+        ], check=True)
+    except subprocess.CalledProcessError as e:
+        return jsonify({"success": False, "message": str(e)}), 500
+
+    return jsonify({
+        "success": True,
+        "eventsOnly": f"/analysis/{game_name}/events_only_goals.json",
+        "eventsWithout": f"/analysis/{game_name}/events_without_goals.json"
+    })
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
