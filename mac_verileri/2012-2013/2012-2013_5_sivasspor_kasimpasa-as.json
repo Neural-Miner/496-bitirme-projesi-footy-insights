@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MILAN BORJAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KAMIL PAWEL GROSICKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JAN RAJNOCH",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ERMAN KILIÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL ENERAMO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JAKUB NAVRATIL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ERHAN GÜVEN",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "UĞUR KAVUK",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA KOCA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "RICARDO PEDRIEL SUAREZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "MILAN CERNY",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "HAYRETTİN YERLİKAYA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "KAAN KILCI",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR KAVUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "KAMIL PAWEL GROSICKI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERMAN KILIÇ",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "JAN RAJNOCH",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ADEM KOÇAK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "KADİR BEKMEZCİ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JAN ANDREAS ISAKSSON",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "49"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SANCAK KAPLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ERNST",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN KALA",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "KALU UCHE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞERAS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ BAŞDAŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İLHAN EKER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ALİ BİLGİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PABLO CESAR PINTOS CABRAL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM HALİL ÇOLAK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                "METİN DİYADİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SANCAK KAPLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ABDULLAH ELYASA SÜME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "YALÇIN AYHAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDURRAHMAN DERELİ",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "KEREM ŞERAS",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "PABLO CESAR PINTOS CABRAL",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM HALİL ÇOLAK",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

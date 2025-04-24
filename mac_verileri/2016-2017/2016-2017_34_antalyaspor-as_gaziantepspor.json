@@ -1,0 +1,248 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "34"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ÇELİK",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HARUN ALPSOY",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BOZA JEAN ARMEL DROLE",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET ÖZDEN",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN CANGÖZ",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "KENAN HORIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "SANDRO RANIERE GUIMARAES CORDEIRO",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ANIL KOÇ",
+                    "formaNo": "45"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YUSUF ÇELİK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YUSUF ÇELİK",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "EMRE GÜRAL",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "HARUN ALPSOY",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SANDRO RANIERE GUIMARAES CORDEIRO",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ATAKAN CANGÖZ",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BOZA JEAN ARMEL DROLE",
+                    "dakika": "21.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BOZA JEAN ARMEL DROLE",
+                    "dakika": "56.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "71.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "MARCOS GARBELLOTTO SILVEIRA PEDROSO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DOĞANAY KILIÇ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI KISLIAK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ALPAY KOÇAKLI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANIS BEN HATIRA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "KHALY IYANE THIAM",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BAKAN",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "NABIL GHILAS",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ADNAN KARABULUT",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "YUNUS ŞENCAY",
+                    "formaNo": "93"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT UYGUN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALPAY KOÇAKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SIARHEI KISLIAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERKAN BAKAN",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YUNUS ŞENCAY",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERKAN BAKAN",
+                    "dakika": "27.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

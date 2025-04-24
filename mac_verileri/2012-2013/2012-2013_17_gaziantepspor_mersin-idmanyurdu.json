@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT BEZGİN",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "HARIS MEDUNJANIN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "TURGUT DOĞAN ŞAHİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "VICTOR ISMAEL SOSA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EKREM HAYYAM DAĞ",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "KEMAL TOKAK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BINYA AUGUSTIN GILLES",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ORHAN GÜLLE",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET EYÜP TÜRKASLAN",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "BEKİR OZAN HAS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TUFAN KELLECİ",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM HALİL YAŞAR",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZBAYRAKTAR",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SERHAN YILMAZ",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "TAŞKIN ÇALIŞ",
+                    "formaNo": "81"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERDAR KURTULUŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "HARIS MEDUNJANIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TURGUT DOĞAN ŞAHİN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ORHAN GÜLLE",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "VICTOR ISMAEL SOSA",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TAŞKIN ÇALIŞ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZBAYRAKTAR",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "BEKİR OZAN HAS",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TURGUT DOĞAN ŞAHİN",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MERSİN İDMANYURDU"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ÖZDEN ÖNGÜN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ÖMER AYSAN BARIŞ",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MILAN STEPANOV",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "IVAN SARAIVA DE SOUZA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA KEÇELİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OUISSEM BEN YAHIA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EREN TOZLU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MERT NOBRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JUAN EMMANUEL CULİO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HAKAN BAYRAKTAR",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "4"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İBRAHİM SEHIC",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SARP",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "AYDIN TOSCALI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT METİN",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "NDUKA MORRISON OZOKWO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DANILO PETROLLI BUENO",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MARCIN ANDRZEJ ROBAK",
+                    "formaNo": "22"
+                }
+            ],
+            "teknikSorumlu": [
+                "GİRAY BULAK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖZDEN ÖNGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "ÖMER AYSAN BARIŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "JUAN EMMANUEL CULİO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "OUISSEM BEN YAHIA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "DANILO PETROLLI BUENO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT CEYLAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "EREN TOZLU",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MILAN STEPANOV",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NDUKA MORRISON OZOKWO",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA SARP",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "DANILO PETROLLI BUENO",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MURAT CEYLAN",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

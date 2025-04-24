@@ -1,0 +1,292 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "13"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL JOHN CHIBUIKE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ŞEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GBENGA AROKOYO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA DURAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CARLO YAIR COSTLY YAIR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SERHAN YILMAZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "BINYA AUGUSTIN GILLES",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDULLAH ELYASA SÜME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "ERDEM ŞEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "EMMANUEL JOHN CHIBUIKE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA DURAK",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "GBENGA AROKOYO",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İBRAHİM AKIN",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "SERHAN YILMAZ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "CARLO YAIR COSTLY YAIR",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "PEDRO CAMILO FRANCO ULLOA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RAMON DE MORAES MOTTA",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ATINÇ NUKAN",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRE METİN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "FURKAN YAMAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KARAAL",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "TUGAY KAYA",
+                    "formaNo": "54"
+                }
+            ],
+            "teknikSorumlu": [
+                "SLAVEN BİLİC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TOLGA ZENGİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "SERDAR KURTULUŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ATINÇ NUKAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "JOSE ERNESTO SOSA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "RAMON DE MORAES MOTTA",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KERİM FREİ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "İSMAİL KÖYBAŞI",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

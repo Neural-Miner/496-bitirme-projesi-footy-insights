@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "5"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CHARLES HUBERT ITANDJE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CEDRICK MAKIADI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "KORAY ALTINAY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERCAN KAYA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "TEDDY  ETIENNE CHEVALIER",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "NIKA DZALAMIDZE",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GODFREYITAMA OBOABONA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "EREN ALBAYRAK",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "NIKA DZALAMIDZE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "SERCAN KAYA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GODFREYITAMA OBOABONA",
+                    "dakika": "3.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "13.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "25.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "49.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "JOSIP KVESIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME MILHOMEM GUSMAO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER KANDEMİR",
+                    "formaNo": "65"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SEZER BADUR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LAZAREVIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "AHMET ARAS",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "LOKMAN GÖR",
+                    "formaNo": "53"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA ATİ GÖKSU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖMER KANDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "18.dk"
+                },
+                {
+                    "oyuncu": "ONDREJ CELUSTKA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "KADİR BEKMEZCİ",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "JOSIP KVESIC",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JEAN II MAKOUN",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "AHMET ARAS",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

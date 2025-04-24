@@ -1,0 +1,389 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "14"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ANDREAS GIANNIOTIS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CLAUDIO WINCK NETO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FALL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMED MORTADHA BEN OUANES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "DRIES SADDİKİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZCAN",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALİ EMRE YANAR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "TUNCER DUHAN AKSU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÜL",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÇETİNKAYA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL DA COSTA JOIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SARP YAVRUCU",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SELİM DİLLİ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN UTKU AYDIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "HASAN EMRE YEŞİLYURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "IRON DAVID BOCAF GOMIS",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SADIK ÇİFTPINAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+1.dk"
+                },
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "9.dk"
+                },
+                {
+                    "oyuncu": "CLAUDIO WINCK NETO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "KENNETH JOSIAH OMERUO",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "DRIES SADDİKİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "18.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YASİN ÖZCAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "MAMADOU FALL",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ANDREAS GIANNIOTIS",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TUNCER DUHAN AKSU",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ERDEM ÇETİNKAYA",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN GÜL",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "IRON DAVID BOCAF GOMIS",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL DA COSTA JOIA",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "3.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "dakika": "16.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "dakika": "31.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "MAMADOU FALL",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FLORIN CONSTANTIN NITA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "EL HADJI PAPY MISON DJILOBODJI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ARDA KIZILDAĞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MARKO JEVTOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "IRANEUTON SOUSA MORAIS JUNIOR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU IULIAN MAXIM",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS JULIO NKOULOU NDOUBENA",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "DENIS MIHAI DRAGUS",
+                    "formaNo": "70"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BATUHAN AHMET ŞEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JANIO BIKEL FIGUEIREDO DA SILVA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SALEM M'BAKATA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MİRZA CİHAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ÖMÜRCAN ARTAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ONURHAN BABUŞCU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "LAZAR MARKOVIC",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "JOSE BRAYAN RIASCOS VALENCIA",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "ALBIAN AJETI",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "MARIUS NINEL ŞUMUDICA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA ESKİHELLAÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "MARKO JEVTOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ARDA KIZILDAĞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDRU IULIAN MAXIM",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DENIS MIHAI DRAGUS",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MİRZA CİHAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JOSE BRAYAN RIASCOS VALENCIA",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ALBIAN AJETI",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUSTAFA ESKİHELLAÇ",
+                    "dakika": "52.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

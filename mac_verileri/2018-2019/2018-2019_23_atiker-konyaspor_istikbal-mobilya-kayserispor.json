@@ -1,0 +1,276 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "23"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MARKO JEVTOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LEONARD ZUTA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "PETAR FILIPOVIC",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MÜCAHİT ATALAY",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YEVHEN OPANASENKO",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "MÜCAHİT CAN AKÇAY",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ TURAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "NEJC SKUBIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                },
+                {
+                    "oyuncu": "LEONARD ZUTA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALİ TURAN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MÜCAHİT CAN AKÇAY",
+                    "dakika": "56.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTİKBAL MOBİLYA KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "TIAGO JORGE OLIVEIRA LOPES",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ARTEM KRAVETS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TJARONN INTEFF CHEFREN CHERY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN-IONUT SAPUNARU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BERNARD MENSAH",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "OLEKSANDR KUCHER",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ATİLA TURAN",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ASAMOAH GYAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HASAN HÜSEYİN ACAR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "NURETTİN KORKMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SILVESTRE MANUEL GONÇALVES VARELA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÇITAK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BERKANT ŞAHİN KÖK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MERT ÖZYILDIRIM",
+                    "formaNo": "38"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ATİLA TURAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "ARTEM KRAVETS",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "TJARONN INTEFF CHEFREN CHERY",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LEVENT GÜLEN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "HASAN HÜSEYİN ACAR",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "SILVESTRE MANUEL GONÇALVES VARELA",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

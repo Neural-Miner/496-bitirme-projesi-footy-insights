@@ -1,0 +1,297 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "9"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JAN DURICA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DAME N'DOYE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OGENYI EDDY ONAZI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MATUS BERO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HYUNJUN SUK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SERGE OGNADON AKAKPO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "LUIS EZEQUIEL IBANEZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZEKİ YAVRU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA AKBAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "MATUS BERO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OGENYI EDDY ONAZI",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HYUNJUN SUK",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "dakika": "4.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "UĞUR DEMİROK",
+                    "dakika": "65.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ABDOULAYE DIALLO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE PETRUCCI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JAKOB JANSTER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "PATRYK TUSZYNSKI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MARWANE SAADANE",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED ALI YAKOUBI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "GODFREYITAMA OBOABONA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "3.dk"
+                },
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "10.dk"
+                },
+                {
+                    "oyuncu": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                },
+                {
+                    "oyuncu": "JAKOB JANSTER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "PATRYK TUSZYNSKI",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "18.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "81.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "7"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "5"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALTAY BAYINDIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO HENRIQUE VERNES",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "WILLIAN SOUZA ARAO DA SILVA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EZGJAN ALIOSKI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FERDİ ERENAY KADIOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ENNER REMBERTO VALENCIA LASTRA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO GERALDINO DOS SANTOS GALVAO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL CRESPO DA SILVA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ATTILA ARPAD SZALAI",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "EMRE MOR",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ARDA GÜLER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LINCOLN  HENRIQUE OLIVERIA DOS SANTOS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DURSUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BRIGHT OSAYI SAMUEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MICHY BATSHUAYI ATUNGA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MİHA ZAJC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL YÜKSEK",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "JORGE FERNANDO PINHEIRO DE JESUS"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE MOR",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ENNER REMBERTO VALENCIA LASTRA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL CRESPO DA SILVA",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO GERALDINO DOS SANTOS GALVAO",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MICHY BATSHUAYI ATUNGA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MERT HAKAN YANDAŞ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ARDA GÜLER",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "LINCOLN  HENRIQUE OLIVERIA DOS SANTOS",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "dakika": "5.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GUSTAVO HENRIQUE VERNES",
+                    "dakika": "17.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "MIGUEL CRESPO DA SILVA",
+                    "dakika": "45+3.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ENNER REMBERTO VALENCIA LASTRA",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "CORENDON ALANYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUNAR ALEX RUNARSSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "FURKAN BAYIR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "LEROY JOHAN FER",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ZINEDINE FERHAT",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EFKAN BEKİROĞLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "PEDRO MIGUEL DE ALMEIDA LOPES PEREIRA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "JURE BALKOVEC",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "AHMED HASSAN MOHAMED ABDEL MONEM MOHAMED MAHGOUB",
+                    "formaNo": "93"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YUSUF KARAGÖZ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ERENCAN YARDIMCI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "WILSON BRUNO NAVAL DA COSTA ABREU EDUARDO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OUSSAMA TARGHALLINE",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "IVAN RICARDO NEVES ABREU CAVALEIRO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JOHER KHADIM RASSOUL",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞAN KAYRA ERCİYAS",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ AYDIN",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ÖZDEMİR",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ARNAUD RENE LUSAMBA",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "FELIPE SANCHEZ MATEOS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "JURE BALKOVEC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "AHMED HASSAN MOHAMED ABDEL MONEM MOHAMED MAHGOUB",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ZINEDINE FERHAT",
+                    "dakika": "16.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "IVAN RICARDO NEVES ABREU CAVALEIRO",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ARNAUD RENE LUSAMBA",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ERENCAN YARDIMCI",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "OĞUZ AYDIN",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "OUSSAMA TARGHALLINE",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "10"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TORKU KONYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DIMITAR DIMITROV RANGELOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ALBAN MEHA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "JAGOS VUKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MARIO JORGE QUINTAS FELGUEIRAS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ALİBAZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKERİM BARDAKCI",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM SÖNMEZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ TURAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MEHMET USLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DIMITAR DIMITROV RANGELOV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "SELÇUK ALİBAZ",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MOSTAPHA EL KABIR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "GUY LUCIEN MICHEL LANDEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OLAFUR INGI SKULASON",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "66"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "PANAJOTIS DIMITRIADIS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GUIDO KOÇER",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HİKMET BALİOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "MARTIN SPELMANN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ATABEY ÇİÇEK",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "IASMIN LATOVLEVICI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "PANAJOTIS DIMITRIADIS",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "MARTIN SPELMANN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "NEMANJA TOMIC",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

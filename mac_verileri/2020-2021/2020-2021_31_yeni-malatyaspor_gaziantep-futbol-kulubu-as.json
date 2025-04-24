@@ -1,0 +1,346 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "AFRIYIE ACQUAH",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO RUBEN ZUQUI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WALLACE FORTUNA DOS SANTOS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "TEENAGE LINGANI HADEBE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BENJAMIN TETTEH",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "ISSAM CHEBAKE",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULSAMED DAMLU",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "STEPHEN PATRICK MALLAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ALY MALLE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "AHMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "JETMİR TOPALLİ",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "İRFAN BUZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "TEENAGE LINGANI HADEBE",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ISSAM CHEBAKE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "AFRIYIE ACQUAH",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO RUBEN ZUQUI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SEMİH KAYA",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "AHMED ILDIZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "STEPHEN PATRICK MALLAN",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "80.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALIN DORINEL TOŞCA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "IRANEUTON SOUSA MORAIS JUNIOR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "PAWEL MIROSLAW OLKOWSKI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "RODERICK JEFFERSON GONÇALVES MIRANDA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ANDRE ALEXANDRE CARREIRA DE SOUSA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OSAMA RASHID",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU IULIAN MAXIM",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "AMEDEJ VETRİH",
+                    "formaNo": "74"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÇAĞLAR ŞAHİN AKBABA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EL HADJI PAPY MISON DJILOBODJI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JEFFERSON NOGUEIRA JUNIOR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANDRE FELIPE RIBEIRO DE SOUZA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "BİLAL BAŞACIKOĞLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ CEYLAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ZVONIMIR KOZULJ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "RICARDO MANUEL DA SILVA SA PINTO"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "GÜNAY GÜVENÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "ANDRE ALEXANDRE CARREIRA DE SOUSA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "AMEDEJ VETRİH",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ANDRE ALEXANDRE CARREIRA DE SOUSA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDRU IULIAN MAXIM",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "OSAMA RASHID",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ZVONIMIR KOZULJ",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "BİLAL BAŞACIKOĞLU",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ENVER CENK ŞAHİN",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "JEFFERSON NOGUEIRA JUNIOR",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ANDRE FELIPE RIBEIRO DE SOUZA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "12.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "GÜNAY GÜVENÇ",
+                    "dakika": "37.dk",
+                    "golTipi": "K"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "dakika": "70.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

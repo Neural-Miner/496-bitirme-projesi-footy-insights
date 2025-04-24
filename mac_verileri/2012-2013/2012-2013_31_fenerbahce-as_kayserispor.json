@@ -1,0 +1,280 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MILOS KRASIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPUZ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KESİMAL",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "ORHAN ŞAM",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIRK KUIJT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ORHAN ŞAM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MIROSLAV STOCH",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "MILOS KRASIC",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "dakika": "57.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "dakika": "89.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EREN GÜNGÖR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZURAB KHIZANISHVILI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DEYVISON ROGERIO DA SILVA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MIGUEL RIVEROS NUNEZ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "PABLONICOLAS MOUCHE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "CLEYTON ALEXANDRE HENRIQUE SILVA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MARKO SIMIC",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "54"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BABACAR MBAYE DIOP",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BİLAL YENER ARICA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "RESUL ÖZGEN",
+                    "formaNo": "41"
+                }
+            ],
+            "teknikSorumlu": [
+                "ROBERT PROSINECKI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EREN GÜNGÖR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "SALİH DURSUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "CLEYTON ALEXANDRE HENRIQUE SILVA",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BİLAL YENER ARICA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CLEYTON ALEXANDRE HENRIQUE SILVA",
+                    "dakika": "7.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

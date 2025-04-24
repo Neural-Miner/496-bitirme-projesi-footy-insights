@@ -1,0 +1,303 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "28"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BITEXEN ANTALYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HELTON BRANT ALEIXO LEITE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DARIO  SARIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADAM  BUKSA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SAM ANDREAS LARSSON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JAKUB  KALUZINSKI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDER GERARD  VAN DE STREEK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET ATABERK DADAKDENİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ERDAL RAKIP",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RAMZI  SAFURI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖMER TOPRAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EDINALDO GOMES PEREIRA",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ZYMER BYTYQI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "EMRE UZUN",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "BRITT CURTIS ASSOMBALONGA",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALİ RIZA SERGEN YALÇIN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ADAM  BUKSA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "UFUK AKYOL",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "SAM ANDREAS LARSSON",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "DARIO  SARIC",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EDINALDO GOMES PEREIRA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "RAMZI  SAFURI",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ZYMER BYTYQI",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ERDAL RAKIP",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAM ANDREAS LARSSON",
+                    "dakika": "40.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FLORIN CONSTANTIN NITA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "EL HADJI PAPY MISON DJILOBODJI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SALEM M'BAKATA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU IULIAN MAXIM",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "LAZAR MARKOVIC",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "OGÜN ÖZÇİÇEK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS JULIO NKOULOU NDOUBENA",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "DENIS MIHAI DRAGUS",
+                    "formaNo": "70"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUSTAFA BURAK BOZAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ARDA KIZILDAĞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ALIOU BADJI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MARKO JEVTOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "IRANEUTON SOUSA MORAIS JUNIOR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DEIAN CRISTIAN SORESCU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JAMIRO GREGORY MONTEIRO ALVARENGA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MİRZA CİHAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR GÖLGELİ",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "MARIUS NINEL ŞUMUDICA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "JAMIRO GREGORY MONTEIRO ALVARENGA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SALEM M'BAKATA",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MİRZA CİHAN",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "JAMIRO GREGORY MONTEIRO ALVARENGA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ALIOU BADJI",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "DEIAN CRISTIAN SORESCU",
+                    "dakika": "64.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,312 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "10"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SYAM HABIB BEN YOUSSEF",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MURAT CAN YILDIZ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "UĞURCAN YAZĞILI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OLIVIER VEIGNEAU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞTAY KURUKALIP",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "JORGE FILIPE OLIVEIRA FERNANDES",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "AZAD TOPTİK",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "SYAM HABIB BEN YOUSSEF",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "LORET SADIKU",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "13.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "67.dk",
+                    "golTipi": "K"
+                },
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BTC TURK YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FABİEN CEDDY FARNOLLE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "TEENAGE LINGANI HADEBE",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ADIS JAHOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "AFRIYIE ACQUAH",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MİTCHELL GLENN DONALD",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "THIEVY GUIVANE BIPFOUMA KOULOSSA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ISSAM CHEBAKE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME COSTA MARQUES",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EREN TOZLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AHMED ILDIZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ARTURO RAFEAL MİNA MEZA",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ÖZER ÖZDEMİR",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALİ RIZA SERGEN YALÇIN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SAKIB AYTAÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "THIEVY GUIVANE BIPFOUMA KOULOSSA",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MİTCHELL GLENN DONALD",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME COSTA MARQUES",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN TÖRE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

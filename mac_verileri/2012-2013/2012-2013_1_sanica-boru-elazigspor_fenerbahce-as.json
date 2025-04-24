@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SANİCA BORU ELAZIĞSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FABIO ALVES DA SILVA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "MARVİN ROMEO KWASİE",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT ERTUĞRUL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SEZER BADUR",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MURAT KAYALI",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JULIEN FAUBERT",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HERVE GERMAIN TUM",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET ŞAHİN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "HRVOJE SPAHIJA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ORHAN AK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "PASCAL FEINDOUNO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN EMRECİKSİN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GÖKSU TÜRKDOĞAN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DORUK KEREM YİĞİT",
+                    "formaNo": "95"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT UYGUN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SEZER BADUR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "SEDAT BAYRAK",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "BÜLENT ERTUĞRUL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "MURAT KAYALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "HERVE GERMAIN TUM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT KAYALI",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "HERVE GERMAIN TUM",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "JULIEN FAUBERT",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GÖKHAN EMRECİKSİN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "PASCAL FEINDOUNO",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "HRVOJE SPAHIJA",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HERVE GERMAIN TUM",
+                    "dakika": "50.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ALEXSANDRO DE SOUZA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DIRK KUIJT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ORHAN ŞAM",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "85"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH MICHAEL YOBO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "RECEP NİYAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MILOS KRASIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPUZ",
+                    "formaNo": "38"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALEXSANDRO DE SOUZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "BEKİR İRTEGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ORHAN ŞAM",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MILOS KRASIC",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPUZ",
+                    "dakika": "58.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

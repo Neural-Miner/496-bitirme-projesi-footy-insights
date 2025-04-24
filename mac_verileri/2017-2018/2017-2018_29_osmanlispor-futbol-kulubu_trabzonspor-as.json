@@ -1,0 +1,294 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "29"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "79"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "19"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET EYÜP TÜRKASLAN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AVDIJA VRSAJEVIC",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BEYER MAXSO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ALİ EREN İYİCAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "LUIZ CARLOS MARTINS MOREIRA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "TORTOL LUMANZA LEMBI",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "İRFAN BUZ"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUHAMMED BAYIR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AVDIJA VRSAJEVIC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "TORTOL LUMANZA LEMBI",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "73.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "83.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "TOMAS HUBOCAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "JURAJ KUCKA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "FILIP NOVAK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "97"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ARDA AKBULUT",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "JAN DURICA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DAME N'DOYE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MATUS BERO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO DA SILVA PEREIRA",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHİM DURSUN",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "SAMİ CAN ÖZKAN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JOSE ERNESTO SOSA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "JURAJ KUCKA",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JOAO PEDRO DA SILVA PEREIRA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DAME N'DOYE",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "MATUS BERO",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FILIP NOVAK",
+                    "dakika": "14.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "15.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "56.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

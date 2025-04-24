@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "34"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SCOTT PAUL CARSON",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL BASSER CHRETIEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ERDOĞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "STANISLAV SESTAK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "BARİŞ ÖRÜCÜ",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "ALFRED JOHN MOMAR NDIAYE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PABLO MARTIN BATALLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "formaNo": "11"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ ÖZKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "KARL GUSTAV JOHAN SWENSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AHMET ARI",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "IBRAHIM TETEH BANGURA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "TURGAY BAHADIR",
+                    "formaNo": "22"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERTUĞRUL SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖMER ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "8.dk"
+                },
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ASLANTAŞ",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "ALFRED JOHN MOMAR NDIAYE",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "BARİŞ ÖRÜCÜ",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMET ARI",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "IBRAHIM TETEH BANGURA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MAREK SAPARA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "BINYA AUGUSTIN GILLES",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "IVELIN IVANOV POPOV",
+                    "formaNo": "71"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÖZDEN ÖNGÜN",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "IVAN SARAIVA DE SOUZA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VICTOR ISMAEL SOSA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ÖZTÜRK",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "TURGUT DOĞAN ŞAHİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SEZER BADUR",
+                    "formaNo": "26"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDULLAH ELYASA SÜME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SERDAR KURTULUŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "12.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "IVELIN IVANOV POPOV",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VICTOR ISMAEL SOSA",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "TURGUT DOĞAN ŞAHİN",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "IVAN SARAIVA DE SOUZA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

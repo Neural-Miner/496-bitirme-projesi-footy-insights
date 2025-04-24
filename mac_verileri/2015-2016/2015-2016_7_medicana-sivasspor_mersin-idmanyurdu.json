@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "7"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDICANA SİVASSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERNESTAS SETKUS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "DJAKARIDJA KONE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CICERO JOAO DE CESARE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "JOHN BOYE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "JERONIMO BARRALES",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ABALO PAULOS",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ TEWFİK TAOUIL",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA ALTINDAĞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İBRAHİM ÖZTÜRK",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ADEM KOÇAK",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ERKAN KAŞ",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DANIEL ABALO PAULOS",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "YİĞİT İNCEDEMİR",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "dakika": "37.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOHN BOYE",
+                    "dakika": "3.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DJAKARIDJA KONE",
+                    "dakika": "40.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MERSİN İDMANYURDU"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN VAROL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "WELLITON SOARES MORAIS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MILAN MITROVIC",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NGUIMBE PREJUCE NAKOULMA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "SERVET ÇETİN",
+                    "formaNo": "76"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OKTAY DELİBALTA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KALOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EFE HALİL ÖZARSLAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "RICARDO PEDRIEL SUAREZ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "NURULLAH KAYA",
+                    "formaNo": "72"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERKAN BALCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "SERVET ÇETİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÜVEN VAROL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MILAN MITROVIC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "NGUIMBE PREJUCE NAKOULMA",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OKTAY DELİBALTA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SİNAN KALOĞLU",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÖKÇEK VEDERSON",
+                    "dakika": "58.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

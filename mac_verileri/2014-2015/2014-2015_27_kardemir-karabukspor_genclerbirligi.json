@@ -1,0 +1,278 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "27"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BOY WATERMAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN NICOLAS VIOLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "FATİH CANDAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULAZİZ DEMİRCAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DOMİ KUMBELA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BERTUL KOCABAŞ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "JAILTON ALVES MIRANDA",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "YILMAZ VURAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LARRYS DESTIN MABIALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YİĞİT İNCEDEMİR",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "FATİH CANDAN",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MURAT AKÇA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SAMBA SOW",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ERKAN KAŞ",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FATİH CANDAN",
+                    "dakika": "16.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "FURKAN ÖZÇAL",
+                    "dakika": "65.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MERVAN ÇELİK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ALIAKSANDR HLEB",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "FERHAT GÖRGÜLÜ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "GUY LUCIEN MICHEL LANDEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MOSTAPHA EL KABIR",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞRI BÜLBÜL",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "BERAT TOSUN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RADOSAV PETROVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL İBRAHİM PEHLİVAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ALIAKSANDR HLEB",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "BERAT TOSUN",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MERVAN ÇELİK",
+                    "dakika": "26.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

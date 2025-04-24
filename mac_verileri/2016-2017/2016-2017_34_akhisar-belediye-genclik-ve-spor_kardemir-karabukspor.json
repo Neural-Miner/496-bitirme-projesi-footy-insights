@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "34"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RICARDO JORGE VAZ TE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ABDOU LWAHID SISSOKO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALPER ULUDAĞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MIRAL SAMARDZIC",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ORHAN TAŞDELEN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ ADIGÜZEL",
+                    "formaNo": "16"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TOLGA ÜNLÜ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MIRAL SAMARDZIC",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HASAN ALİ ADIGÜZEL",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "DANIEL ALEXANDER LARSSON",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MUĞDAT ÇELİK",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "10.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "RICARDO JORGE VAZ TE",
+                    "dakika": "82.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OLEKSANDR RYBKA",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "PAUL PAPP",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OLAFUR INGI SKULASON",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ANDRE BIYOGO POKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN TANASE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "ANDRII BLIZNICHENKO",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "FATİH ATİK",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCÜMENT KAFKASYALI",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KURT",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT AKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "TAYYİP TALHA SANUÇ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ARİF BOSTANCI",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "UĞURCAN YASİN TABAK",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "ZORAN BARISIC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CRISTIAN TANASE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "FATİH ATİK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "CRISTIAN TANASE",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MAHMUT AKAN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "TAYYİP TALHA SANUÇ",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "58.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "76.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

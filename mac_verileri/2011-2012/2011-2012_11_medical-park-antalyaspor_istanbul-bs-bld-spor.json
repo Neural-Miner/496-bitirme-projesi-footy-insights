@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ÖMER ÇATKIÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM DAĞAŞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ALI ZITOUNI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VESELIN MILCHEV MINEV",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALİ TANDOĞAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DENİZ BARIŞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "IVAN RADELJIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EREN BOYRAZ",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SAMMY NDJOCK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞERAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUSA AYDIN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SEDAT AĞÇAY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN ATALAY",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DENİZ BARIŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM DAĞAŞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "ALI ZITOUNI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "VESELIN MILCHEV MINEV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALİ TANDOĞAN",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MEHMET EREN BOYRAZ",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SEDAT AĞÇAY",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSA AYDIN",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ALİ TANDOĞAN",
+                    "dakika": "41.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBUL BŞ BLD. SPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BEHRAM ZÜLALOĞLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "METİN DEPE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MARCIN ROBERT KUS",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "KAMIL ZAYATTE",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OĞUZHAN BAHADIR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "CAN ARAT",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ÖMER CAN SOKULLU",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "TANER YALÇIN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "RIZVAN ŞAHİN",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM YILMAZ",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "ARİF ERDEM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MAHMUT TEKDEMİR",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL TOBIAS HOLMEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN SÜZEN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL TOBIAS HOLMEN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TANER YALÇIN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "CAN ARAT",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ÖMER CAN SOKULLU",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "27.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EKREM EKŞİOĞLU",
+                    "dakika": "43.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KENNETH KARIM OTIGBA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ANDRE DE CASTRO PEREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DAVID PAVELKA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "FRANCK ETOUNDI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "OLIVIER VEIGNEAU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "VASIL BOZHIKOV",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "HEROLIND SHALA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL EMEM EDUOK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA BATUHAN ALTINTAŞ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "TURGUT DOĞAN ŞAHİN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ANDRE DE CASTRO PEREIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                },
+                {
+                    "oyuncu": "DAVID PAVELKA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "DAVID PAVELKA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "FRANCK ETOUNDI",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TURGUT DOĞAN ŞAHİN",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA BATUHAN ALTINTAŞ",
+                    "dakika": "15.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "59.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "66.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "MUSTAFA BATUHAN ALTINTAŞ",
+                    "dakika": "90+1.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY SÖNMEZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "WELLITON SOARES MORAIS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SIBIRI ALAIN TRAORE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "NGUIMBE PREJUCE NAKOULMA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "JEAN ARMEL KANA BIYIK",
+                    "formaNo": "76"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VEDAT KARAKUŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "UMUT SÖNMEZ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "UFUK BUDAK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ERKAM REŞMEN",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANIL KARAER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "LARRYS DESTIN MABIALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SAMBA SOW",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "KUBİLAY SÖNMEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "NGUIMBE PREJUCE NAKOULMA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "SIBIRI ALAIN TRAORE",
+                    "dakika": "32.dk"
+                },
+                {
+                    "oyuncu": "JEAN ARMEL KANA BIYIK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SRDAN MIJAILOVIC",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "32.dk"
+                },
+                {
+                    "oyuncu": "UFUK BUDAK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "WELLITON SOARES MORAIS",
+                    "dakika": "34.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

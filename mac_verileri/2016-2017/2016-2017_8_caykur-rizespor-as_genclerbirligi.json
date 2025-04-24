@@ -1,0 +1,303 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "8"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ABDOULAYE DIALLO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JAKOB JANSTER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE PETRUCCI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED ALI YAKOUBI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "RECEP NİYAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "PATRYK TUSZYNSKI",
+                    "formaNo": "8"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GODFREYITAMA OBOABONA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "JAKOB JANSTER",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MOHAMED ALI YAKOUBI",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "PATRYK TUSZYNSKI",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JAKOB JANSTER",
+                    "dakika": "13.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "81.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TOKELO ANTHONY RANTIE",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "10"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ALEKSANDAR SCEKIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI PALITSEVICH",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GUY LUCIEN MICHEL LANDEL",
+                    "formaNo": "16"
+                }
+            ],
+            "teknikSorumlu": [
+                "İBRAHİM ÜZÜLMEZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AHMET YILMAZ ÇALIK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "19.dk"
+                },
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "ANTE KULUSIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "23.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "TOKELO ANTHONY RANTIE",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GUY LUCIEN MICHEL LANDEL",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

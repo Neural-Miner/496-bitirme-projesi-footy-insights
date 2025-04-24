@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR D.Ç. KARABÜKSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOMIC VJEKOSLAV",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "KAĞAN SÖYLEMEZGİLLER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FLORIN LUCIAN CERNAT",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ARMAND DEUMİ TCHANİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY SERIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YILDIZ",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "BİROL HİKMET",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "LUTON GEORGE KIESHAWN SHELTON",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LOMANA TRESOR LUALUA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ÖZDİN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN YAZAR",
+                    "formaNo": "71"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERDEM ÖZGENÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "MEHMET YILDIZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "KAĞAN SÖYLEMEZGİLLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET YILDIZ",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ANTHONY SERIC",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "FLORIN LUCIAN CERNAT",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LUTON GEORGE KIESHAWN SHELTON",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "İSHAK DOĞAN",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "LOMANA TRESOR LUALUA",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FLORIN LUCIAN CERNAT",
+                    "dakika": "33.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LOMANA TRESOR LUALUA",
+                    "dakika": "88.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBUL BBSK"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EDUARDO DOS REIS CARVALHO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EFE İNANÇ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ÖMER CAN SOKULLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANDRE GERALDES DE BARROS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "TURGAY BAHADIR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CİHAN HASPOLATLI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KAMIL ZAYATTE",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OĞUZHAN BAHADIR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "CAN ARAT",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TANER YALÇIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "WELLINGTON BRITO DA SILVA",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "CARLOS AUGUSTO SOARES DA COSTA FARIA CARVALHAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CİHAN HASPOLATLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "KAMIL ZAYATTE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                },
+                {
+                    "oyuncu": "ANDRE GERALDES DE BARROS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖMER CAN SOKULLU",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "TURGAY BAHADIR",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "ANDRE GERALDES DE BARROS",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TEVFİK KÖSE",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "WELLINGTON BRITO DA SILVA",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "3.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

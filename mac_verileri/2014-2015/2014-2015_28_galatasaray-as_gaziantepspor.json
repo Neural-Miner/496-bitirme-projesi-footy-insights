@@ -1,0 +1,284 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "28"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "FELIPE MELO DE CARVALHO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ALEX NICOLAO TELLES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SİNAN BOLAT",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ARMINDO TUE NA BANGNA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SABRİ SARIOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "FELIPE MELO DE CARVALHO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OLCAN ADIN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ARMINDO TUE NA BANGNA",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HAKAN KADİR BALTA",
+                    "dakika": "85.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL JOHN CHIBUIKE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ŞEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GBENGA AROKOYO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA DURAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "LUIS LEAL DOS ANJOS",
+                    "formaNo": "87"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA SEVİM",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN TÜRK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ABOUBACAR DEMBA CAMARA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ YARDIMCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN SÜZEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA DURAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDULLAH ELYASA SÜME",
+                    "dakika": "8.dk"
+                },
+                {
+                    "oyuncu": "EMMANUEL JOHN CHIBUIKE",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "LUIS LEAL DOS ANJOS",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "dakika": "8.dk"
+                },
+                {
+                    "oyuncu": "EMRE NEFİZ",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN SÜZEN",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

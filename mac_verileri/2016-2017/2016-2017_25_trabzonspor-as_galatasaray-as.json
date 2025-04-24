@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "25"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL DAVID MAS  SGROS",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DAME N'DOYE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OGENYI EDDY ONAZI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO DA SILVA PEREIRA",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "97"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MATUS BERO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR DEMİROK",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MATUS BERO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO DA SILVA PEREIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "OGENYI EDDY ONAZI",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MATUS BERO",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA AKBAŞ",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DAME N'DOYE",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MARTIN LINNES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ARMINDO TUE NA BANGNA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "LIONEL JULES CAROLE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "LUIS PEDRO CAVANDA",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GARRY MENDES RODRIGUES",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "NİGEL DE JONG",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "IGOR TUDOR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TOLGA CİĞERCİ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MARTIN LINNES",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "GARRY MENDES RODRIGUES",
+                    "dakika": "56.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

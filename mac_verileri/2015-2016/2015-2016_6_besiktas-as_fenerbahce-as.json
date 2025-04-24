@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BECK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "LUIZ RHODOLFO DINI GAIOTO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MARIO GOMEZ GARCIA",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "GORAN ALEXANDER SJÖSTRÖM MILOSEVIC",
+                    "formaNo": "4"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "ERSAN ADEM GÜLÜM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "JOSE ERNESTO SOSA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MARIO GOMEZ GARCIA",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İSMAİL KÖYBAŞI",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARIO GOMEZ GARCIA",
+                    "dakika": "24.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DUSKO TOSIC",
+                    "dakika": "32.dk",
+                    "golTipi": "K"
+                },
+                {
+                    "oyuncu": "MARIO GOMEZ GARCIA",
+                    "dakika": "74.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SIMON THORUP KJAER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "RAUL JOSE TRINDADE MEIRELES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BRUNO EDUARDO REGUFE ALVES",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LAZAR MARKOVIC",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FABIANO RIBEIRO DE FREITAS",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DIEGO RIBAS DA CUNHA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ROBIN VAN PERSIE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MICHAL KADLEC",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "26"
+                }
+            ],
+            "teknikSorumlu": [
+                "VİTOR MANUEL DE OLIVEIRA LOPES PEREIRA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OZAN TUFAN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "38.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DIEGO RIBAS DA CUNHA",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ROBIN VAN PERSIE",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "38.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SIMON THORUP KJAER",
+                    "dakika": "20.dk",
+                    "golTipi": "K"
+                },
+                {
+                    "oyuncu": "ROBIN VAN PERSIE",
+                    "dakika": "65.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

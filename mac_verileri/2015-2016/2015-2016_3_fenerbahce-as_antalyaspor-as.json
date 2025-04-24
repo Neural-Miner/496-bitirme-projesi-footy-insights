@@ -1,0 +1,268 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "3"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SIMON THORUP KJAER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DIEGO RIBAS DA CUNHA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ROBIN VAN PERSIE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE BA",
+                    "formaNo": "53"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FABIANO RIBEIRO DE FREITAS",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RAUL JOSE TRINDADE MEIRELES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UYGAR MERT ZEYBEK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MICHAL KADLEC",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "26"
+                }
+            ],
+            "teknikSorumlu": [
+                "VİTOR MANUEL DE OLIVEIRA LOPES PEREIRA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HASAN ALİ KALDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAYE BA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JOSEF DE SOUZA DIAS",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "MICHAL KADLEC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "dakika": "43.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "dakika": "90+5.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "JOSIP KVESIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LAZAREVIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER KANDEMİR",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME MILHOMEM GUSMAO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN ŞİMŞEK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LOKMAN GÖR",
+                    "formaNo": "53"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA ATİ GÖKSU"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖMER KANDEMİR",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LOKMAN GÖR",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME MILHOMEM GUSMAO",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GUILHERME MILHOMEM GUSMAO",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

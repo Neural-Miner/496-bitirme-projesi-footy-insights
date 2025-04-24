@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "JOSIP KVESIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME MILHOMEM GUSMAO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LAZAREVIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ÖMER KANDEMİR",
+                    "formaNo": "65"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SEZER BADUR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JEAN II MAKOUN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AHMET ARAS",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "LOKMAN GÖR",
+                    "formaNo": "53"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA ATİ GÖKSU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "DEJAN LAZAREVIC",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME MILHOMEM GUSMAO",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JEAN II MAKOUN",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "SEZER BADUR",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "90+3.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BİROL PARLAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ONUR BAYRAMOĞLU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADEWOLE RAHEEM LAWAL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "THEOFANIS GKEKAS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "NZUZİ TOKO",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "GORAN CAUSIC",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SİNAN ÖREN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MATIAS ADRIAN DEFEDERICO",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "CEDRIC MONGONGU",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "MICHAEL HEINZ SKIBBE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FEHMİ EMRE GÜNGÖR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "THEOFANIS GKEKAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KAAN KANAK",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ANIL KARAER",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ADEWOLE RAHEEM LAWAL",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MATIAS ADRIAN DEFEDERICO",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR ÇEK",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

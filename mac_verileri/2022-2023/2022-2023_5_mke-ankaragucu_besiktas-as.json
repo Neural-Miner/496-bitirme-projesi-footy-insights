@@ -1,0 +1,338 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BAHADIR HAN GÜNGÖRDÜ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ CEYLAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN RIDVAN ÇANKAYA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NIHAD MUJAKIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MARLON RODRIGUES XAVIER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "PEDRO FILIPE BARBOSA MOREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GHAYAS ZAHID",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GIORGI BERIDZE",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "OMOGBOLAHAN GREGORY ARIYIBI",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "FREDERICO MACHEDA",
+                    "formaNo": "11"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NURULLAH ASLAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SİNAN OSMANOĞLU",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "YASİN GÜRELER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LAMINE DIACK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FIRATCAN ÜZÜM",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ŞAHVERDİ ÇETİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS CHATZIGIOVANIS",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JESE RODRIGUEZ RUIZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EREN DERDİYOK",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÖMER ERDOĞAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BAHADIR HAN GÜNGÖRDÜ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "MARLON RODRIGUES XAVIER",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "FREDERICO MACHEDA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞUZ CEYLAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OMOGBOLAHAN GREGORY ARIYIBI",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "GHAYAS ZAHID",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "PEDRO FILIPE BARBOSA MOREIRA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "FREDERICO MACHEDA",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FIRATCAN ÜZÜM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JESE RODRIGUEZ RUIZ",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "SİNAN OSMANOĞLU",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "EREN DERDİYOK",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "LAMINE DIACK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GIORGI BERIDZE",
+                    "dakika": "26.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "GIORGI BERIDZE",
+                    "dakika": "47.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMRE BİLGİN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN ANDRE HENRI ROSIER",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "GEORGES KEVIN NKOUDOU MBIDA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WOUT FRANCOIS MARIA WEGHORST",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BAMIDELE JERMAINE ALLI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FUKA ARTHUR MASUAKU KAWELA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ROMAIN GHANEM PAUL SAISS",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JACKSON KYANVUBU MULEKA",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "GEDSON CARVALHO FERNANDES",
+                    "formaNo": "83"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERSİN DESTANOĞLU",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO JAVIER MONTERO RUBIO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRECAN UZUNHAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "KEREM ATAKAN KESGİN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BERKAY VARDAR",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN AKGÜN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ UMUT MERAŞ",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "VALERIEN ALEXANDRE ISMAEL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JOSEF DE SOUZA DIAS",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "MS"
+                },
+                {
+                    "oyuncu": "VALENTIN ANDRE HENRI ROSIER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GEORGES KEVIN NKOUDOU MBIDA",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "GEDSON CARVALHO FERNANDES",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "BAMIDELE JERMAINE ALLI",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "CENGİZ UMUT MERAŞ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "JOSEF DE SOUZA DIAS",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JACKSON KYANVUBU MULEKA",
+                    "dakika": "30.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "BAMIDELE JERMAINE ALLI",
+                    "dakika": "36.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GEORGES KEVIN NKOUDOU MBIDA",
+                    "dakika": "74.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

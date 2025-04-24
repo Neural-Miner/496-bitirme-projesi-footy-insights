@@ -1,0 +1,301 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ANDREAS GIANNIOTIS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CLAUDIO WINCK NETO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TUNCER DUHAN AKSU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÜL",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FALL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMED MORTADHA BEN OUANES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZCAN",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "IRON DAVID BOCAF GOMIS",
+                    "formaNo": "97"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALİ EMRE YANAR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÇETİNKAYA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ADNAN AKTAŞ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SELİM DİLLİ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN EFE YILMAZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN UTKU AYDIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "BERAT KALKAN",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "HASAN EMRE YEŞİLYURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "ALİ SÜHAN DEMİREL",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "IRON DAVID BOCAF GOMIS",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERDEM ÇETİNKAYA",
+                    "dakika": "76.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "30.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAMADOU FALL",
+                    "dakika": "69.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAFAL TADEUSZ GIKIEWICZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "NIHAD MUJAKIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN RIDVAN ÇANKAYA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UROS RADAKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "STYLIANOS KITSIOU",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "MATEJ  HANOUSEK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ANDREJ DOKANOVIC",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "EFKAN BEKİROĞLU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GIORGI BERIDZE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ALI SOWE",
+                    "formaNo": "22"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BAHADIR HAN GÜNGÖRDÜ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ALİ KAAN GÜNEREN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ALPER ULUDAĞ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS CHATZIGIOVANIS",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HAYRULLAH BİLAZER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "PEDRO FILIPE BARBOSA MOREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "YILDIRIM MERT ÇETİN",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "CEM TUNA  TÜRKMEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RENALDO SHOWAYNE CEPHAS",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ATAKAN RIDVAN ÇANKAYA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "TOLGA CİĞERCİ",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "GIORGI BERIDZE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MATEJ  HANOUSEK",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "ANDREJ DOKANOVIC",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RENALDO SHOWAYNE CEPHAS",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "CEM TUNA  TÜRKMEN",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "ALPER ULUDAĞ",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "PEDRO FILIPE BARBOSA MOREIRA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS CHATZIGIOVANIS",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "73.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "RENALDO SHOWAYNE CEPHAS",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

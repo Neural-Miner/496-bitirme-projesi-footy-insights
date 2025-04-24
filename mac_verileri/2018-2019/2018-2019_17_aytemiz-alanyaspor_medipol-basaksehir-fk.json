@@ -1,0 +1,304 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MERİH DEMİRAL",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DEYVISON ROGERIO DA SILVA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "WANDERSON DE SOUZA CARNEIRO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "LUCAS MARTIN VILLAFANEZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL ÜNAL",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "IOANNIS MANIATIS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HASAN AYAROĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALİ RIZA SERGEN YALÇIN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TAHA YALÇINER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "MERİH DEMİRAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "WELINTON SOUZA SILVA",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "WANDERSON DE SOUZA CARNEIRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DEYVISON ROGERIO DA SILVA",
+                    "dakika": "10.dk"
+                },
+                {
+                    "oyuncu": "ISAAC SACKEY",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LUCAS MARTIN VILLAFANEZ",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "dakika": "10.dk"
+                },
+                {
+                    "oyuncu": "WELINTON SOUZA SILVA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "IOANNIS MANIATIS",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "dakika": "63.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİPOL BAŞAKŞEHİR FK"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "GAEL DİMİTRİ CLICHY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SHEYI EMMANUEL ADEBAYOR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "STEFANO NAPOLEONI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MANUEL MROUAN DA COSTA TRINDADE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "UILSON DE SOUZA PAULA JUNIOR",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN İNLER",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH LARWEH ATTAMAH",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ELJERO GEORGE RINALDO ELIA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ARDA TURAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KARIM HAFES RAMADAN SEIFELDIN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MILOS JOJIC",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "UILSON DE SOUZA PAULA JUNIOR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "36.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MAHMUT TEKDEMİR",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "JOSE MARCIO DA COSTA",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "STEFANO NAPOLEONI",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JOSEPH LARWEH ATTAMAH",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ARDA TURAN",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "40.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

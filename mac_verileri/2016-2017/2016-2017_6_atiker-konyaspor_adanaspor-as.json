@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DIMITAR DIMITROV RANGELOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JAGOS VUKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ALBAN MEHA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM SÖNMEZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BARRY JAMES DOUGLAS",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ALİ DERE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SELİM AY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "HALİL İBRAHİM SÖNMEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL İBRAHİM SÖNMEZ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "DIMITAR DIMITROV RANGELOV",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ALBAN MEHA",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "AMIR HADZIAHMETOVIC",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JAGOS VUKOVIC",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ADANASPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GORAN KARACIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO LONGO FREITAS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RENAN SOUZA DINIZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "CANBERK DİLAVER",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK ALTINDAĞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "VLAGYIMIR KOMAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CEM ÖZDEMİR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "EMRE UĞUR URUÇ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AHMET DERELİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SAMİCAN KESKİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RENAN RODRIGUES DA SILVA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "AHMET BAHÇIVAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EDGAR BRUNO DA SILVA",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                "KRUNOSLAV JURCIC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "CANBERK DİLAVER",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA SAMİCAN KESKİN",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "AHMET BAHÇIVAN",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "EMRE UĞUR URUÇ",
+                    "dakika": "53.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

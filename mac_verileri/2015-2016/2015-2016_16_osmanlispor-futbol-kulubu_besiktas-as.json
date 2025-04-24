@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "AHMET ŞAHİN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "RAUL ANDREI RUSESCU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BİLAL AZİZ ÖZER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TONIA D. TISDELL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN CANBAZOĞLU",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TAKAYUKI SETO",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "GALİP GÜZEL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN EYCAN KAYA",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA REŞİT AKÇAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "BİLAL AZİZ ÖZER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "23.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BİLAL AZİZ ÖZER",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "TONIA D. TISDELL",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TIAGO MIGUEL BAIA PINTO",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "ERDAL KILIÇASLAN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "21.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BECK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "LUIZ RHODOLFO DINI GAIOTO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MARIO GOMEZ GARCIA",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "7"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "İSMAİL KÖYBAŞI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "18.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "CENK TOSUN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "KERİM FREİ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARIO GOMEZ GARCIA",
+                    "dakika": "34.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "JOSE ERNESTO SOSA",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOSE ERNESTO SOSA",
+                    "dakika": "90.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

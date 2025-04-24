@@ -1,0 +1,286 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "NURU SULEY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "WILDE DONALD GUERRIER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "VAGNER SILVA DE SOUZA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZDENEK ZLAMAL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "BİROL PARLAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JONATHAN SERGE FOLLY AYITE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ISMAİL AİSSATİ",
+                    "formaNo": "6"
+                }
+            ],
+            "teknikSorumlu": [
+                "HÜSEYİN KALPAR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TAHA YALÇINER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "VAGNER SILVA DE SOUZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "WILDE DONALD GUERRIER",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ISAAC SACKEY",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "VAGNER SILVA DE SOUZA",
+                    "dakika": "87.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "90.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY SÖNMEZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "WELLITON SOARES MORAIS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "UMUT SÖNMEZ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "UFUK BUDAK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "JEAN ARMEL KANA BIYIK",
+                    "formaNo": "76"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALI NADHOIM AHAMADA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FURKAN YAMAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MILADIN STEVANOVIC",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MERT ILIMAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SIBIRI ALAIN TRAORE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERKAM REŞMEN",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT DURUER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "UFUK BUDAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "SAMBA SOW",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "ALI NADHOIM AHAMADA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT DURUER",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "UMUT SÖNMEZ",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALI NADHOIM AHAMADA",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

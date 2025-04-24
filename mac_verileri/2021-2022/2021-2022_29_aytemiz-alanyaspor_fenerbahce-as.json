@@ -1,0 +1,330 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "29"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JOSE CARLOS COENTRAO MARAFONA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EFKAN BEKİROĞLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CHIDOZIE COLLINS AWAZIEM",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO BARBADAS NOVAIS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA MILUNOVIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JUAN FRANCISCO MORENO FUERTES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "FURKAN BAYIR",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "75"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET GÜLAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEROY JOHAN FER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ERENCAN YARDIMCI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FAMARA DIEDHIOU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN AYDOĞAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MIHA MEVLJA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞAN KAYRA ERCİYAS",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ AYDIN",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                "FELIPE SANCHEZ MATEOS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CHIDOZIE COLLINS AWAZIEM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CHIDOZIE COLLINS AWAZIEM",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "NEMANJA MILUNOVIC",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FAMARA DIEDHIOU",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "OĞUZ AYDIN",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TAYFUR BİNGÖL",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "TAYFUR BİNGÖL",
+                    "dakika": "67.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "5"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALTAY BAYINDIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MINJAE KIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MESUT ÖZİL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DURSUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BRIGHT OSAYI SAMUEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MİHA ZAJC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL CRESPO DA SILVA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ATTILA ARPAD SZALAI",
+                    "formaNo": "41"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BERKE ÖZER",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ERTUĞRUL ÇETİN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MERGIM BERISHA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS PELKAS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ARDA GÜLER",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MARCEL JANY EMILE TISSERAND",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞTAY KURUKALIP",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPACAK",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERDAR DURSUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "DIMITRIOS PELKAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OZAN TUFAN",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "SERDAR DURSUN",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MESUT ÖZİL",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DIMITRIOS PELKAS",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MERGIM BERISHA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "BURAK KAPACAK",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "ARDA GÜLER",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "dakika": "26.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MESUT ÖZİL",
+                    "dakika": "50.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "ARDA GÜLER",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DIMITRIOS PELKAS",
+                    "dakika": "90.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MERGIM BERISHA",
+                    "dakika": "90+4.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

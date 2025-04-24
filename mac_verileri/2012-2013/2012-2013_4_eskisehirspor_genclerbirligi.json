@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO DE DEUS SANTOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "HÜRRİYET GÜCER",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "SERVET ÇETİN",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ATDHE NUHIU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SEROL DEMİRHAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PATRYK ADRIAN MALECKI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MİKAİL ALBAYRAK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "KAYACAN ERDOĞAN",
+                    "formaNo": "33"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JERRY AKAMINKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "PATRYK ADRIAN MALECKI",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LEONARDO DE DEUS SANTOS",
+                    "dakika": "13.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "dakika": "43.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SEYFETTİN SEDEF",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET KARA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HURŞUT MERİÇ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LEKIC",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÖZKAN KARABULUT",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "DEBATIK CURRI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR İLERİ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA KAYABAŞI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FATİH SERKAN KURTULUŞ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ARTUN AKÇAKIN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET SEYFETTİN SEDEF",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET KARA",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "JAKUP JİMMY DURMAZ",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "RADOSAV PETROVIC",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA KAYABAŞI",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR İLERİ",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "ARTUN AKÇAKIN",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ÖZGÜR İLERİ",
+                    "dakika": "72.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DEJAN LEKIC",
+                    "dakika": "83.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,318 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MYKOLA MOROZIUK",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS CHATZIISAIAS",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DARIO MELNJAK",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FABRICIO SANTOS DE JESUS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AMEDEJ VETRİH",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MILAN SKODA",
+                    "formaNo": "21"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZAFER GÖRGEN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "LOİC ALEX TELİERE HUBERT REMY",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "KEMAL RÜZGAR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "KONRAD HUBERT MICHALAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BURAK ALBAYRAK",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ALBERK KOÇ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "NADİR ÇİFTÇİ",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "STJEPAN TOMAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MYKOLA MOROZIUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "AMEDEJ VETRİH",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "MILAN SKODA",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "KEMAL RÜZGAR",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "KONRAD HUBERT MICHALAK",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "LOİC ALEX TELİERE HUBERT REMY",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MILAN SKODA",
+                    "dakika": "59.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALTAY BAYINDIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FERDİ ERENAY KADIOĞLU",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "LUIZ GUSTAVO DIAS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL FREY",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "THIAM MAME BABA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MATHIAS JATTAH NJIE JORGENSEN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "PAOLO MAURICIO LEMOS MERLADETT",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ENNER REMBERTO VALENCIA LASTRA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JAILSON MARQUES,SIQUEIRA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "NABIL DIRAR",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "GARRY MENDES RODRIGUES",
+                    "formaNo": "62"
+                }
+            ],
+            "teknikSorumlu": [
+                "EROL BULUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "FERDİ ERENAY KADIOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "FERDİ ERENAY KADIOĞLU",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "THIAM MAME BABA",
+                    "dakika": "54.dk"
+                },
+                {
+                    "oyuncu": "LUIZ GUSTAVO DIAS",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OZAN TUFAN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "JOSE ERNESTO SOSA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ENNER REMBERTO VALENCIA LASTRA",
+                    "dakika": "54.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÖKHAN GÖNÜL",
+                    "dakika": "76.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "JOSE ERNESTO SOSA",
+                    "dakika": "88.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "13"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MERSİN İDMANYURDU"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İBRAHİM SEHIC",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH BOUM II",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MILAN STEPANOV",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "IVAN SARAIVA DE SOUZA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "NDUKA MORRISON OZOKWO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MERT NOBRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OUISSEM BEN YAHIA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SARP",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA KEÇELİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ÖMER AYSAN BARIŞ",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "HAKAN BAYRAKTAR",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÖZDEN ÖNGÜN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DANILO PETROLLI BUENO",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EREN TOZLU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MURAT ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SERKAN YANIK",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT METİN",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "NURULLAH SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA KEÇELİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MERT NOBRE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MILAN STEPANOV",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "NDUKA MORRISON OZOKWO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAFA KEÇELİ",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "HAKAN BAYRAKTAR",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "OUISSEM BEN YAHIA",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EREN TOZLU",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "DANILO PETROLLI BUENO",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MERT NOBRE",
+                    "dakika": "55.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "MILAN STEPANOV",
+                    "dakika": "89.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KARDEMİR D.Ç. KARABÜKSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOMIC VJEKOSLAV",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BİROL HİKMET",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ARMAND DEUMİ TCHANİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN VAROL",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LOMANA TRESOR LUALUA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YILDIZ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "HAKAN SÖYLER",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "KAĞAN SÖYLEMEZGİLLER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FLORIN LUCIAN CERNAT",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JUGURTHA HAMROUN",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ÖZDİN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN YAZAR",
+                    "formaNo": "71"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "İSHAK DOĞAN",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "BİROL HİKMET",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "LOMANA TRESOR LUALUA",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JUGURTHA HAMROUN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "KAĞAN SÖYLEMEZGİLLER",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ANIL KARAER",
+                    "dakika": "57.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "62.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,329 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FALLOU DIAGNE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ADIS JAHOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ABDOU RAZACK TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "YEVHEN OPANASENKO",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MÜCAHİT ATALAY",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JENS JONSSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "WİLFRİED MOKE ABRO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "VEDAT BORA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "PETAR FILIPOVIC",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "MÜCAHİT CAN AKÇAY",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "PETAR FILIPOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "FALLOU DIAGNE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UĞUR DEMİROK",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "ABDOU RAZACK TRAORE",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "42.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "PETAR FILIPOVIC",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "dakika": "42.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "74.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SYAM HABIB BEN YOUSSEF",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSUE HUMBERTO GONÇALVES LEAL DE SA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MBAYE DIAGNE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL EMEM EDUOK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TARKAN SERBEST",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OLIVIER VEIGNEAU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "MURAT CAN YILDIZ",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "DAVID PAVELKA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HASAN BİLAL",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ETHEM ERBOĞA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HAKAN DEMİR",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ONUR URAL",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞTAY KURUKALIP",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA DENİZLİ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HAKAN DEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "OLIVIER VEIGNEAU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "STRAHIL VENKOV POPOV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SYAM HABIB BEN YOUSSEF",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "TARKAN SERBEST",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "13.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SAMUEL EMEM EDUOK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "TARKAN SERBEST",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "HAKAN DEMİR",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "72.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

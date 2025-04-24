@@ -1,0 +1,278 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "23"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMRAH TUNCEL",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞDAŞ ATAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİMA SONKO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EMİN ALADAĞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERTAN VARDAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BAYE OUMAR NIASSE",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRAH EREN",
+                    "formaNo": "34"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OĞUZ DAĞLAROĞLU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SERKAN YALÇIN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AHMET CEBE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERKAN TAŞKIRAN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ALESSANDRO FEDERICO KARL-HENZ RIEDLE",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "BAHATTİN KÖSE",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MERTER YÜCE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERTAN VARDAR",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "BAYE OUMAR NIASSE",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMET CEBE",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "BRUNO FERREIRA MOMBRA ROSA",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "BAHATTİN KÖSE",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "14.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "36.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SEBASTIEN FREY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "RENATO CIVELLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TAIWO TAYE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO DANIEL BELLUSCHI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FERHAT KİRAZ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "RENATO ADRIANO JACO DE MORAIS",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA BATUHAN ALTINTAŞ",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ HAN AYNAOĞLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "ENES ÜNAL",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "CHRISTOPH PAUL DAUM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FERHAT KİRAZ",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO DANIEL BELLUSCHI",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENES ÜNAL",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA BATUHAN ALTINTAŞ",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "9.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "10"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE BADJI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ UMUT MERAŞ",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPACAK",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ŞENGEZER",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ONUR ATASAYAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SANTIAGO VERGINI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ALLANO BRENDON DE SOUZA LIMA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FURKAN EMRE ÜNVER",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞATAY YILMAZ",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN KESKİN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "17"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "STEPHANE BADJI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "CENGİZ UMUT MERAŞ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ALLANO BRENDON DE SOUZA LIMA",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "IASMIN LATOVLEVICI",
+                    "dakika": "2.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "45+2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MERİH DEMİRAL",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "IOANNIS MANIATIS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DEYVISON ROGERIO DA SILVA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İSMAİL ÜNAL",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "FILIPE AUGUSTO CARVALHO SOUZA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "WANDERSON DE SOUZA CARNEIRO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LUCAS MARTIN VILLAFANEZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HASAN AYAROĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ BAŞDAŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DEYVISON ROGERIO DA SILVA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "IOANNIS MANIATIS",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FILIPE AUGUSTO CARVALHO SOUZA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "LUCAS MARTIN VILLAFANEZ",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

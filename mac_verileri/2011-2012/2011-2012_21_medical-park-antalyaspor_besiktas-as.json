@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SAMMY NDJOCK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM DAĞAŞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALI ZITOUNI",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VESELIN MILCHEV MINEV",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALİ TANDOĞAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DENİZ BARIŞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "POLAT KESER",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞERAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSA AYDIN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "IVAN RADELJIC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EREN BOYRAZ",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ TANDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM DAĞAŞAN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "SAMMY NDJOCK",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET EREN BOYRAZ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "POLAT KESER",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "90+3.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM TORAMAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EKREM HAYYAM DAĞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SIMAO PEDRO DA FONSECA SABROSA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ERNST",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "EDUARDO GONÇALVES DE OLIVEIRA",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RÜŞTÜ REÇBER",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "TANJU KAYHAN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JULIO REGUFE ALVES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "SIDNEI RECHEL DA SILVA JUNIOR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED DEMİRCİ",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "CARLOS AUGUSTO SOARES DA COSTA FARIA CARVALHAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CENK GÖNEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "İSMAİL KÖYBAŞI",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SIMAO PEDRO DA FONSECA SABROSA",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "EDUARDO GONÇALVES DE OLIVEIRA",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TANJU KAYHAN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "dakika": "63.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

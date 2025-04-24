@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "19"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "AHMET ŞAHİN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "RAUL ANDREI RUSESCU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ADEWOLE RAHEEM LAWAL",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ANDREI GABRIEL TORJE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN CANBAZOĞLU",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VACLAV PROCHAZKA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AVDIJA VRSAJEVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DELİKTAŞ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT AKAN",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA REŞİT AKÇAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEWOLE RAHEEM LAWAL",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ANDREI GABRIEL TORJE",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ERDAL KILIÇASLAN",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "SERDAR DELİKTAŞ",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "20.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "JASON GREGORY DENAYER",
+                    "formaNo": "64"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JOSE RODRIGUEZ MARTINEZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "LIONEL JULES CAROLE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MARTIN LINNES",
+                    "formaNo": "27"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA DENİZLİ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HAKAN KADİR BALTA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "NESTOR FERNANDO MUSLERA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SEMİH KAYA",
+                    "dakika": "15.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "JASON GREGORY DENAYER",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LIONEL JULES CAROLE",
+                    "dakika": "15.dk"
+                },
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "BİLAL KISA",
+                    "dakika": "56.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BURAK YILMAZ",
+                    "dakika": "31.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

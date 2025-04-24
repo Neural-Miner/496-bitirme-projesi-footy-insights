@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "22"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "AHMET ŞAHİN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "RAUL ANDREI RUSESCU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AVDIJA VRSAJEVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ADEWOLE RAHEEM LAWAL",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ANDREI GABRIEL TORJE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "DELARGE DZON",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LUKASZ SZUKALA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA REŞİT AKÇAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ADEWOLE RAHEEM LAWAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "DELARGE DZON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ANDREI GABRIEL TORJE",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DELARGE DZON",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "35.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "66.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ADEWOLE RAHEEM LAWAL",
+                    "dakika": "90.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MERSİN İDMANYURDU"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN VAROL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MILAN MITROVIC",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NGUIMBE PREJUCE NAKOULMA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ENES SIĞIRCI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KALOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EREN TOZLU",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "RICARDO PEDRIEL SUAREZ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "NURULLAH KAYA",
+                    "formaNo": "72"
+                },
+                {
+                    "oyuncuAdi": "SEROL DEMİRHAN",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜMİT ÖZAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKÇEK VEDERSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GÜVEN VAROL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TAŞ",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RICARDO PEDRIEL SUAREZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EREN TOZLU",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SİNAN KALOĞLU",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

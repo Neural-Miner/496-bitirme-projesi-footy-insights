@@ -1,0 +1,276 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "8"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAHI SHEHU",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ UMUT MERAŞ",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN KESKİN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "DIAFRA SAKHO",
+                    "formaNo": "67"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ŞENGEZER",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ATABERK DADAKDENİZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SANTIAGO VERGINI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ALLANO BRENDON DE SOUZA LIMA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FURKAN EMRE ÜNVER",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞATAY YILMAZ",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPACAK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED EMİN SARIKAYA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ALİ AKMAN",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RAMAZAN KESKİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CENGİZ UMUT MERAŞ",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "DIAFRA SAKHO",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BURAK KAPACAK",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ALLANO BRENDON DE SOUZA LIMA",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CENGİZ UMUT MERAŞ",
+                    "dakika": "23.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ALİHAN KUBALAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YOUNESS MOKHTAR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "THIEVY GUIVANE BIPFOUMA KOULOSSA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RICARDO WILLIAM FATY",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "THIBAULT GAETAN MATHIEU MOULIN",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SEDAT AĞÇAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT AKAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ALESSIO CERCI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BAKARY KONE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OLANREWAJU MUHAMMED KEHINDE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ŞEN",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YALÇIN AYHAN",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "YOUNESS MOKHTAR",
+                    "dakika": "14.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BAKARY KONE",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "ALESSIO CERCI",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "dakika": "14.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

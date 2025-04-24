@@ -1,0 +1,303 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "RENATO CIVELLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AZİZ ERALTAY",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO DANIEL BELLUSCHI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OZAN İPEK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SÜHEYL ÇETİN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "BAKAYE TRAORE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ENES ÜNAL",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OZAN İPEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "2.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO DANIEL BELLUSCHI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OZAN İPEK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OZAN TUFAN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL TOBIAS HOLMEN",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENES ÜNAL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "dakika": "14.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SAMUEL TOBIAS HOLMEN",
+                    "dakika": "35.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "73.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "ENES ÜNAL",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BALIKESİRSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ANDRIJA VUKOVIC",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "OKAN ALKAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "TOMISLAV GLUMAC",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VİTOR HUGO GOMES DA SILVA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ERAY ATASEVEN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ÜNAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRULLAH ŞALK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÖZTÜRK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HASAN HATİPOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "30"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANTE KULUSIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "17.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "VİTOR HUGO GOMES DA SILVA",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALİ ÖZTÜRK",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MUĞDAT ÇELİK",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "dakika": "25.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "dakika": "29.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

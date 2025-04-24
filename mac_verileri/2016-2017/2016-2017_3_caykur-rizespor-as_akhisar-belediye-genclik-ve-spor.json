@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "3"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ABDOULAYE DIALLO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MARWANE SAADANE",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE PETRUCCI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RECEP NİYAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "JAKOB JANSTER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "IYAYI BELIEVE ATIEMWEN",
+                    "formaNo": "24"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MATIC FINK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED ALI YAKOUBI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ HAN AYNAOĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ORHAN OVACIKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "11.dk"
+                },
+                {
+                    "oyuncu": "MARWANE SAADANE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "JAKOB JANSTER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "RECEP NİYAZ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "IYAYI BELIEVE ATIEMWEN",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OĞUZ HAN AYNAOĞLU",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "IYAYI BELIEVE ATIEMWEN",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS FERREIRA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "RICARDO JORGE VAZ TE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JOEL LANDRY TSAFACK NGUEMO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "LEOCISIO JULIO SAMI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KESİMAL",
+                    "formaNo": "53"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AYKUT ÇEVİKER",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DOUGLAS FERREIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RICARDO JORGE VAZ TE",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "JOEL LANDRY TSAFACK NGUEMO",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LEOCISIO JULIO SAMI",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "AYKUT ÇEVİKER",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

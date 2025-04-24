@@ -1,0 +1,273 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "8"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CHARLES HUBERT ITANDJE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BART LAMBERTUS WİLHELMUS VAN HİNTUM",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI KISLIAK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "N'GUESSAN DAVY CLAUDE ANGAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "FATAU MOHOMED",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "NABIL GHILAS",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "83"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ALPAY KOÇAKLI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DANIEL KOLAR",
+                    "formaNo": "85"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALPAY KOÇAKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DANIEL ALEXANDER LARSSON",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "SIARHEI KISLIAK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "N'GUESSAN DAVY CLAUDE ANGAN",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANTON PUTSILA",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ALPAY KOÇAKLI",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "NABIL GHILAS",
+                    "dakika": "43.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY SÖNMEZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "WELLITON SOARES MORAIS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "NGUIMBE PREJUCE NAKOULMA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "UFUK BUDAK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "JEAN ARMEL KANA BIYIK",
+                    "formaNo": "76"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALI NADHOIM AHAMADA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "UMUT SÖNMEZ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MERT ILIMAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SIBIRI ALAIN TRAORE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MERT ÖZYILDIRIM",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ERKAM REŞMEN",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SRDAN MIJAILOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "NGUIMBE PREJUCE NAKOULMA",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UMUT SÖNMEZ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MURAT DURUER",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SIBIRI ALAIN TRAORE",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "57.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "73.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

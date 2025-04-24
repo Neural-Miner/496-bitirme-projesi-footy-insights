@@ -1,0 +1,340 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "33"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FRAPORT-TAV ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SIDNEY SAM",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FEDOR KUDRIASHOV",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AMILTON MINERVINO DA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN ÖZKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EDINALDO GOMES PEREIRA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT HAN EKELİK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OMAR İMERİ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MERT YILMAZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ KOÇ",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "ALİ EREN İYİCAN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "95.dk"
+                },
+                {
+                    "oyuncu": "AMILTON MINERVINO DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "UFUK AKYOL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SIDNEY SAM",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OMAR İMERİ",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "EDINALDO GOMES PEREIRA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "27.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "67.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FAYCAL FAJR",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "TYLER DOMINIC BOYD",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAMADOU SAMASSA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ALAADDİN OKUMUŞ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KEREM ATAKAN KESGİN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "CLAUDEMIR DOMINGUES DE SOUZA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JORGE FELIX MUNOZ GARCIA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "OLARENWAJU AYOBAMI KAYODE",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ ŞAŞAL VURAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "91.dk"
+                },
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "TYLER DOMINIC BOYD",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ISAAC COFIE",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OLARENWAJU AYOBAMI KAYODE",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "CLAUDEMIR DOMINGUES DE SOUZA",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TYLER DOMINIC BOYD",
+                    "dakika": "1.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "TYLER DOMINIC BOYD",
+                    "dakika": "36.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "47.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

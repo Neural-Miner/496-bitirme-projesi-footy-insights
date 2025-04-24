@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "13"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIRK KUIJT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RAUL JOSE TRINDADE MEIRELES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EMRE BELÖZOĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BRUNO EDUARDO REGUFE ALVES",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL CHINENYE EMENIKE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MICHAL KADLEC",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "26"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BEKİR İRTEGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "EMMANUEL CHINENYE EMENIKE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "HASAN ALİ KALDIRIM",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BEKİR İRTEGÜN",
+                    "dakika": "3.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "14.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "65.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "BERK NEZİROĞLULARI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KADİR BEKMEZCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUSA SİNAN YILMAZER",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CICERO JOAO DE CESARE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MANUEL MROUAN DA COSTA TRINDADE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ TEWFİK TAOUIL",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "DENİZ ÖKSÜZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MACAULEY CHRISANTUS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CİHAN ÖZKARA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KARADENİZ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AHMET ARAS",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "AHMET ŞAHBAZ",
+                    "formaNo": "46"
+                }
+            ],
+            "teknikSorumlu": [
+                "ORHAN KAYNAK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSA SİNAN YILMAZER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSA SİNAN YILMAZER",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "KADİR BEKMEZCİ",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MACAULEY CHRISANTUS",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "AHMET ARAS",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "13.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

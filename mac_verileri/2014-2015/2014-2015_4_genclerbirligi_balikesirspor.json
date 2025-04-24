@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JOHAN HELGE DAHLIN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "GOSSO JEAN JACQUES GOSSO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BERAT TOSUN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "GUIDO KOÇER",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "20"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HİKMET BALİOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DENİZ NAKİ",
+                    "formaNo": "62"
+                },
+                {
+                    "oyuncuAdi": "LIVIU ION ANTAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "8"
+                }
+            ],
+            "teknikSorumlu": [
+                "NACİ ŞENSOY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "BERAT TOSUN",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RADOSAV PETROVIC",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "NİZAMETTİN ÇALIŞKAN",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "DENİZ NAKİ",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BERAT TOSUN",
+                    "dakika": "33.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BERAT TOSUN",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BALIKESİRSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMRULLAH ŞALK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "NUNO ANDRE DA SİLVA COELHO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OKAN ALKAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ANDRE FILIPE BERNARDES SANTOS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALAN CARLOS GOMES DA COSTA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KHALIFA JABBIE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "19"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZEKİ AYVAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÖZTÜRK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BURAK ÇALIK",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ABDULHAMİT YILDIZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "UĞUR AKDEMİR",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL ERTEKİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "OKAN ALKAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUĞDAT ÇELİK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ANDRE FILIPE BERNARDES SANTOS",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALAN CARLOS GOMES DA COSTA",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALİ ÖZTÜRK",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "dakika": "57.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

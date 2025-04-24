@@ -1,0 +1,308 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "3"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SCOTT PAUL CARSON",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL BASSER CHRETIEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "TURGAY BAHADIR",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ALFRED JOHN MOMAR NDIAYE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OZAN İPEK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "PABLO MARTIN BATALLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "IBRAHIM TETEH BANGURA",
+                    "formaNo": "19"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ ÖZKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MILAN STEPANOV",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "FEDERICO INSUA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AHMET ARI",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ERDOĞAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "PRINCE TAGOE",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERTUĞRUL SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "MICHAEL BASSER CHRETIEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "PRINCE TAGOE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "IBRAHIM TETEH BANGURA",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "24.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OZAN İPEK",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "ADEM KOÇAK",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "PABLO MARTIN BATALLA",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMET ARI",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "ÖMER ERDOĞAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "PRINCE TAGOE",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "IBRAHIM TETEH BANGURA",
+                    "dakika": "6.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RÜŞTÜ REÇBER",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AURELIO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EKREM HAYYAM DAĞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SIMAO PEDRO DA FONSECA SABROSA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SIDNEI RECHEL DA SILVA JUNIOR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EDUARDO GONÇALVES DE OLIVEIRA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "FILIP HOLOSKO",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ERNST",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "TANJU KAYHAN",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "CARLOS AUGUSTO SOARES DA COSTA FARIA CARVALHAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET AURELIO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "EGEMEN KORKMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "EKREM HAYYAM DAĞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SIMAO PEDRO DA FONSECA SABROSA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EGEMEN KORKMAZ",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "SIMAO PEDRO DA FONSECA SABROSA",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "FILIP HOLOSKO",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TOMAS SIVOK",
+                    "dakika": "87.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "FILIP HOLOSKO",
+                    "dakika": "89.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

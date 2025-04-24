@@ -1,0 +1,305 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "8"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "FELIPE MELO DE CARVALHO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TEBILY DIDIER YVES DROGBA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "AYDIN YILMAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BAYTAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                }
+            ],
+            "teknikSorumlu": [
+                "ROBERTO MANCINI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SABRİ SARIOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "AYDIN YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "FELIPE MELO DE CARVALHO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "TEBILY DIDIER YVES DROGBA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN KADİR BALTA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "AYDIN YILMAZ",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "dakika": "40.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BOY WATERMAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SEBASTIEN NICOLAS PUYGRENIER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH ENEOJO AKPALA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LOMANA TRESOR LUALUA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "79"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ÜNAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MORTEN GAMST PEDERSEN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YİĞİT İNCEDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "UĞUR UÇAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "LARRYS DESTIN MABIALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "SEBASTIEN NICOLAS PUYGRENIER",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "MORTEN GAMST PEDERSEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "ERKAN KAŞ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "JOSEPH ENEOJO AKPALA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERDEM ÖZGENÇ",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "MORTEN GAMST PEDERSEN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "FURKAN ÖZÇAL",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOSEPH ENEOJO AKPALA",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

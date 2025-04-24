@@ -1,0 +1,270 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "8"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALLAN JAMES MCGREGOR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "UĞUR BORAL",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ROBERTO JAN HİLBERT",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM TORAMAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "FILIP HOLOSKO",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KARADENİZ",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL PEREIRA DE ALMEIDA",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "HASAN TÜRK",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "JULIEN ESCUDE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERSAN ADEM GÜLÜM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "FILIP HOLOSKO",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SOULEYMAN BAMBA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EMERSON DA CONCEIÇAO",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "DEGUY ALAIN DIDIER ZOKORA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MAREK SAPARA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "HALİL ALTINTOP",
+                    "formaNo": "21"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZEKİ AYVAZ",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ÖZBEK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MARC JANKO",
+                    "formaNo": "83"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "6.dk"
+                },
+                {
+                    "oyuncu": "MAREK SAPARA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "MAREK SAPARA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BARIŞ ÖZBEK",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MARC JANKO",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAREK SAPARA",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

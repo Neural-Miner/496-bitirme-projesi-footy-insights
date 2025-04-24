@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL ANGELO MOITA GARCIA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AGUSTIN GARCIA INIGUEZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ATİLA TURAN",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "JAVIER HORACIO UMBIDES",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DAVID BARRAL TORRES",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İSMAİL GÖKOĞLAN",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM KAŞ",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "MÜSLÜM YELKEN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ROVERSIO  RODRIGUES DE BARROS",
+                    "formaNo": "84"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇÖKMÜŞ",
+                    "formaNo": "85"
+                }
+            ],
+            "teknikSorumlu": [
+                "HECTOR RAUL CUPER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                },
+                {
+                    "oyuncu": "DAVID BARRAL TORRES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NİZAMETTİN ÇALIŞKAN",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "DAVID BARRAL TORRES",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İBRAHİM KAŞ",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "YİĞİT İSMAİL GÖKOĞLAN",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DAVID BARRAL TORRES",
+                    "dakika": "2.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "16.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "58.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GRETAR RAFN STEINSSON",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MALİK DENİZ FATHI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ZURAB KHIZANISHVILI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DEYVISON ROGERIO DA SILVA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "PABLONICOLAS MOUCHE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ERDAL AKDARI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "38"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BERKAY TOLGA DABANLI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FRANCO DARIO CANGELE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EMIR KUJOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAHİR KALEM",
+                    "formaNo": "42"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "10.dk"
+                },
+                {
+                    "oyuncu": "SALİH DURSUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "ZURAB KHIZANISHVILI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "dakika": "11.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "PABLONICOLAS MOUCHE",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GÖKHAN DEĞİRMENCİ",
+                    "dakika": "11.dk"
+                },
+                {
+                    "oyuncu": "EMIR KUJOVIC",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ENGİN BEKDEMİR",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DEYVISON ROGERIO DA SILVA",
+                    "dakika": "37.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

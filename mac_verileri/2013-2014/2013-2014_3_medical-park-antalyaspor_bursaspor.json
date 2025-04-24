@@ -1,0 +1,273 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "3"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MILAN BAROS",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ANTON JULIAN FERDINAND",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM DAĞAŞAN",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SEYFETTİN SEDEF",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "IGNACIO INSA BOHIGUES",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FEHMİ EMRE GÜNGÖR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UĞUR İNCEMAN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "PROMISE ISAAC",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "LAMİNE DIARRA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "MURAT DURUER",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MILAN BAROS",
+                    "dakika": "4.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SEBASTIEN FREY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "RENATO CIVELLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TAIWO TAYE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "TUNCAY ŞANLI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO DANIEL BELLUSCHI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "PABLO MARTIN BATALLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "formaNo": "11"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "ENES ÜNAL",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "OKAN DENİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "FERHAT KİRAZ",
+                    "formaNo": "39"
+                }
+            ],
+            "teknikSorumlu": [
+                "CHRISTOPH PAUL DAUM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TUNCAY ŞANLI",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO DANIEL BELLUSCHI",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FERHAT KİRAZ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "dakika": "35.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "58.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

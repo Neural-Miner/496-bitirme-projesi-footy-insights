@@ -1,0 +1,271 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL ANGELO MOITA GARCIA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ONUR TUNCER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "GOSSO JEAN JACQUES GOSSO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JUAN EMMANUEL CULİO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "WILFRIED DALMAT",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FATİH TEKKE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "12"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "İRFAN BAŞARAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN DERELİ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "MURAT KALKAN",
+                    "formaNo": "69"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOAO DA ROCHA RIBEIRO",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "METİN DİYADİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE ÖZKAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "19.dk"
+                },
+                {
+                    "oyuncu": "GOSSO JEAN JACQUES GOSSO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE ÖZKAN",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "JUAN EMMANUEL CULİO",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "WILFRIED DALMAT",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MURAT KALKAN",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "JOAO DA ROCHA RIBEIRO",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SAMSUNSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANDRE LUIZ BAHIA SANTOS VIANA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL FINK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SARP",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KEMAL TOKAK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ERGÜN TEBER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ANIL DİLAVER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ARISTIDE BANCE",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ALVARO JOSE DOMINGUEZ CABEZAS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AKAKI KHUBUTIA",
+                    "formaNo": "24"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA ÖZMEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "VALDOMIRO DUARTE DE MACEDO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BAŞARAN SARAÇOĞLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SAVAŞ YILMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SİMON TERWASE ZENKE",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT KOCABEY",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "VLADİMİR PETKOVİC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA SARP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "SİMON TERWASE ZENKE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "ANDRE LUIZ BAHIA SANTOS VIANA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ANIL DİLAVER",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "MICHAEL FINK",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BÜLENT KOCABEY",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SİMON TERWASE ZENKE",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "SAVAŞ YILMAZ",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

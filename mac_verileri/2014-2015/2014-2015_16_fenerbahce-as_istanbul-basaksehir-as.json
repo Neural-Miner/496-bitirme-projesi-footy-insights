@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIRK KUIJT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RAUL JOSE TRINDADE MEIRELES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EMRE BELÖZOĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "DIEGO RIBAS DA CUNHA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MICHAL KADLEC",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL CHINENYE EMENIKE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPUZ",
+                    "formaNo": "38"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "RAUL JOSE TRINDADE MEIRELES",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DIEGO RIBAS DA CUNHA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPUZ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "dakika": "19.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBUL BAŞAKŞEHİR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU EPUREANU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "RAJKO ROTMAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "87"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "SEDAT AĞÇAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "TAYFUN PEKTÜRK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SEZER ÖZTÜRK",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JEREMY LOUIS PERBET",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALPARSLAN ERDEM",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "GENÇER CANSEV",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR UÇAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SEMİH ŞENTÜRK",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "RAJKO ROTMAN",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JEREMY LOUIS PERBET",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "TAYFUN PEKTÜRK",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SEZER ÖZTÜRK",
+                    "dakika": "52.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

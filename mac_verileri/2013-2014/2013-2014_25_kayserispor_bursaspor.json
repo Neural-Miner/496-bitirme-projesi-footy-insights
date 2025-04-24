@@ -1,0 +1,292 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "25"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SİNAN BOLAT",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HENRIQUE SERENO FONSECA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DEYVISON ROGERIO DA SILVA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "PABLONICOLAS MOUCHE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALEXAHDROS TZIOLIS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "38"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CÜNEYT KÖZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MERT NOBRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ERDAL AKDARI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "SİNAN BAKIŞ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BİLAL YENER ARICA",
+                    "formaNo": "14"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERTUĞRUL SEÇME"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "DEYVISON ROGERIO DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "BİLAL YENER ARICA",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "SRDAN MIJAILOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DEYVISON ROGERIO DA SILVA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ENGİN BEKDEMİR",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARVIN BISESWAR",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MERT NOBRE",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "BİLAL YENER ARICA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DEYVISON ROGERIO DA SILVA",
+                    "dakika": "5.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DEYVISON ROGERIO DA SILVA",
+                    "dakika": "71.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SEBASTIEN FREY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RENATO CIVELLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TAIWO TAYE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO DANIEL BELLUSCHI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "STANISLAV SESTAK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "FERHAT KİRAZ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA BATUHAN ALTINTAŞ",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ENES ÜNAL",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "CHRISTOPH PAUL DAUM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO DANIEL BELLUSCHI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "VOLKAN ŞEN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "STANISLAV SESTAK",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENES ÜNAL",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "FERHAT KİRAZ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

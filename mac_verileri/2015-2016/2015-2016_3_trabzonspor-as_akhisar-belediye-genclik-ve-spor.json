@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "3"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LUIS PEDRO CAVANDA",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "KEVIN CONSTANT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE MBIA ETOUNDI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DAME N'DOYE",
+                    "formaNo": "14"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALPER ULUDAĞ",
+                    "formaNo": "64"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MARKO MARIN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "STEPHANE MBIA ETOUNDI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "AYKUT DEMİR",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "MARKO MARIN",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "42.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS FERREIRA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ORHAN TAŞDELEN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "AHMET CEBE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CUSTODIO MIGUEL DIAS DE CASTRO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "LOMANA TRESOR LUALUA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KONUK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM HALİL ÇOLAK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR ÖZDEMİR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LEOCISIO JULIO SAMI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "18"
+                }
+            ],
+            "teknikSorumlu": [
+                "CİHAT ARSLAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET CEBE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "DOUGLAS FERREIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MILAN LUKAC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ORHAN TAŞDELEN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "AHMET CEBE",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "LOMANA TRESOR LUALUA",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LEOCISIO JULIO SAMI",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "İSMAİL KONUK",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "56.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "77.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

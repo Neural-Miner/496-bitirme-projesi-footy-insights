@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "28"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EDİZ BAHTİYAROĞLU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO DE DEUS SANTOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZBAYRAKTAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT ERTUĞRUL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HÜRRİYET GÜCER",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN YAMAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "VİTOR HUGO GOMES PASSOS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SAFET NADAREVİÇ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KAYACAN ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KARADENİZ",
+                    "formaNo": "65"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR ÖZBAYRAKTAR",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "dakika": "49.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "VİTOR HUGO GOMES PASSOS",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "VOLKAN YAMAN",
+                    "dakika": "49.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BÜLENT ERTUĞRUL",
+                    "dakika": "31.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RETO PİRMİN ZİEGLER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EMRE BELÖZOĞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH MICHAEL YOBO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ALEXSANDRO DE SOUZA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPUZ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "HENRİ BİENVENU NTSAMA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KESİMAL",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "62"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ISSIAR DIA",
+                    "formaNo": "92"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BEKİR İRTEGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "RETO PİRMİN ZİEGLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPUZ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MIROSLAV STOCH",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "HENRİ BİENVENU NTSAMA",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "75.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

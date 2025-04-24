@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "9"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JOSE BOSINGWA DA SILVA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OSCAR RENE CARDOZO MARIN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KEVIN CONSTANT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ESSEID BELKALEM",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "38"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İBRAHİM DEMİR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "WARIS MAJEED",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AVRAAM PAPADOPOULOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "FATİH ATİK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "86"
+                }
+            ],
+            "teknikSorumlu": [
+                "JACQUES BONNEVAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ESSEID BELKALEM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "FATİH ATİK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "KEVIN CONSTANT",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FATİH ATİK",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "17.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "30.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OSCAR RENE CARDOZO MARIN",
+                    "dakika": "76.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TORKU KONYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VID BELEC",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "JAGOS VUKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALIAKSANDR HLEB",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANDREI GABRIEL TORJE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOKALOVIC",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BARİŞ ÖRÜCÜ",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "VEDAT BORA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BENJAMİN FUCHS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÖZKAYA",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "TOLGA ÜNLÜ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "TOLGA ÜNLÜ",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "ANDREI GABRIEL TORJE",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BENJAMİN FUCHS",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "BARİŞ ÖRÜCÜ",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "UĞUR İNCEMAN",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "7.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

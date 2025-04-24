@@ -1,0 +1,312 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "14"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS GOUTAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DIAA SABI'A",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK STENSOE ULVESTAD",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CLINTON MUA NJIE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ALBAYRAK",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ÖZKAN YİĞİTER",
+                    "formaNo": "62"
+                },
+                {
+                    "oyuncuAdi": "ABDUL KADER KEITA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "CHARILAOS CHARISIS",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "AHMED MUSA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KAROL JERZY ANGIELSKI",
+                    "formaNo": "19"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DIAA SABI'A",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "FREDRIK STENSOE ULVESTAD",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDUL KADER KEITA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AHMED MUSA",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "31.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CLINTON MUA NJIE",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "HANGİKREDİ ÜMRANİYESPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ORKUN ÖZDEMİR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERKAN GÖKSU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DUREL BEL DANIEL AVOUNOU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ONUR ATASAYAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "HERMENEGILDO DA C PAULO BARTOLOMEU",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ALLYSON AIRES DOS SANTOS",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "TOMISLAV GLUMAC",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ANIL DEMİR",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ERMIR LENJANI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN GHEORGHE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "METEHAN MİMAROĞLU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ GÜRBULAK",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ADEL BETTAIEB",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ANTONIO MRSIC",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "KARTAL KAYRA YILMAZ",
+                    "formaNo": "41"
+                }
+            ],
+            "teknikSorumlu": [
+                "RECEP UÇAR"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ONUR ATASAYAR",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "SERKAN GÖKSU",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "HERMENEGILDO DA C PAULO BARTOLOMEU",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DUREL BEL DANIEL AVOUNOU",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KARTAL KAYRA YILMAZ",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "METEHAN MİMAROĞLU",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ANTONIO MRSIC",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ADEL BETTAIEB",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DUREL BEL DANIEL AVOUNOU",
+                    "dakika": "27.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ANTONIO MRSIC",
+                    "dakika": "83.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

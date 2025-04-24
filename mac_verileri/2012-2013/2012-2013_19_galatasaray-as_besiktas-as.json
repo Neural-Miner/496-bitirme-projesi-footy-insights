@@ -1,0 +1,303 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "19"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HAMİT ALTINTOP",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOHAN ERİK CALVİN ELMANDER",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FELIPE MELO DE CARVALHO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALBERT RIERA ORTEGA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY İŞCAN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ZAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "AYDIN YILMAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BAYTAR",
+                    "formaNo": "50"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HAMİT ALTINTOP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "FELIPE MELO DE CARVALHO",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "JOHAN ERİK CALVİN ELMANDER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "33.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "JOHAN ERİK CALVİN ELMANDER",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENGİN BAYTAR",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "HAKAN KADİR BALTA",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "dakika": "3.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ALBERT RIERA ORTEGA",
+                    "dakika": "44.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALLAN JAMES MCGREGOR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MANUEL HENRIQUE TAVARES FERNANDES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM TORAMAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ROBERTO JAN HİLBERT",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "FILIP HOLOSKO",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA BONFIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JULIEN ESCUDE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "TOMAS SIVOK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ROBERTO JAN HİLBERT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                },
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET AKGÜN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BRUNO FERREIRA BONFIM",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKYÜZ",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TOMAS SIVOK",
+                    "dakika": "46.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

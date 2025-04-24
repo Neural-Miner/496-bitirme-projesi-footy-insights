@@ -1,0 +1,292 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "28"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "NABIL DIRAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GIULIANO VICTOR DE PAULA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ROMAN NEUSTAEDTER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MARTIN SKRTEL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "ROBERTO SOLDADO RILLO",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "IDRIS CARLOS KAMENİ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO ANIBAL ISLA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LUIS CARLOS NOVO NETO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ELJIF ELMAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MATHİEU VALBUENA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ KAĞAN GÜÇTEKİN",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NABIL DIRAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ROBERTO SOLDADO RILLO",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "GIULIANO VICTOR DE PAULA",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MATHİEU VALBUENA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ELJIF ELMAS",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARTIN SKRTEL",
+                    "dakika": "54.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ROBERTO SOLDADO RILLO",
+                    "dakika": "60.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "79"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MEHMET BATDAL",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET EYÜP TÜRKASLAN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BEYER MAXSO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ALİ EREN İYİCAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "LUIZ CARLOS MARTINS MOREIRA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "TORTOL LUMANZA LEMBI",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "İRFAN BUZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUHAMMED BAYIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TORTOL LUMANZA LEMBI",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

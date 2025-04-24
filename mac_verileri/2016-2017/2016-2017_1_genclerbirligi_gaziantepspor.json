@@ -1,0 +1,287 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "GUY LUCIEN MICHEL LANDEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "COSMIN GABRIEL MATEI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI PALITSEVICH",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "10"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "FERHAT GÖRGÜLÜ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MARKO MILINKOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ORHAN ŞAM",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "ALEKSANDAR SCEKIC",
+                    "formaNo": "8"
+                }
+            ],
+            "teknikSorumlu": [
+                "İBRAHİM ÜZÜLMEZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET YILMAZ ÇALIK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "COSMIN GABRIEL MATEI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "COSMIN GABRIEL MATEI",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALEKSANDAR SCEKIC",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "14.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "87.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "83"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BART LAMBERTUS WİLHELMUS VAN HİNTUM",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EVANS KANGWA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ANTON PUTSILA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI KISLIAK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DOĞANAY KILIÇ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALPAY KOÇAKLI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "N'GUESSAN DAVY CLAUDE ANGAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "20"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ YARDIMCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DANIEL ALEXANDER LARSSON",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "SIARHEI KISLIAK",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "EVANS KANGWA",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "N'GUESSAN DAVY CLAUDE ANGAN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ALPAY KOÇAKLI",
+                    "dakika": "57.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

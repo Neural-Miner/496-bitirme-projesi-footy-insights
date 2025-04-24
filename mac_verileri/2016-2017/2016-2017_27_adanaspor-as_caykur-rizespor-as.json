@@ -1,0 +1,274 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "27"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ADANASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYRULLAH MERT AKYÜZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "VINICIUS JOSE IGNACIO",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "EMRE UĞUR URUÇ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RENAN SOUZA DINIZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "RENAN RODRIGUES DA SILVA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK ALTINDAĞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "VLAGYIMIR KOMAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "AHMET DERELİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CHARLES HUBERT ITANDJE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "YUSUF FIRAT KAPLAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "AHMET BAHÇIVAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "CEM ÖZDEMİR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "VINICIUS SANTOS SILVA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "REYNALDO DOS SANTOS SILVA",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "LEVENT ŞAHİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                },
+                {
+                    "oyuncu": "RENAN RODRIGUES DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TEVFİK ALTINDAĞ",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "AHMET DERELİ",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "REYNALDO DOS SANTOS SILVA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "dakika": "90.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED ALI YAKOUBI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MARWANE SAADANE",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE PETRUCCI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ HAN AYNAOĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SÜLEYMAN KOÇ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OSAGIE BRIGHT EDOMWONYI",
+                    "formaNo": "34"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDOULAYE DIALLO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "RECEP NİYAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "NOSAKHARE EMMANUEL IGIEBOR",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "ALI FAEZ ATIYAH ATIYAH",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JAKOB JANSTER",
+                    "formaNo": "7"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "OSAGIE BRIGHT EDOMWONYI",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "SÜLEYMAN KOÇ",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JAKOB JANSTER",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "NOSAKHARE EMMANUEL IGIEBOR",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR ÇEK",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "4.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "MARWANE SAADANE",
+                    "dakika": "68.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DAVIDE PETRUCCI",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

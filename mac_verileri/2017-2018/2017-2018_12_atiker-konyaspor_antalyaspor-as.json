@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATİKER KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALİ TURAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "IMOH EZEKIEL",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "MUSA ARAZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ BOURABIA",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "PATRIK ULF ANDERS CARLGREN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN FINDIKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MALICK EVOUNA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "WİLFRİED MOKE ABRO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "VEDAT BORA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MORYKE FOFANA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KADİR KAAN ÖZDEMİR",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "PETAR FILIPOVIC",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "PATRICK FRIDAY EZE",
+                    "formaNo": "45"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "IMOH EZEKIEL",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "MUSA ARAZ",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AMIR HADZIAHMETOVIC",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "dakika": "52.dk"
+                },
+                {
+                    "oyuncu": "PATRICK FRIDAY EZE",
+                    "dakika": "64.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MORYKE FOFANA",
+                    "dakika": "75.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL ETO O FILS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MAICON MARQUES BITENCOURT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SAMIR NASRI",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "WILLIAM VAINQUEUR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HARUN ALPSOY",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JEREMY MENEZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MOSTAPHA EL KABIR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "LEONARDO DE ARAUJO"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LUIS FRANCISCO GRANDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "WILLIAM VAINQUEUR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HARUN ALPSOY",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MAICON MARQUES BITENCOURT",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "WILLIAM VAINQUEUR",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JEREMY MENEZ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MOSTAPHA EL KABIR",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "YEKTA KURTULUŞ",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAMUEL ETO O FILS",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}
