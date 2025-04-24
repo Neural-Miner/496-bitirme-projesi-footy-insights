@@ -1,0 +1,331 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KHUSNIDDIN  ALIKULOV",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "CASPER SOMMER HOJER",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JONJO  SHELVEY",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OLASUNKANMI IBRAHIM OLAWOYIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO AFFONSO  SAUERBECK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER SARIKAYA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BABAJIDE DAVID AKINTOLA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA ŞAHİN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN TOPÇU",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MARTIN YANKOV MINCHEV",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ATTILA  MOCSI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DAL  VARESANOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADOLFO JULIAN  GAICH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SEYFETTİN ANIL YAŞAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "OUMAR  DIOUF",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MAME MOR  FAYE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERAY KORKMAZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ALTIN ZEQIRI",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "İLHAN PALUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CASPER SOMMER HOJER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUAMMER SARIKAYA",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "BABAJIDE DAVID AKINTOLA",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO AFFONSO  SAUERBECK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MARTIN YANKOV MINCHEV",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ADOLFO JULIAN  GAICH",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "DAL  VARESANOVIC",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ALTIN ZEQIRI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ATTILA  MOCSI",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OLASUNKANMI IBRAHIM OLAWOYIN",
+                    "dakika": "85.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ALTIN ZEQIRI",
+                    "dakika": "90+6.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FLORIN CONSTANTIN NITA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "EL HADJI PAPY MISON DJILOBODJI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DEIAN CRISTIAN SORESCU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SALEM M'BAKATA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "JAMIRO GREGORY MONTEIRO ALVARENGA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU IULIAN MAXIM",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "OGÜN ÖZÇİÇEK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS JULIO NKOULOU NDOUBENA",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "DENIS MIHAI DRAGUS",
+                    "formaNo": "70"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BATUHAN AHMET ŞEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ARDA KIZILDAĞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALIOU BADJI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MARKO JEVTOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "IRANEUTON SOUSA MORAIS JUNIOR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MİRZA CİHAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "LAZAR MARKOVIC",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR GÖLGELİ",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "SELÇUK İNAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALEXANDRU IULIAN MAXIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "SALEM M'BAKATA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OGÜN ÖZÇİÇEK",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "EL HADJI PAPY MISON DJILOBODJI",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDRU IULIAN MAXIM",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DEIAN CRISTIAN SORESCU",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "JAMIRO GREGORY MONTEIRO ALVARENGA",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ALIOU BADJI",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MARKO JEVTOVIC",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DEIAN CRISTIAN SORESCU",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SALEM M'BAKATA",
+                    "dakika": "65.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

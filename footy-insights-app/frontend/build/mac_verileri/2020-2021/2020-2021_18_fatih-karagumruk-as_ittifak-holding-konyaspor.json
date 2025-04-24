@@ -1,0 +1,320 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "18"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FATİH KARAGÜMRÜK A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMILIANO VIVIANO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "LUCAS RODRIGO BIGLIA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT ERDİNÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FABIO BORINI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ALASSANE NDAO",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FATİH KURUCUK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "VEGAR EGGEN HEDENSTAD",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JURE BALKOVEC",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "GASTON MATIAS CAMPI",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AYKUT ÖZER",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "YAVUZ ULAŞ GENÇ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ALPARSLAN ERDEM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ARTUR ADAM SOBIECH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MURAT SARIGÜL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AKSEL AKTAŞ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "VATO ARVELADZE",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN CİVELEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "96"
+                }
+            ],
+            "teknikSorumlu": [
+                "ATILAY CANEL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FATİH KURUCUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ALASSANE NDAO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEVLÜT ERDİNÇ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "FABIO BORINI",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ARTUR ADAM SOBIECH",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "VATO ARVELADZE",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "JAKUP JİMMY DURMAZ",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "dakika": "67.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "dakika": "81.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İTTİFAK HOLDİNG KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İBRAHİM SEHIC",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MARKO JEVTOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME HAUBERT SITYA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ KAĞAN GÜÇTEKİN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "LEVAN SHENGELIA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ARTEM KRAVETS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "MARIN ANICIC",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ZYMER BYTYQI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL GÜVEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DOĞAN CAN GÖLPEK",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ALİ KARAKAYA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ŞENER KAYA",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ERDON DACI",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET YILMAZ ÇALIK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ARTEM KRAVETS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "LEVAN SHENGELIA",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME HAUBERT SITYA",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ZYMER BYTYQI",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ÖMER ALİ ŞAHİNER",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ERDON DACI",
+                    "dakika": "56.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARKO JEVTOVIC",
+                    "dakika": "84.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

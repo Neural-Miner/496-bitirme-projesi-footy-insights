@@ -1,0 +1,331 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MARTIN LINNES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MARCOS DO NASCIMENTO TEIXEIRA",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "SOFIANE FEGHOULI",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "MBAYE DIAGNE",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "YOUNES BELHANDA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OGHENEKARO PETER ETEBO",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN NEKADIO LUYINDAMA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ARDA TURAN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "JESSE TAMUNOBARABOYE SEKIDIKA",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ALİ YAVUZ KOL",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE TAŞDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "9.dk"
+                },
+                {
+                    "oyuncu": "MARCOS DO NASCIMENTO TEIXEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SOFIANE FEGHOULI",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JESSE TAMUNOBARABOYE SEKIDIKA",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "OGHENEKARO PETER ETEBO",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ALİ YAVUZ KOL",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUNIR MOHAND MOHAMEDI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ABDİOĞLU",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "PABLO RENAN DOS SANTOS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BURAK CAN ÇAMOĞLU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "AABID RAYANE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SELİM ILGAZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BABAJIDE DAVID AKINTOLA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ADAMA TRAORE",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MAME BIRAM DIOUF",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AKIN ALKAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "YAVUZ BUĞRA BOYAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "JEAN CLAUDE BILLONG",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SONER ÖRNEK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN CANLI",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HELDER JORGE LEAL RODRIGUES BARBOSA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AARON SALEM BOUPENDZA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN KARADENİZ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "MİRKAN AYDIN",
+                    "formaNo": "20"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKHAN KARADENİZ",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SELİM ILGAZ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "AABID RAYANE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ADAMA TRAORE",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "BABAJIDE DAVID AKINTOLA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AARON SALEM BOUPENDZA",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN KARADENİZ",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "HELDER JORGE LEAL RODRIGUES BARBOSA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PABLO RENAN DOS SANTOS",
+                    "dakika": "64.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

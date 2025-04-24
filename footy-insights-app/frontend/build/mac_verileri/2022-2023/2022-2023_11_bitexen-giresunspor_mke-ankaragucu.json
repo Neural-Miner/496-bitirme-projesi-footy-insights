@@ -1,0 +1,343 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BITEXEN GİRESUNSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONURCAN PİRİ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALPER ULUDAĞ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BORJA   SAINZ EGUSQUIZA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RIAD BAJIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SERGIO ANTONIO DA LUZ JUNIOR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RAMON GINES ARIAS QUINTEROS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEM AKPINAR",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "GÖRKEM  SAĞLAM",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ALEXIS RAFAEL PEREZ FONTANILLA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "JORMAN DAVID CAMPUZANO PUENTES",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "HAYRULLAH BİLAZER",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SERGEN PİÇİNCİOL",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BRANDLEY MACK-OLIEN KUWAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ROBERT ANDRES MEJIA NAVARRETE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DOĞAN CAN DAVAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RAHMETULLAH BERİŞBEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "VUKAN SAVICEVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KADİR SEVEN",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ŞAHİN DİK",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KELEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT CEM AKPINAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ALPER ULUDAĞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "JORMAN DAVID CAMPUZANO PUENTES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT CEM AKPINAR",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "BORJA   SAINZ EGUSQUIZA",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "GÖRKEM  SAĞLAM",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VUKAN SAVICEVIC",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "BRANDLEY MACK-OLIEN KUWAS",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RIAD BAJIC",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "JESE RODRIGUEZ RUIZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "YASİN GÜRELER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "NIHAD MUJAKIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "GIORGI BERIDZE",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALI SOWE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "KEVIN MALCUIT",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "UROS RADAKOVIC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TOLGA CİĞERCİ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BAHADIR HAN GÜNGÖRDÜ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN RIDVAN ÇANKAYA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ŞAHVERDİ ÇETİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS CHATZIGIOVANIS",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "PEDRO FILIPE BARBOSA MOREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FREDERICO MACHEDA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LAMINE DIACK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ CEYLAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "FIRATCAN ÜZÜM",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "OMOGBOLAHAN GREGORY ARIYIBI",
+                    "formaNo": "12"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÖMER ERDOĞAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OĞUZ CEYLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN AKKAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "TAYLAN ANTALYALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "TOLGA CİĞERCİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "JESE RODRIGUEZ RUIZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YASİN GÜRELER",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ALI SOWE",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "GIORGI BERIDZE",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "JESE RODRIGUEZ RUIZ",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ATAKAN RIDVAN ÇANKAYA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS CHATZIGIOVANIS",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "LAMINE DIACK",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "OMOGBOLAHAN GREGORY ARIYIBI",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "FREDERICO MACHEDA",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JESE RODRIGUEZ RUIZ",
+                    "dakika": "69.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

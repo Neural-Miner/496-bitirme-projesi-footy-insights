@@ -1,0 +1,359 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "35"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "YILPORT SAMSUNSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RİCK VAN DRONGELEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YOUSSEF AIT BENASSER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MARC JOEL  BOLA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "RAMAN BENITO DIRK",
+                    "formaNo": "36"
+                },
+                {
+                    "oyuncuAdi": "ALİM ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "CARL JOHAN HOLSE JUSTESEN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MARIUS MOUNDILMADJI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "11"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "JAKUB SZUMSKI",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "YUNUS EMRE ÇİFT",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "KINGSLEY SCHINDLER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED GÜMÜŞKAYA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ERCAN KARA",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ARBNOR MUJA",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "SONER GÖNÜL",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "FLAVİEN TAIT",
+                    "formaNo": "13"
+                }
+            ],
+            "teknikSorumlu": [
+                "MARKUS ALFRED GISDOL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OSMAN ÇELİK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "TAYLAN ANTALYALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "ALİM ÖZTÜRK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "YOUSSEF AIT BENASSER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "KINGSLEY SCHINDLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ZEKİ YAVRU",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ALİM ÖZTÜRK",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "YOUSSEF AIT BENASSER",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "RAMAN BENITO DIRK",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YUNUS EMRE ÇİFT",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "FLAVİEN TAIT",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "OSMAN ÇELİK",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "KINGSLEY SCHINDLER",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ARBNOR MUJA",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TAYLAN ANTALYALI",
+                    "dakika": "14.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "MARIUS MOUNDILMADJI",
+                    "dakika": "28.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RAYYAN BANİYA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BATISTA ADELINO MENDY",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JOAQUIN FERNANDEZ  MORENO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ENIS BARDHI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "THOMAS ANDRE A. MEUNIER",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS PEPE",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "EBERE PAUL ONUACHU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA TEPE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TAXIARCHIS FOUNTAS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ARİF BOŞLUK",
+                    "formaNo": "73"
+                },
+                {
+                    "oyuncuAdi": "MEHMET CAN AYDIN",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ENİS DESTAN",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "MISLAV ORSIC",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "EVREN EREN ELMALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "UMUT GÜNEŞ",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "JOAQUIN FERNANDEZ  MORENO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "NICOLAS PEPE",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "EBERE PAUL ONUACHU",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "TAXIARCHIS FOUNTAS",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ENİS DESTAN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "MISLAV ORSIC",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ENIS BARDHI",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOAQUIN FERNANDEZ  MORENO",
+                    "dakika": "36.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KONRAD HUBERT MICHALAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MILAN SKODA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GODFRED DONSAH",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EMIR DILAVER",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO ANDRADE DOS SANTOS",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "DARIO MELNJAK",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MYKOLA MOROZIUK",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "DOĞAN ERDOĞAN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "YASSINE MERIAH",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KEMAL RÜZGAR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "DUSAN JOVANCIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ONUR BULUT",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ALBERK KOÇ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MİTHAT PALA",
+                    "formaNo": "54"
+                }
+            ],
+            "teknikSorumlu": [
+                "STJEPAN TOMAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "MYKOLA MOROZIUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "DARIO MELNJAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FERNANDO ANDRADE DOS SANTOS",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "KONRAD HUBERT MICHALAK",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "GODFRED DONSAH",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ONUR BULUT",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "KEMAL RÜZGAR",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FERNANDO HENRIQUE BOLDRIN",
+                    "dakika": "45+2.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "KONRAD HUBERT MICHALAK",
+                    "dakika": "57.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MILAN SKODA",
+                    "dakika": "90+4.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GÖZTEPE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY SÖNMEZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "PAPE CHERIF NDIAYE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ZLATKO TRIPIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MURAT PALULİ",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BALAZS ATTILA MEGYERI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MARKO MIHOJEVIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME COSTA MARQUES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "YILMAZ BASRAVİ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "OBINNA EMMANUEL NWOBODO",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "BURAK SÜLEYMAN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "DZENAN BUREKOVIC",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "STEFANO NAPOLEONI",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN KAYAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "BROWN AIDE IDEYE",
+                    "formaNo": "22"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERSAN PARLATAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT PALULİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "YALÇIN KAYAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ALPASLAN ÖZTÜRK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "JOSE MARCIO DA COSTA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+2.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME COSTA MARQUES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BERKAN EMİR",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "KUBİLAY SÖNMEZ",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "JOSE MARCIO DA COSTA",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "CHRISTIAN CHAGAS TAROUCO",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "ZLATKO TRIPIC",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DZENAN BUREKOVIC",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "YALÇIN KAYAN",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "STEFANO NAPOLEONI",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME COSTA MARQUES",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "BROWN AIDE IDEYE",
+                    "dakika": "90+5.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YALÇIN KAYAN",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "STEFANO NAPOLEONI",
+                    "dakika": "81.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

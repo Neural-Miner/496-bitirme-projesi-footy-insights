@@ -1,0 +1,256 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ÇOĞUM",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AYDIN TOSCALI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "BİLAL GÜLDEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED TÜRKMEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MERT ERDOĞAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ATİLLA AYBARS GARHAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ERDOĞAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "VELİ TORUN",
+                    "formaNo": "66"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BAYRAM OLGUN",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "GÜRKAN ALVER",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAŞCI",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ORHAN EVCİ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "SEROL DEMİRHAN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ERGİN KELEŞ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ŞİRİN",
+                    "formaNo": "57"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MERT ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VELİ TORUN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MERT ERDOĞAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ATİLLA AYBARS GARHAN",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ORHAN EVCİ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SEROL DEMİRHAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ERGİN KELEŞ",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SEYFETTİN SEDEF",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "DEBATIK CURRI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR İLERİ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "ERGÜN TEBER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OKTAY DELİBALTA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "HURŞUT MERİÇ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HERVE GERMAIN TUM",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÖZKAN KARABULUT",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "İHSAN BURAK ÖZSARAÇ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ERSEN MARTİN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ONUR BAYRAMOĞLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JOACHIM LUBANGWANA MUNUNGA",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "OKTAY DELİBALTA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ONUR BAYRAMOĞLU",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKGÜN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HURŞUT MERİÇ",
+                    "dakika": "19.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "VAVACARS FATİH KARAGÜMRÜK"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BATUHAN AHMET ŞEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE BIRASCHI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "IBRAHIM DRESEVIC",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MATTEO RICCI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MBAYE DIAGNE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FABIO BORINI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MÜNİR LEVENT MERCAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "EBRIMA COLLEY",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MAGOMED OZDOEV",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "RAYYAN BANİYA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMILIANO VIVIANO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BRUNO MIGUEL FERREIRA RODRIGUES",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SABA LOBJANIDZE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ADEM LJAJIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "KAZIM KAZIM",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OTABEK SHUKUROV",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ADNAN UĞUR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "SOFIANE FEGHOULI",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "ANDREA PIRLO"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FABIO BORINI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "MATTEO RICCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "FABIO BORINI",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "MAGOMED OZDOEV",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "EBRIMA COLLEY",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KAZIM KAZIM",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "SABA LOBJANIDZE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "SOFIANE FEGHOULI",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "OTABEK SHUKUROV",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "45+4.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "53.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "MAGOMED OZDOEV",
+                    "dakika": "69.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "80.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS GOUTAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AARON CHRISTOPHER BILLY ONDELE APPINDANGOYE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "CHARILAOS CHARISIS",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL SAIZ ALONSO",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JORDY JOSUE CAICEDO MEDINA",
+                    "formaNo": "30"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ALBAYRAK",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÖKAY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALAADDİN OKUMUŞ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CLINTON MUA NJIE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LEKE SAMSON JAMES",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ABDUL KADER KEITA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AHMED MUSA",
+                    "formaNo": "26"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DIMITRIOS GOUTAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AARON CHRISTOPHER BILLY ONDELE APPINDANGOYE",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "ISAAC COFIE",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL SAIZ ALONSO",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "JORDY JOSUE CAICEDO MEDINA",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SAMBA CAMARA",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "CLINTON MUA NJIE",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ALAADDİN OKUMUŞ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "LEKE SAMSON JAMES",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "AHMED MUSA",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JORDY JOSUE CAICEDO MEDINA",
+                    "dakika": "27.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "LEKE SAMSON JAMES",
+                    "dakika": "90+1.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "LEKE SAMSON JAMES",
+                    "dakika": "90+6.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

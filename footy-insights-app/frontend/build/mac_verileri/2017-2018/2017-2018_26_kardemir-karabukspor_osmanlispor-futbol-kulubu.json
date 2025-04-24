@@ -1,0 +1,295 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "26"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OLEKSANDR RYBKA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "TAYYİP TALHA SANUÇ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ADAM MIKAEL SVEN STAHL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ANTON KRAVCHENKO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ERGİN KELEŞ",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "ALİCAN KARADAĞ",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "LEANDRO BARRIOS RITA DOS MARTIRES",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "HERVE KAGE",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FURKAN KAÇAR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞLAR ŞAHİN AKBABA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "HAMIDOU TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "AHMET KARADAYI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKIN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR YILMAZ",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "YUSUF AKBULUT",
+                    "formaNo": "72"
+                },
+                {
+                    "oyuncuAdi": "ANDRII BLIZNICHENKO",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "LEVENT AÇIKGÖZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HAMIDOU TRAORE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "ANDRII BLIZNICHENKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALİCAN KARADAĞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ADAM MIKAEL SVEN STAHL",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "HERVE KAGE",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANDRII BLIZNICHENKO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AHMET KARADAYI",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "HAMIDOU TRAORE",
+                    "dakika": "59.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "79"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "TORTOL LUMANZA LEMBI",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "MEHMET BATDAL",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET EYÜP TÜRKASLAN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS BEYER MAXSO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ALİ EREN İYİCAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "PAYAM SADEGHIAN SHARAFABAD",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "İRFAN BUZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET BATDAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                },
+                {
+                    "oyuncu": "TIAGO MIGUEL BAIA PINTO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET BATDAL",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "PAYAM SADEGHIAN SHARAFABAD",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "22.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MEHMET BATDAL",
+                    "dakika": "41.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MEHMET BATDAL",
+                    "dakika": "47.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "92.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}
