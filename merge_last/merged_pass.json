@@ -1,0 +1,290 @@
+{
+    "UrlLocal": "2023-2024_11_fraport-tav-antalyaspor_besiktas",
+    "predictions": [
+        {
+            "gameTime": "00:11",
+            "label": "PASS",
+            "confidence": "0.5901378989219666"
+        },
+        {
+            "gameTime": "00:13",
+            "label": "PASS",
+            "confidence": "0.48590320348739624"
+        },
+        {
+            "gameTime": "00:18",
+            "label": "PASS",
+            "confidence": "0.4903566539287567"
+        },
+        {
+            "gameTime": "00:20",
+            "label": "DRIVE",
+            "confidence": "0.4009300768375397"
+        },
+        {
+            "gameTime": "00:22",
+            "label": "DRIVE",
+            "confidence": "0.4692128598690033"
+        },
+        {
+            "gameTime": "00:39",
+            "label": "top_degisimi",
+            "confidence": "0.4435194134712219"
+        },
+        {
+            "gameTime": "00:45",
+            "label": "PASS",
+            "confidence": "0.45516887307167053"
+        },
+        {
+            "gameTime": "00:49",
+            "label": "DRIVE",
+            "confidence": "0.5159180760383606"
+        },
+        {
+            "gameTime": "01:00",
+            "label": "PASS",
+            "confidence": "0.543294370174408"
+        },
+        {
+            "gameTime": "01:03",
+            "label": "PASS",
+            "confidence": "0.6765726804733276"
+        },
+        {
+            "gameTime": "01:07",
+            "label": "DRIVE",
+            "confidence": "0.43259090185165405"
+        },
+        {
+            "gameTime": "01:09",
+            "label": "PASS",
+            "confidence": "0.8735527396202087"
+        },
+        {
+            "gameTime": "01:11",
+            "label": "DRIVE",
+            "confidence": "0.6579124927520752"
+        },
+        {
+            "gameTime": "01:32",
+            "label": "PASS",
+            "confidence": "0.6985073089599609"
+        },
+        {
+            "gameTime": "01:54",
+            "label": "PASS",
+            "confidence": "0.4083833694458008"
+        },
+        {
+            "gameTime": "02:22",
+            "label": "PASS",
+            "confidence": "0.5732212662696838"
+        },
+        {
+            "gameTime": "02:24",
+            "label": "PASS",
+            "confidence": "0.6151800155639648"
+        },
+        {
+            "gameTime": "02:28",
+            "label": "PASS",
+            "confidence": "0.438188374042511"
+        },
+        {
+            "gameTime": "02:28",
+            "label": "DRIVE",
+            "confidence": "0.5512474775314331"
+        },
+        {
+            "gameTime": "02:29",
+            "label": "PASS",
+            "confidence": "0.7248779535293579"
+        },
+        {
+            "gameTime": "02:31",
+            "label": "PASS",
+            "confidence": "0.4010176956653595"
+        },
+        {
+            "gameTime": "02:32",
+            "label": "DRIVE",
+            "confidence": "0.48659807443618774"
+        },
+        {
+            "gameTime": "02:59",
+            "label": "PASS",
+            "confidence": "0.5010048747062683"
+        },
+        {
+            "gameTime": "03:01",
+            "label": "DRIVE",
+            "confidence": "0.4364837408065796"
+        },
+        {
+            "gameTime": "03:04",
+            "label": "PASS",
+            "confidence": "0.4049791395664215"
+        },
+        {
+            "gameTime": "03:05",
+            "label": "PASS",
+            "confidence": "0.8295803666114807"
+        },
+        {
+            "gameTime": "03:06",
+            "label": "PASS",
+            "confidence": "0.8103272914886475"
+        },
+        {
+            "gameTime": "03:08",
+            "label": "DRIVE",
+            "confidence": "0.5918899178504944"
+        },
+        {
+            "gameTime": "03:09",
+            "label": "PASS",
+            "confidence": "0.8069432973861694"
+        },
+        {
+            "gameTime": "04:05",
+            "label": "PASS",
+            "confidence": "0.6057268977165222"
+        },
+        {
+            "gameTime": "04:06",
+            "label": "PASS",
+            "confidence": "0.5410667657852173"
+        },
+        {
+            "gameTime": "04:07",
+            "label": "PASS",
+            "confidence": "0.5949545502662659"
+        },
+        {
+            "gameTime": "04:09",
+            "label": "DRIVE",
+            "confidence": "0.5097416639328003"
+        },
+        {
+            "gameTime": "04:10",
+            "label": "DRIVE",
+            "confidence": "0.4629640579223633"
+        },
+        {
+            "gameTime": "04:11",
+            "label": "DRIVE",
+            "confidence": "0.4405011534690857"
+        },
+        {
+            "gameTime": "04:12",
+            "label": "PASS",
+            "confidence": "0.7379850745201111"
+        },
+        {
+            "gameTime": "04:13",
+            "label": "DRIVE",
+            "confidence": "0.63446044921875"
+        },
+        {
+            "gameTime": "04:14",
+            "label": "PASS",
+            "confidence": "0.6796389222145081"
+        },
+        {
+            "gameTime": "04:46",
+            "label": "PASS",
+            "confidence": "0.7736421227455139"
+        },
+        {
+            "gameTime": "04:53",
+            "label": "PASS",
+            "confidence": "0.7875986099243164"
+        },
+        {
+            "gameTime": "04:54",
+            "label": "top_degisimi",
+            "confidence": "0.42149972915649414"
+        },
+        {
+            "gameTime": "04:56",
+            "label": "top_degisimi",
+            "confidence": "0.43688949942588806"
+        },
+        {
+            "gameTime": "04:56",
+            "label": "DRIVE",
+            "confidence": "0.5837106108665466"
+        },
+        {
+            "gameTime": "04:58",
+            "label": "PASS",
+            "confidence": "0.41970202326774597"
+        },
+        {
+            "gameTime": "05:25",
+            "label": "PASS",
+            "confidence": "0.47089695930480957"
+        },
+        {
+            "gameTime": "05:28",
+            "label": "PASS",
+            "confidence": "0.429670125246048"
+        },
+        {
+            "gameTime": "05:38",
+            "label": "PASS",
+            "confidence": "0.5541584491729736"
+        },
+        {
+            "gameTime": "05:41",
+            "label": "DRIVE",
+            "confidence": "0.42606496810913086"
+        },
+        {
+            "gameTime": "05:43",
+            "label": "PASS",
+            "confidence": "0.8410131335258484"
+        },
+        {
+            "gameTime": "06:53",
+            "label": "PASS",
+            "confidence": "0.7387482523918152"
+        },
+        {
+            "gameTime": "06:57",
+            "label": "PASS",
+            "confidence": "0.49868249893188477"
+        },
+        {
+            "gameTime": "06:59",
+            "label": "DRIVE",
+            "confidence": "0.44576922059059143"
+        },
+        {
+            "gameTime": "07:00",
+            "label": "PASS",
+            "confidence": "0.7210022211074829"
+        },
+        {
+            "gameTime": "07:12",
+            "label": "PASS",
+            "confidence": "0.7424287796020508"
+        },
+        {
+            "gameTime": "07:20",
+            "label": "PASS",
+            "confidence": "0.40329015254974365"
+        },
+        {
+            "gameTime": "07:42",
+            "label": "top_degisimi",
+            "confidence": "0.5402002930641174"
+        },
+        {
+            "gameTime": "07:52",
+            "label": "PASS",
+            "confidence": "0.45659729838371277"
+        }
+    ]
+}
