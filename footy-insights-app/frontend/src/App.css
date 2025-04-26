@@ -56,7 +56,7 @@ video {
 
 /* show/hide için animasyon sınıfı */
 .fadeInScale {
-  animation: fadeInScale 0.5s ease forwards; /* 0.5s örnek süredir */
+  animation: fadeInScale 0.5s ease forwards;
 }
 
 /* Form kaybolma animasyonu */
@@ -160,7 +160,6 @@ video {
 
 .dropdown {
   border-radius: 0.8vw;
-  /* İsteğe bağlı: kenarlık ve padding ekleyebilirsiniz */
   padding: 1%; 
   background-color: rgb(194, 194, 194);
 }
@@ -272,8 +271,8 @@ video {
   align-items: center;
   justify-content: center;
   position: relative;
-  top: 84%;
-  left: 49%;
+  bottom: 5%;
+  left: 47%;
 }
 
 .play-video-button:hover {
@@ -287,7 +286,7 @@ video {
 
 .videoContainer {
   position: relative;
-  display: inline-block; /* veya blok düzende tam genişlik için block */  
+  display: inline-block;  
 }
 
 .match-name-playing {
@@ -296,7 +295,7 @@ video {
   left: 50%;
   transform: translateX(-50%);
   z-index: 10;            /* videonun üstünde görünmesi için */
-  color: white;           /* okunabilirlik için */
+  color: white;         
   background: rgba(182, 182, 182, 0.267);
   padding: 0.5vw 0.5vw;
   border-radius: 5vw;

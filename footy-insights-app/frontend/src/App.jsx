@@ -72,15 +72,17 @@ const UploadBox = ({ onDimBackground, onReset }) => {
   const [matchDetailsLink, setMatchDetailsLink] = useState('');
 
   const [showDetails, setShowDetails] = useState(false);
-  const [showVoiceSelect, setShowVoiceSelect] = useState(false);
-  const [selectedVoice, setSelectedVoice] = useState('');
-  const [voiceConfirmed, setVoiceConfirmed] = useState(false);
+  // const [showVoiceSelect, setShowVoiceSelect] = useState(false);
+  // const [selectedVoice, setSelectedVoice] = useState('');
+  // const [voiceConfirmed, setVoiceConfirmed] = useState(false);
 
-  const voiceOptions = [
-    { value: 'voice1', label: 'Spiker 1' },
-    { value: 'voice2', label: 'Spiker 2' },
-    { value: 'voice3', label: 'Spiker 3' },
-  ];
+  const [canDownload, setCanDownload] = useState(false);
+
+  // const voiceOptions = [
+  //   { value: 'voice1', label: 'Spiker 1' },
+  //   { value: 'voice2', label: 'Spiker 2' },
+  //   { value: 'voice3', label: 'Spiker 3' },
+  // ];
 
   const seasonWeekLimits = Object.fromEntries(
     [...Array(9)].map((_, i) => [`${2011 + i}-${2012 + i}`, 34])
@@ -100,9 +102,9 @@ const UploadBox = ({ onDimBackground, onReset }) => {
       setMatchDetailsLink('');
       // reset downstream stages
       setShowDetails(false);
-      setShowVoiceSelect(false);
-      setSelectedVoice('');
-      setVoiceConfirmed(false);
+      // setShowVoiceSelect(false);
+      // setSelectedVoice('');
+      // setVoiceConfirmed(false);
     }
   }, [selectedSeason, selectedWeek]);
 
@@ -128,12 +130,17 @@ const UploadBox = ({ onDimBackground, onReset }) => {
   const handleToDetails = () => {
     setShowDetails(true);
   };
-  const handleToVoiceSelect = () => {
-    setShowVoiceSelect(true);
-  };
-  const handleVoiceConfirm = () => {
-    setVoiceConfirmed(true);
-  };
+  // const handleToVoiceSelect = () => {
+  //   setShowVoiceSelect(true);
+  // };
+  // const handleVoiceConfirm = () => {
+  //   setVoiceConfirmed(true);
+  // };
+
+  const handleToDownload = () => {
+    setCanDownload(true);
+  }
+
   const handleBack = () => {
     onReset();
   };
@@ -231,7 +238,7 @@ const UploadBox = ({ onDimBackground, onReset }) => {
       )}
 
       {/* 2) Maç Detayları + Continue */}
-      {showDetails && !showVoiceSelect && !voiceConfirmed && (
+      {showDetails && !canDownload && (
         <>
         <button className="back-button-details" onClick={handleBack}>
             <FaArrowLeft />
@@ -239,14 +246,14 @@ const UploadBox = ({ onDimBackground, onReset }) => {
         <div className="detailsWrapper fadeInScale">
           <MatchDetails link={matchDetailsLink} />
         </div>
-        <button className="continue-button-details" onClick={handleToVoiceSelect}>
-          <FaArrowRight />
+        <button className="play-video-button" onClick={handleToDownload}>
+          <FaPlay />
         </button>
         </>
       )}
 
       {/* 3) Spiker Seçimi + Continue */}
-      {showDetails && showVoiceSelect && !voiceConfirmed && (
+      {/* {showDetails && showVoiceSelect && !voiceConfirmed && (
         <>
         <motion.div
           className="formWrapper"
@@ -285,10 +292,10 @@ const UploadBox = ({ onDimBackground, onReset }) => {
           </button>
         </motion.div>
         </>
-      )}
+      )} */}
 
       {/* 4) DownloadAndPlay */}
-      {showDetails && showVoiceSelect && voiceConfirmed && (
+      {showDetails && canDownload && (
         <>
           <DownloadAndPlay
             selectedSeason={selectedSeason}
@@ -301,7 +308,7 @@ const UploadBox = ({ onDimBackground, onReset }) => {
           />
         </>
       )}
-      {showDetails && showVoiceSelect && voiceConfirmed && (
+      {showDetails && canDownload && (
         <button className="back-button" onClick={handleBack}>
           <FaArrowLeft />
         </button>
