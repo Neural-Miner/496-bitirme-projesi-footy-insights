@@ -1,0 +1,313 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ EMRE YANAR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CLAUDIO WINCK NETO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÜL",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FALL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMED MORTADHA BEN OUANES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL DA COSTA JOIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JACKSON GABRIEL POROZO VERNAZA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZCAN",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MELİH AKYÜZ",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "EROL KARAMAN",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "TRAZIE THOMAS ZAI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SARP YAVRUCU",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SELİM DİLLİ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN UTKU AYDIN",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL DA COSTA JOIA",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LORET SADIKU",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "TRAZIE THOMAS ZAI",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÖKHAN GÜL",
+                    "dakika": "36.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAMADOU FALL",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JACKSON GABRIEL POROZO VERNAZA",
+                    "dakika": "29.dk",
+                    "golTipi": "K"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "CORENDON ALANYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL REIS LIMA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FURKAN BAYIR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "LEROY JOHAN FER",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO BARBADAS NOVAIS",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ AYDIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RICHARD CANDIDO COELHO",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LOIDE ANTONIO AUGUSTO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "JURE BALKOVEC",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "FLORENT HADERGJONAJ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ AYGÜN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YUSUF KARAGÖZ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS JEAN PAUL NOEL JANVIER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PIONE SISTO IFOLO MAJILEIKWA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "EREN ALTINTAŞ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "CARLOS EDUARDO FERREIRA DE SOUZA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MERT YUSUF TORLAK",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "YUNUS BAHADIR",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ÖZDEMİR",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TEKKE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FURKAN BAYIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "JURE BALKOVEC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "LEROY JOHAN FER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "RICHARD CANDIDO COELHO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "OĞUZ AYDIN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO BARBADAS NOVAIS",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "LOIDE ANTONIO AUGUSTO",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL REIS LIMA",
+                    "dakika": "24.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NICOLAS JEAN PAUL NOEL JANVIER",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ÖZDEMİR",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "FATİH AKSOY",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "CARLOS EDUARDO FERREIRA DE SOUZA",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "PIONE SISTO IFOLO MAJILEIKWA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

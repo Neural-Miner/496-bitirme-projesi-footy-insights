@@ -1,0 +1,310 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "37"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "YUKATEL DENİZLİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ABDULKADİR SÜNGER",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RADOSLAW PAWEL MURAWSKI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MURIS MESANOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ÖZKAL",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MARVIN DIRK BAKALORZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANGELO NİCOLAS SAGAL TAPIA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY AKTAŞ",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ÖZER ÖZDEMİR",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "FABIANO LEISMANN",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RECEP NİYAZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "VETON TUSHA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MIKKEL MORGENSTAR PALSSONN DISKERUD",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "MATTHIEU CANGNI DOSSEVI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "GÖRKEM CAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "AYMAN BEN MOHAMED",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "ALİ YAVUZ KOL",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "HASAN AYAROĞLU",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SAKIB AYTAÇ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "KUBİLAY AKTAŞ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "MARVIN DIRK BAKALORZ",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "MURIS MESANOVIC",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AYMAN BEN MOHAMED",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "HASAN AYAROĞLU",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "VETON TUSHA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "MIKKEL MORGENSTAR PALSSONN DISKERUD",
+                    "dakika": "58.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MIKKEL MORGENSTAR PALSSONN DISKERUD",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CLAUDEMIR DOMINGUES DE SOUZA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FAYCAL FAJR",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLARENWAJU AYOBAMI KAYODE",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAMADOU SAMASSA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "KEREM ATAKAN KESGİN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JORGE FELIX MUNOZ GARCIA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TYLER DOMINIC BOYD",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "CASIMIR RODRIQUE NINGA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CLAUDEMIR DOMINGUES DE SOUZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "OLARENWAJU AYOBAMI KAYODE",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "FAYCAL FAJR",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "TYLER DOMINIC BOYD",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "JORGE FELIX MUNOZ GARCIA",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OLARENWAJU AYOBAMI KAYODE",
+                    "dakika": "31.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

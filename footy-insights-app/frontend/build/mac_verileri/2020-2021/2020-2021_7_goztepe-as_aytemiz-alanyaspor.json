@@ -1,0 +1,301 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "7"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GÖZTEPE A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "MURAT PALULİ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MARKO MIHOJEVIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY SÖNMEZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME COSTA MARQUES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ZLATKO TRIPIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "PAPE CHERIF NDIAYE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BALAZS ATTILA MEGYERI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DZENAN BUREKOVIC",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "JOSE MARCIO DA COSTA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BURAK SÜLEYMAN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "STEFANO NAPOLEONI",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "OBINNA EMMANUEL NWOBODO",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "TOLGA TOPALOĞLU",
+                    "formaNo": "53"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERSAN PARLATAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALPASLAN ÖZTÜRK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "KUBİLAY SÖNMEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "KUBİLAY SÖNMEZ",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME COSTA MARQUES",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "ZLATKO TRIPIC",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OBINNA EMMANUEL NWOBODO",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "DZENAN BUREKOVIC",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "JOSE MARCIO DA COSTA",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "STEFANO NAPOLEONI",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ZLATKO TRIPIC",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JOSE CARLOS COENTRAO MARAFONA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AHMET GÜLAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADAM FERNANDO BAREIRO GAMARRA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ELHADJI BABACAR KHOUMA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BERKAN İSMAİL KUTLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "JUAN FRANCISCO MORENO FUERTES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET ÇAĞRI GÜNEY",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ALPAY ÇELEBİ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HASAN AYAROĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "EFKAN BEKİROĞLU",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "DAVIDSON DA LUZ PEREIRA",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "SEMİH TOKATLI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SALİH UÇAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "EMMANOUIL SIOPIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ADAM FERNANDO BAREIRO GAMARRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+11.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SALİH UÇAN",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "AHMET GÜLAY",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "EMMANOUIL SIOPIS",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ELHADJI BABACAR KHOUMA",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "TAYFUR BİNGÖL",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "DAVIDSON DA LUZ PEREIRA",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

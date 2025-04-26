@@ -1,0 +1,356 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "41"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "5"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BO KRISTOFFER NORDFELDT",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MATTIAS ERIK JOHANSSON",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DOMINIK GRZEGORZ FURMAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "METEHAN MERT",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "İLKER KARAKAŞ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RAHMETULLAH BERİŞBEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ROBERT AYRTON PIRIS DA MOTTA MENDOZA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FLOYD AMA NINO AYITE",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "PIERRE YVES NICOLAS POLOMAT",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "SANDRO CESAR CORDOVIL DE LIMA",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÜBEYD ADIYAMAN",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SONER DİKMEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SEYİT ALİ KAHYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SAMİ GÖKHAN ALTIPARMAK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "LUCAS ANDRES MUGNI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA HÜSEYİN SEYHAN",
+                    "formaNo": "63"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÖZCAN BİZATİ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DOMINIK GRZEGORZ FURMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "14.dk"
+                },
+                {
+                    "oyuncu": "ROBERT AYRTON PIRIS DA MOTTA MENDOZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "İLKER KARAKAŞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RAHMETULLAH BERİŞBEK",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SANDRO CESAR CORDOVIL DE LIMA",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ZARGO TOURE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SONER DİKMEN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "58.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "dakika": "44.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "FLOYD AMA NINO AYITE",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "56.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GÖZTEPE A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ARDA ÖZÇİMEN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY SÖNMEZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DZENAN BUREKOVIC",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ANDERSON ESITI",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN KAYAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "BROWN AIDE IDEYE",
+                    "formaNo": "22"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "BARTU DİNÇ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MURAT PALULİ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ERKAM KÖMÜR",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "MURAT ALTAY",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "OBINNA EMMANUEL NWOBODO",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "EFE BİNİCİ",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "YILMAZ BASRAVİ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "PAPE CHERIF NDIAYE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ADIS JAHOVIC",
+                    "formaNo": "18"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜNAL KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EFE BİNİCİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "DZENAN BUREKOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "BEYKAN ŞİMŞEK",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "YALÇIN KAYAN",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "BROWN AIDE IDEYE",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "PAPE CHERIF NDIAYE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "YILMAZ BASRAVİ",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "EFE BİNİCİ",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "OBINNA EMMANUEL NWOBODO",
+                    "dakika": "55.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BROWN AIDE IDEYE",
+                    "dakika": "12.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YALÇIN KAYAN",
+                    "dakika": "30.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BEYKAN ŞİMŞEK",
+                    "dakika": "50.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

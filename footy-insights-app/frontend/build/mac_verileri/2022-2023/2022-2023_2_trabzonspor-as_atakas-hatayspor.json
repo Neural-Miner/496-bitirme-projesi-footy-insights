@@ -1,0 +1,317 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VITOR HUGO FRANCHESCOLI DE SOUZA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS EVALD CORNELIUS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JENS STRYGER  LARSEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "DOĞUCAN HASPOLAT",
+                    "formaNo": "34"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA TEPE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "AHMETCAN KAPLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JORGE DJANINY TAVARES SEMEDO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "TAHA ALTIKARDEŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "EMREHAN  GEDİKLİ",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞEN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "JEAN EVRARD KOUASSI",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "DOĞUCAN HASPOLAT",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ANDREAS EVALD CORNELIUS",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JEAN EVRARD KOUASSI",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JORGE DJANINY TAVARES SEMEDO",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "71.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SIMON AUGUSTIN FALETTE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "OGNJEN VRANJES",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL AYOMIDE ADEKUGBE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AABID RAYANE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DYLAN CYPRİEN SAINT LOUIS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SABA LOBJANIDZE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AYOUB EL KAABİ",
+                    "formaNo": "25"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULLAH YİĞİTER",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "BURAK ÖKSÜZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "RECEP BURAK YILMAZ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SADIK BAŞ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KEVIN VARGA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ BOUDJEMAA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MOHAMMED KESSELLY KAMARA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ONUR ERGÜN",
+                    "formaNo": "4"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "10.dk"
+                },
+                {
+                    "oyuncu": "MOHAMMED KESSELLY KAMARA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "KAMİL AHMET ÇÖREKÇİ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "AABID RAYANE",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DYLAN CYPRİEN SAINT LOUIS",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ONUR ERGÜN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SADIK BAŞ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "KEVIN VARGA",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MOHAMMED KESSELLY KAMARA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ BOUDJEMAA",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

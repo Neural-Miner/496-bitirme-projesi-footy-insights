@@ -1,0 +1,331 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RAYYAN BANİYA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "BATISTA ADELINO MENDY",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JENS STRYGER  LARSEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS PEPE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "EBERE PAUL ONUACHU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MEHMET CAN AYDIN",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA TEPE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ENIS BARDHI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TAXIARCHIS FOUNTAS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "FILIP BENKOVIC",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ARİF BOŞLUK",
+                    "formaNo": "73"
+                },
+                {
+                    "oyuncuAdi": "ENİS DESTAN",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EBERE PAUL ONUACHU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MEHMET CAN AYDIN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "RAYYAN BANİYA",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "ENİS DESTAN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "FILIP BENKOVIC",
+                    "dakika": "90.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EBERE PAUL ONUACHU",
+                    "dakika": "59.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EBERE PAUL ONUACHU",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TÜMOSAN KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PAUL JEAN FRANCOIS BERNARDONI",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "KARAHAN YASİR SUBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ADİL DEMİRBAĞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UĞURCAN YAZĞILI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SONER DİKMEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ROBERT MURIÇ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU CICALDAU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO JAVIER CALVO QUESADA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MARLOS MORENO DURAN",
+                    "formaNo": "70"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "DENİZ ERTAŞ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YUNUS MALLI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LOUKA DANIEL PRIP ANDREASEN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "NELSON MIGUEL  CASTRO OLIVEIRA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "CEBRAİL KARAYEL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "KAHRAMAN DEMİRTAŞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "NIKO RAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BRUNO LOURENÇO PINTO DE ALMEIDA PAZ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÜLGÜN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "STEVEN NKEMBOANZA MIKE CHRISTOPHER NZONZI",
+                    "formaNo": "37"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KELEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SONER DİKMEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "ADİL DEMİRBAĞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO JAVIER CALVO QUESADA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "UĞURCAN YAZĞILI",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDRU CICALDAU",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "ROBERT MURIÇ",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BRUNO LOURENÇO PINTO DE ALMEIDA PAZ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "CEBRAİL KARAYEL",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "YUNUS MALLI",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "LOUKA DANIEL PRIP ANDREASEN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "NELSON MIGUEL  CASTRO OLIVEIRA",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LOUKA DANIEL PRIP ANDREASEN",
+                    "dakika": "77.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,371 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "İSTANBULSPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "DAVID RAAGAARD JENSEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "TUNCER DUHAN AKSU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YEŞİL",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ONUR ERGÜN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EDUART RROCA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MAHAMADOU BA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SIMON DESIRE SYLVANUS DELI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DEMEACO D'VAUGHN DUHANEY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "VALON ETHEMI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "JASON  EYENGA LOKILO",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "EMEKA FRIDAY EZE",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALP ARDA",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "EMİR KAAN GÜLTEKİN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OKAN ERDOĞAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER SARIKAYA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "FLORIAN LOSHAJ",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "ALİ YAŞAR",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ADI MEHREMIC",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "JETMİR TOPALLİ",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TEKKE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ONUR ERGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "TUNCER DUHAN AKSU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MAHAMADOU BA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "47.dk"
+                },
+                {
+                    "oyuncu": "SIMON DESIRE SYLVANUS DELI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                },
+                {
+                    "oyuncu": "DAVID RAAGAARD JENSEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DEMEACO D'VAUGHN DUHANEY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "JASON  EYENGA LOKILO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TUNCER DUHAN AKSU",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MAHAMADOU BA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "JASON  EYENGA LOKILO",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALİ YAŞAR",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MUAMMER SARIKAYA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ERTUĞRUL ERSOY",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "EMİR KAAN GÜLTEKİN",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EDUART RROCA",
+                    "dakika": "6.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAHAMADOU BA",
+                    "dakika": "45.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ONUR ERGÜN",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FRAPORT TAV ANTALYASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HELTON BRANT ALEIXO LEITE",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "EMRECAN UZUNHAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO LUCAS MARTINS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HAJI AMIR WRIGHT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ALASSANE NDAO",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SAM ANDREAS LARSSON",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET ATABERK DADAKDENİZ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SHEREL CONSTANCİO FLORANUS",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "CEMALİ SERTEL",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ERDAL RAKIP",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "BERTUĞ ÖZGÜR YILDIRIM",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÖMER TOPRAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SHOYA NAKAJIMA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MARK MAMPASSİ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "HOUSSAM EDDINE GHACHA",
+                    "formaNo": "27"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALFONS FRANCISCUS GROENENDIJK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "UFUK AKYOL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALASSANE NDAO",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO LUCAS MARTINS",
+                    "dakika": "90+7.dk"
+                },
+                {
+                    "oyuncu": "SAM ANDREAS LARSSON",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ERDAL RAKIP",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ÖMER TOPRAK",
+                    "dakika": "90+7.dk"
+                },
+                {
+                    "oyuncu": "BERTUĞ ÖZGÜR YILDIRIM",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "SHOYA NAKAJIMA",
+                    "dakika": "71.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FERNANDO LUCAS MARTINS",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HAJI AMIR WRIGHT",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HAJI AMIR WRIGHT",
+                    "dakika": "88.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

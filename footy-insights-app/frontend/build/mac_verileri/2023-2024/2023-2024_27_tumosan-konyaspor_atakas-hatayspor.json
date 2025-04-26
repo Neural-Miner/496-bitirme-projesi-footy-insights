@@ -1,0 +1,358 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "27"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TÜMOSAN KONYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JAKUB WALDEMAR SLOWIK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SONER DİKMEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "LOUKA DANIEL PRIP ANDREASEN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME HAUBERT SITYA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "TEENAGE LINGANI HADEBE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ALASSANE NDAO",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FILIP DAMJANOVIC",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÜLGÜN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "STEVEN NKEMBOANZA MIKE CHRISTOPHER NZONZI",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "DENİZ ERTAŞ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KARAHAN YASİR SUBAŞI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ADİL DEMİRBAĞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UĞURCAN YAZĞILI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU CICALDAU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "YUNUS MALLI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BOULY JUNIOR SAMBOU",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MARLOS MORENO DURAN",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "VALON ETHEMI",
+                    "formaNo": "72"
+                }
+            ],
+            "teknikSorumlu": [
+                "FAHRUDİN OMEROVİÇ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÜLGÜN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+8.dk"
+                },
+                {
+                    "oyuncu": "JAKUB WALDEMAR SLOWIK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "FILIP DAMJANOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "BOULY JUNIOR SAMBOU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+7.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÜLGÜN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SOKOL CİKALLESHİ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ALASSANE NDAO",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "LOUKA DANIEL PRIP ANDREASEN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UĞURCAN YAZĞILI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ADİL DEMİRBAĞ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "KARAHAN YASİR SUBAŞI",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BOULY JUNIOR SAMBOU",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "UĞURCAN YAZĞILI",
+                    "dakika": "52.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÜLGÜN",
+                    "dakika": "56.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RIGOBERTO MANUEL RIVAS VINDEL",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "GUY MARCELIN KILAMA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "NIKOLA MAKSIMOVIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CEMALİ SERTEL",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ÖMER FARUK BEYAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "CHANDREL GERAUD MASSANGA MATONDO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GÖRKEM  SAĞLAM",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ BOUDJEMAA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOELSON AUGUSTO MENDES MANGO FERNANDES",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM DERVİŞOĞLU",
+                    "formaNo": "11"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VİSAR BEKAJ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KERİM ALICI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "RECEP BURAK YILMAZ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN MATUR",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR PARMAK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RUI PEDRO DA SILVA E SOUSA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ARMİN HODZİC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SERGIO CARLOS STRANDBERG",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RENAT OLEQOVİÇ DADASHOV",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERCE KARDEŞLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+9.dk"
+                },
+                {
+                    "oyuncu": "GUY MARCELIN KILAMA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "RUI PEDRO DA SILVA E SOUSA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+8.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CEMALİ SERTEL",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ÖMER FARUK BEYAZ",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ BOUDJEMAA",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "GÖRKEM  SAĞLAM",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "JOELSON AUGUSTO MENDES MANGO FERNANDES",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "KERİM ALICI",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "SERGIO CARLOS STRANDBERG",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "RENAT OLEQOVİÇ DADASHOV",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "RUI PEDRO DA SILVA E SOUSA",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

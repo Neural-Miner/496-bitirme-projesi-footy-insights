@@ -1,0 +1,311 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ADANA DEMİRSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ARİJANET ANAN MURİC",
+                    "formaNo": "49"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "TAYYİP TALHA SANUÇ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOHER KHADIM RASSOUL",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "JONAS SVENSSON",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KURT",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YOUNES BELHANDA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN İNLER",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "LUCAS NAHUEL CASTRO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BABAJIDE DAVID AKINTOLA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MARIO BARWUAH BALOTELLİ",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SEMİH GÜLER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SAMET AKAYDİN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BENJAMİN FERNAND LUCIEN  FRANCOİS STAMBOULI",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "SEDAT ŞAHİNTÜRK",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "PA AMAT DIBBA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "OKWUCHUKWU FRANCIS EZEH",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BRITT CURTIS ASSOMBALONGA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "İZZET ÇELİK",
+                    "formaNo": "16"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TAYYİP TALHA SANUÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YOUNES BELHANDA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "BABAJIDE DAVID AKINTOLA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "LUCAS NAHUEL CASTRO",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MARIO BARWUAH BALOTELLİ",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OKWUCHUKWU FRANCIS EZEH",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "PA AMAT DIBBA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "BRITT CURTIS ASSOMBALONGA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "BENJAMİN FERNAND LUCIEN  FRANCOİS STAMBOULI",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALTAY BAYINDIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MESUT ÖZİL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MBWANA ALLY SAMATTA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "FERDİ ERENAY KADIOĞLU",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LUIZ GUSTAVO DIAS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "BRIGHT OSAYI SAMUEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MİHA ZAJC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MARCEL JANY EMILE TISSERAND",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "FILIP NOVAK",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ATTILA ARPAD SZALAI",
+                    "formaNo": "41"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BERKE ÖZER",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ERTUĞRUL ÇETİN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DURSUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED GÜMÜŞKAYA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ARDA GÜLER",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                }
+            ],
+            "teknikSorumlu": [
+                "VİTOR MANUEL DE OLIVEIRA LOPES PEREIRA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MARCEL JANY EMILE TISSERAND",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "BRIGHT OSAYI SAMUEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR DURSUN",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "FERDİ ERENAY KADIOĞLU",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MİHA ZAJC",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "MBWANA ALLY SAMATTA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MESUT ÖZİL",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NAZIM SANGARE",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OZAN TUFAN",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "SERDAR DURSUN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JOSE ERNESTO SOSA",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MESUT ÖZİL",
+                    "dakika": "46.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "14"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EVREN ÖZYİĞİT",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞDAŞ ATAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİMA SONKO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BAYE OUMAR NIASSE",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRAH EREN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRAH TUNCEL",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "SERKAN YALÇIN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SERTAN VARDAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET CEBE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AŞAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ERKAN TAŞKIRAN",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BİLAL KISA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÇAĞDAŞ ATAN",
+                    "dakika": "7.dk"
+                },
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERTAN VARDAR",
+                    "dakika": "7.dk"
+                },
+                {
+                    "oyuncu": "AHMET CEBE",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA AŞAN",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BRUNO FERREIRA MOMBRA ROSA",
+                    "dakika": "62.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "BAYE OUMAR NIASSE",
+                    "dakika": "80.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TORKU KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CHARLES HUBERT ITANDJE",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ERDİNÇ YAVUZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALİ ŞAHİNER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "TOMAS BOREK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "GUNNAR HEIDAR THORVALDSSON",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KAYA TARAKCI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EZECHIEL NDOUASEL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERGÜN TEBER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "RECEP AYDIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL AKIN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "İSHAK ÇAKMAK",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "UĞUR TÜTÜNEKER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERDİNÇ YAVUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                },
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERDİNÇ YAVUZ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ERDAL KILIÇASLAN",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "TOMAS BOREK",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RECEP AYDIN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "EZECHIEL NDOUASEL",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TOMAS BOREK",
+                    "dakika": "20.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

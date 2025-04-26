@@ -1,0 +1,344 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "25"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "YUKATEL ADANA DEMİRSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ŞAXRUDİN MAGOMEDOVİÇ MAGOMEDALİYEV",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL ÇOKÇALIŞ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SEMİH GÜLER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ANDREAW RAYAN GRAVILLON",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TAYFUN AYDOĞAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOHN STEVEN MENDOZA VALENCIA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MILAD MOHAMMADIKESHMARZI",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ABAT AIMBETOV",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "PAPE ABOU CISSE",
+                    "formaNo": "66"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YILMAZ AKTAŞ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YUSUF SARI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MARIO BARWUAH BALOTELLİ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JOSE RODRIGUEZ MARTINEZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JOVAN  MANEV",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "YUSUF BARASI",
+                    "formaNo": "56"
+                },
+                {
+                    "oyuncuAdi": "OZAN DEMİRBAĞ",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "MOTEZ NOURANI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "BREYTON DYLAN FOUGEU",
+                    "formaNo": "93"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SEMİH GÜLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "MARIO BARWUAH BALOTELLİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ANDREAW RAYAN GRAVILLON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "MILAD MOHAMMADIKESHMARZI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TAYFUN AYDOĞAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "İSMAİL ÇOKÇALIŞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "PAPE ABOU CISSE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ABAT AIMBETOV",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JOSE RODRIGUEZ MARTINEZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LUIZ CARLOS ALMEIDA DA CUNHA",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "YUSUF SARI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "YUSUF BARASI",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MARIO BARWUAH BALOTELLİ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARIO BARWUAH BALOTELLİ",
+                    "dakika": "86.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ EMRE YANAR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CLAUDIO WINCK NETO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÜL",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FALL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMED MORTADHA BEN OUANES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL DA COSTA JOIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JACKSON GABRIEL POROZO VERNAZA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZCAN",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MELİH AKYÜZ",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "EROL KARAMAN",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "TRAZIE THOMAS ZAI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "YUNUS EMRE GEDİK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SARP YAVRUCU",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SELİM DİLLİ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN UTKU AYDIN",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ EMRE YANAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "AHMED MORTADHA BEN OUANES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "CLAUDIO WINCK NETO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL DA COSTA JOIA",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YUNUS EMRE GEDİK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "LORET SADIKU",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAMADOU FALL",
+                    "dakika": "29.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "dakika": "57.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

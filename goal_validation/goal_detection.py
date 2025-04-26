@@ -115,14 +115,14 @@ for prediction in resultsData:
     # gameTimeRaw = prediction.get("gameTime", "")
     # match = re.search(r"(\d{1,2}):(\d{2})", gameTimeRaw)
     # if not match:
-    #     print(f"⚠️ Geçersiz gameTime formatı: {gameTimeRaw}")
+    #     print(f"Geçersiz gameTime formatı: {gameTimeRaw}")
     #     continue
 
     try:
         minute_str, second_str = prediction["gameTime"].split(":")
         minute, second = int(minute_str), int(second_str)
     except Exception:
-        print(f"⚠️ Geçersiz gameTime formatı: {prediction.get('gameTime')}")
+        print(f"Gecersiz gameTime formati: {prediction.get('gameTime')}")
         continue
 
     # minute = int(match.group(1))
@@ -143,7 +143,7 @@ for prediction in resultsData:
 
     gameTimeRaw = prediction.get("gameTime", "")
     if not ret:
-        print(f"❌ Frame okunamadı - GameTime: {gameTimeRaw}, frameIndex: {frameIndex}")
+        print(f"Frame okunamadi - GameTime: {gameTimeRaw}, frameIndex: {frameIndex}")
         continue
 
     # Goruntuyu kaydet
@@ -154,7 +154,7 @@ for prediction in resultsData:
     # imgPath = os.path.join(outputFramesDir, f"frame_{frameIndex}.png")
     # success = cv2.imwrite(imgPath, frame)
     if not success:
-        print(f"❌ Görüntü kaydedilemedi: {imgPath}")
+        print(f"Görüntü kaydedilemedi: {imgPath}")
         continue
 
     # OCR ile sure oku
@@ -167,7 +167,7 @@ for prediction in resultsData:
       if not g["checked"] and abs(ocr_minute - g["minute"]) <= 1
     ]
     if not candidates:
-      print(f"❌ Eşleşecek gol yok (ocr={ocr_minute})")
+      print(f"Eşleşecek gol yok (ocr={ocr_minute})")
       continue
 
     pick = next((g for g in candidates if g["half"] == 1), candidates[0])
@@ -202,7 +202,7 @@ if verifiedGoals:
     for goal in verifiedGoals:
         print(f"Frame: {goal['frame']}, Zaman (OCR): {goal['ocr_minute']}:{str(goal['ocr_second']).zfill(2)}, Takım: {goal['takim']}, Oyuncu: {goal['oyuncu']}, Ozet dakika: {goal['ozet_dakika']}, Ozet saniye: {goal['ozet_saniye']}, Half: {goal['half']}")
 else:
-    print("Doğrulanan gol bulunamadı.")
+    print("Dogrulanan gol bulunamadi.")
 
 
 # CSV olusturma
@@ -249,4 +249,4 @@ with open(csv_path, "w", newline="", encoding="utf-8") as csvfile:
             form_no
         ])
 
-print(f"✅ CSV kaydedildi: {csv_path}")
+print(f"CSV kaydedildi: {csv_path}")

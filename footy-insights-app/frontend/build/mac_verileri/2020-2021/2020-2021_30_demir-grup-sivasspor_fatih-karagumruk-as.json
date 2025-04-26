@@ -1,0 +1,286 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ALAADDİN OKUMUŞ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FAYCAL FAJR",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "TYLER DOMINIC BOYD",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OLARENWAJU AYOBAMI KAYODE",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAMADOU SAMASSA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET CAN TUNCER",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "KEREM ATAKAN KESGİN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JORGE FELIX MUNOZ GARCIA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FAYCAL FAJR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "TYLER DOMINIC BOYD",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "OLARENWAJU AYOBAMI KAYODE",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "JORGE FELIX MUNOZ GARCIA",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "45+1.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FATİH KARAGÜMRÜK A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMILIANO VIVIANO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ENZO PABLO ROCO ROCO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "LUCAS RODRIGO BIGLIA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ARTUR ADAM SOBIECH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FABIO BORINI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ALASSANE NDAO",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "VEGAR EGGEN HEDENSTAD",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JURE BALKOVEC",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "GASTON MATIAS CAMPI",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "LUCAS NAHUEL CASTRO",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AYKUT ÖZER",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "ALPARSLAN ERDEM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "KORAY ALTINAY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT ERDİNÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "YANNIS ROMARIC SALIBUR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FATİH KURUCUK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "JEREMAIN MARCIANO LENS",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "KEMAL ADEMI",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "96"
+                }
+            ],
+            "teknikSorumlu": [
+                "ATILAY CANEL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LUCAS RODRIGO BIGLIA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GASTON MATIAS CAMPI",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ALASSANE NDAO",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ARTUR ADAM SOBIECH",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ANDREA BERTOLACCI",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "LUCAS NAHUEL CASTRO",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KEMAL ADEMI",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "JAKUP JİMMY DURMAZ",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MEVLÜT ERDİNÇ",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "JEREMAIN MARCIANO LENS",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "YANNIS ROMARIC SALIBUR",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

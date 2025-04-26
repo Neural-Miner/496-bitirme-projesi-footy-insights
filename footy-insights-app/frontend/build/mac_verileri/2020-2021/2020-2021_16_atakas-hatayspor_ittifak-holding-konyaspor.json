@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "16"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUNIR MOHAND MOHAMEDI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDROS KATRANIS",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JEAN CLAUDE BILLONG",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AABID RAYANE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AARON SALEM BOUPENDZA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "PABLO RENAN DOS SANTOS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BABAJIDE DAVID AKINTOLA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ADAMA TRAORE",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "RUBEN TIAGO RODRIGUES RIBEIRO",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "MAME BIRAM DIOUF",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ BUĞRA BOYAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "AKIN ALKAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "BURAK CAN ÇAMOĞLU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SONER ÖRNEK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HELDER JORGE LEAL RODRIGUES BARBOSA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELİM ILGAZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MESUT ÇAYTEMEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MİRKAN AYDIN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN CANLI",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ABDİOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MAME BIRAM DIOUF",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "PABLO RENAN DOS SANTOS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AARON SALEM BOUPENDZA",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ADAMA TRAORE",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SELİM ILGAZ",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ABDİOĞLU",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AARON SALEM BOUPENDZA",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AARON SALEM BOUPENDZA",
+                    "dakika": "68.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İTTİFAK HOLDİNG KONYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İBRAHİM SEHIC",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MARKO JEVTOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME HAUBERT SITYA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AMIR HADZIAHMETOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "LEVAN SHENGELIA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ARTEM KRAVETS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKERİM BARDAKCI",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "ERDON DACI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "NEJC SKUBIC",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ KAĞAN GÜÇTEKİN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ALİ KARAKAYA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ABDULSAMET KAYA",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "EMRE PEHLİVAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "AHMET KARADEMİR",
+                    "formaNo": "49"
+                },
+                {
+                    "oyuncuAdi": "ŞENER KAYA",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDÜLKERİM BARDAKCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "10.dk"
+                },
+                {
+                    "oyuncu": "ERDON DACI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "MARKO JEVTOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "LEVAN SHENGELIA",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DENI MILOSEVIC",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ARTEM KRAVETS",
+                    "dakika": "33.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}
