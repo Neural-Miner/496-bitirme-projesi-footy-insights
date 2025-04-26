@@ -1,0 +1,373 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "18"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALTAY BAYINDIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO HENRIQUE VERNES",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "WILLIAN SOUZA ARAO DA SILVA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FERDİ ERENAY KADIOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JOSHUA CHRISTIAN KOJO KING",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BRIGHT OSAYI SAMUEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MICHY BATSHUAYI ATUNGA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL CRESPO DA SILVA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ATTILA ARPAD SZALAI",
+                    "formaNo": "41"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ARDA GÜLER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ENNER REMBERTO VALENCIA LASTRA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LINCOLN  HENRIQUE OLIVERIA DOS SANTOS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DURSUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MİHA ZAJC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "LUAN PERES PETRONI",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "EMRE MOR",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "JORGE FERNANDO PINHEIRO DE JESUS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "MERT HAKAN YANDAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ENNER REMBERTO VALENCIA LASTRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO HENRIQUE VERNES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "11.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MICHY BATSHUAYI ATUNGA",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL CRESPO DA SILVA",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "WILLIAN SOUZA ARAO DA SILVA",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO HENRIQUE VERNES",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENNER REMBERTO VALENCIA LASTRA",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SERDAR DURSUN",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "LINCOLN  HENRIQUE OLIVERIA DOS SANTOS",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MİHA ZAJC",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LEO MICHEL JOSEPH CLAUDE DUBOIS",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DRIES MERTENS",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BERKAN İSMAİL KUTLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "VICTOR ENOK NELLSON",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MILOT RASHICA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "SERGIO MIGUEL RELVAS GONÇALVES PEREIRA DE OLIVEIRA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKERİM BARDAKCI",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ALPER YILMAZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "SACHA BOEY",
+                    "formaNo": "93"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "PATRICK JOHN MINGUEL VAN AANHOLT",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LUCAS SEBASTIAN TORREIRA DI PASCUA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK MIDTSJO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YUNUS AKGÜN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BAFETIBI GOMIS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "YUSUF  DEMİR",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "EMİN BAYRAM",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "JUAN MANUEL MATA GARCIA",
+                    "formaNo": "64"
+                },
+                {
+                    "oyuncuAdi": "MAURO EMANUEL ICARDI",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BERKAN İSMAİL KUTLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "SACHA BOEY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "VICTOR ENOK NELLSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                },
+                {
+                    "oyuncu": "SERGIO MIGUEL RELVAS GONÇALVES PEREIRA DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "LEO MICHEL JOSEPH CLAUDE DUBOIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DRIES MERTENS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "MAURO EMANUEL ICARDI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+10.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ ALPER YILMAZ",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "SERGIO MIGUEL RELVAS GONÇALVES PEREIRA DE OLIVEIRA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DRIES MERTENS",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "MILOT RASHICA",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JUAN MANUEL MATA GARCIA",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "MAURO EMANUEL ICARDI",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "YUNUS AKGÜN",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "FREDRIK MIDTSJO",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "LUCAS SEBASTIAN TORREIRA DI PASCUA",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERGIO MIGUEL RELVAS GONÇALVES PEREIRA DE OLIVEIRA",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAURO EMANUEL ICARDI",
+                    "dakika": "90+10.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

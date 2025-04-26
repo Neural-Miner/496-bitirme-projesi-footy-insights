@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "8"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SERKAN KIRINTILI",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FILIP HOLOSKO",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "REMZİ GİRAY KAÇAR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ALI ADNAN KADHIM AL TAMEEMI",
+                    "formaNo": "53"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AYKUT ERÇETİN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "KORAY ALTINAY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SEZER ÖZMEN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERCAN KAYA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN BERBER",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "LUDOVIC SYLVESTRE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EREN ALBAYRAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "OUSMANE VIERA DIARRASSOUBA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ALI ADNAN KADHIM AL TAMEEMI",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "GODFREYITAMA OBOABONA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT DURUER",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "FILIP HOLOSKO",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ENGİN BEKDEMİR",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KORAY ALTINAY",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN BERBER",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "LUDOVIC SYLVESTRE",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GODFREYITAMA OBOABONA",
+                    "dakika": "70.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SUAT ALTIN İNŞAAT KAYSERİ ERCİYESSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SENİJAD İBRİCİC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JACQUES ZOUA DAOGARI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "JOHN BOYE",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ MEMİŞ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "YACOUBA SYLLA",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT ÖZEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ABDOU KADER MANGANE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GEORGES CONSTANT MANDJECK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ARNALDO EDI LOPES DA SİLVA",
+                    "formaNo": "36"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CANER OSMANPAŞA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ MEMİŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "JOHN BOYE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ MEMİŞ",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "YACOUBA SYLLA",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ARNALDO EDI LOPES DA SİLVA",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "ABDOU KADER MANGANE",
+                    "dakika": "53.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ARNALDO EDI LOPES DA SİLVA",
+                    "dakika": "90+2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "35"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "YUSUF KARAGÖZ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "EFKAN BEKİROĞLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "WILSON BRUNO NAVAL DA COSTA ABREU EDUARDO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO BARBADAS NOVAIS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA MILUNOVIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JUAN FRANCISCO MORENO FUERTES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN ALEXIS BORJA GONZALEZ",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "FURKAN BAYIR",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ AYDIN",
+                    "formaNo": "70"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "JOSE CARLOS COENTRAO MARAFONA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AHMET GÜLAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEROY JOHAN FER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CHIDOZIE COLLINS AWAZIEM",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN AYDOĞAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MIHA MEVLJA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL ZEHİR",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "75"
+                }
+            ],
+            "teknikSorumlu": [
+                "FELIPE SANCHEZ MATEOS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OĞUZ AYDIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO BARBADAS NOVAIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞUZ AYDIN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "EFKAN BEKİROĞLU",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO BARBADAS NOVAIS",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UMUT GÜNEŞ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "TAYFUR BİNGÖL",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "LEROY JOHAN FER",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "dakika": "65.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OĞUZ AYDIN",
+                    "dakika": "66.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÖZNUR KABLO YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ABDULSAMED DAMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT ULAŞ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "PHILIP GAMELI AWUKU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ BAŞDAŞ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "BENJAMIN TETTEH",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "JOSPIN NSHIMIRIMANA",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "BERAT YAMAN",
+                    "formaNo": "74"
+                },
+                {
+                    "oyuncuAdi": "MERT MİRAÇ ALTINTAŞ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "NOUHA DICKO",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MURAT AKŞİT",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET EYÜP TÜRKASLAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "HAQI OSMAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN MÜJDE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "EMİRCAN BAYRAKDAR",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "ERŞAN YAŞA",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "UMUT TANİŞ",
+                    "formaNo": "73"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED EMİN SARIKAYA",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "KEREM ALTUNIŞIK",
+                    "formaNo": "85"
+                },
+                {
+                    "oyuncuAdi": "BERAT MERT",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "CİHAT ARSLAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "23.dk"
+                },
+                {
+                    "oyuncu": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MERT MİRAÇ ALTINTAŞ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "BENJAMIN TETTEH",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ATAKAN MÜJDE",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "HAQI OSMAN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "UMUT TANİŞ",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "NOUHA DICKO",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

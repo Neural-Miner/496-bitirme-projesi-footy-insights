@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FOFANA",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "CARLOS GARCIA BADIAS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ISMAİL AİSSATİ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "WILDE DONALD GUERRIER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "GLYNOR ORVİL PLET",
+                    "formaNo": "29"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZDENEK ZLAMAL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "GUY LUCIEN MICHEL LANDEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "BİROL PARLAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "VAGNER SILVA DE SOUZA",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "JONATHAN SERGE FOLLY AYITE",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "HÜSEYİN KALPAR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KENNETH JOSIAH OMERUO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "27.dk"
+                },
+                {
+                    "oyuncu": "DANIEL JOAO SANTOS CANDEIAS",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TAHA YALÇINER",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "ISMAİL AİSSATİ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "WILDE DONALD GUERRIER",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VAGNER SILVA DE SOUZA",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "GUY LUCIEN MICHEL LANDEL",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VAGNER SILVA DE SOUZA",
+                    "dakika": "71.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GLYNOR ORVİL PLET",
+                    "dakika": "90.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "GODFREYITAMA OBOABONA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "JAKOB JANSTER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MARWANE SAADANE",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "RECEP NİYAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "PATRYK TUSZYNSKI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "LEONY LEONARD KWEUKE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ALPEREN UYSAL",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE PETRUCCI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "MATIC FINK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ALI FAEZ ATIYAH ATIYAH",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "6"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKHAN AKKAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RECEP NİYAZ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "PATRYK TUSZYNSKI",
+                    "dakika": "13.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DAVIDE PETRUCCI",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "13.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "2.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DHURGHAM ISMAEL DAWOOD AL-QURAISHI",
+                    "dakika": "34.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "LEONY LEONARD KWEUKE",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

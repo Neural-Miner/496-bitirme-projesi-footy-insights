@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "19"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "İSTİKBAL MOBİLYA KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "TIAGO JORGE OLIVEIRA LOPES",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ARTEM KRAVETS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SILVESTRE MANUEL GONÇALVES VARELA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "TJARONN INTEFF CHEFREN CHERY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN-IONUT SAPUNARU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BERNARD MENSAH",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "JEAN ARMEL KANA BIYIK",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "ATİLA TURAN",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HASAN HÜSEYİN ACAR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EMRE DEMİR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH GÜRBÜZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÇITAK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "KAZIM ÇELİK",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ADEM DOĞAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MERT ÖZYILDIRIM",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "OLEKSANDR KUCHER",
+                    "formaNo": "50"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CRISTIAN-IONUT SAPUNARU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "11.dk"
+                },
+                {
+                    "oyuncu": "BERNARD MENSAH",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "OLEKSANDR KUCHER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "SILVESTRE MANUEL GONÇALVES VARELA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ARTEM KRAVETS",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LEVENT GÜLEN",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "OLEKSANDR KUCHER",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "HASAN HÜSEYİN ACAR",
+                    "dakika": "58.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CRISTIAN-IONUT SAPUNARU",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MUHAMMED ŞENGEZER",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ALLANO BRENDON DE SOUZA LIMA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE BADJI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ UMUT MERAŞ",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPACAK",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "SANTIAGO VERGINI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HENRI GREGOIRE SAIVET",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAHI SHEHU",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "FURKAN EMRE ÜNVER",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ONUR ATASAYAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "RAMAZAN KESKİN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "DIAFRA SAKHO",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "2.dk"
+                },
+                {
+                    "oyuncu": "BURAK KAPACAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ALLANO BRENDON DE SOUZA LIMA",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HENRI GREGOIRE SAIVET",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ABDULLAHI SHEHU",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "DIAFRA SAKHO",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "30.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

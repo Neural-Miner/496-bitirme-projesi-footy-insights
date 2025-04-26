@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RETO PİRMİN ZİEGLER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EMRE BELÖZOĞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH MICHAEL YOBO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MIROSLAV STOCH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ALEXSANDRO DE SOUZA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPUZ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KESİMAL",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "formaNo": "16"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HENRİ BİENVENU NTSAMA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "62"
+                },
+                {
+                    "oyuncuAdi": "ISSIAR DIA",
+                    "formaNo": "92"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE BELÖZOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "SERDAR KESİMAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALEXSANDRO DE SOUZA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPUZ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MIROSLAV STOCH",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ISSIAR DIA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "HENRİ BİENVENU NTSAMA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "10.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ALEXSANDRO DE SOUZA",
+                    "dakika": "16.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOHAN ERİK CALVİN ELMANDER",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FELIPE MELO DE CARVALHO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TOMAS UJFALUSİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HAKAN KADİR BALTA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL EBOUE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BAYTAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AYDIN YILMAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ALBERT RIERA ORTEGA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MILAN BAROS",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "SERVET ÇETİN",
+                    "formaNo": "76"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JOHAN ERİK CALVİN ELMANDER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "JOHAN ERİK CALVİN ELMANDER",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MILAN BAROS",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "AYDIN YILMAZ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ALBERT RIERA ORTEGA",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOHAN ERİK CALVİN ELMANDER",
+                    "dakika": "36.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HAKAN KADİR BALTA",
+                    "dakika": "83.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

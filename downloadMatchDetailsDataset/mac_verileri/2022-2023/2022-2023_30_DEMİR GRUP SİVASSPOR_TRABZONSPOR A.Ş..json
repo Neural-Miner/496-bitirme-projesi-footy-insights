@@ -1,0 +1,340 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MURAT PALULİ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "AARON CHRISTOPHER BILLY ONDELE APPINDANGOYE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS GOUTAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "CHARILAOS CHARISIS",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL SAIZ ALONSO",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ALBAYRAK",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK STENSOE ULVESTAD",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AHMED MUSA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÖKAY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "CLINTON MUA NJIE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JORDY JOSUE CAICEDO MEDINA",
+                    "formaNo": "30"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZİYA ERDAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "CHARILAOS CHARISIS",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL SAIZ ALONSO",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FREDRIK STENSOE ULVESTAD",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "CLINTON MUA NJIE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ROBIN YALÇIN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ISAAC COFIE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "JORDY JOSUE CAICEDO MEDINA",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAMUEL SAIZ ALONSO",
+                    "dakika": "27.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "37.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "SAMUEL SAIZ ALONSO",
+                    "dakika": "58.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JORDY JOSUE CAICEDO MEDINA",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MARC BARTRA AREGALL",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ENIS BARDHI",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JENS STRYGER  LARSEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DOĞUCAN HASPOLAT",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "MAXIMILIANO GOMEZ GONZALES",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "LAZAR MARKOVIC",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA TEPE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "KAĞAN MORADAOĞLU",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "UMUT DİLAN BOZOK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MAREK HAMSIK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "TAHA ALTIKARDEŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "NACİ ÜNÜVAR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ARİF BOŞLUK",
+                    "formaNo": "72"
+                },
+                {
+                    "oyuncuAdi": "MONTASSIR LAHTIMI",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "NENAD BJELICA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "STEFANO WILFRED DENSWIL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "JENS STRYGER  LARSEN",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "22.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "DOĞUCAN HASPOLAT",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "ENIS BARDHI",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MAXIMILIANO GOMEZ GONZALES",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "STEFANO WILFRED DENSWIL",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "NACİ ÜNÜVAR",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "UMUT DİLAN BOZOK",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "MAREK HAMSIK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MONTASSIR LAHTIMI",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "11.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

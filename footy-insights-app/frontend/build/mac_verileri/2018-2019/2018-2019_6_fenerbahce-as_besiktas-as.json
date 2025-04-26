@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ANDRE MORGAN RAMİ AYEW",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANTONIO REYES ROSALES",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ISLAM SLIMANI",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "JAILSON MARQUES,SIQUEIRA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ROMAN NEUSTAEDTER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "YASSINE BENZIA",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO ANIBAL ISLA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL FREY",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ALICI",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MATHİEU VALBUENA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "YİĞİTHAN GÜVELİ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "ELJIF ELMAS",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "PHILIP JHON-WILLIAM COCU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DIEGO ANTONIO REYES ROSALES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "YASSINE BENZIA",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ELJIF ELMAS",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "MATHİEU VALBUENA",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANDRE MORGAN RAMİ AYEW",
+                    "dakika": "71.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "LORIS SVEN KARIUS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "KEPLER LAVERAN DE LIMA FERREIRA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DOMAGOJ VIDA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TOLGAY ALİ ARSLAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JEREMAIN MARCIANO LENS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RYAN GUNO BABEL",
+                    "formaNo": "8"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "UTKU YUVAKURAN",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ENZO PABLO ROCO ROCO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "VAGNER SILVA DE SOUZA",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ADEM LJAJIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "CYLE CHRISTOPHER LARIN",
+                    "formaNo": "95"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "MS"
+                },
+                {
+                    "oyuncu": "TOLGAY ALİ ARSLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "JEREMAIN MARCIANO LENS",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "CYLE CHRISTOPHER LARIN",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "dakika": "40.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

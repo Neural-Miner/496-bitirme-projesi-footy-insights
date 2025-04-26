@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH BOUM II",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "REMZİ GİRAY KAÇAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "EYONG TAKANG ENOH",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SEMİH ŞENTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "IGNACIO INSA BOHIGUES",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKÇEK VEDERSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "SERKAN BALCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "KORAY ARSLAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "KÖKSAL YEDEK",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "LAMİNE DIARRA",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "IGNACIO INSA BOHIGUES",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "SEMİH ŞENTÜRK",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MELİH GÖKÇEK",
+                    "dakika": "34.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "GUILLERMO ENIO BURDISSO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FELIPE MELO DE CARVALHO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "WESLEY SNEİJDER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TEBILY DIDIER YVES DROGBA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ALEX NICOLAO TELLES",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ZAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÇOLAK",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNDOĞAN",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "ROBERTO MANCINI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "WESLEY SNEİJDER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "GUILLERMO ENIO BURDISSO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "TEBILY DIDIER YVES DROGBA",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "GUILLERMO ENIO BURDISSO",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "EMRE ÇOLAK",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BURAK YILMAZ",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "45.dk",
+                    "golTipi": "K"
+                },
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "87.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,292 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MANİSASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TOK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JERRY AKAMINKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MURAT ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "JIMMY DIXON",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA VUCİCEVIC",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇÖKMÜŞ",
+                    "formaNo": "85"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HİKMET BALİOĞLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "LABINOT HARBUZI",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "CLAUDIO MEJOLARO",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "REHA KEMAL ERGİNER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YİĞİT İNCEDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "FERHAT ÇÖKMÜŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "NİZAMETTİN ÇALIŞKAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "NEMANJA VUCİCEVIC",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "LABINOT HARBUZI",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "CARLOS EDUARDO DE SOUZA FLORESTA",
+                    "dakika": "58.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PROMISE ISAAC",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "PROMISE ISAAC",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MERSİN İDMAN YURDU"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH BOUM II",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN RODRIGO ZURITA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANDRE FRANCISCO MORITZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MERT NOBRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OUISSEM BEN YAHIA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA KEÇELİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ERHAN GÜVEN",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "HAKAN BAYRAKTAR",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "SPAS BORISLAVOV DELEV",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM KAŞ",
+                    "formaNo": "78"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İBRAHİM SEHIC",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "TONIA D. TISDELL",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ATAŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "DANILO PETROLLI BUENO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HASAN ÜÇÜNCÜ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "TARIK ALTUNTAŞ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "NURULLAH SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HAKAN BAYRAKTAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "TONIA D. TISDELL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "JOSEPH BOUM II",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "OUISSEM BEN YAHIA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN BAYRAKTAR",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ANDRE FRANCISCO MORITZ",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SPAS BORISLAVOV DELEV",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERDAL KILIÇASLAN",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "DANILO PETROLLI BUENO",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "TONIA D. TISDELL",
+                    "dakika": "61.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

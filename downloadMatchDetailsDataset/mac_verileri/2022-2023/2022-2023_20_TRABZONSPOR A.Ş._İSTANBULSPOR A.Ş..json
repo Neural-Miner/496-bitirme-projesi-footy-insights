@@ -1,0 +1,319 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MARC BARTRA AREGALL",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JORGE DJANINY TAVARES SEMEDO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MAXIMILIANO GOMEZ GONZALES",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "BRUNO DA SILVA PERES",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA TEPE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "UMUT DİLAN BOZOK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "VITOR HUGO FRANCHESCOLI DE SOUZA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MAREK HAMSIK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JENS STRYGER  LARSEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "NACİ ÜNÜVAR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ENIS BARDHI",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "DOĞUCAN HASPOLAT",
+                    "formaNo": "34"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "EMMANOUIL SIOPIS",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MAXIMILIANO GOMEZ GONZALES",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MAREK HAMSIK",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ENIS BARDHI",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "UMUT DİLAN BOZOK",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "DOĞUCAN HASPOLAT",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MARC BARTRA AREGALL",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBULSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "DAVID RAAGAARD JENSEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YEŞİL",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EDUART RROCA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MAHAMADOU BA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN BERBER",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OKAN ERDOĞAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER SARIKAYA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "VALON ETHEMI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ALİ YAŞAR",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "EMEKA FRIDAY EZE",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "JETMİR TOPALLİ",
+                    "formaNo": "98"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALP ARDA",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "ESLEM ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALDIN CAJIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VEFA TEMEL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "EMİR KAAN GÜLTEKİN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ALİ ÖZER",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL OLOGO INAINFE",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "SINDRIT GURI",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "JASON  EYENGA LOKILO",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ADI MEHREMIC",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TEKKE"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUAMMER SARIKAYA",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "EMEKA FRIDAY EZE",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "JETMİR TOPALLİ",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMİR KAAN GÜLTEKİN",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "SINDRIT GURI",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "VEFA TEMEL",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "JASON  EYENGA LOKILO",
+                    "dakika": "56.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,304 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SEYEDMAJID HOSSEINI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DONISI AVDIJAJ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY NNADUZOR NWAKAEME",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDER SORLOTH",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOHN OBI MIKEL",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "IVANILDO  JORGE MENDES FERNANDES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO DA SILVA PEREIRA",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR PARMAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "FILIP NOVAK",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ANDRE STURRIDGE",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DOĞAN ERDOĞAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GASTON MATIAS CAMPI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FIRATCAN ÜZÜM",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHİM DURSUN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "AHMET CANBAZ",
+                    "formaNo": "38"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜNAL KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FILIP NOVAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "SEYEDMAJID HOSSEINI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDULKADİR PARMAK",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "DONISI AVDIJAJ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "IVANILDO  JORGE MENDES FERNANDES",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FIRATCAN ÜZÜM",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "DANIEL ANDRE STURRIDGE",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "HÜSEYİN TÜRKMEN",
+                    "dakika": "44.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FILIP NOVAK",
+                    "dakika": "17.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ALEXANDER SORLOTH",
+                    "dakika": "57.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FABRICIO SANTOS DE JESUS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE SESSEGNON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GIOVANNI-GUY YANN SIO",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "DANIEL JOAO SANTOS CANDEIAS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FLAVIO DA SILVA RAMOS",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "PIERRE YVES NICOLAS POLOMAT",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÜBEYD ADIYAMAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIK MATTIAS BJARSMYR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FLOYD AMA NINO AYITE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RAHMETULLAH BERİŞBEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MATS SEUNTJENS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SONER DİKMEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE SADIO DIALLO",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA KAPLAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+1.dk"
+                },
+                {
+                    "oyuncu": "PIERRE YVES NICOLAS POLOMAT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "FLAVIO DA SILVA RAMOS",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDOULAYE SADIO DIALLO",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "FLOYD AMA NINO AYITE",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "MATS SEUNTJENS",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "STEPHANE SESSEGNON",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

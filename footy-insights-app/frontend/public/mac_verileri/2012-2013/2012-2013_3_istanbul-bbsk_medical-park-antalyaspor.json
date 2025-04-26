@@ -1,0 +1,292 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "3"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "İSTANBUL BBSK"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EDUARDO DOS REIS CARVALHO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CAN ARAT",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "METİN DEPE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANDRE GERALDES DE BARROS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "CİHAN HASPOLATLI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "WELLINGTON BRITO DA SILVA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OĞUZHAN BAHADIR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "EFE İNANÇ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ KORKMAZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TURGAY BAHADIR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "81"
+                }
+            ],
+            "teknikSorumlu": [
+                "CARLOS AUGUSTO SOARES DA COSTA FARIA CARVALHAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKHAN SÜZEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "TURGAY BAHADIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CİHAN HASPOLATLI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "WELLINGTON BRITO DA SILVA",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TURGAY BAHADIR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN SÜZEN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EFE İNANÇ",
+                    "dakika": "67.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİCAL PARK ANTALYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SAMMY NDJOCK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "UĞUR İNCEMAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÖKÇEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VESELIN MILCHEV MINEV",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "PETR JANDA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DENİZ BARIŞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE DIARRA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ALİ TANDOĞAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ISMAİL AİSSATİ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERGÜN TEBER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "NIKOLA ZIZIC",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKIN",
+                    "formaNo": "32"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ÖZDİLEK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR İNCEMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "SAMMY NDJOCK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "VESELIN MILCHEV MINEV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "PETR JANDA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "ISMAİL AİSSATİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "PETR JANDA",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "LAMİNE DIARRA",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ISMAİL AİSSATİ",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ERGÜN TEBER",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PROMISE ISAAC",
+                    "dakika": "10.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

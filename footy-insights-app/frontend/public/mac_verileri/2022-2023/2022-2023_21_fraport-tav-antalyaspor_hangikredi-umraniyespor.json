@@ -1,0 +1,349 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FRAPORT TAV ANTALYASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HELTON BRANT ALEIXO LEITE",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ERDAL RAKIP",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO LUCAS MARTINS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SAM ANDREAS LARSSON",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖMER TOPRAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SHOYA NAKAJIMA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET ATABERK DADAKDENİZ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SHEREL CONSTANCİO FLORANUS",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "CEMALİ SERTEL",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AMAR GERXHALIU",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ADMİR MEHMEDİ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ALASSANE NDAO",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ERDİLMAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "EGE BİLSEL",
+                    "formaNo": "36"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALFONS FRANCISCUS GROENENDIJK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ÖMER TOPRAK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SHOYA NAKAJIMA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ERDAL RAKIP",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALASSANE NDAO",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "AMAR GERXHALIU",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "UFUK AKYOL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ADMİR MEHMEDİ",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAM ANDREAS LARSSON",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "HANGİKREDİ ÜMRANİYESPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ORKUN ÖZDEMİR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ERMIR LENJANI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ISAAC SACKEY",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DUREL BEL DANIEL AVOUNOU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ GÜRBULAK",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU EPUREANU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ADEL BETTAIEB",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "HERMENEGILDO DA C PAULO BARTOLOMEU",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "KARTAL KAYRA YILMAZ",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BERKE ÖZER",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ANIL DEMİR",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "YUNUS EMRE MERTOĞLU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN GHEORGHE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SERKAN GÖKSU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FATİH YİĞİT ŞANLİTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ANTONIO MRSIC",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "TOMISLAV GLUMAC",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "JESSE TAMUNOBARABOYE SEKIDIKA",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "RECEP UÇAR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JESSE TAMUNOBARABOYE SEKIDIKA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞUZ GÜRBULAK",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "HERMENEGILDO DA C PAULO BARTOLOMEU",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ADEL BETTAIEB",
+                    "dakika": "13.dk"
+                },
+                {
+                    "oyuncu": "DUREL BEL DANIEL AVOUNOU",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERKAN GÖKSU",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "VALENTIN GHEORGHE",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "13.dk"
+                },
+                {
+                    "oyuncu": "JESSE TAMUNOBARABOYE SEKIDIKA",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ANTONIO MRSIC",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "33.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "56.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "29"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SANİCA BORU ELAZIĞSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN AK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KALOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKYÜZ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "TIDIANE SANE",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT ERTUĞRUL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "AHMET GÖRKEM GÖRK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SEDAT BAYRAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "67"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ÖZGEN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ÇAKIR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ROLAND ROMARIO ALBERG",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "IVAN SESAR",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "ALPER KALEMCİ",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "EREN AYDIN",
+                    "formaNo": "34"
+                }
+            ],
+            "teknikSorumlu": [
+                "YILMAZ VURAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT AKYÜZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ORHAN AK",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "BÜLENT ERTUĞRUL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SİNAN KALOĞLU",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EREN AYDIN",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "IVAN SESAR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "VOLKAN YILMAZ",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VOLKAN YILMAZ",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBUL BBSK"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EDUARDO DOS REIS CARVALHO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CAN ARAT",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EFE İNANÇ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANDRE GERALDES DE BARROS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KAMIL ZAYATTE",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "WELLINGTON BRITO DA SILVA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OĞUZHAN BAHADIR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ KORKMAZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ÖMER CAN SOKULLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CİHAN HASPOLATLI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SİMON TERWASE ZENKE",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFE İNANÇ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MAHMUT TEKDEMİR",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "WELLINGTON BRITO DA SILVA",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CİHAN HASPOLATLI",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ÖMER CAN SOKULLU",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "SİMON TERWASE ZENKE",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

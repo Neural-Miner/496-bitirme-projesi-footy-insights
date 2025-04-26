@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "23"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BOBAN JOVİC",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KONUK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "AZİZ ERALTAY",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RICARDO WILLIAM FATY",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "PABLO MARTIN BATALLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ONUR ATASAYAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "MERT ÖRNEK",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SİNAN BAKIŞ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "JOSUA ARNOLD JOHN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUTLU TOPÇU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TOMAS SIVOK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ONUR ATASAYAR",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "CRISTOBAL ANDRES JORQUERA TORRES",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "YONATHAN ALEXANDER DEL VALLE RODRIGUEZ",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MERTER YÜCE",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "JOSUA ARNOLD JOHN",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "İSMAİL KONUK",
+                    "dakika": "7.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOSUA ARNOLD JOHN",
+                    "dakika": "90+2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PAULO VICTOR MILEO VIDOTTI",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI KISLIAK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "WALLACE REIS SILVA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ANIS BEN HATIRA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "FATAU MOHOMED",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "MARCIO DE SOUZA GREGORIO JUNIOR",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "NABIL GHILAS",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "83"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EVANS KANGWA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FRANTISEK RAJTORAL",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "KHALY IYANE THIAM",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT UYGUN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSA NİZAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "18.dk"
+                },
+                {
+                    "oyuncu": "WALLACE REIS SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "FATAU MOHOMED",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "MARCIO DE SOUZA GREGORIO JUNIOR",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ANIS BEN HATIRA",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUHAMED ILDIZ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "EVANS KANGWA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARCIO DE SOUZA GREGORIO JUNIOR",
+                    "dakika": "6.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

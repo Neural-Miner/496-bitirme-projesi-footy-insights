@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "33"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MAICON PEREIRA ROQUE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "YOUNES BELHANDA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MARTIN LINNES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BAFETIBI GOMIS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "GARRY MENDES RODRIGUES",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO FRANCISCO REGES",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "YUTO NAGATOMO",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "JASON GREGORY DENAYER",
+                    "formaNo": "64"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY İŞCAN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "MARIANO FERREIRA FILHO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EREN DERDİYOK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "OZAN MUHAMMED KABAK",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "CELİL YÜKSEL",
+                    "formaNo": "52"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GARRY MENDES RODRIGUES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RYAN HENK DONK",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO FRANCISCO REGES",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OZAN MUHAMMED KABAK",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SELÇUK İNAN",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YOUNES BELHANDA",
+                    "dakika": "1.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BAFETIBI GOMIS",
+                    "dakika": "12.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "EVKUR YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FABİEN CEDDY FARNOLLE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "KHALİD BOUTAIB",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EREN TOZLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OKECHUKWU GODSON AZUBUIKE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALY CİSSOKHO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ISSAM CHEBAKE",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ARTURO RAFEAL MİNA MEZA",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE SADIO DIALLO",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MATHEUS DORIA MACEDO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ISSIAR DIA",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "GILBERTO OLIVERA SOUZA JUNIOR",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO EMANUEL DENING",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "EROL BULUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SADIK ÇİFTPINAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA ESKİHELLAÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "KHALİD BOUTAIB",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAYE SADIO DIALLO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "8.dk"
+                },
+                {
+                    "oyuncu": "MATHEUS DORIA MACEDO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EREN TOZLU",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAYE SADIO DIALLO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ARTURO RAFEAL MİNA MEZA",
+                    "dakika": "25.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA ESKİHELLAÇ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MATHEUS DORIA MACEDO",
+                    "dakika": "25.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

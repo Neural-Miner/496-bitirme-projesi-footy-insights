@@ -1,0 +1,292 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "33"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ROBERTO JAN HİLBERT",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "TOMAS SIVOK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JULIEN ESCUDE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "VELİ KAVLAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "FILIP HOLOSKO",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "11"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALLAN JAMES MCGREGOR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HASAN TÜRK",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA BONFIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE ÖZKAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                },
+                {
+                    "oyuncu": "ROBERTO JAN HİLBERT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "FILIP HOLOSKO",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HASAN TÜRK",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ERKAN KAŞ",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "MEHMET AKGÜN",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VELİ KAVLAK",
+                    "dakika": "15.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "45.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "FILIP HOLOSKO",
+                    "dakika": "72.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "RANDALL AZOFEIFA CORRALES",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BJÖRN VLEMINCKX",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "DEBATIK CURRI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÖZKAN KARABULUT",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DEJAN LEKIC",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EHIOSUN EKIGHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KERİM ZENGİN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "İLKAY DURMUŞ",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ARTUN AKÇAKIN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "DUSKO TOSIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "17.dk"
+                },
+                {
+                    "oyuncu": "BJÖRN VLEMINCKX",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "DEBATIK CURRI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RANDALL AZOFEIFA CORRALES",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DEJAN LEKIC",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "DOĞA KAYA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EHIOSUN EKIGHO",
+                    "dakika": "56.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

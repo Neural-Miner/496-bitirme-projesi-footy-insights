@@ -1,0 +1,308 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "17"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ROMAN NEUSTAEDTER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MARTIN SKRTEL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "JEREMAIN MARCIANO LENS",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FABIANO RIBEIRO DE FREITAS",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ROBIN VAN PERSIE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OLEKSANDR KARAVAIEV",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "YİĞİTHAN GÜVELİ",
+                    "formaNo": "53"
+                }
+            ],
+            "teknikSorumlu": [
+                "DİRK NİCOLAAS ADVOCAAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ŞENER ÖZBAYRAKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "ROMAN NEUSTAEDTER",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OLEKSANDR KARAVAIEV",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "SALİH UÇAN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "ROBIN VAN PERSIE",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEHMET TOPAL",
+                    "dakika": "40.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "78.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ADANASPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "CHARLES HUBERT ITANDJE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "VINICIUS JOSE IGNACIO",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO LONGO FREITAS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SAMİCAN KESKİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RENAN RODRIGUES DA SILVA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "VLAGYIMIR KOMAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "CEM ÖZDEMİR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAYRULLAH MERT AKYÜZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EMRE UĞUR URUÇ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK ALTINDAĞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "AHMET BAHÇIVAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "AHMET DERELİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EDGAR BRUNO DA SILVA",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                "LEVENT ŞAHİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "CHARLES HUBERT ITANDJE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "VINICIUS JOSE IGNACIO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "RENAN RODRIGUES DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO LONGO FREITAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "VLAGYIMIR KOMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TEVFİK ALTINDAĞ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "AHMET DERELİ",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "EMRE UĞUR URUÇ",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "dakika": "45.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

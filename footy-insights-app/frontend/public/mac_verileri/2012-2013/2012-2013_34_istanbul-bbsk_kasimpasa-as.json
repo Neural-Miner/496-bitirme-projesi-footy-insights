@@ -1,0 +1,267 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "34"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "İSTANBUL BBSK"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EDUARDO DOS REIS CARVALHO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CAN ARAT",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK KÖSE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANDRE GERALDES DE BARROS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SİMON TERWASE ZENKE",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "TAYFUN PEKTÜRK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "KAMIL ZAYATTE",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OĞUZHAN BAHADIR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SERHAT GÜLPINAR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ KORKMAZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ÖMER CAN SOKULLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MARCUS VINICIUS CESARIO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "67"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SİMON TERWASE ZENKE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EKREM EKŞİOĞLU",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ANDRE GERALDES DE BARROS",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "TAYFUN PEKTÜRK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ÖMER CAN SOKULLU",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ZEKİ KORKMAZ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TEVFİK KÖSE",
+                    "dakika": "2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "JAN ANDREAS ISAKSSON",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SANCAK KAPLAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞERAS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ BAŞDAŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "KALU UCHE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERHAN KARTAL",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ERNST",
+                    "formaNo": "24"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İLKER AVCIBAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SENİJAD İBRİCİC",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "PABLO CESAR PINTOS CABRAL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM HALİL ÇOLAK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN KALA",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN YAMAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MATIAS LIONEL FRITZLER",
+                    "formaNo": "33"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "ÖZER HURMACI",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "KALU UCHE",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İBRAHİM HALİL ÇOLAK",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SENİJAD İBRİCİC",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "HÜSEYİN KALA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "İBRAHİM HALİL ÇOLAK",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

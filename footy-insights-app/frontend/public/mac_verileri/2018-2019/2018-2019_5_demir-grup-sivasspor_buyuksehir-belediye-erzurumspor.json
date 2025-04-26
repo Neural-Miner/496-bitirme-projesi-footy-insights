@@ -1,0 +1,301 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ROBSON DE SOUZA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS PEREIRA DOS SANTOS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERHIY RYBALKA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "DAVID BRAZ DE OLIVEIRA FILHO",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGAHAN ACAR",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIK MATTIAS BJARSMYR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "PAUL PAPP",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "İLKER SAYAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANDREI GABRIEL TORJE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SERGIO RAMON ROCHET ALVAREZ",
+                    "formaNo": "93"
+                }
+            ],
+            "teknikSorumlu": [
+                "TAMER TUNA"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "SERHIY RYBALKA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANDREI GABRIEL TORJE",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "MERT HAKAN YANDAŞ",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BÜYÜKŞEHİR BELEDİYE ERZURUMSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İBRAHİM SEHIC",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AUREMIR EVANGELISTA DOS SANTOS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "LOKMAN GÖR",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "LEO SCHWECHLEN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JASMIN SCUK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GILLES CHRIST SUNU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SIPHIWE LAWRENCE TSHABALALA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "LENNART THY",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN CANBAZOĞLU",
+                    "formaNo": "36"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE GHISLAIN ACKA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA KONE",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKDAĞ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ÖZER HURMACI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERHAN ÇELENK",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ŞAHİN",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "RIDGE MISINTERE MUNSY",
+                    "formaNo": "20"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ALTIPARMAK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "LOKMAN GÖR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "TAYLAN ANTALYALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "LENNART THY",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "GILLES CHRIST SUNU",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "SIPHIWE LAWRENCE TSHABALALA",
+                    "dakika": "43.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RIDGE MISINTERE MUNSY",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ERHAN ÇELENK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM AKDAĞ",
+                    "dakika": "43.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JASMIN SCUK",
+                    "dakika": "5.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "İBRAHİM AKDAĞ",
+                    "dakika": "79.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

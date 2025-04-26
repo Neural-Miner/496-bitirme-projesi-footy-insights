@@ -1,0 +1,354 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ALTAY"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MATEUSZ LIS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMED YASSER ANWAR MOHAMED MOHAMED RAYAN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CEBRAİL KARAYEL",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "CESAR IGNACIO PINARES TAMAYO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "KARAMOKO DAOUDA BAMBA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MARTİN VLAMIDIR RODRİGUEZ TORREJON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÖZKAYA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "THACIANO MICKAEL DA SILVA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "8"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CİHAN TOPALOĞLU",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EREN ERDOĞAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "KAZIMCAN KARATAŞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "KHALY IYANE THIAM",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "LEANDRO DEYRINIO KAPPEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MOHAMMAD NADERI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIC ROLAND BJÖRKANDER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SERGE ARNAUD AKA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İBRAHİM ÖZTÜRK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+2.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR ÖZKAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+3.dk"
+                },
+                {
+                    "oyuncu": "MURAT AKÇA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "THACIANO MICKAEL DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "AHMED YASSER ANWAR MOHAMED MOHAMED RAYAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR ÖZKAYA",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "THACIANO MICKAEL DA SILVA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "CESAR IGNACIO PINARES TAMAYO",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EREN ERDOĞAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "LEANDRO DEYRINIO KAPPEL",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "CEYHUN GÜLSELAM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "KAZIMCAN KARATAŞ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "KHALY IYANE THIAM",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AHMED YASSER ANWAR MOHAMED MOHAMED RAYAN",
+                    "dakika": "74.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FRAPORT TAV ANTALYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EDINALDO GOMES PEREIRA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HAJI AMIR WRIGHT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FEDOR KUDRIASHOV",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO LUCAS MARTINS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALASSANE NDAO",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "LUIZ ADRIANO SOUZA DA SILVA",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET ATABERK DADAKDENİZ",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "SHEREL CONSTANCİO FLORANUS",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NURİ ŞAHİN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DENI MILOSEVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "HOUSSAM EDDINE GHACHA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ERDİLMAN",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "GÖKDENİZ BAYRAKDAR",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALFONS FRANCISCUS GROENENDIJK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "ALASSANE NDAO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+3.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ALASSANE NDAO",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "HAJI AMIR WRIGHT",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "LUIZ ADRIANO SOUZA DA SILVA",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "HOUSSAM EDDINE GHACHA",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "GÖKDENİZ BAYRAKDAR",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA ERDİLMAN",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LUIZ ADRIANO SOUZA DA SILVA",
+                    "dakika": "25.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HAJI AMIR WRIGHT",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

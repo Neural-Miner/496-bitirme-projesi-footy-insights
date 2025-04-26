@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "15"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EGEMEN KORKMAZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MOUSSA SOW",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DIRK KUIJT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "BRUNO EDUARDO REGUFE ALVES",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL CHINENYE EMENIKE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BEKİR İRTEGÜN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPUZ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "48"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CRISTIAN MARK JUNIO NASCIMENTO OLIVEIRA BARONI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "BRUNO EDUARDO REGUFE ALVES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EGEMEN KORKMAZ",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EMMANUEL CHINENYE EMENIKE",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BEKİR İRTEGÜN",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MEHMET TOPUZ",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EMMANUEL CHINENYE EMENIKE",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MOUSSA SOW",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "58.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DIRK KUIJT",
+                    "dakika": "68.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EVREN ÖZYİĞİT",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "SERTAN VARDAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİMA SONKO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MERTER YÜCE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KENAN ÖZER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "UĞUR DEMİROK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BAYE OUMAR NIASSE",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMRAH EREN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "BRUNO FERREIRA MOMBRA ROSA",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRAH TUNCEL",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "SERKAN YALÇIN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "KERİM ZENGİN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKYÜZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMET CEBE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AŞAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ERKAN TAŞKIRAN",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERKAN TAŞKIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "UĞUR DEMİROK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİMA SONKO",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "24.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BİLAL KISA",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "KENAN ÖZER",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA AŞAN",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA AŞAN",
+                    "dakika": "16.dk"
+                },
+                {
+                    "oyuncu": "ERKAN TAŞKIRAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AHMET CEBE",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

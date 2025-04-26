@@ -1,0 +1,314 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "WANDERSON DE SOUZA CARNEIRO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "PAPISS DEMBA CISSE",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "LUCAS MARTIN VILLAFANEZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "formaNo": "78"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UFUK CEYLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HASAN AYAROĞLU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "STEVEN ROY CAULKER",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "JOSEF SURAL",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ERÇELİK",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALİ RIZA SERGEN YALÇIN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GEORGIOS TZAVELLAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "WELINTON SOUZA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "LUCAS MARTIN VILLAFANEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "LUCAS MARTIN VILLAFANEZ",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "PAPISS DEMBA CISSE",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OZAN TUFAN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "TAHA YALÇINER",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "JOSEF SURAL",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DJALMA BRAUNE MANUEL ABEL CAMPOS",
+                    "dakika": "45+4.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MARIANO FERREIRA FILHO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "YOUNES BELHANDA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MARTIN LINNES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "HENRY CHUKWUEMEKA ONYEKURU",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KOSTANTINOS MITROGLOU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO FRANCISCO REGES",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN NEKADIO LUYINDAMA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MARCOS DO NASCIMENTO TEIXEIRA",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "SOFIANE FEGHOULI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İSMAİL ÇİPE",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SİNAN GÜMÜŞ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SEMİH KAYA",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "YUNUS AKGÜN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO FRANCISCO REGES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+3.dk"
+                },
+                {
+                    "oyuncu": "MARCOS DO NASCIMENTO TEIXEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "CHRISTIAN NEKADIO LUYINDAMA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "6.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MARIANO FERREIRA FILHO",
+                    "dakika": "17.dk"
+                },
+                {
+                    "oyuncu": "SOFIANE FEGHOULI",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "KOSTANTINOS MITROGLOU",
+                    "dakika": "54.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "dakika": "17.dk"
+                },
+                {
+                    "oyuncu": "YUNUS AKGÜN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SİNAN GÜMÜŞ",
+                    "dakika": "54.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SOFIANE FEGHOULI",
+                    "dakika": "52.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

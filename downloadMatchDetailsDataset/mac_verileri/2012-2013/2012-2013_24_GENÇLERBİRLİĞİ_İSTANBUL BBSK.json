@@ -1,0 +1,278 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "24"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR İLERİ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "JAKUP JİMMY DURMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RADOSAV PETROVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DUSKO TOSIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "BJÖRN VLEMINCKX",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "RANDALL AZOFEIFA CORRALES",
+                    "formaNo": "8"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "DOĞA KAYA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NEMANJA TOMIC",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "HURŞUT MERİÇ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ARTUN AKÇAKIN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "DEBATIK CURRI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FATİH SERKAN KURTULUŞ",
+                    "formaNo": "16"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÖZGÜR İLERİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                },
+                {
+                    "oyuncu": "CEM CAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "RADOSAV PETROVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "NEMANJA TOMIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "BJÖRN VLEMINCKX",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RANDALL AZOFEIFA CORRALES",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "JAKUP JİMMY DURMAZ",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "NEMANJA TOMIC",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "HURŞUT MERİÇ",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBUL BBSK"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EDUARDO DOS REIS CARVALHO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "METİN DEPE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ KORKMAZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ÖMER CAN SOKULLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANDRE GERALDES DE BARROS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "CİHAN HASPOLATLI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL TOBIAS HOLMEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SİMON TERWASE ZENKE",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "KAMIL ZAYATTE",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OĞUZHAN BAHADIR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "CAN ARAT",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SERHAT GÜLPINAR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EFE İNANÇ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "WELLINGTON BRITO DA SILVA",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CİHAN HASPOLATLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "EFE İNANÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CİHAN HASPOLATLI",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "ÖMER CAN SOKULLU",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ZEKİ KORKMAZ",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERHAT GÜLPINAR",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "ENVER CENK ŞAHİN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "EFE İNANÇ",
+                    "dakika": "28.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

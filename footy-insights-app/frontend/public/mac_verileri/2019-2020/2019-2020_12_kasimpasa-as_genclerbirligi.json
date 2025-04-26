@@ -1,0 +1,285 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "12"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "OLIVIER VEIGNEAU",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA PEKTEMEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "JORGE FILIPE OLIVEIRA FERNANDES",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "UĞURCAN YAZĞILI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "TOBIAS HEINTZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MURAT CAN YILDIZ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "AZAD TOPTİK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞTAY KURUKALIP",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÇETİNKAYA",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "STRAHIL VENKOV POPOV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAFA PEKTEMEK",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "TOBIAS HEINTZ",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "54.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERTAÇ ÖZBİR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NADİR ÇİFTÇİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FABRICIO SANTOS DE JESUS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE SESSEGNON",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "FLAVIO DA SILVA RAMOS",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "PIERRE YVES NICOLAS POLOMAT",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÜBEYD ADIYAMAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIK MATTIAS BJARSMYR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FLOYD AMA NINO AYITE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RAHMETULLAH BERİŞBEK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MATS SEUNTJENS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ARDA KIZILDAĞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAYE SADIO DIALLO",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "İLKER KARAKAŞ",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMZA HAMZAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "NADİR ÇİFTÇİ",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "PIERRE YVES NICOLAS POLOMAT",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MATS SEUNTJENS",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "FLOYD AMA NINO AYITE",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAYE SADIO DIALLO",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "88.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,312 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "TIAGO JORGE OLIVEIRA LOPES",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "UMUT BULUT",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RYAN ISAAC MENDES",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE BADJI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "OLEKSANDR KUCHER",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "JEAN ARMEL KANA BIYIK",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "ATİLA TURAN",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ASAMOAH GYAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GONZALO ALEJANDRO ESPINOZA TOLEDO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ARTEM KRAVETS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SILVESTRE MANUEL GONÇALVES VARELA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN-IONUT SAPUNARU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ERDAL ÖZTÜRK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "WILLIAM DOUGLAS DE AMORIM",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "MARIUS NINEL ŞUMUDICA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "SILVESTRE MANUEL GONÇALVES VARELA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "TIAGO JORGE OLIVEIRA LOPES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÜRAY VURAL",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ATİLA TURAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "RYAN ISAAC MENDES",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SILVESTRE MANUEL GONÇALVES VARELA",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ERKAN KAŞ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "WILLIAM DOUGLAS DE AMORIM",
+                    "dakika": "79.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "UMUT BULUT",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOLGAHAN ACAR",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIK MATTIAS BJARSMYR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "THIEVY GUIVANE BIPFOUMA KOULOSSA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AUREMIR EVANGELISTA DOS SANTOS",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SERHIY RYBALKA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "HAKAN BİLGİÇ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "85"
+                },
+                {
+                    "oyuncuAdi": "DELVİN CHANEL NDINGA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM İŞÇİ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "VITALY DYAKOV",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HENRI GREGOIRE SAIVET",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "PAUL PAPP",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ROBSON DE SOUZA",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SERKAN SARIKAYA",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "ZORO CYRIAC GOHI BI",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAMET AYBABA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "ROBSON DE SOUZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "THIEVY GUIVANE BIPFOUMA KOULOSSA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "SERHIY RYBALKA",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ROBSON DE SOUZA",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "HENRI GREGOIRE SAIVET",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ROBSON DE SOUZA",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

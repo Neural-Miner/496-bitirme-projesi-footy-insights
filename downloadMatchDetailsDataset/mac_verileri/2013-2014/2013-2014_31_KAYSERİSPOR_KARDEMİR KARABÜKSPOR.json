@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SİNAN BOLAT",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HENRIQUE SERENO FONSECA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MERT NOBRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "PABLONICOLAS MOUCHE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARVIN BISESWAR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALEXAHDROS TZIOLIS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ VANEK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "38"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CÜNEYT KÖZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SİNAN BAKIŞ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ALPER ULUDAĞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERTUĞRUL SEÇME"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ENGİN BEKDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "PABLONICOLAS MOUCHE",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "SRDAN MIJAILOVIC",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ONDREJ VANEK",
+                    "dakika": "30.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENGİN BEKDEMİR",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "30.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HENRIQUE SERENO FONSECA",
+                    "dakika": "42.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BOY WATERMAN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "SAMBA SOW",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JONES DA SILVA LOPES",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÖZÇAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JUGURTHA HAMROUN",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZKAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "79"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YİĞİT İNCEDEMİR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "14.dk"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "JONES DA SILVA LOPES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "JUGURTHA HAMROUN",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "JONES DA SILVA LOPES",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERKAN KAŞ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "MURAT AKÇA",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FURKAN ÖZÇAL",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JUGURTHA HAMROUN",
+                    "dakika": "21.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "90.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,292 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "OSMANLISPOR FUTBOL KULÜBÜ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "AVDIJA VRSAJEVIC",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MEHMET GÜVEN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "RAUL ANDREI RUSESCU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED BAYIR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "formaNo": "17"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "VACLAV PROCHAZKA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "CHEICK TIDIANE DIABATE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ADAM MAHER",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "DELARGE DZON",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA REŞİT AKÇAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MEHMET GÜVEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "AVDIJA VRSAJEVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "CHEICK TIDIANE DIABATE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "RAUL ANDREI RUSESCU",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ADAM MAHER",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "DELARGE DZON",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "CHEICK TIDIANE DIABATE",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ADANASPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GORAN KARACIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK ALTINDAĞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO LONGO FREITAS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "CEM ÖZDEMİR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "RENAN SOUZA DINIZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "VLAGYIMIR KOMAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAYRULLAH MERT AKYÜZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SAMİCAN KESKİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AHMET DERELİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AHMET BAHÇIVAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "CANBERK DİLAVER",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EDGAR BRUNO DA SILVA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ETHEM ERCAN PÜLGİR",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "KRUNOSLAV JURCIC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "TEVFİK ALTINDAĞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                },
+                {
+                    "oyuncu": "OUSMANE VIERA DIARRASSOUBA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "VLAGYIMIR KOMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "TEVFİK ALTINDAĞ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "VLAGYIMIR KOMAN",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CANBERK DİLAVER",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "EDGAR BRUNO DA SILVA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA SAMİCAN KESKİN",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

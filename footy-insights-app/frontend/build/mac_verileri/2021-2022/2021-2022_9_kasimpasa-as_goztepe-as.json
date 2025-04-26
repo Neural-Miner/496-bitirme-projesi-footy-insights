@@ -1,0 +1,315 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "9"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MICHAL TRAVNIK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN EYSSERIC",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "NICOLAI MICK KOFOED JORGENSEN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "TARKAN SERBEST",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "TOMAS BRECKA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "NABIL DIRAR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "FLORENT HADERGJONAJ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERDEM CANPOLAT",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMED MORTADHA BEN OUANES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "AHMET EMİN ENGİN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "UMUT DİLAN BOZOK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SAKIB AYTAÇ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MEHMET FEYZİ YILDIRIM",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "TAHA VEYSEL KEMENDİ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "DOĞUCAN HASPOLAT",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "HASAN EMRE YEŞİLYURT",
+                    "formaNo": "80"
+                }
+            ],
+            "teknikSorumlu": [
+                "CİHAT ARSLAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RYAN HENK DONK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "VALENTIN EYSSERIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "6.dk"
+                },
+                {
+                    "oyuncu": "NICOLAI MICK KOFOED JORGENSEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NABIL DIRAR",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "TARKAN SERBEST",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "UMUT DİLAN BOZOK",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GÖZTEPE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MURAT PALULİ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ATINÇ NUKAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KAHRAMAN DEMİRTAŞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN RIDVAN ÇANKAYA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DZENAN BUREKOVIC",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN KAYAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "OBINNA EMMANUEL NWOBODO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "PAPE CHERIF NDIAYE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ADIS JAHOVIC",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ARDA ÖZÇİMEN",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MAKANA BAKU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DAVID TIJANIC",
+                    "formaNo": "43"
+                },
+                {
+                    "oyuncuAdi": "EFE CAN SAÇIKARA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BROWN AIDE IDEYE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "BEYKAN ŞİMŞEK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KERİM ALICI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "LOURENCY DO NASCIMENTO RODRIGUES",
+                    "formaNo": "11"
+                }
+            ],
+            "teknikSorumlu": [
+                "NESTOR EL MAESTRO"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "MURAT PALULİ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "PAPE CHERIF NDIAYE",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "DZENAN BUREKOVIC",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "OBINNA EMMANUEL NWOBODO",
+                    "dakika": "67.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LOURENCY DO NASCIMENTO RODRIGUES",
+                    "dakika": "39.dk"
+                },
+                {
+                    "oyuncu": "KERİM ALICI",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "BERKAN EMİR",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "DAVID TIJANIC",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "68.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DAVID TIJANIC",
+                    "dakika": "87.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

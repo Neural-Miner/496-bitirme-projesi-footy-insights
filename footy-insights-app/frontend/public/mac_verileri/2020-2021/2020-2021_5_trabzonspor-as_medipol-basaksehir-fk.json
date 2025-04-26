@@ -1,0 +1,315 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MARLON RODRIGUES XAVIER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEWIS RENARD BAKER",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "VITOR HUGO FRANCHESCOLI DE SOUZA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "FOUSSENI DIABATE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SAFA KINALI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EDGAR MIGUEL IE",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO DA SILVA PEREIRA",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "BENIK TUNANI AFOBE",
+                    "formaNo": "79"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SEYEDMAJID HOSSEINI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YUSUF SARI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "JORGE DJANINY TAVARES SEMEDO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GASTON MATIAS CAMPI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AHMET CANBAZ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "BİLAL BAŞACIKOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "STIVEN RICARDO PLAZA CASTILLO",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ASAN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "EDWARD JOHN IKEM NEWTON"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SAFA KINALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "SAFA KINALI",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "FOUSSENI DIABATE",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "BENIK TUNANI AFOBE",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMET CANBAZ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "JORGE DJANINY TAVARES SEMEDO",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "BİLAL BAŞACIKOĞLU",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "YUSUF SARI",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDİPOL BAŞAKŞEHİR FK"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "RAFAEL PEREIRA DA SILVA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU EPUREANU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DEMBA BA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DENİZ TÜRÜÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MARTIN SKRTEL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "BOLI BOLINGOLI MBOMBO",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "UILSON DE SOUZA PAULA JUNIOR",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VOLKAN BABACAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DANİJEL ALEKSİC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BERKAY ÖZCAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GIULIANO VICTOR DE PAULA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT TEKDEMİR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK AASMUNDRUD GULDBRANDSEN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "RAVİL TAGİR",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "CARLOS DOS SANTOS RODRIGUES",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ENZO VITO GABRIEL CRIVELLI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "METE KAAN DEMİR",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BOLI BOLINGOLI MBOMBO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DEMBA BA",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "DENİZ TÜRÜÇ",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "RAFAEL PEREIRA DA SILVA",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BERKAY ÖZCAN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "DANİJEL ALEKSİC",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MAHMUT TEKDEMİR",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "FREDRIK AASMUNDRUD GULDBRANDSEN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ENZO VITO GABRIEL CRIVELLI",
+                    "dakika": "75.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "32.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "54.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

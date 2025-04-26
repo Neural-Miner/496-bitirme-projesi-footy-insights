@@ -1,0 +1,314 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "32"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MICHAL PAZDAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "STYLIANOS KITSIOU",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SABA LOBJANIDZE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ENDRI ÇEKIÇI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKDAĞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "HERMENEGILDO DA C PAULO BARTOLOMEU",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "TORGEIR BORVEN",
+                    "formaNo": "22"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FURKAN BEKLEVİÇ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ZVONIMIR SARLIJA",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ERDİ DİKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "IDRIZ VOCA",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "ALİ KAAN GÜNEREN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH PAINTSIL",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ALIOU BADJI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EL HADJI ASSANE DIOUSSE",
+                    "formaNo": "14"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MICHAL PAZDAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "ENDRI ÇEKIÇI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SABA LOBJANIDZE",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ENDRI ÇEKIÇI",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "HERMENEGILDO DA C PAULO BARTOLOMEU",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALIOU BADJI",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "IDRIZ VOCA",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "JOSEPH PAINTSIL",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TORGEIR BORVEN",
+                    "dakika": "83.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FRAPORT-TAV ANTALYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EDINALDO GOMES PEREIRA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "NURİ ŞAHİN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SIDNEY SAM",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "AMILTON MINERVINO DA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BÜNYAMİN BALCI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FEDOR KUDRIASHOV",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "UFUK AKYOL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OMAR İMERİ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MERT YILMAZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ KOÇ",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "ALİ EREN İYİCAN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "BÜNYAMİN BALCI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "NURİ ŞAHİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "32.dk"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SIDNEY SAM",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FEDOR KUDRIASHOV",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "32.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "UFUK AKYOL",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

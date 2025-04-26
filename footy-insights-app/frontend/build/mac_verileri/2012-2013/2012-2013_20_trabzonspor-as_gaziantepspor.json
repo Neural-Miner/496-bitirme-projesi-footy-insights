@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "EMERSON DA CONCEIÇAO",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "MAREK CECH",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BALCI",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO COLMAN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALAN CARLOS GOMES DA COSTA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ADRIAN MIERZEJEWSKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OLCAN ADIN",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "HALİL ALTINTOP",
+                    "formaNo": "21"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGA ZENGİN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "REMZİ GİRAY KAÇAR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UFUK SONAY",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "MAREK SAPARA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MARC JANKO",
+                    "formaNo": "83"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GUSTAVO COLMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERKAN BALCI",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ADRIAN MIERZEJEWSKI",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "EMERSON DA CONCEIÇAO",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "MAREK SAPARA",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "REMZİ GİRAY KAÇAR",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADRIAN MIERZEJEWSKI",
+                    "dakika": "20.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ALAN CARLOS GOMES DA COSTA",
+                    "dakika": "46.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GUSTAVO COLMAN",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HALİL ALTINTOP",
+                    "dakika": "90.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "HARIS MEDUNJANIN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "TURGUT DOĞAN ŞAHİN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "BEKİR OZAN HAS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DARVYDAS SERNAS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "KEMAL TOKAK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SERDAR KURTULUŞ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "CENK TOSUN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BINYA AUGUSTIN GILLES",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "IVAN KECOJEVIC",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT BEZGİN",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN ŞİMŞEK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "EKREM HAYYAM DAĞ",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "OKTAY DELİBALTA",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "TAŞKIN ÇALIŞ",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "WILTON AGUIAR FIGUEIREDO",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "DORGE ROSTAND KOUEMAHA",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ŞENOL CAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "36.dk"
+                },
+                {
+                    "oyuncu": "TURGUT DOĞAN ŞAHİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BEKİR OZAN HAS",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "BINYA AUGUSTIN GILLES",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DARVYDAS SERNAS",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DORGE ROSTAND KOUEMAHA",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "EKREM HAYYAM DAĞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OKTAY DELİBALTA",
+                    "dakika": "55.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DORGE ROSTAND KOUEMAHA",
+                    "dakika": "89.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

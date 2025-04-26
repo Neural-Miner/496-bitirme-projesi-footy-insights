@@ -1,0 +1,273 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "7"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ALTAY"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MATEUSZ LIS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "SERGE ARNAUD AKA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "KARAMOKO DAOUDA BAMBA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIC ROLAND BJÖRKANDER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ERHAN ÇELENK",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "LEANDRO DEYRINIO KAPPEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "CEBRAİL KARAYEL",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "MOHAMMAD NADERI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "8"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CİHAN TOPALOĞLU",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "THACIANO MICKAEL DA SILVA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "KAZIMCAN KARATAŞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MARCO FILIPE LOPES PAIXAO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CEM ÖZGENER",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÖZKAYA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "CESAR IGNACIO PINARES TAMAYO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "TOLGA ÜNLÜ",
+                    "formaNo": "14"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA DENİZLİ"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERHAN ÇELENK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "SERGE ARNAUD AKA",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MOHAMMAD NADERI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MARCO FILIPE LOPES PAIXAO",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "CESAR IGNACIO PINARES TAMAYO",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM ÖZTÜRK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LEANDRO DEYRINIO KAPPEL",
+                    "dakika": "57.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "KARAMOKO DAOUDA BAMBA",
+                    "dakika": "88.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEHMİ MERT GÜNOK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN YILMAZ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SALİH UÇAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MIRALEM PJANIC",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KENAN KARAMAN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SERDAR SAATÇI",
+                    "formaNo": "46"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERSİN DESTANOĞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "CAN BOZDOĞAN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN YALÇIN",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "BERKAY VARDAR",
+                    "formaNo": "62"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN DELİBAŞ",
+                    "formaNo": "72"
+                },
+                {
+                    "oyuncuAdi": "KORAY YAĞCI",
+                    "formaNo": "73"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ UMUT MERAŞ",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALİ RIZA SERGEN YALÇIN"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN TÖRE",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "MIRALEM PJANIC",
+                    "dakika": "32.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CENGİZ UMUT MERAŞ",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "CAN BOZDOĞAN",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "32.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "47.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

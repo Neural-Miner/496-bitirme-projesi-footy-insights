@@ -1,0 +1,283 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "32"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SAMSUNSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANDRE LUIZ BAHIA SANTOS VIANA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EHIOSUN EKIGHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KEMAL TOKAK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AKAKI KHUBUTIA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "UĞUR BORAL",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "DEJAN KELHAR",
+                    "formaNo": "84"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "87"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA ÖZMEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN AZĞAR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANIL DİLAVER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PAL LAZAR",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SAMET HASAN YILDIRAN",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇİFT",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR BORAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "DEJAN KELHAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ADEM ALKAŞİ",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "MURAT CEYLAN",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "PAL LAZAR",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "ANIL DİLAVER",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "SAMET HASAN YILDIRAN",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EHIOSUN EKIGHO",
+                    "dakika": "17.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "EHIOSUN EKIGHO",
+                    "dakika": "67.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MERSİN İDMAN YURDU"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İBRAHİM SEHIC",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞDAŞ ATAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NDUKA MORRISON OZOKWO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MERT NOBRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OUISSEM BEN YAHIA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "DANILO PETROLLI BUENO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "NURULLAH KAYA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ERHAN GÜVEN",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "HAKAN BAYRAKTAR",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "SPAS BORISLAVOV DELEV",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM KAŞ",
+                    "formaNo": "78"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "TONIA D. TISDELL",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ERMAN ÖZGÜR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HASAN ÜÇÜNCÜ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ATAŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "TARIK ALTUNTAŞ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "NURULLAH SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MERT NOBRE",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM KAŞ",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "NURULLAH KAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "OUISSEM BEN YAHIA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "19.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN BAYRAKTAR",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "NDUKA MORRISON OZOKWO",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "SPAS BORISLAVOV DELEV",
+                    "dakika": "55.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BARIŞ ATAŞ",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "TONIA D. TISDELL",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "ERMAN ÖZGÜR",
+                    "dakika": "55.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

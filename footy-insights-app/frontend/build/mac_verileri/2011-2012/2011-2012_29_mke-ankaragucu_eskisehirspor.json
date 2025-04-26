@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "29"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BAYRAM OLGUN",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN GEYİK",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ŞİRİN",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "BİLAL GÜLDEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ORHAN EVCİ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ERDOĞAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SEROL DEMİRHAN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "ATİLLA AYBARS GARHAN",
+                    "formaNo": "27"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CİHAN BAL",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAŞCI",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH KESEROĞLU",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN BİÇER",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "ENES KUBAT",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KURUMUŞ",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "METİN AYDIN",
+                    "formaNo": "24"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İSHAK DOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "VOLKAN GEYİK",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "SERKAN ŞİRİN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ATİLLA AYBARS GARHAN",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDULLAH KESEROĞLU",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "SİNAN KURUMUŞ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN BİÇER",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ATİLLA AYBARS GARHAN",
+                    "dakika": "36.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SEROL DEMİRHAN",
+                    "dakika": "54.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "5"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "EDİZ BAHTİYAROĞLU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DIEGO ANGELO DE OLIVEIRA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEONARDO DE DEUS SANTOS",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT ERTUĞRUL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ERKAN ZENGİN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZBAYRAKTAR",
+                    "formaNo": "11"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SİNAN ÖREN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "VİTOR HUGO GOMES PASSOS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "SAFET NADAREVİÇ",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "AKOS ELEK",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KARADENİZ",
+                    "formaNo": "65"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VANJA IVESA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "29.dk"
+                },
+                {
+                    "oyuncu": "LEONARDO DE DEUS SANTOS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR ÖZBAYRAKTAR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AKOS ELEK",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "BURHAN EŞER",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ERKAN ZENGİN",
+                    "dakika": "56.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "DIEGO ANGELO DE OLIVEIRA",
+                    "dakika": "61.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "DIOMANSY MEHDI MOUSTAPHA KAMARA",
+                    "dakika": "62.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "77.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

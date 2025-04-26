@@ -1,0 +1,332 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "27"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MYKOLA MOROZIUK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "CHIDOZIE COLLINS AWAZIEM",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED ABARHOUN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OKECHUKWU GODSON AZUBUIKE",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "DARIO MELNJAK",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CİHAN TOPALOĞLU",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SAYMAK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MARWANE SAADANE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÇINAR TARHAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "KORAY ALTINAY",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "AMINU UMAR",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "MEHMET USLU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "NGUIMBE PREJUCE NAKOULMA",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ORHAN OVACIKLI",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MOHAMED ABARHOUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "OKECHUKWU GODSON AZUBUIKE",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "DARIO MELNJAK",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AMINU UMAR",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "NGUIMBE PREJUCE NAKOULMA",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MEHMET USLU",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "42.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MOHAMED ABARHOUN",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "7"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "LORIS SVEN KARIUS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÖNÜL",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "GARY ALEXIS MEDEL SOTO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DOMAGOJ VIDA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS JOHNNY ISIMAT MIRIN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ADEM LJAJIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "JEREMAIN MARCIANO LENS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "CANER ERKİN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "71"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UTKU YUVAKURAN",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "ERSİN DESTANOĞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN YILMAZ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ENZO PABLO ROCO ROCO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MUHAYER OKTAY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN YALÇIN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SHINJI KAGAWA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "CYLE CHRISTOPHER LARIN",
+                    "formaNo": "95"
+                }
+            ],
+            "teknikSorumlu": [
+                "ŞENOL GÜNEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BURAK YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "CANER ERKİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BURAK YILMAZ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "JEREMAIN MARCIANO LENS",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "SHINJI KAGAWA",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "RIDVAN YILMAZ",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DOMAGOJ VIDA",
+                    "dakika": "8.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "14.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BURAK YILMAZ",
+                    "dakika": "64.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "71.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GÜVEN YALÇIN",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

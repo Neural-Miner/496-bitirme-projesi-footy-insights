@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "HES KABLO KAYSERİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SILVIU LUNG",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÇAPAR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HASAN HÜSEYİN ACAR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ZORAN KVRZIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ÖMER UZUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN-IONUT SAPUNARU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "KARAHAN YASİR SUBAŞI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY CHIGAEMEZU UZODIMMA",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO CAMPANHARO",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "MARIO SITUM",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İSMAİL ÇİPE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DOĞAN ALEMDAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "EMRE DEMİR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ERAY ÖZBEK",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ADEM DOĞAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "AHMET ZEKERİYYA KARTAL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED EREN ARIKAN",
+                    "formaNo": "40"
+                }
+            ],
+            "teknikSorumlu": [
+                "BAYRAM KADİR BEKTAŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "OĞUZHAN ÇAPAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "11.dk"
+                },
+                {
+                    "oyuncu": "SILVIU LUNG",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO CAMPANHARO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HASAN HÜSEYİN ACAR",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ÖMER UZUN",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE DEMİR",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ADEM DOĞAN",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ZORAN KVRZIC",
+                    "dakika": "2.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "OUSSAMA HADADI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MİCKAEL SYLVAİN TIRPAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "DAVID PAVELKA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JULIAN MARC JEANVIER",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BI GOUA GERARD GOHOU",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "KEVIN VARGA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "TOMAS BRECKA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ENES SARI",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANIL KOÇ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "TARKAN SERBEST",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MEHMET FEYZİ YILDIRIM",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ALAN LIMA CARIUS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "YASİN DÜLGER",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "MEHMET ALTIPARMAK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALAN LIMA CARIUS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "JULIAN MARC JEANVIER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "49.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "DAVID PAVELKA",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MİCKAEL SYLVAİN TIRPAN",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "KEVIN VARGA",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALAN LIMA CARIUS",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "TARKAN SERBEST",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "ANIL KOÇ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

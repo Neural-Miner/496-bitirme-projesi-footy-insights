@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "TOKELO ANTHONY RANTIE",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "AHMET İLHAN ÖZEK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "PETAR SKULETIC",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "LUCCAS CLARO DOS SANTOS",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI PALITSEVICH",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "KAMAL ISSAH",
+                    "formaNo": "20"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "NİHAT ŞAHİN",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ORHAN ŞAM",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DIALO SAMBA GUIDILEYE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOFI OKYERE WIAFE MANU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MARKO MILINKOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE CARDINAL NDIAYE",
+                    "formaNo": "18"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜMİT ÖZAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SIARHEI PALITSEVICH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "KAMAL ISSAH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET İLHAN ÖZEK",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "PETAR SKULETIC",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MARKO MILINKOVIC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DIALO SAMBA GUIDILEYE",
+                    "dakika": "57.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ABDUL RAHMAN KHALILI",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OLEKSANDR RYBKA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "PAUL PAPP",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "CEYHUN GÜLSELAM",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANDREI GABRIEL TORJE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN TANASE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KERİM ZENGİN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "DANY ACHILLE NOUNKEU TCHOUNKEU",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ANDRE BIYOGO POKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ BAŞDAŞ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "26"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ÇAĞLAR ŞAHİN AKBABA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "FERHAT GÖRGÜLÜ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MARIUS VALERICA GAMAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HAMIDOU TRAORE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DELİKTAŞ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "YEVGEN SELEZNOV",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "GHEORGHE - TEODOR GROZAV",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "ANDRII BLIZNICHENKO",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERKAN SÖZERİ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BARIŞ BAŞDAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "21.dk"
+                },
+                {
+                    "oyuncu": "HAMIDOU TRAORE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "ANDRE BIYOGO POKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ANDREI GABRIEL TORJE",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANDRII BLIZNICHENKO",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "HAMIDOU TRAORE",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "YEVGEN SELEZNOV",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

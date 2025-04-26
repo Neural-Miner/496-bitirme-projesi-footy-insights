@@ -1,0 +1,293 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "32"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALP KULGA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÖZTORUN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ANIL TAŞDEMİR",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "DAVID BARRAL TORRES",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ATANDA AYILA YUSSUF",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇÖKMÜŞ",
+                    "formaNo": "85"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CANTUĞ TEMEL",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "MURAT TORUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JAVIER HORACIO UMBIDES",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "YASİN KOCATEPE",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ATİLA TURAN",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "CEVAT GÜLER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ATANDA AYILA YUSSUF",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ANIL TAŞDEMİR",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "FERHAT ÖZTORUN",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "ŞAMİL ÇİNAZ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JAVIER HORACIO UMBIDES",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ALİ ÇAMDALI",
+                    "dakika": "10.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SCOTT PAUL CARSON",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANTON JULIAN FERDINAND",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "TUNCAY ŞANLI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO DANIEL BELLUSCHI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÖKÇEK VEDERSON",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "STANISLAV SESTAK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "PABLO MARTIN BATALLA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "38"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HARUN TEKİN",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "OKAN DENİZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ERDOĞAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL BASSER CHRETIEN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OZAN TUFAN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "FERHAT KİRAZ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "55"
+                }
+            ],
+            "teknikSorumlu": [
+                "HİKMET KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ŞENER ÖZBAYRAKLI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TUNCAY ŞANLI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO DANIEL BELLUSCHI",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FERHAT KİRAZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MICHAEL BASSER CHRETIEN",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SEBASTIAN ANDRES PINTO PERURENA",
+                    "dakika": "12.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "FERNANDO DANIEL BELLUSCHI",
+                    "dakika": "56.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "STANISLAV SESTAK",
+                    "dakika": "75.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "STANISLAV SESTAK",
+                    "dakika": "80.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

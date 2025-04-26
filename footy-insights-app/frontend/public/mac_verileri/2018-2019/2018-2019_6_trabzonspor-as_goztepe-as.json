@@ -1,0 +1,317 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSE ERNESTO SOSA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "VAHID AMIRI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BURAK YILMAZ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "OGENYI EDDY ONAZI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO DA SILVA PEREIRA",
+                    "formaNo": "47"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "FILIP NOVAK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "97"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLCAY ŞAHAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HASAN BATUHAN ARTARSLAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "CALEB ANSAH EKUBAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JURAJ KUCKA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY NNADUZOR NWAKAEME",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜNAL KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "VAHID AMIRI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YUSUF YAZICI",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "OGENYI EDDY ONAZI",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "VAHID AMIRI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ANTHONY NNADUZOR NWAKAEME",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "OLCAY ŞAHAN",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BURAK YILMAZ",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GÖZTEPE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ANTONIO ALBERTO BASTOS PIMPAREL",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ADAMA TRAORE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CELSO BORGES MORA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ANDRE DE CASTRO PEREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "WALLACE REIS SILVA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CAMERON ZISHAN RANA JEROME",
+                    "formaNo": "32"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET GÖKTÜĞ BAKIRBAŞ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÇİNEMRE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YOAN PATRICK GOUFFRAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AXEL THOMAS NGANDO ELESSA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LAUTARO FAUSTO GRILLO PRATES",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN KAYAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "SAMED ALİ KAYA",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "BAYRAM KADİR BEKTAŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TAYFUR BİNGÖL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "CHRISTIAN CHAGAS TAROUCO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "ADAMA TRAORE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                },
+                {
+                    "oyuncu": "CELSO BORGES MORA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "CAMERON ZISHAN RANA JEROME",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TAYFUR BİNGÖL",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "YOAN PATRICK GOUFFRAN",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "dakika": "28.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MARLON RODRIGUES XAVIER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "LEWIS RENARD BAKER",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "VITOR HUGO FRANCHESCOLI DE SOUZA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "CALEB ANSAH EKUBAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "EDGAR MIGUEL IE",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BİLAL BAŞACIKOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR PARMAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "BENIK TUNANI AFOBE",
+                    "formaNo": "79"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ASAN",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SEYEDMAJID HOSSEINI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YUSUF SARI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "FOUSSENI DIABATE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SAFA KINALI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FLAVIO MEDEIROS DA SILVA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN GÜNDÜZ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "STIVEN RICARDO PLAZA CASTILLO",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "FARUK CAN GENÇ",
+                    "formaNo": "75"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDULKADİR PARMAK",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "BİLAL BAŞACIKOĞLU",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "BENIK TUNANI AFOBE",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "STIVEN RICARDO PLAZA CASTILLO",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "SAFA KINALI",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "FOUSSENI DIABATE",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "CALEB ANSAH EKUBAN",
+                    "dakika": "45+1.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAMADOU SAMASSA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "AARON CHRISTOPHER BILLY ONDELE APPINDANGOYE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "CLAUDEMIR DOMINGUES DE SOUZA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FAYCAL FAJR",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "CASIMIR RODRIQUE NINGA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "KEREM ATAKAN KESGİN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ROBIN YALÇIN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FAYCAL FAJR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "CLAUDEMIR DOMINGUES DE SOUZA",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "SAMBA CAMARA",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "CASIMIR RODRIQUE NINGA",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ISAAC COFIE",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ YARDIMCI",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "KEREM ATAKAN KESGİN",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "56.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

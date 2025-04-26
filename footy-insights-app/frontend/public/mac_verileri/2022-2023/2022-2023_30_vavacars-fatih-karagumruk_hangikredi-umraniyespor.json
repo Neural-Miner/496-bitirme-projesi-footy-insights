@@ -1,0 +1,353 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "30"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "VAVACARS FATİH KARAGÜMRÜK"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BATUHAN AHMET ŞEN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "DAVIDE BIRASCHI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "IBRAHIM DRESEVIC",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SABA LOBJANIDZE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MBAYE DIAGNE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FABIO BORINI",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MÜNİR LEVENT MERCAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MAGOMED OZDOEV",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "OTABEK SHUKUROV",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ANDREA BERTOLACCI",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "RAYYAN BANİYA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMILIANO VIVIANO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BRUNO MIGUEL FERREIRA RODRIGUES",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ADEM LJAJIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KERİM FREİ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "KAZIM KAZIM",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EBRIMA COLLEY",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPACAK",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LAWRENCE ANWAN NICHOLAS",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "SALİH DURSUN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "SOFIANE FEGHOULI",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "ANDREA PIRLO"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BURAK KAPACAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "EMILIANO VIVIANO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+8.dk"
+                },
+                {
+                    "oyuncu": "IBRAHIM DRESEVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "OTABEK SHUKUROV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BATUHAN AHMET ŞEN",
+                    "dakika": "25.dk"
+                },
+                {
+                    "oyuncu": "SABA LOBJANIDZE",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "FABIO BORINI",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "OTABEK SHUKUROV",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMILIANO VIVIANO",
+                    "dakika": "25.dk"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "BURAK KAPACAK",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "LAWRENCE ANWAN NICHOLAS",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "FABIO BORINI",
+                    "dakika": "45+6.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "SABA LOBJANIDZE",
+                    "dakika": "45+1.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "FABIO BORINI",
+                    "dakika": "52.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "75.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "HANGİKREDİ ÜMRANİYESPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BERKE ÖZER",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN GHEORGHE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLARENWAJU AYOBAMI KAYODE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DUREL BEL DANIEL AVOUNOU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ONUR ATASAYAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU EPUREANU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "HERMENEGILDO DA C PAULO BARTOLOMEU",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "KARTAL KAYRA YILMAZ",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "TOMISLAV GLUMAC",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "JESSE TAMUNOBARABOYE SEKIDIKA",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ORKUN ÖZDEMİR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ERMIR LENJANI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SERKAN GÖKSU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ GÜRBULAK",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "FATİH YİĞİT ŞANLİTÜRK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ADEL BETTAIEB",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ANTONIO MRSIC",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "RECEP UÇAR"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TOMISLAV GLUMAC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+5.dk"
+                },
+                {
+                    "oyuncu": "OLARENWAJU AYOBAMI KAYODE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+8.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ONUR ATASAYAR",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "KARTAL KAYRA YILMAZ",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "JESSE TAMUNOBARABOYE SEKIDIKA",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "DUREL BEL DANIEL AVOUNOU",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "OĞUZ GÜRBULAK",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ANTONIO MRSIC",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ADEL BETTAIEB",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "35.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "OLARENWAJU AYOBAMI KAYODE",
+                    "dakika": "63.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "CORENDON ALANYASPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL REIS LIMA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FIDAN ALITI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "LEROY JOHAN FER",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERGIO DUVAN CORDOVA LEZAMA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO BARBADAS NOVAIS",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ AYDIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JURE BALKOVEC",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ÖZDEMİR",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "FLORENT HADERGJONAJ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YUSUF KARAGÖZ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "FURKAN BAYIR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS JEAN PAUL NOEL JANVIER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PIONE SISTO IFOLO MAJILEIKWA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN ÇAVUŞ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EREN ALTINTAŞ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "CARLOS EDUARDO FERREIRA DE SOUZA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ALİ APAYDIN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "YUNUS BAHADIR",
+                    "formaNo": "42"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TEKKE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JURE BALKOVEC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO BARBADAS NOVAIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "14.dk"
+                },
+                {
+                    "oyuncu": "LEROY JOHAN FER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "FIDAN ALITI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ÖZDEMİR",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO BARBADAS NOVAIS",
+                    "dakika": "90+10.dk"
+                },
+                {
+                    "oyuncu": "SERGIO DUVAN CORDOVA LEZAMA",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FURKAN BAYIR",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "NICOLAS JEAN PAUL NOEL JANVIER",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "FATİH AKSOY",
+                    "dakika": "90+10.dk"
+                },
+                {
+                    "oyuncu": "PIONE SISTO IFOLO MAJILEIKWA",
+                    "dakika": "64.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "69.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "PIONE SISTO IFOLO MAJILEIKWA",
+                    "dakika": "90+1.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ATTILA  MOCSI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "CASPER SOMMER HOJER",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JONJO  SHELVEY",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BENHUR KESER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DAL  VARESANOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADOLFO JULIAN  GAICH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA ŞAHİN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN TOPÇU",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MİTHAT PALA",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ALTIN ZEQIRI",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZAFER GÖRGEN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO AFFONSO  SAUERBECK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SEYFETTİN ANIL YAŞAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "OUMAR  DIOUF",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MAME MOR  FAYE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OSCAR FRANCISCO  GARCIA QUINTELA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ERAY KORKMAZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MARTIN YANKOV MINCHEV",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "İLHAN PALUT"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BENHUR KESER",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MİTHAT PALA",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "ALTIN ZEQIRI",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "DAL  VARESANOVIC",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GUSTAVO AFFONSO  SAUERBECK",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "MARTIN YANKOV MINCHEV",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "OSCAR FRANCISCO  GARCIA QUINTELA",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "MAME MOR  FAYE",
+                    "dakika": "90+4.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DAL  VARESANOVIC",
+                    "dakika": "52.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SANİCA BORU ELAZIĞSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "OGNJEN VRANJES",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MEHMET NAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MARVİN ROMEO KWASİE",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DENİZ YILMAZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "TANJU KAYHAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "FABIO ALVES DA SILVA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞLAR BİRİNCİ",
+                    "formaNo": "61"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "DENİZ ASLAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EROL ERDAL ALKAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "NOYAN ÖZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FRANCO DARIO CANGELE",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ALİ GUTDA GÖKDEMİR",
+                    "formaNo": "46"
+                }
+            ],
+            "teknikSorumlu": [
+                "İRFAN SARALOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ÇAĞLAR BİRİNCİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO ALVARO TELLO VALENZUELA",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ALİ GUTDA GÖKDEMİR",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "FRANCO DARIO CANGELE",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "61.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "DENİZ YILMAZ",
+                    "dakika": "73.dk",
+                    "golTipi": "P"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SİNAN BOLAT",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "CÜNEYT KÖZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ZURAB KHIZANISHVILI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALEXAHDROS TZIOLIS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DEYVISON ROGERIO DA SILVA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SRDAN MIJAILOVIC",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "PABLONICOLAS MOUCHE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ALPER ULUDAĞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ VANEK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "38"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LEVENT GÜLEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MERT NOBRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SİNAN BAKIŞ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "TANER YALÇIN",
+                    "formaNo": "23"
+                }
+            ],
+            "teknikSorumlu": [
+                "DOMINGOS JOSE PACIENCIA DE OLIVEIRA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MERT NOBRE",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "35.dk"
+                },
+                {
+                    "oyuncu": "SİNAN BOLAT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                },
+                {
+                    "oyuncu": "ALEXAHDROS TZIOLIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OKAY YOKUŞLU",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "ÖMER BAYRAM",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "ONDREJ VANEK",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "MERT NOBRE",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "TANER YALÇIN",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ALPER ULUDAĞ",
+                    "dakika": "49.dk",
+                    "golTipi": "K"
+                }
+            ]
+        }
+    }
+}

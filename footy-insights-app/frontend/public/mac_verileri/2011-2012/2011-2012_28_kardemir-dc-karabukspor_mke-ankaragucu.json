@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "28"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR D.Ç. KARABÜKSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOMIC VJEKOSLAV",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BİROL HİKMET",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "FLORIN LUCIAN CERNAT",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY SERIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YILDIZ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "HAKAN SÖYLER",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "LUTON GEORGE KIESHAWN SHELTON",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "SANEL JAHIC",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ERKAN TAŞKIRAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "JUGURTHA HAMROUN",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "ALP AHMET ÜNAL",
+                    "formaNo": "74"
+                },
+                {
+                    "oyuncuAdi": "HOCINE RAGUED",
+                    "formaNo": "82"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FLORIN LUCIAN CERNAT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "SANEL JAHIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "12.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET YILDIZ",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "HAKAN SÖYLER",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "LUTON GEORGE KIESHAWN SHELTON",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERKAN TAŞKIRAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "BİLAL KISA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "HOCINE RAGUED",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SANEL JAHIC",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "FLORIN LUCIAN CERNAT",
+                    "dakika": "65.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "SANEL JAHIC",
+                    "dakika": "75.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BAYRAM OLGUN",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ÇOĞUM",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GÜRKAN ALVER",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "BİLAL GÜLDEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "VELİ TORUN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "MERT ERDOĞAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ORHAN EVCİ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "ATİLLA AYBARS GARHAN",
+                    "formaNo": "27"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CİHAN BAL",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TAŞCI",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ŞİRİN",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN BİÇER",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KURUMUŞ",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "SEROL DEMİRHAN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ERDOĞAN",
+                    "formaNo": "14"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKAN KUTLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BAYRAM OLGUN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "VELİ TORUN",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "ATİLLA AYBARS GARHAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MEHMET ÇOĞUM",
+                    "dakika": "17.dk"
+                },
+                {
+                    "oyuncu": "ORHAN EVCİ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "BİLAL GÜLDEN",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SEROL DEMİRHAN",
+                    "dakika": "17.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN ERDOĞAN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "SİNAN KURUMUŞ",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SEROL DEMİRHAN",
+                    "dakika": "20.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ATİLLA AYBARS GARHAN",
+                    "dakika": "68.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,301 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "22"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SIARHEI PALITSEVICH",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALEKSANDAR SCEKIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "LUCCAS CLARO DOS SANTOS",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "PETAR SKULETIC",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "JAILTON LOURENÇO DA SILVA",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE SESSEGNON",
+                    "formaNo": "84"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TAHA CENGİZ DEMİRTAŞ",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "YILDIRIM MERT ÇETİN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOFI OKYERE WIAFE MANU",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MARKO MILINKOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DIALO SAMBA GUIDILEYE",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ALPER ULUDAĞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "RAHMETULLAH BERİŞBEK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "DENİZ YILMAZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜMİT ÖZAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALEKSANDAR SCEKIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ALEKSANDAR SCEKIC",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "PETAR SKULETIC",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ELVIS KOFI OKYERE WIAFE MANU",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "DIALO SAMBA GUIDILEYE",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MARKO MILINKOVIC",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JAILTON LOURENÇO DA SILVA",
+                    "dakika": "3.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JAILTON LOURENÇO DA SILVA",
+                    "dakika": "67.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ELVIS KOFI OKYERE WIAFE MANU",
+                    "dakika": "87.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GÖZTEPE A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "TANJU KAYHAN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MILOS KOSANOVIC",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "WALLACE REIS SILVA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ADAMA TRAORE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK ŞAHİN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "RAJKO ROTMAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANDRE BIYOGO POKO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YOAN PATRICK GOUFFRAN",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "DEMBA BA",
+                    "formaNo": "19"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ AYGÜN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SABRİ SARIOĞLU",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "LEO SCHWECHLEN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DOĞANAY KILIÇ",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "EZEQUIEL OSCAR SCARIONE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED ENES DURMUŞ",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "NABIL GHILAS",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "AXEL THOMAS NGANDO ELESSA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SERKAN BAKAN",
+                    "formaNo": "27"
+                }
+            ],
+            "teknikSorumlu": [
+                "TAMER TUNA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANDRE BIYOGO POKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ADAMA TRAORE",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "29.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SELÇUK ŞAHİN",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "TAYFUR BİNGÖL",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "TANJU KAYHAN",
+                    "dakika": "39.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SABRİ SARIOĞLU",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "NABIL GHILAS",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "LEO SCHWECHLEN",
+                    "dakika": "39.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

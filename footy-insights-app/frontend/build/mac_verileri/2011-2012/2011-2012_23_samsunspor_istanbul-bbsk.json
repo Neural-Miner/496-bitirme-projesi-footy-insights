@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "23"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SAMSUNSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANDRE LUIZ BAHIA SANTOS VIANA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "VALDOMIRO DUARTE DE MACEDO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL FINK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EHIOSUN EKIGHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEYLAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "AKAKI KHUBUTIA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "THEOFANIS GKEKAS",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA ÖZMEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN AZĞAR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "PAL LAZAR",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALVARO JOSE DOMINGUEZ CABEZAS",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "YENAL TUNCER",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇİFT",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "BURAK SADIK DİLMEN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AKAKI KHUBUTIA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "47.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "VALDOMIRO DUARTE DE MACEDO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AKAKI KHUBUTIA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALVARO JOSE DOMINGUEZ CABEZAS",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "YENAL TUNCER",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ALVARO JOSE DOMINGUEZ CABEZAS",
+                    "dakika": "82.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "THEOFANIS GKEKAS",
+                    "dakika": "89.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBUL BBSK"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OĞUZHAN BAHADIR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "METİN DEPE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MARCUS VINICIUS CESARIO",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SERHAT GÜLPINAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ KORKMAZ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "PIERRE ACHILLE WEBO KOUAMO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO LIMA DA SILVA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "TANER YALÇIN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MARCIN ROBERT KUS",
+                    "formaNo": "28"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BEHRAM ZÜLALOĞLU",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ÖMER CAN SOKULLU",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "METİN AKAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "WELLINGTON BRITO DA SILVA",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "EREN AYDIN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ENVER CENK ŞAHİN",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM YILMAZ",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "ARİF ERDEM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EREN AYDIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "EKREM EKŞİOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EKREM EKŞİOĞLU",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "EDIN VISCA",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EREN AYDIN",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ENVER CENK ŞAHİN",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "WELLINGTON BRITO DA SILVA",
+                    "dakika": "57.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "METİN DEPE",
+                    "dakika": "43.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "TANER YALÇIN",
+                    "dakika": "52.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "FRANCISCO LIMA DA SILVA",
+                    "dakika": "72.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "PIERRE ACHILLE WEBO KOUAMO",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

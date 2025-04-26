@@ -1,0 +1,338 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "PENDİKSPOR FUTBOL A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BURAK ÖĞÜR",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "JOSIP VUKOVIC",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL RIBEIRO DA CRUZ JERONIMO SEQUEIRRA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÖRKEM BİTİN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOHER KHADIM RASSOUL",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AIAS AOSMAN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ROGERIO CONCEIÇAO DO ROSARIO",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "GÖKCAN KAYA",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERDEM CANPOLAT",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "HASAN KILIÇ",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ENES KESKİN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "OSCAR DAVID ROMERO VILLAMAYOR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAY DIABY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKŞİT",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "EMEKA FRIDAY EZE",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ERENCAN YARDIMCI",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "OSMAN ÖZKÖYLÜ"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GÖRKEM BİTİN",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "GEORGIOS TZAVELLAS",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JOHER KHADIM RASSOUL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AIAS AOSMAN",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE TAŞDEMİR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EMEKA FRIDAY EZE",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ERENCAN YARDIMCI",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAY DIABY",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "OSCAR DAVID ROMERO VILLAMAYOR",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ROGERIO CONCEIÇAO DO ROSARIO",
+                    "dakika": "90+3.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ATAKAŞ HATAYSPOR"
+            ],
+            "skor": [
+                "5"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "GUY MARCELIN KILAMA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BURAK BEKAROĞLU",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "ENGİN CAN AKSOY",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "GİORGİ ABURJANİA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "GÖRKEM  SAĞLAM",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OLUWAFİSAYO FARUQ DELE-BASHİRU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERGIO CARLOS STRANDBERG",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "JOELSON AUGUSTO MENDES MANGO FERNANDES",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "BERTUĞ ÖZGÜR YILDIRIM",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "VİSAR BEKAJ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KERİM ALICI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "RECEP BURAK YILMAZ",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "CENGİZ DEMİR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN MATUR",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "MUSA ÇAĞIRAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ARMİN HODZİC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "AABID RAYANE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖMER FARUK BEYAZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ONUR ARI",
+                    "formaNo": "26"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖRKEM  SAĞLAM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "19.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KAMİL AHMET ÇÖREKÇİ",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "BERTUĞ ÖZGÜR YILDIRIM",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "GÖRKEM  SAĞLAM",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "GİORGİ ABURJANİA",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "JOELSON AUGUSTO MENDES MANGO FERNANDES",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "KERİM ALICI",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "ONUR ARI",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "MUSA ÇAĞIRAN",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ÖMER FARUK BEYAZ",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ARMİN HODZİC",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERGIO CARLOS STRANDBERG",
+                    "dakika": "3.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GÖRKEM  SAĞLAM ",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BERTUĞ ÖZGÜR YILDIRIM",
+                    "dakika": "46.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OLUWAFİSAYO FARUQ DELE-BASHİRU",
+                    "dakika": "57.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "OLUWAFİSAYO FARUQ DELE-BASHİRU",
+                    "dakika": "85.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

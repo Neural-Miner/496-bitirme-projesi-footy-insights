@@ -1,0 +1,356 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "29"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SAMET AKAYDİN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EZGJAN ALIOSKI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ARDA GÜLER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ENNER REMBERTO VALENCIA LASTRA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DURSUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BRIGHT OSAYI SAMUEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MİHA ZAJC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ATTILA ARPAD SZALAI",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL YÜKSEK",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OSMAN ERTUĞRUL ÇETİN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "WILLIAN SOUZA ARAO DA SILVA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO GERALDINO DOS SANTOS GALVAO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "JAYDEN QUINN OOSTERWOLDE",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL CRESPO DA SILVA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "EMRE MOR",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "JORGE FERNANDO PINHEIRO DE JESUS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İSMAİL YÜKSEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+1.dk"
+                },
+                {
+                    "oyuncu": "BRIGHT OSAYI SAMUEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+10.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İSMAİL YÜKSEK",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "SERDAR DURSUN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ARDA GÜLER",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MİHA ZAJC",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "WILLIAN SOUZA ARAO DA SILVA",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO GERALDINO DOS SANTOS GALVAO",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "EMRE MOR",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL CRESPO DA SILVA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ENNER REMBERTO VALENCIA LASTRA",
+                    "dakika": "86.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "MIGUEL CRESPO DA SILVA",
+                    "dakika": "90+6.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "STYLIANOS KITSIOU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "KEVIN MALCUIT",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN RIDVAN ÇANKAYA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NIHAD MUJAKIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MATEJ  HANOUSEK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "LAMINE DIACK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "GHAYAS ZAHID",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ALI SOWE",
+                    "formaNo": "22"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BAHADIR HAN GÜNGÖRDÜ",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ARDA KIZILDAĞ",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FIRATCAN ÜZÜM",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS CHATZIGIOVANIS",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ANDREJ DOKANOVIC",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "FELICIO MENDES JOAO",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SITKI FERDİ İMDAT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "PEDRO FILIPE BARBOSA MOREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BEVIC SELAD MOUSSITI OKO",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAKKI TOLUNAY KAFKAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ATAKAN RIDVAN ÇANKAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "STYLIANOS KITSIOU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "LAMINE DIACK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MATEJ  HANOUSEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "NIHAD MUJAKIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+8.dk"
+                },
+                {
+                    "oyuncu": "ANDREJ DOKANOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "FELICIO MENDES JOAO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+10.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TAYLAN ANTALYALI",
+                    "dakika": "90+9.dk"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "STYLIANOS KITSIOU",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "GHAYAS ZAHID",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "BEVIC SELAD MOUSSITI OKO",
+                    "dakika": "90+9.dk"
+                },
+                {
+                    "oyuncu": "FELICIO MENDES JOAO",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "FIRATCAN ÜZÜM",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ANDREJ DOKANOVIC",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ALI SOWE",
+                    "dakika": "81.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

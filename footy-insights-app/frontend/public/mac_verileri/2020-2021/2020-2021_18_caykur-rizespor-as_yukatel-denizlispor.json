@@ -1,0 +1,305 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "18"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MONTASSAR OMAR TALBI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "BRAIAN JOSE SAMUDIO SEGOVIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MILAN SKODA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO ANDRADE DOS SANTOS",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "DARIO MELNJAK",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MYKOLA MOROZIUK",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "YASSINE MERIAH",
+                    "formaNo": "80"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "FABRICIO SANTOS DE JESUS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KEMAL RÜZGAR",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "FERNANDO HENRIQUE BOLDRIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SELİM AY",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "KONRAD HUBERT MICHALAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "GODFRED DONSAH",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "EMIR DILAVER",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ONUR BULUT",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ALBERK KOÇ",
+                    "formaNo": "35"
+                }
+            ],
+            "teknikSorumlu": [
+                "STJEPAN TOMAS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "2.dk"
+                },
+                {
+                    "oyuncu": "YASSINE MERIAH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "FERNANDO ANDRADE DOS SANTOS",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FERNANDO HENRIQUE BOLDRIN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "KEMAL RÜZGAR",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "FABRICIO SANTOS DE JESUS",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "KEMAL RÜZGAR",
+                    "dakika": "90+3.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "YUKATEL DENİZLİSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "COSTEL FANE PANTILIMON",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "TIAGO JORGE OLIVEIRA LOPES",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ÖZKAL",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MARVIN DIRK BAKALORZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MURIS MESANOVIC",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RECEP NİYAZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ZAKARYA BERGDICH",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ANGELO NİCOLAS SAGAL TAPIA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "RADOSLAW PAWEL MURAWSKI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FABIANO LEISMANN",
+                    "formaNo": "91"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "HÜSEYİN ALTINTAŞ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CENK GÖNEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HADI SACKO",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MATTHIEU CANGNI DOSSEVI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MERT SARIKUŞ",
+                    "formaNo": "65"
+                },
+                {
+                    "oyuncuAdi": "ALİHAN KALKAN",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED EREN KIRYOLCU",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "ÖZER ÖZDEMİR",
+                    "formaNo": "76"
+                }
+            ],
+            "teknikSorumlu": [
+                "YALÇIN KOŞUKAVAK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "TIAGO JORGE OLIVEIRA LOPES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "ZAKARYA BERGDICH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MARVIN DIRK BAKALORZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "COSTEL FANE PANTILIMON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MARVIN DIRK BAKALORZ",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "MURIS MESANOVIC",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MUSTAFA YUMLU",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "HADI SACKO",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "9.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

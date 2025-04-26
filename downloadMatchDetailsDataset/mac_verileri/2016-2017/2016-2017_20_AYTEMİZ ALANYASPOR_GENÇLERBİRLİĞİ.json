@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AYTEMİZ ALANYASPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYDAR YILMAZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "DARKO LAZIC",
+                    "formaNo": "94"
+                },
+                {
+                    "oyuncuAdi": "GEORGIOS TZAVELLAS",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "KENNETH JOSIAH OMERUO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "GUY LUCIEN MICHEL LANDEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "VAGNER SILVA DE SOUZA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZDENEK ZLAMAL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "BİROL PARLAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "TAHA YALÇINER",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "EMRE NEFİZ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ISMAİL AİSSATİ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GLYNOR ORVİL PLET",
+                    "formaNo": "29"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAFET SUSİÇ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "26.dk"
+                },
+                {
+                    "oyuncu": "DARKO LAZIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "DARKO LAZIC",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE NEFİZ",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "GLYNOR ORVİL PLET",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "BİROL PARLAK",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANTENOR JUNIOR FERNANDES DA SILVA VITORIA",
+                    "dakika": "6.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "VAGNER SILVA DE SOUZA",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "49.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "PER JOHANNES HOPF",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KAMAL ISSAH",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDUL RAHMAN KHALILI",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "RENATO ESCOBAR BARUFFI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LUCCAS CLARO DOS SANTOS",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "79"
+                },
+                {
+                    "oyuncuAdi": "ETIEN VELIKONJA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ERIK JONATHAN RING",
+                    "formaNo": "14"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TAHA CENGİZ DEMİRTAŞ",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "VEDAT MURIÇ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MURAT DURUER",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ORHAN ŞAM",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "ALEKSANDAR SCEKIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "FERHAT GÖRGÜLÜ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MARKO MILINKOVIC",
+                    "formaNo": "11"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜMİT ÖZAT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KAMAL ISSAH",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "ERIK JONATHAN RING",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "RENATO ESCOBAR BARUFFI",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALEKSANDAR SCEKIC",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "MURAT DURUER",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "VEDAT MURIÇ",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

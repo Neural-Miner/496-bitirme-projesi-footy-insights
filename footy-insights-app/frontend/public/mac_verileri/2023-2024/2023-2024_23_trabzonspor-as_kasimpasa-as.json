@@ -1,0 +1,284 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "23"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RAYYAN BANİYA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOAQUIN FERNANDEZ  MORENO",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "BATISTA ADELINO MENDY",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EDIN VISCA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ENIS BARDHI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "TAXIARCHIS FOUNTAS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MEHMET CAN AYDIN",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ENİS DESTAN",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA TEPE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "OGNJEN BAKIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN YILMAZ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "UMUT GÜNEŞ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ARİF BOŞLUK",
+                    "formaNo": "73"
+                },
+                {
+                    "oyuncuAdi": "SALİH MALKOÇOĞLU",
+                    "formaNo": "74"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHMAN BAYRAM",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "ENGİN POYRAZ EFE YILDIRIM",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RAYYAN BANİYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "JOAQUIN FERNANDEZ  MORENO",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "TAXIARCHIS FOUNTAS",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "UMUT GÜNEŞ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ENGİN POYRAZ EFE YILDIRIM",
+                    "dakika": "82.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ENİS DESTAN",
+                    "dakika": "19.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "ENGİN POYRAZ EFE YILDIRIM",
+                    "dakika": "90+1.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ EMRE YANAR",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CLAUDIO WINCK NETO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN GÜL",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MAMADOU FALL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "HARIS HAJRADINOVIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AHMED MORTADHA BEN OUANES",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL DA COSTA JOIA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN UTKU AYDIN",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZCAN",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MELİH AKYÜZ",
+                    "formaNo": "98"
+                },
+                {
+                    "oyuncuAdi": "EROL KARAMAN",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "SARP YAVRUCU",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "SELİM DİLLİ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "LORET SADIKU",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN YİĞİT",
+                    "formaNo": "42"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ EMRE YANAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "TAYLAN UTKU AYDIN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL DA COSTA JOIA",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LORET SADIKU",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "FONTAINE NDANU J. NGOY BIN CIBAMBI",
+                    "dakika": "87.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "46.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "HARIS HAJRADINOVIC",
+                    "dakika": "58.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL DA COSTA JOIA",
+                    "dakika": "75.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

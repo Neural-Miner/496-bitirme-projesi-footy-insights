@@ -1,0 +1,340 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSE ANGEL ESMORIS TASENDE",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MAURO EMANUEL ICARDI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DRIES MERTENS",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "VICTOR ENOK NELLSON",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SERGIO MIGUEL RELVAS GONÇALVES PEREIRA DE OLIVEIRA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "LUCAS SEBASTIAN TORREIRA DI PASCUA",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKERİM BARDAKCI",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ ALPER YILMAZ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "SACHA BOEY",
+                    "formaNo": "93"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÜNAY GÜVENÇ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "LEO MICHEL JOSEPH CLAUDE DUBOIS",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK MIDTSJO",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KEREM DEMİRBAY",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "YUNUS AKGÜN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM DERVİŞOĞLU",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "BERKAN İSMAİL KUTLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "KAAN AYHAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KAZIMCAN KARATAŞ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "CEDRİC BAKAMBU",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "NESTOR FERNANDO MUSLERA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "SERGIO MIGUEL RELVAS GONÇALVES PEREIRA DE OLIVEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "MAURO EMANUEL ICARDI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "JOSE ANGEL ESMORIS TASENDE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "87.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ ALPER YILMAZ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "SERGIO MIGUEL RELVAS GONÇALVES PEREIRA DE OLIVEIRA",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DRIES MERTENS",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "LUCAS SEBASTIAN TORREIRA DI PASCUA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "CEDRİC BAKAMBU",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "YUNUS AKGÜN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "KAAN AYHAN",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "KEREM DEMİRBAY",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "BERKAN İSMAİL KUTLU",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAURO EMANUEL ICARDI",
+                    "dakika": "22.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MAURO EMANUEL ICARDI",
+                    "dakika": "90+3.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ENIS BARDHI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "UMUT DİLAN BOZOK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "EVREN EREN ELMALI",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "JENS STRYGER  LARSEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS  KOURMPELIS",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "STEFANO WILFRED DENSWIL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "FILIP BENKOVIC",
+                    "formaNo": "32"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA TEPE",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "RAYYAN BANİYA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MAXIMILIANO GOMEZ GONZALES",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "GÖKTAN GÜRPÜZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "DOĞUCAN HASPOLAT",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "MEHMET CAN AYDIN",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ARİF BOŞLUK",
+                    "formaNo": "73"
+                },
+                {
+                    "oyuncuAdi": "TONIO TEKLIC",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "ENİS DESTAN",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "NENAD BJELICA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EVREN EREN ELMALI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "ENIS BARDHI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "DIMITRIOS  KOURMPELIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "STEFANO WILFRED DENSWIL",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "DIMITRIOS  KOURMPELIS",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENİS DESTAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "TONIO TEKLIC",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "DOĞUCAN HASPOLAT",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "RAYYAN BANİYA",
+                    "dakika": "83.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

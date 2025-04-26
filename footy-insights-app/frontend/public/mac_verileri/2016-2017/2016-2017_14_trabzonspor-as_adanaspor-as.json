@@ -1,0 +1,298 @@
+{
+    "sezon": [
+        "2016-2017"
+    ],
+    "hafta": [
+        "14"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ONUR RECEP KIVRAK",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YAVRU",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JAN DURICA",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "DAME N'DOYE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "OGENYI EDDY ONAZI",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ESTEBAN ALVARADO BROWN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HYUNJUN SUK",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SERGE OGNADON AKAKPO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA AKBAŞ",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "LUIS EZEQUIEL IBANEZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "formaNo": "11"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ZEKİ YAVRU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "JAN DURICA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "38.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ZEKİ YAVRU",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "AYTAÇ KARA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JAN DURICA",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERGE OGNADON AKAKPO",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "FABIAN ANDRES CASTILLO SANCHEZ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMET DEMİR",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "34.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "dakika": "53.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MEHMET EKİCİ",
+                    "dakika": "74.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ADANASPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAYRULLAH MERT AKYÜZ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO LONGO FREITAS",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RENAN SOUZA DINIZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "VINICIUS JOSE IGNACIO",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "BEKİR YILMAZ",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "RENAN RODRIGUES DA SILVA",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "EDGAR BRUNO DA SILVA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "VLAGYIMIR KOMAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "RONEI GLEISON RODRIGUES DOS REIS",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "MAGAYE SERIGNE FALILOU DIT NELSON GUEYE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "EMRE UĞUR URUÇ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SAMİCAN KESKİN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CEM ÖZDEMİR",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "TEVFİK ALTINDAĞ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "AHMET DERELİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OUSMANE VIERA DIARRASSOUBA",
+                    "formaNo": "3"
+                }
+            ],
+            "teknikSorumlu": [
+                "EYÜP ARIN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BEKİR YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "VLAGYIMIR KOMAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "EDGAR BRUNO DA SILVA",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "52.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RENAN RODRIGUES DA SILVA",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "VLAGYIMIR KOMAN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "MAURICIO DONIZETI RAMOS JUNIOR",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "TEVFİK ALTINDAĞ",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "OUSMANE VIERA DIARRASSOUBA",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RENAN RODRIGUES DA SILVA",
+                    "dakika": "39.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

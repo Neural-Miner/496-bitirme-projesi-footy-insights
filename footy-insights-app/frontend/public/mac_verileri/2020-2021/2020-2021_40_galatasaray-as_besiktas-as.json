@@ -1,0 +1,335 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "40"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HENRY CHUKWUEMEKA ONYEKURU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RYAN GUNO BABEL",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RADAMEL FALCAO GARCIA ZARATE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DEANDRE ROSELLE YEDLIN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MARCELO JOSEMIR SARACCHI PINTOS",
+                    "formaNo": "36"
+                },
+                {
+                    "oyuncuAdi": "MARCOS DO NASCIMENTO TEIXEIRA",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "GEDSON CARVALHO FERNANDES",
+                    "formaNo": "83"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM DERVİŞOĞLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN NEKADIO LUYINDAMA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MOSTAFA MOHAMED AHMED ABDALLA",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ARDA TURAN",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "SOFIANE FEGHOULI",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "RYAN HENK DONK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "7.dk"
+                },
+                {
+                    "oyuncu": "HENRY CHUKWUEMEKA ONYEKURU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "MARCOS DO NASCIMENTO TEIXEIRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "HENRY CHUKWUEMEKA ONYEKURU",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "RADAMEL FALCAO GARCIA ZARATE",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "GEDSON CARVALHO FERNANDES",
+                    "dakika": "90+2.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ARDA TURAN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMED KEREM AKTÜRKOĞLU",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "HALİL İBRAHİM DERVİŞOĞLU",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "MOSTAFA MOHAMED AHMED ABDALLA",
+                    "dakika": "64.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RYAN GUNO BABEL",
+                    "dakika": "12.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "RADAMEL FALCAO GARCIA ZARATE",
+                    "dakika": "45+1.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "ARDA TURAN",
+                    "dakika": "76.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERSİN DESTANOĞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "VALENTIN ANDRE HENRI ROSIER",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "CYLE CHRISTOPHER LARIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "RACHID GHEZZAL",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ADEM LJAJIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DOMAGOJ VIDA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN TÖRE",
+                    "formaNo": "70"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "EMRE BİLGİN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "UTKU YUVAKURAN",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "FRANCISCO JAVIER MONTERO RUBIO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "BİLAL CEYLAN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN YILMAZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "SERDAR SAATÇI",
+                    "formaNo": "46"
+                }
+            ],
+            "teknikSorumlu": [
+                "ALİ RIZA SERGEN YALÇIN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ATIBA HUTCHINSON",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "JOSEF DE SOUZA DIAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                },
+                {
+                    "oyuncu": "MAYELE FABRİCE NSAKALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "43.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN TÖRE",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "ATIBA HUTCHINSON",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DORUKHAN TOKÖZ",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "RIDVAN YILMAZ",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "NECİP UYSAL",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RACHID GHEZZAL",
+                    "dakika": "42.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

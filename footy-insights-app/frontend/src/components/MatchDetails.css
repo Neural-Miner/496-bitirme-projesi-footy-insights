@@ -1,0 +1,146 @@
+.match-details-container {
+  width: 100%;
+  color: #fff;
+  padding: 1rem;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.match-title {
+  font-size: 1.6rem;
+  margin-bottom: 3%;
+}
+.season-week,
+.score {
+  margin: 0.25rem 0;
+  font-weight: bold;
+}
+
+.score {
+  font-size: x-large;
+  margin-top: 2%;
+}
+
+/* Takım isimleri sütun başlığı (ortalanmış) */
+.columns-header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 5%;
+}
+
+/* Bölümler */
+.sections-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* Bölüm başlığı (ortalanmış) */
+.section-title {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+/* İçerik: iki sütunlu grid + dikey ayırıcı çizgi */
+.section-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: start;
+  gap: 1rem;
+  position: relative;
+}
+.section-content::before {
+  content: '';
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 50%;
+  width: 1px;
+  background: rgba(128,128,128,0.5);
+}
+
+/* Sütun hizalamaları */
+.section-col {
+  /* inline style ile üzerine yazıyoruz */
+}
+
+/* Liste stili */
+.section-col ul {
+  margin: 0;
+  padding: 0 1rem;
+  list-style: none;
+}
+.section-col li {
+  margin-bottom: 0.25rem;
+}
+
+/* Prefix (sabit genişlik) */
+.item-prefix-left {
+  display: inline-block;
+  width: 3ch;           /* 3 karakter genişlik, tüm prefix’ler hizalı */
+  text-align: right;
+  font-weight: bold;
+  color: #ccc;
+  margin-right: 10%;
+}
+
+.item-prefix-right {
+  display: inline-block;
+  width: 3ch;           /* 3 karakter genişlik, tüm prefix’ler hizalı */
+  text-align: right;
+  font-weight: bold;
+  color: #ccc;
+  margin-left: 5%;
+}
+
+/* Metin */
+.item-text {
+  display: inline-block;
+}
+
+/* Kart/Gol suffixleri */
+.item-suffix-left {
+  display: inline-block;
+  margin-right: 2%;
+  color: #ccc;
+}
+
+.item-suffix-right {
+  display: inline-block;
+  margin-left: 2%;
+  color: #ccc;
+}
+
+/* Teknik Sorumlu metni */
+.section-text {
+  margin: 0;
+  font-style: italic;
+}
+
+/* detailsWrapper’ın scroll bar’ını şeffaf yap, okları gizle */
+.detailsWrapper {
+  /* Firefox */
+  scrollbar-width: auto;
+  scrollbar-color: rgba(255,255,255,0.2) transparent;
+}
+
+/* WebKit (Chrome, Safari, Edge) */
+.detailsWrapper::-webkit-scrollbar {
+  width: 8px;
+  background: transparent;
+}
+.detailsWrapper::-webkit-scrollbar-thumb {
+  background-color: rgba(255,255,255,0.2);
+  border-radius: 4px;
+}
+.detailsWrapper::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255,255,255,0.4);
+}
+.detailsWrapper::-webkit-scrollbar-button {
+  display: none;   /* okları gizle */
+}

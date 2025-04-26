@@ -1,0 +1,341 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BERAT AYBERK ÖZDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY NNADUZOR NWAKAEME",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ANASTASIOS BAKASETAS",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "VITOR HUGO FRANCHESCOLI DE SOUZA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MAREK HAMSIK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JORGE DJANINY TAVARES SEMEDO",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "KOUASSI GERVAIS YAO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EDGAR MIGUEL IE",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BRUNO DA SILVA PERES",
+                    "formaNo": "33"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EMMANOUIL SIOPIS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YUSUF SARI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ANDREAS EVALD CORNELIUS",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ANDERS TRONDSEN",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "YUNUS MALLI",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ASAN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "ABDULLAH MUCİB AVCI"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞURCAN ÇAKIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "ANTHONY NNADUZOR NWAKAEME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "VITOR HUGO FRANCHESCOLI DE SOUZA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "32.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "BERAT AYBERK ÖZDEMİR",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ANTHONY NNADUZOR NWAKAEME",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "JORGE DJANINY TAVARES SEMEDO",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "KOUASSI GERVAIS YAO",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "EMMANOUIL SIOPIS",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ANDREAS EVALD CORNELIUS",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANASTASIOS BAKASETAS",
+                    "dakika": "15.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "ANTHONY NNADUZOR NWAKAEME",
+                    "dakika": "47.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "OKECHUKWU GODSON AZUBUIKE",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "FAYCAL FAJR",
+                    "formaNo": "76"
+                },
+                {
+                    "oyuncuAdi": "OLARENWAJU AYOBAMI KAYODE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "KEREM ATAKAN KESGİN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ÖZKAN YİĞİTER",
+                    "formaNo": "62"
+                },
+                {
+                    "oyuncuAdi": "KORAY ALTINAY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LEKE SAMSON JAMES",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JORGE FELIX MUNOZ GARCIA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALİ ŞAŞAL VURAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "OKECHUKWU GODSON AZUBUIKE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "13.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ARSLAN",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "OKECHUKWU GODSON AZUBUIKE",
+                    "dakika": "54.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "LEKE SAMSON JAMES",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "JORGE FELIX MUNOZ GARCIA",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ISAAC COFIE",
+                    "dakika": "54.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ISAAC COFIE",
+                    "dakika": "70.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

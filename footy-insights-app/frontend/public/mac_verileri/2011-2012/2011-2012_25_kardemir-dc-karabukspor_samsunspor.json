@@ -1,0 +1,285 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "25"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR D.Ç. KARABÜKSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TOMIC VJEKOSLAV",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "FLORIN LUCIAN CERNAT",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SARP",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY SERIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "LARRYS DESTIN MABIALA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "KAĞAN SÖYLEMEZGİLLER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YILDIZ",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "LUTON GEORGE KIESHAWN SHELTON",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "SANEL JAHIC",
+                    "formaNo": "81"
+                },
+                {
+                    "oyuncuAdi": "UĞUR UÇAR",
+                    "formaNo": "86"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "BİROL HİKMET",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HAKAN SÖYLER",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "JUGURTHA HAMROUN",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ÖZDİN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ALP AHMET ÜNAL",
+                    "formaNo": "74"
+                },
+                {
+                    "oyuncuAdi": "ERGİN KELEŞ",
+                    "formaNo": "87"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "ANTHONY SERIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LUTON GEORGE KIESHAWN SHELTON",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "KAĞAN SÖYLEMEZGİLLER",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "FLORIN LUCIAN CERNAT",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERGİN KELEŞ",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "HAKAN SÖYLER",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "BİROL HİKMET",
+                    "dakika": "70.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "15.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "55.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SAMSUNSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL FINK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EHIOSUN EKIGHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KEMAL TOKAK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "YENAL TUNCER",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "THEOFANIS GKEKAS",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "DEJAN KELHAR",
+                    "formaNo": "84"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "87"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA ÖZMEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ANDRE LUIZ BAHIA SANTOS VIANA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN AZĞAR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANIL DİLAVER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AKAKI KHUBUTIA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "UĞUR BORAL",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "SİMON TERWASE ZENKE",
+                    "formaNo": "33"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YENAL TUNCER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "KEMAL TOKAK",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "DEJAN KELHAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MICHAEL FINK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "EHIOSUN EKIGHO",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SİMON TERWASE ZENKE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "UĞUR BORAL",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "87.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

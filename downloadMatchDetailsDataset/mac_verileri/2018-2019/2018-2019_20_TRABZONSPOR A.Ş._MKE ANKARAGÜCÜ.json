@@ -1,0 +1,303 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "20"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "96"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HUGO RODALLEGA MARTINEZ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ZARGO TOURE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "CALEB ANSAH EKUBAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR PARMAK",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "FILIP NOVAK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "YUSUF YAZICI",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY NNADUZOR NWAKAEME",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUZAFFER CEM KABLAN",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "SEYEDMAJID HOSSEINI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "VAHID AMIRI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "MURAT CEM AKPINAR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "HASAN BATUHAN ARTARSLAN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "BERKAY SEFA KARA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALİ OSMAN KARNAPOĞLU",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "LUIS EZEQUIEL IBANEZ",
+                    "formaNo": "88"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜNAL KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HÜSEYİN TÜRKMEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                },
+                {
+                    "oyuncu": "UĞURCAN ÇAKIR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "ANTHONY NNADUZOR NWAKAEME",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "CALEB ANSAH EKUBAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ABDULKADİR PARMAK",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "FILIP NOVAK",
+                    "dakika": "57.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SEYEDMAJID HOSSEINI",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "VAHID AMIRI",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "LUIS EZEQUIEL IBANEZ",
+                    "dakika": "57.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HUGO RODALLEGA MARTINEZ",
+                    "dakika": "6.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALTAY BAYINDIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "STYLIANOS KITSIOU",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN AYHAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ALİHAN KUBALAS",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SEDAT AĞÇAY",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "WİLFRİED MOKE ABRO",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "TYLER DOMINIC BOYD",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "THIBAULT GAETAN MATHIEU MOULIN",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DEVER AKEEM ORGILL",
+                    "formaNo": "44"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT AKAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MICHAL PAZDAN",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "ENDER AYGÖREN",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "HADI SACKO",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CEBRAİL KARAYEL",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "RICARDO WILLIAM FATY",
+                    "formaNo": "14"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA KAPLAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SEDAT AĞÇAY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "TIAGO MIGUEL BAIA PINTO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "WİLFRİED MOKE ABRO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "48.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "İLHAN PARLAK",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "WİLFRİED MOKE ABRO",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "THIBAULT GAETAN MATHIEU MOULIN",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HADI SACKO",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "RICARDO WILLIAM FATY",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "AYDIN KARABULUT",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

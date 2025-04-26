@@ -1,0 +1,369 @@
+{
+    "sezon": [
+        "2022-2023"
+    ],
+    "hafta": [
+        "31"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SAMET AKAYDİN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EZGJAN ALIOSKI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "FERDİ ERENAY KADIOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ARDA GÜLER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ENNER REMBERTO VALENCIA LASTRA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO GERALDINO DOS SANTOS GALVAO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ATTILA ARPAD SZALAI",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL YÜKSEK",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "EMRE MOR",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OSMAN ERTUĞRUL ÇETİN",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "SERDAR AZİZ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "WILLIAN SOUZA ARAO DA SILVA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERDAR DURSUN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BRIGHT OSAYI SAMUEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "JAYDEN QUINN OOSTERWOLDE",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL CRESPO DA SILVA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "LUAN PERES PETRONI",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "JORGE FERNANDO PINHEIRO DE JESUS"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SAMET AKAYDİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+3.dk"
+                },
+                {
+                    "oyuncu": "EMRE MOR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                },
+                {
+                    "oyuncu": "FERDİ ERENAY KADIOĞLU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "54.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SAMET AKAYDİN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MERT HAKAN YANDAŞ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "İSMAİL YÜKSEK",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "ARDA GÜLER",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "EMRE MOR",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERDAR AZİZ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL CRESPO DA SILVA",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "DIEGO MARTIN ROSSI MARACHLIAN",
+                    "dakika": "90+4.dk"
+                },
+                {
+                    "oyuncu": "WILLIAN SOUZA ARAO DA SILVA",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ARDA GÜLER",
+                    "dakika": "25.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ARDA GÜLER",
+                    "dakika": "51.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO GERALDINO DOS SANTOS GALVAO",
+                    "dakika": "71.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "İSTANBULSPOR A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALP ARDA",
+                    "formaNo": "59"
+                },
+                {
+                    "oyuncuAdi": "TUNCER DUHAN AKSU",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET YEŞİL",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "EDUART RROCA",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KEREM ŞEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SIMON DESIRE SYLVANUS DELI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OKAN ERDOĞAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER SARIKAYA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "VALON ETHEMI",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "FLORIAN LOSHAJ",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "EMEKA FRIDAY EZE",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "AHMET SAİD KIVANÇ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "VALMIR VELIU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN BERBER",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "EMİR KAAN GÜLTEKİN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "46"
+                },
+                {
+                    "oyuncuAdi": "SINDRIT GURI",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "ALİ YAŞAR",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "JASON  EYENGA LOKILO",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ADI MEHREMIC",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "JETMİR TOPALLİ",
+                    "formaNo": "98"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TEKKE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERTUĞRUL ERSOY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MUAMMER SARIKAYA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "OKAN ERDOĞAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "TUNCER DUHAN AKSU",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MEHMET YEŞİL",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "KEREM ŞEN",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "FLORIAN LOSHAJ",
+                    "dakika": "81.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALİ YAŞAR",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ERTUĞRUL ERSOY",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "EMİR KAAN GÜLTEKİN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "JETMİR TOPALLİ",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "JASON  EYENGA LOKILO",
+                    "dakika": "81.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "dakika": "57.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "VALON ETHEMI",
+                    "dakika": "66.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EMEKA FRIDAY EZE",
+                    "dakika": "90+6.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

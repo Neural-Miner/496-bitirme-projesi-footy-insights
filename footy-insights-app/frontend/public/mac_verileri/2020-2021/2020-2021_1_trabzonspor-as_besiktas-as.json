@@ -1,0 +1,328 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "TRABZONSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "UĞURCAN ÇAKIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN TÜRKMEN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "GUILHERME COSTA MARQUES",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ANTHONY NNADUZOR NWAKAEME",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR ÖMÜR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "CALEB ANSAH EKUBAN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "GASTON MATIAS CAMPI",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "KAMİL AHMET ÇÖREKÇİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "FLAVIO MEDEIROS DA SILVA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ABDULKADİR PARMAK",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ASAN",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERCE KARDEŞLER",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SAFA KINALI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EDGAR MIGUEL IE",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ABDURRAHİM DURSUN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "AHMET CANBAZ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN GÜNDÜZ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "STIVEN RICARDO PLAZA CASTILLO",
+                    "formaNo": "52"
+                },
+                {
+                    "oyuncuAdi": "AHMETCAN KAPLAN",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SÜLEYMAN CEBECİ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "KEREM BAYKUŞ",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "EDWARD JOHN IKEM NEWTON"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KAMİL AHMET ÇÖREKÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "36.dk"
+                },
+                {
+                    "oyuncu": "FLAVIO MEDEIROS DA SILVA",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KAMİL AHMET ÇÖREKÇİ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "GUILHERME COSTA MARQUES",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "CALEB ANSAH EKUBAN",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDURRAHİM DURSUN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AHMET CANBAZ",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "EDGAR MIGUEL IE",
+                    "dakika": "77.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ABDÜLKADİR ÖMÜR",
+                    "dakika": "86.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "BEŞİKTAŞ A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERSİN DESTANOĞLU",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN ÖZYAKUP",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TYLER DOMINIC BOYD",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ATIBA HUTCHINSON",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "CYLE CHRISTOPHER LARIN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AJDIN HASIC",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "NECİP UYSAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MAYELE FABRİCE NSAKALA",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "DOMAGOJ VIDA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BERNARD MENSAH",
+                    "formaNo": "43"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "UTKU YUVAKURAN",
+                    "formaNo": "97"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GÜVEN YALÇIN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN KAYA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ADEM LJAJIC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DORUKHAN TOKÖZ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "HÜSEYİN ATAKAN ÜNER",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "RIDVAN YILMAZ",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "KARTAL KAYRA YILMAZ",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "JEREMAIN MARCIANO LENS",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MAYELE FABRİCE NSAKALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                },
+                {
+                    "oyuncu": "WELINTON SOUZA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "39.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "OĞUZHAN ÖZYAKUP",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "BERNARD MENSAH",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "CYLE CHRISTOPHER LARIN",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "TYLER DOMINIC BOYD",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "AJDIN HASIC",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DORUKHAN TOKÖZ",
+                    "dakika": "49.dk"
+                },
+                {
+                    "oyuncu": "ADEM LJAJIC",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "HÜSEYİN ATAKAN ÜNER",
+                    "dakika": "79.dk"
+                },
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "JEREMAIN MARCIANO LENS",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "TYLER DOMINIC BOYD",
+                    "dakika": "29.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "BERNARD MENSAH",
+                    "dakika": "63.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "JEREMAIN MARCIANO LENS",
+                    "dakika": "74.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

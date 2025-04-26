@@ -1,0 +1,278 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "28"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BALIKESİRSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "EMRULLAH ŞALK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "OKAN ALKAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "TOMISLAV GLUMAC",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "VİTOR HUGO GOMES DA SILVA",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "ERAY ATASEVEN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "RONALD ALEJANDRO VARGAS ARANGUREN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "SERCAN YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "PROMISE ISAAC",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUĞDAT ÇELİK",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ANDRIJA VUKOVIC",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "HASAN HATİPOĞLU",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "BÜLENT CEVAHİR",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÖZTÜRK",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "KEMAL ÖZDEŞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERAY ATASEVEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "VİTOR HUGO GOMES DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUĞDAT ÇELİK",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "PROMISE ISAAC",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "ERAY ATASEVEN",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "AYKUT ÇEVİKER",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SERCAN YILDIRIM",
+                    "dakika": "8.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SUAT ALTIN İNŞAAT KAYSERİ ERCİYESSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT ÖZEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "JOHN BOYE",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "YASİN PEHLİVAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "YACOUBA SYLLA",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZTÜRK",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "BJÖRN VLEMINCKX",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YUSUF BALCIOĞLU",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "PAPA MALICKOU DIAKHATE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MEHMET SEÇME",
+                    "formaNo": "56"
+                },
+                {
+                    "oyuncuAdi": "ETHEM ERCAN PÜLGİR",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "FERHAT UĞUR",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "JACQUES ZOUA DAOGARI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ORHAN GÜLLE",
+                    "formaNo": "4"
+                }
+            ],
+            "teknikSorumlu": [
+                "HAMİT CİHAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YASİN PEHLİVAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                },
+                {
+                    "oyuncu": "MAHMUT ÖZEN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE ÖZTÜRK",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "MAHMUT ÖZEN",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MEHMET SEÇME",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "JACQUES ZOUA DAOGARI",
+                    "dakika": "53.dk"
+                },
+                {
+                    "oyuncu": "PAPA MALICKOU DIAKHATE",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JACQUES ZOUA DAOGARI",
+                    "dakika": "80.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

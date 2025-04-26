@@ -1,0 +1,351 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "36"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERDEM CANPOLAT",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EMRE TAŞDEMİR",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "PAPA ALIOUNE NDIAYE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ARNAUD RENE LUSAMBA",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "WELINTON SOUZA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "THIAM MAME BABA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "GÖKCAN KAYA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ERENCAN YARDIMCI",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BURAK ÖĞÜR",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ENDRI ÇEKIÇI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "JOHER KHADIM RASSOUL",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL RIBEIRO DA CRUZ JERONIMO SEQUEIRRA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK MIDTSJO",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "BERKAY SÜLÜNGÖZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAY DIABY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "LEANDRO DEYRINIO KAPPEL",
+                    "formaNo": "7"
+                }
+            ],
+            "teknikSorumlu": [
+                "İBRAHİM ÜZÜLMEZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "THIAM MAME BABA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "ERDEM CANPOLAT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+5.dk"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL RIBEIRO DA CRUZ JERONIMO SEQUEIRRA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERDEM ÖZGENÇ",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "EMRE TAŞDEMİR",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "ERENCAN YARDIMCI",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "PAPA ALIOUNE NDIAYE",
+                    "dakika": "77.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FREDRIK MIDTSJO",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAY DIABY",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "ENDRI ÇEKIÇI",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL RIBEIRO DA CRUZ JERONIMO SEQUEIRRA",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "THIAM MAME BABA",
+                    "dakika": "65.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "74.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KHUSNIDDIN  ALIKULOV",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ATTILA  MOCSI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JONJO  SHELVEY",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "OLASUNKANMI IBRAHIM OLAWOYIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUAMMER SARIKAYA",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BABAJIDE DAVID AKINTOLA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA ŞAHİN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ALTIN ZEQIRI",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "MARTIN YANKOV MINCHEV",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CANBERK YURDAKUL",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "ADOLFO JULIAN  GAICH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO AFFONSO  SAUERBECK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OKECHUKWU GODSON AZUBUIKE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "SEYFETTİN ANIL YAŞAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "OUMAR  DIOUF",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "MAME MOR  FAYE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERAY KORKMAZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MİTHAT PALA",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "GÜVENÇ USTA",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "İLHAN PALUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HALİL İBRAHİM PEHLİVAN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+3.dk"
+                },
+                {
+                    "oyuncu": "MİTHAT PALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "KHUSNIDDIN  ALIKULOV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "MARTIN YANKOV MINCHEV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "JONJO  SHELVEY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUAMMER SARIKAYA",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "BABAJIDE DAVID AKINTOLA",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ATTILA  MOCSI",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "MARTIN YANKOV MINCHEV",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MİTHAT PALA",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "GUSTAVO AFFONSO  SAUERBECK",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "SEYFETTİN ANIL YAŞAR",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "ADOLFO JULIAN  GAICH",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JONJO  SHELVEY",
+                    "dakika": "44.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "sezon": [
+        "2014-2015"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "GAZİANTEPSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ZYDRUNAS KARCEMARSKAS",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH ELYASA SÜME",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ŞENOL CAN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "OĞUZHAN TÜRK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET DEMİR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GBENGA AROKOYO",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA DURAK",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN SÜZEN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "LUIS FRANCISCO GRANDO",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "KORAY ARSLAN",
+                    "formaNo": "51"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "EMMANUEL JOHN CHIBUIKE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "CARLO YAIR COSTLY YAIR",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "OĞULCAN ÇAĞLAYAN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ YARDIMCI",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "MUHAMED ILDIZ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "LUCAS ELIAS ONTIVERO",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "OKAN BURUK"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKHAN SÜZEN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA DURAK",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "OĞUZHAN TÜRK",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "CARLO YAIR COSTLY YAIR",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "LUCAS ELIAS ONTIVERO",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "OĞULCAN ÇAĞLAYAN",
+                    "dakika": "75.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "LUIS FRANCISCO GRANDO",
+                    "dakika": "80.dk",
+                    "golTipi": "H"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SUAT ALTIN İNŞAAT KAYSERİ ERCİYESSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ABDOU KADER MANGANE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SENİJAD İBRİCİC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JACQUES ZOUA DAOGARI",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NECATİ ATEŞ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "İLHAN PARLAK",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "YACOUBA SYLLA",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "CENK AHMET ALKILIÇ",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT ÖZEN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "KERİM AVCI",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ARNALDO EDI LOPES DA SİLVA",
+                    "formaNo": "36"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZTÜRK",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "BARIŞ MEMİŞ",
+                    "formaNo": "61"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "SENİJAD İBRİCİC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "30.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "NECATİ ATEŞ",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "CENK AHMET ALKILIÇ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ARNALDO EDI LOPES DA SİLVA",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "MAHMUT ÖZEN",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "BARIŞ MEMİŞ",
+                    "dakika": "85.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JACQUES ZOUA DAOGARI",
+                    "dakika": "8.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "JACQUES ZOUA DAOGARI",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

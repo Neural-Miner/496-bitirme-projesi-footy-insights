@@ -1,0 +1,303 @@
+{
+    "sezon": [
+        "2015-2016"
+    ],
+    "hafta": [
+        "2"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ESKİŞEHİRSPOR"
+            ],
+            "skor": [
+                "4"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "NZUZİ TOKO",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "BİROL PARLAK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SEZGİN COŞKUN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ANIL KARAER",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ADEWOLE RAHEEM LAWAL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "NASSIM BEN KHALIFA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ONUR BAYRAMOĞLU",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MATIAS ADRIAN DEFEDERICO",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "THEOFANIS GKEKAS",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "SİNAN ÖREN",
+                    "formaNo": "87"
+                },
+                {
+                    "oyuncuAdi": "FEHMİ EMRE GÜNGÖR",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "MUAREM MUAREM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÜRAL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "9"
+                }
+            ],
+            "teknikSorumlu": [
+                "MICHAEL HEINZ SKIBBE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALPASLAN ÖZTÜRK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "71.dk"
+                },
+                {
+                    "oyuncu": "NASSIM BEN KHALIFA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ONUR BAYRAMOĞLU",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "KAAN KANAK",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "SEZGİN COŞKUN",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ALPASLAN ÖZTÜRK",
+                    "dakika": "70.dk"
+                },
+                {
+                    "oyuncu": "MUAREM MUAREM",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "FEHMİ EMRE GÜNGÖR",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "THEOFANIS GKEKAS",
+                    "dakika": "9.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "KAAN KANAK",
+                    "dakika": "21.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "THEOFANIS GKEKAS",
+                    "dakika": "48.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "THEOFANIS GKEKAS",
+                    "dakika": "69.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MEDICANA SİVASSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERNESTAS SETKUS",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BATUHAN KARADENİZ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "CICERO JOAO DE CESARE",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM ÖZTÜRK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "BURHAN EŞER",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "ADEM KOÇAK",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "ÜMİT KURT",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ORHAN GÜLLE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "YİĞİT İNCEDEMİR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ABALO PAULOS",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOHN BOYE",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MEHDİ TEWFİK TAOUIL",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA ALTINDAĞ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YEKTA KURTULUŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "19.dk"
+                },
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "ÜMİT KURT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "31.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YEKTA KURTULUŞ",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "ADEM KOÇAK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "dakika": "46.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ORHAN GÜLLE",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "MEHDİ TEWFİK TAOUIL",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DANIEL ABALO PAULOS",
+                    "dakika": "46.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DANIEL ABALO PAULOS",
+                    "dakika": "60.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "BATUHAN KARADENİZ",
+                    "dakika": "66.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "33"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "BURSASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "ERTUĞRUL ERSOY",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "HENRI GREGOIRE SAIVET",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALLANO BRENDON DE SOUZA LIMA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "STEPHANE BADJI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAHI SHEHU",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "IASMIN LATOVLEVICI",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ONUR ATASAYAR",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUHAMMED ŞENGEZER",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "SANTIAGO VERGINI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "KUBİLAY KANATSIZKUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMED EMİN SARIKAYA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "TUNAY TORUN",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "DIAFRA SAKHO",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPACAK",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "JANI ATANASOV",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "MESUT BAKKAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ERTUĞRUL ERSOY",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "AURELİEN BAYARD CHEDJOU FONGANG",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "ALLANO BRENDON DE SOUZA LIMA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ONUR ATASAYAR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "HENRI GREGOIRE SAIVET",
+                    "dakika": "60.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YUSUF ERDOĞAN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "DIAFRA SAKHO",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "TUNAY TORUN",
+                    "dakika": "60.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GÖZTEPE A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ANTONIO ALBERTO BASTOS PIMPAREL",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "CHRISTIAN CHAGAS TAROUCO",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ANDRE DE CASTRO PEREIRA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANDRE BIYOGO POKO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LAMİNE GASSAMA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "CAMERON ZISHAN RANA JEROME",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "BERKAN EMİR",
+                    "formaNo": "41"
+                },
+                {
+                    "oyuncuAdi": "DENİZ KADAH",
+                    "formaNo": "63"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "18"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MEHMET GÖKTÜĞ BAKIRBAŞ",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EREN BİLEN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "TAYFUR BİNGÖL",
+                    "formaNo": "75"
+                },
+                {
+                    "oyuncuAdi": "CELSO BORGES MORA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YOAN PATRICK GOUFFRAN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "AXEL THOMAS NGANDO ELESSA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LUMOR AGBENYENU",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "YALÇIN KAYAN",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "EROL HAKAN SEPİL",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "TAMER TUNA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ANDRE BIYOGO POKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "DENİZ KADAH",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AXEL THOMAS NGANDO ELESSA",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "CELSO BORGES MORA",
+                    "dakika": "87.dk"
+                },
+                {
+                    "oyuncu": "YOAN PATRICK GOUFFRAN",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "4"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSARSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERAY ATASEVEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ABDOU LWAHID SISSOKO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA YUMLU",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOFI OKYERE WIAFE MANU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BORA KÖRK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "ONURCAN GÜLER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DANIEL ALEXANDER LARSSON",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "SERGIO ANTONIO BORGES JUNIOR",
+                    "formaNo": "77"
+                }
+            ],
+            "teknikSorumlu": [
+                "SAFET SUSİÇ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ONURCAN GÜLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AYKUT ÇEVİKER",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "JOSUE FILIPE SOARES PESQUEIRA",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "ABDOU LWAHID SISSOKO",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ONURCAN GÜLER",
+                    "dakika": "63.dk"
+                },
+                {
+                    "oyuncu": "ONUR AYIK",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "BİLAL KISA",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AROUNA KONE",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "CARL MEDJANI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ROBSON DE SOUZA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DOUGLAS PEREIRA DOS SANTOS",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SERHIY RYBALKA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "DAVID BRAZ DE OLIVEIRA FILHO",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "EMRE KILINÇ",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TOLGAHAN ACAR",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "NILS ERIK MATTIAS BJARSMYR",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "İLKER SAYAN",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "AYDIN KARABULUT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ZORO CYRIAC GOHI BI",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "SERGIO RAMON ROCHET ALVAREZ",
+                    "formaNo": "93"
+                },
+                {
+                    "oyuncuAdi": "PAUL PAPP",
+                    "formaNo": "13"
+                }
+            ],
+            "teknikSorumlu": [
+                "TAMER TUNA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "UĞUR ÇİFTÇİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "5.dk"
+                },
+                {
+                    "oyuncu": "PAUL PAPP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE KILINÇ",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SERHIY RYBALKA",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "56.dk"
+                },
+                {
+                    "oyuncu": "PAUL PAPP",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "NILS ERIK MATTIAS BJARSMYR",
+                    "dakika": "90+3.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "AROUNA KONE",
+                    "dakika": "46.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

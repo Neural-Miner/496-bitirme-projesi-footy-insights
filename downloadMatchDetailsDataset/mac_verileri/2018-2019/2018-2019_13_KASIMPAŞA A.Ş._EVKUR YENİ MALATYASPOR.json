@@ -1,0 +1,285 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "13"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSUE HUMBERTO GONÇALVES LEAL DE SA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "SYAM HABIB BEN YOUSSEF",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MAHMOUD AHMED IBRAHIM HASSAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "DAVID PAVELKA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MBAYE DIAGNE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL EMEM EDUOK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TARKAN SERBEST",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÇEK",
+                    "formaNo": "60"
+                },
+                {
+                    "oyuncuAdi": "VEYSEL SARI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "STRAHIL VENKOV POPOV",
+                    "formaNo": "90"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERAY BİRNİÇAN",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "MEHMET ENES SARI",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "YİLMAZ DALER",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HASAN BİLAL",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ETHEM ERBOĞA",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "HAKAN DEMİR",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ONUR URAL",
+                    "formaNo": "22"
+                }
+            ],
+            "teknikSorumlu": [
+                "MUSTAFA DENİZLİ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "VEYSEL SARI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "85.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SAMUEL EMEM EDUOK",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "JOSUE HUMBERTO GONÇALVES LEAL DE SA",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HASAN BİLAL",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA ETHEM ERBOĞA",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "HAKAN DEMİR",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "6.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "JOSUE HUMBERTO GONÇALVES LEAL DE SA",
+                    "dakika": "57.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "MBAYE DIAGNE",
+                    "dakika": "84.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "EVKUR YENİ MALATYASPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FABİEN CEDDY FARNOLLE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "KHALİD BOUTAIB",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "SADIK ÇİFTPINAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL PEREIRA",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "AHMED ILDIZ",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DANİJEL ALEKSİC",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ISSAM CHEBAKE",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "ERKAN KAŞ",
+                    "formaNo": "39"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ABDULSAMED DAMLU",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EREN TOZLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUENFUH SETH SİNCERE",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "SULLEY MUNIRU",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "ISSIAR DIA",
+                    "formaNo": "87"
+                }
+            ],
+            "teknikSorumlu": [
+                "EROL BULUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "KHALİD BOUTAIB",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "MS"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERKAN KAŞ",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MICHAEL PEREIRA",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "AHMED ILDIZ",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RAHMAN BUĞRA ÇAĞIRAN",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "EREN TOZLU",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "ÖMER HASAN ŞİŞMANOĞLU",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "5"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KAYSERİSPOR"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NICOLAS GASTON NAVARRO",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EREN GÜNGÖR",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZURAB KHIZANISHVILI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "NOUREDDINE AMRABAT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JONATHAN SANTANA GEHRE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN MIGUEL RIVEROS NUNEZ",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN ÜNAL",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ENGİN BEKDEMİR",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "PETER PEKARIK",
+                    "formaNo": "37"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "GÖKHAN DEĞİRMENCİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "İLHAN EKER",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "JAMES TROİSİ",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ABDULLAH DURAK",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "OKAN ALKAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "NADİR ÇİFTÇİ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "OKAY YOKUŞLU",
+                    "formaNo": "30"
+                }
+            ],
+            "teknikSorumlu": [
+                "SHOTA ARVELADZE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EREN GÜNGÖR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "15.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "JONATHAN SANTANA GEHRE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "24.dk"
+                },
+                {
+                    "oyuncu": "NICOLAS GASTON NAVARRO",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "40.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ENGİN BEKDEMİR",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "JONATHAN SANTANA GEHRE",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "GÖKHAN DEĞİRMENCİ",
+                    "dakika": "41.dk"
+                },
+                {
+                    "oyuncu": "ABDULLAH DURAK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JAMES TROİSİ",
+                    "dakika": "64.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "dakika": "21.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "GÖKHAN ÜNAL",
+                    "dakika": "73.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MERSİN İDMAN YURDU"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "HAKAN ARIKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JOSEPH BOUM II",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "İLHAN ÖZBAY",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "NDUKA MORRISON OZOKWO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "CRISTIAN RODRIGO ZURITA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ANDRE FRANCISCO MORITZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MERT NOBRE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "OUISSEM BEN YAHIA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA KEÇELİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "ANDRE ROBERTO SOARES DA SILVA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM KAŞ",
+                    "formaNo": "78"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENGİZ BİÇER",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞDAŞ ATAN",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "MATHEW AMOAH",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET POLAT",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "CENKER PEHLİVAN",
+                    "formaNo": "39"
+                },
+                {
+                    "oyuncuAdi": "HAKAN BAYRAKTAR",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "YANNİCK ETİENNE STANİSLAS KAMANAN",
+                    "formaNo": "50"
+                }
+            ],
+            "teknikSorumlu": [
+                "NURULLAH SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA KEÇELİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "İLHAN ÖZBAY",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "50.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM KAŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "ANDRE FRANCISCO MORITZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "34.dk"
+                },
+                {
+                    "oyuncu": "MATHEW AMOAH",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ANDRE FRANCISCO MORITZ",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "ANDRE ROBERTO SOARES DA SILVA",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "NDUKA MORRISON OZOKWO",
+                    "dakika": "86.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MATHEW AMOAH",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "ÇAĞDAŞ ATAN",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "YANNİCK ETİENNE STANİSLAS KAMANAN",
+                    "dakika": "86.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MERT NOBRE",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "MERT NOBRE",
+                    "dakika": "42.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

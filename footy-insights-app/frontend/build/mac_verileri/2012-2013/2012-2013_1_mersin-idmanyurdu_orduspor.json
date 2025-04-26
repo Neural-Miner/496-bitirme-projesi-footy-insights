@@ -1,0 +1,271 @@
+{
+    "sezon": [
+        "2012-2013"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "MERSİN İDMANYURDU"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "İBRAHİM SEHIC",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "MILAN STEPANOV",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "NDUKA MORRISON OZOKWO",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ERGİN KELEŞ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OUISSEM BEN YAHIA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA SARP",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM YATTARA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA KEÇELİ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "AYDIN TOSCALI",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "HAKAN BAYRAKTAR",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "SERKAN YANIK",
+                    "formaNo": "87"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "CENGİZ BİÇER",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "DANILO PETROLLI BUENO",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JUAN EMMANUEL CULİO",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "NURULLAH KAYA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MURAT ERDOĞAN",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MAHMUT METİN",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                "NURULLAH SAĞLAM"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA KEÇELİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "MUSTAFA SARP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MILAN STEPANOV",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "16.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HAKAN BAYRAKTAR",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "İBRAHİM YATTARA",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "NDUKA MORRISON OZOKWO",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JUAN EMMANUEL CULİO",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "ERDAL KILIÇASLAN",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "MURAT ERDOĞAN",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ORDUSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "SASO FORNEZZI",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "ŞAMİL ÇİNAZ",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALİ ÇAMDALI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "HASAN SALİH KABZE",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "NİZAMETTİN ÇALIŞKAN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "AGUSTIN GARCIA INIGUEZ",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MIGUEL ANGELO MOITA GARCIA",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "JAVIER HORACIO UMBIDES",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "DAVID BARRAL TORRES",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "VINCENTE ALFREDO MONJE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "FERHAT ÇÖKMÜŞ",
+                    "formaNo": "85"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FEVZİ ELMAS",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "ÖMER ALP KULGA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MÜSLÜM YELKEN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SORİN BOGDAN STANCU",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ABDÜLKADİR KAYALI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ROVERSIO  RODRIGUES DE BARROS",
+                    "formaNo": "84"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTOP",
+                    "formaNo": "91"
+                }
+            ],
+            "teknikSorumlu": [
+                "HECTOR RAUL CUPER"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "FERHAT ÇÖKMÜŞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "55.dk"
+                },
+                {
+                    "oyuncu": "MIGUEL ANGELO MOITA GARCIA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "HASAN SALİH KABZE",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "VINCENTE ALFREDO MONJE",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "DAVID BARRAL TORRES",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ABDÜLKADİR KAYALI",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "MÜSLÜM YELKEN",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SORİN BOGDAN STANCU",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

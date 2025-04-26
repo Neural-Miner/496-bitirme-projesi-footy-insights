@@ -1,0 +1,276 @@
+{
+    "sezon": [
+        "2013-2014"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SANİCA BORU ELAZIĞSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VANJA IVESA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET GÖRKEM GÖRK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞLAR BİRİNCİ",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM KAŞ",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "KÖKSAL YEDEK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LUKE ISAAC MOORE",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "SERDAR GÜRLER",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "TIDIANE SANE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADEM ALKAŞİ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "VİCTOR JAVİER ANİNO BERMUDEZ",
+                    "formaNo": "40"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ZÜLKÜF ÖZER",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "ALPER KALEMCİ",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "HAKAN SÖYLER",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "MEHMET NAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "YOUSSOUF HADJI",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR ÖZKAYA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                }
+            ],
+            "teknikSorumlu": [
+                "İRFAN SARALOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İBRAHİM KAŞ",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "KÖKSAL YEDEK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "37.dk"
+                },
+                {
+                    "oyuncu": "SERDAR GÜRLER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "VİCTOR JAVİER ANİNO BERMUDEZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "25.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ÇAĞLAR BİRİNCİ",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "KÖKSAL YEDEK",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "TIDIANE SANE",
+                    "dakika": "73.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ÖZGÜR ÖZKAYA",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "YOUSSOUF HADJI",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "73.dk"
+                }
+            ],
+            "goller": []
+        },
+        "takim_2": {
+            "takimAdi": [
+                "KAYSERİ ERCİYESSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BOJAN JORGACEVIC",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "FAZLI KOCABAŞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BAKAYE TRAORE",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HANSELL STIVEN ARAUZ OVARES",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "GEORGES CONSTANT MANDJECK",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "BJÖRN VLEMINCKX",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "NUMAN ÇÜRÜKSU",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKIN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "EMRE ÖZTÜRK",
+                    "formaNo": "42"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA KOCA",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ATAK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ÜSTÜN BİLGİ",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KERİM AVCI",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "VOLKAN OKUMAK",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "EKREM EKŞİOĞLU",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "RANDALL AZOFEIFA CORRALES",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "EMRE ÖZTÜRK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "RANDALL AZOFEIFA CORRALES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "HANSELL STIVEN ARAUZ OVARES",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "BAKAYE TRAORE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GEORGES CONSTANT MANDJECK",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RANDALL AZOFEIFA CORRALES",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "BJÖRN VLEMINCKX",
+                    "dakika": "60.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

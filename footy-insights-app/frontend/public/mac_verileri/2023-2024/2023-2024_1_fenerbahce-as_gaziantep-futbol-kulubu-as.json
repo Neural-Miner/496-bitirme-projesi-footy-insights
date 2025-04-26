@@ -1,0 +1,335 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALTAY BAYINDIR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "RODRIGO NASCIMENTO FRANCA",
+                    "formaNo": "50"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDER KWABENA BAIDOOH DJIKU",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BRIGHT OSAYI SAMUEL",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL YÜKSEK",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "FERDİ ERENAY KADIOĞLU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MERT HAKAN YANDAŞ",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "RYAN KENT",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SEBASTIAN SZYMANSKI",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "DUSAN TADIC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EDIN DZEKO",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "İRFAN CAN EĞRİBAYAT",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "SAMET AKAYDİN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MERT MÜLDÜR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "JAYDEN QUINN OOSTERWOLDE",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "BARTUĞ ELMAZ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "MİHA ZAJC",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "İRFAN CAN KAHVECİ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JOSHUA CHRISTIAN KOJO KING",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "MICHY BATSHUAYI ATUNGA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "22"
+                }
+            ],
+            "teknikSorumlu": [
+                "İSMAİL KARTAL"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MERT HAKAN YANDAŞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BRIGHT OSAYI SAMUEL",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "RYAN KENT",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "SEBASTIAN SZYMANSKI",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "RODRIGO NASCIMENTO FRANCA",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MİHA ZAJC",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "JAYDEN QUINN OOSTERWOLDE",
+                    "dakika": "33.dk"
+                },
+                {
+                    "oyuncu": "SAMET AKAYDİN",
+                    "dakika": "68.dk"
+                },
+                {
+                    "oyuncu": "İRFAN CAN KAHVECİ",
+                    "dakika": "85.dk"
+                },
+                {
+                    "oyuncu": "MICHY BATSHUAYI ATUNGA",
+                    "dakika": "68.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "EDIN DZEKO",
+                    "dakika": "3.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EDIN DZEKO",
+                    "dakika": "19.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GAZİANTEP FUTBOL KULÜBÜ A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "BATUHAN AHMET ŞEN",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EL HADJI PAPY MISON DJILOBODJI",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ARDA KIZILDAĞ",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "FURKAN SOYALP",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "MARKO JEVTOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "MUSTAFA ESKİHELLAÇ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SALEM M'BAKATA",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MOHAMED NAOUFEL KHACEF",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ALEXANDRU IULIAN MAXIM",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "LAZAR MARKOVIC",
+                    "formaNo": "50"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUSTAFA BURAK BOZAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "BERKAN KÜPELİKILINÇ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "VALMIR VELIU",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MİRZA CİHAN",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ÖMÜRCAN ARTAN",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ULAŞ ZENGİN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "LUKA STANKOVSKI",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET ONUR BAŞYİĞİT",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR GÖLGELİ",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "JOSE BRAYAN RIASCOS VALENCIA",
+                    "formaNo": "94"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MUSTAFA ESKİHELLAÇ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                },
+                {
+                    "oyuncu": "ALEXANDRU IULIAN MAXIM",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "23.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MUSTAFA ESKİHELLAÇ",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "FURKAN SOYALP",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "LAZAR MARKOVIC",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "74.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "VALMIR VELIU",
+                    "dakika": "90.dk"
+                },
+                {
+                    "oyuncu": "LUKA STANKOVSKI",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "MİRZA CİHAN",
+                    "dakika": "81.dk"
+                },
+                {
+                    "oyuncu": "JOSE BRAYAN RIASCOS VALENCIA",
+                    "dakika": "74.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ARDA KIZILDAĞ",
+                    "dakika": "45+5.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

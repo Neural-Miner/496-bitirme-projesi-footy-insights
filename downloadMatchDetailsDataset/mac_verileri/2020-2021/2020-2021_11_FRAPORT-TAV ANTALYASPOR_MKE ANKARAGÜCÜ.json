@@ -1,0 +1,301 @@
+{
+    "sezon": [
+        "2020-2021"
+    ],
+    "hafta": [
+        "11"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "FRAPORT-TAV ANTALYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "ERSAN ADEM GÜLÜM",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "EREN ALBAYRAK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "NURİ ŞAHİN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "LUKAS JOSEF PODOLSKI",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "FEDOR KUDRIASHOV",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "ADIS JAHOVIC",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "AMILTON MINERVINO DA SILVA",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "OMAR İMERİ",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "GÖKDENİZ BAYRAKDAR",
+                    "formaNo": "41"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "DOĞUKAN ÖZKAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SIDNEY SAM",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "DEVER AKEEM ORGILL",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT HAN EKELİK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "SERDAR POYRAZ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ADEM METİN TÜRK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ALİ EREN İYİCAN",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "KAZIM ERSUN YANAL"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "GÖKDENİZ BAYRAKDAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "42.dk"
+                },
+                {
+                    "oyuncu": "LUKAS JOSEF PODOLSKI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45.dk"
+                },
+                {
+                    "oyuncu": "AMILTON MINERVINO DA SILVA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "51.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "GÖKDENİZ BAYRAKDAR",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "AMILTON MINERVINO DA SILVA",
+                    "dakika": "84.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SIDNEY SAM",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "ALİ EREN İYİCAN",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "DEVER AKEEM ORGILL",
+                    "dakika": "84.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADIS JAHOVIC",
+                    "dakika": "45+4.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "MKE ANKARAGÜCÜ"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RICARDO HENRIQUE SCHUCK FRIEDRICH",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "STYLIANOS KITSIOU",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ATAKAN RIDVAN ÇANKAYA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "MICHAL PAZDAN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "TIAGO MIGUEL BAIA PINTO",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "IDRIZ VOCA",
+                    "formaNo": "42"
+                },
+                {
+                    "oyuncuAdi": "ORKAN ÇINAR",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "EL HADJI ASSANE DIOUSSE",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "SABA LOBJANIDZE",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JONATHAN BOLINGI MPANGI MERIKANI",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "KORCAN ÇELİKAY",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "CEBRAİL KARAYEL",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "DANIEL LUKASIK",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ATİLA TURAN",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "ENDER AYGÖREN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "LUKA ADZIC",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ŞAHVERDİ ÇETİN",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ENDRI ÇEKIÇI",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "TORGEIR BORVEN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MÜCAHİT CAN AKÇAY",
+                    "formaNo": "26"
+                }
+            ],
+            "teknikSorumlu": [
+                ""
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "22.dk"
+                },
+                {
+                    "oyuncu": "STYLIANOS KITSIOU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ALPER POTUK",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ORKAN ÇINAR",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "SABA LOBJANIDZE",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "EL HADJI ASSANE DIOUSSE",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ENDRI ÇEKIÇI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ŞAHVERDİ ÇETİN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LUKA ADZIC",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "TORGEIR BORVEN",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": []
+        }
+    }
+}

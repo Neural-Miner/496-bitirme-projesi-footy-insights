@@ -1,0 +1,351 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "6"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "ÇAYKUR RİZESPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "GÖKHAN AKKAN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "HALİL İBRAHİM PEHLİVAN",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ATTILA  MOCSI",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "DAL  VARESANOVIC",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ADOLFO JULIAN  GAICH",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "OLASUNKANMI IBRAHIM OLAWOYIN",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "GUSTAVO AFFONSO  SAUERBECK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "MUHAMMET TAHA ŞAHİN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN TOPÇU",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "MİTHAT PALA",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "ALTIN ZEQIRI",
+                    "formaNo": "77"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "TARIK ÇETİN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "KHUSNIDDIN  ALIKULOV",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "CASPER SOMMER HOJER",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JONJO  SHELVEY",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BENHUR KESER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "SEYFETTİN ANIL YAŞAR",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "JANNE-PEKKA SAMULI  LAINE",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MAME MOR  FAYE",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ERAY KORKMAZ",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "MARTIN YANKOV MINCHEV",
+                    "formaNo": "89"
+                }
+            ],
+            "teknikSorumlu": [
+                "İLHAN PALUT"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BENHUR KESER",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "MUHAMMET TAHA ŞAHİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                },
+                {
+                    "oyuncu": "EMİRHAN TOPÇU",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MİTHAT PALA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                },
+                {
+                    "oyuncu": "DAL  VARESANOVIC",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "14.dk"
+                },
+                {
+                    "oyuncu": "ATTILA  MOCSI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "44.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MİTHAT PALA",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "OLASUNKANMI IBRAHIM OLAWOYIN",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ALTIN ZEQIRI",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "ADOLFO JULIAN  GAICH",
+                    "dakika": "62.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "JANNE-PEKKA SAMULI  LAINE",
+                    "dakika": "77.dk"
+                },
+                {
+                    "oyuncu": "JONJO  SHELVEY",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "BENHUR KESER",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "MARTIN YANKOV MINCHEV",
+                    "dakika": "62.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "DAL  VARESANOVIC",
+                    "dakika": "35.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "EMS YAPI SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AARON CHRISTOPHER BILLY ONDELE APPINDANGOYE",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "CHARILAOS CHARISIS",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "REI MANAJ",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "BURAK KAPACAK",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "EMRAH BAŞSAN",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SAMUEL SAIZ ALONSO",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "YUNUS EMRE KONAK",
+                    "formaNo": "72"
+                },
+                {
+                    "oyuncuAdi": "MODOU BARROW",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ERHAN ERENTÜRK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ABDUL KADER KEITA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "AHMED MUSA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ROMAN KVET",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EMRE GÖKAY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "ACHILLEAS  POUNGOURAS",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "BANGALY FODE KOITA",
+                    "formaNo": "55"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "MURAT PALULİ",
+                    "formaNo": "99"
+                }
+            ],
+            "teknikSorumlu": [
+                "SERVET ÇETİN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "CANER OSMANPAŞA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+2.dk"
+                },
+                {
+                    "oyuncu": "CHARILAOS CHARISIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "86.dk"
+                },
+                {
+                    "oyuncu": "REI MANAJ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRAH BAŞSAN",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "BURAK KAPACAK",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "YUNUS EMRE KONAK",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "SAMUEL SAIZ ALONSO",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "REI MANAJ",
+                    "dakika": "80.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MURAT PALULİ",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "AHMED MUSA",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "BANGALY FODE KOITA",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "ABDUL KADER KEITA",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "ROMAN KVET",
+                    "dakika": "80.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "SAMUEL SAIZ ALONSO",
+                    "dakika": "7.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

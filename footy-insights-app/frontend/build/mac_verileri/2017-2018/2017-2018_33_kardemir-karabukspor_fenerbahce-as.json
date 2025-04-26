@@ -1,0 +1,311 @@
+{
+    "sezon": [
+        "2017-2018"
+    ],
+    "hafta": [
+        "33"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KARDEMİR KARABÜKSPOR"
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "OLEKSANDR RYBKA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "TAYYİP TALHA SANUÇ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKIN",
+                    "formaNo": "32"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ASLANTAŞ",
+                    "formaNo": "38"
+                },
+                {
+                    "oyuncuAdi": "ANTON KRAVCHENKO",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "ERGİN KELEŞ",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "İSHAK DOĞAN",
+                    "formaNo": "68"
+                },
+                {
+                    "oyuncuAdi": "CEM ÖZDEMİR",
+                    "formaNo": "86"
+                },
+                {
+                    "oyuncuAdi": "HERVE KAGE",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "ANDRII BLIZNICHENKO",
+                    "formaNo": "97"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FURKAN KAÇAR",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "AHMET KARADAYI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "ARİF BOSTANCI",
+                    "formaNo": "31"
+                },
+                {
+                    "oyuncuAdi": "ÇAĞLAR ŞAHİN AKBABA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR YILMAZ",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "YUSUF AKBULUT",
+                    "formaNo": "72"
+                }
+            ],
+            "teknikSorumlu": [
+                "ÜNAL KARAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YUSUF AKBULUT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "HERVE KAGE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "23.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "CEM ÖZDEMİR",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "MURAT AKIN",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "HERVE KAGE",
+                    "dakika": "78.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "AHMET KARADAYI",
+                    "dakika": "59.dk"
+                },
+                {
+                    "oyuncu": "YUSUF AKBULUT",
+                    "dakika": "73.dk"
+                },
+                {
+                    "oyuncu": "ÖZGÜR YILMAZ",
+                    "dakika": "78.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ANTON KRAVCHENKO",
+                    "dakika": "2.dk",
+                    "golTipi": "K"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "FENERBAHÇE A.Ş."
+            ],
+            "skor": [
+                "7"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "VOLKAN DEMİREL",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ KALDIRIM",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MEHMET TOPAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "JOSE FERNANDO VIANA DE SANTANA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "GIULIANO VICTOR DE PAULA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ROMAN NEUSTAEDTER",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "MARTIN SKRTEL",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "JOSEF DE SOUZA DIAS",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "AATIF CHAHECHOUHE",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "ROBERTO SOLDADO RILLO",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "IDRIS CARLOS KAMENİ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "ERTEN ERSU",
+                    "formaNo": "54"
+                },
+                {
+                    "oyuncuAdi": "İSMAİL KÖYBAŞI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ALPER POTUK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "MEHMET EKİCİ",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "LUIS CARLOS NOVO NETO",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "NABIL DIRAR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "VINCENT PETRUS ANNA SEBASTIAAN JANSSEN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MATHİEU VALBUENA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ KAĞAN GÜÇTEKİN",
+                    "formaNo": "66"
+                }
+            ],
+            "teknikSorumlu": [
+                "AYKUT KOCAMAN"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "MARTIN SKRTEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "12.dk"
+                },
+                {
+                    "oyuncu": "NABIL DIRAR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "68.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "ROBERTO SOLDADO RILLO",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "MATHİEU VALBUENA",
+                    "dakika": "83.dk"
+                },
+                {
+                    "oyuncu": "NABIL DIRAR",
+                    "dakika": "66.dk"
+                },
+                {
+                    "oyuncu": "VINCENT PETRUS ANNA SEBASTIAAN JANSSEN",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "20.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "JOSE FERNANDO VIANA DE SANTANA",
+                    "dakika": "29.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "AATIF CHAHECHOUHE",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ROBERTO SOLDADO RILLO",
+                    "dakika": "47.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "NABIL DIRAR",
+                    "dakika": "77.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "VINCENT PETRUS ANNA SEBASTIAAN JANSSEN",
+                    "dakika": "90+5.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

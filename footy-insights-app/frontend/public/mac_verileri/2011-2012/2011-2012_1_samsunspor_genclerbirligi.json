@@ -1,0 +1,288 @@
+{
+    "sezon": [
+        "2011-2012"
+    ],
+    "hafta": [
+        "1"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "SAMSUNSPOR"
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "AHMET ŞAHİN",
+                    "formaNo": "78"
+                },
+                {
+                    "oyuncuAdi": "ANDRE LUIZ BAHIA SANTOS VIANA",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "MICHAEL FINK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "UFUK SELİM TEBER",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EHIOSUN EKIGHO",
+                    "formaNo": "12"
+                },
+                {
+                    "oyuncuAdi": "KEMAL TOKAK",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ERGÜN TEBER",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ARISTIDE BANCE",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "MURAT YILDIRIM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "PAL LAZAR",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ALVARO JOSE DOMINGUEZ CABEZAS",
+                    "formaNo": "23"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ATİLLA ÖZMEN",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "VALDOMIRO DUARTE DE MACEDO",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "BAŞARAN SARAÇOĞLU",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "SAVAŞ YILMAZ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SİMON TERWASE ZENKE",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "DİLAVER GÜÇLÜ",
+                    "formaNo": "50"
+                }
+            ],
+            "teknikSorumlu": [
+                "VLADİMİR PETKOVİC"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "SAVAŞ YILMAZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "89.dk"
+                },
+                {
+                    "oyuncu": "EHIOSUN EKIGHO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "61.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "MURAT YILDIRIM",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "EHIOSUN EKIGHO",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "ALVARO JOSE DOMINGUEZ CABEZAS",
+                    "dakika": "89.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "DİLAVER GÜÇLÜ",
+                    "dakika": "82.dk"
+                },
+                {
+                    "oyuncu": "SAVAŞ YILMAZ",
+                    "dakika": "62.dk"
+                },
+                {
+                    "oyuncu": "VALDOMIRO DUARTE DE MACEDO",
+                    "dakika": "89.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ARISTIDE BANCE",
+                    "dakika": "16.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "ALVARO JOSE DOMINGUEZ CABEZAS",
+                    "dakika": "23.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "EHIOSUN EKIGHO",
+                    "dakika": "38.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GENÇLERBİRLİĞİ"
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ÖZKAN KARABULUT",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "MEHMET AKGÜN",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "AYKUT DEMİR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "İHSAN BURAK ÖZSARAÇ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "EFŞAN GEÇGİN",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "CEM CAN",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "SONER AYDOĞDU",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "OKTAY DELİBALTA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "YASİN ÖZTEKİN",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "HURŞUT MERİÇ",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "JOACHIM LUBANGWANA MUNUNGA",
+                    "formaNo": "88"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "ANTE KULUSIC",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ÖZGÜR İLERİ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "ERMIN ZEC",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LABINOT HARBUZI",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ERDAL KILIÇASLAN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "RANDALL AZOFEIFA CORRALES",
+                    "formaNo": "12"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "YASİN ÖZTEKİN",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "64.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFŞAN GEÇGİN",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "SONER AYDOĞDU",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "JOACHIM LUBANGWANA MUNUNGA",
+                    "dakika": "63.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "RANDALL AZOFEIFA CORRALES",
+                    "dakika": "40.dk"
+                },
+                {
+                    "oyuncu": "LABINOT HARBUZI",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "ERMIN ZEC",
+                    "dakika": "63.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "RANDALL AZOFEIFA CORRALES",
+                    "dakika": "53.dk",
+                    "golTipi": "F"
+                },
+                {
+                    "oyuncu": "İHSAN BURAK ÖZSARAÇ",
+                    "dakika": "89.dk",
+                    "golTipi": "H"
+                }
+            ]
+        }
+    }
+}

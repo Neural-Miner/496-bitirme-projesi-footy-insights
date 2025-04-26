@@ -1,0 +1,307 @@
+{
+    "sezon": [
+        "2018-2019"
+    ],
+    "hafta": [
+        "29"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "AKHİSARSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MILAN LUKAC",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "EDIN COCALIC",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "AYKUT ÇEVİKER",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "GÜRAY VURAL",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "HUGO MIGUEL DE ALMEIDA COSTA LOPES",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "ABDOU LWAHID SISSOKO",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ELVIS KOFI OKYERE WIAFE MANU",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "SOKOL CİKALLESHİ",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "SERGIO ANTONIO BORGES JUNIOR",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "KADİR KELEŞ",
+                    "formaNo": "89"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "AVDIJA VRSAJEVIC",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "BİLAL KISA",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HELDER JORGE LEAL RODRIGUES BARBOSA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "ERAY ATASEVEN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ONUR AYIK",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "HASAN ALİ ADIGÜZEL",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "LOTETEKA BOKILA",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MUSA NİZAM",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ADRIEN DANIEL KAROLY REGATTIN",
+                    "formaNo": "34"
+                }
+            ],
+            "teknikSorumlu": [
+                "ERCAN KAHYAOĞLU"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "ABDOU LWAHID SISSOKO",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "9.dk"
+                },
+                {
+                    "oyuncu": "SERGIO ANTONIO BORGES JUNIOR",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "70.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "KADİR KELEŞ",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "AYKUT ÇEVİKER",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "EDIN COCALIC",
+                    "dakika": "28.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HELDER JORGE LEAL RODRIGUES BARBOSA",
+                    "dakika": "46.dk"
+                },
+                {
+                    "oyuncu": "LOTETEKA BOKILA",
+                    "dakika": "76.dk"
+                },
+                {
+                    "oyuncu": "AVDIJA VRSAJEVIC",
+                    "dakika": "28.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "HELDER JORGE LEAL RODRIGUES BARBOSA",
+                    "dakika": "58.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ANTALYASPOR A.Ş."
+            ],
+            "skor": [
+                "2"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "RUUD JORGE BOFFIN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "CHARLES FERNANDO BASILIO DA SILVA",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "ALFREDO KULEMBE RIBEIRO",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "DOĞUKAN SİNİK",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "SERDAR ÖZKAN",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "ALY CİSSOKHO",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "ONDREJ CELUSTKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "NAZIM SANGARE",
+                    "formaNo": "30"
+                },
+                {
+                    "oyuncuAdi": "MEVLÜT ERDİNÇ",
+                    "formaNo": "66"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ÖZMERT",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "BAHADIR ÖZTÜRK",
+                    "formaNo": "95"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "OSMAN ÇELİK",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "ZEKİ YILDIRIM",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "BOZA JEAN ARMEL DROLE",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "ERMAN HERMAN VARDAR",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "YEKTA KURTULUŞ",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "HARUN ALPSOY",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "OZAN EVRİM ÖZENÇ",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SERGEN YATAĞAN",
+                    "formaNo": "97"
+                }
+            ],
+            "teknikSorumlu": [
+                "BÜLENT KORKMAZ"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "HAKAN ÖZMERT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "23.dk"
+                },
+                {
+                    "oyuncu": "NAZIM SANGARE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "45+2.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "SERDAR ÖZKAN",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "DOĞUKAN SİNİK",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "ALFREDO KULEMBE RIBEIRO",
+                    "dakika": "66.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "ZEKİ YILDIRIM",
+                    "dakika": "78.dk"
+                },
+                {
+                    "oyuncu": "BOZA JEAN ARMEL DROLE",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "YEKTA KURTULUŞ",
+                    "dakika": "66.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MEVLÜT ERDİNÇ",
+                    "dakika": "7.dk",
+                    "golTipi": "H"
+                },
+                {
+                    "oyuncu": "MEVLÜT ERDİNÇ",
+                    "dakika": "40.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

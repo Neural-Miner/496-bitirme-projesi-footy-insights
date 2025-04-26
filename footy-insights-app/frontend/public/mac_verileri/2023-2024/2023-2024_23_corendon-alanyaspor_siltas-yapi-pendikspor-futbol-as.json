@@ -1,0 +1,309 @@
+{
+    "sezon": [
+        "2023-2024"
+    ],
+    "hafta": [
+        "23"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "CORENDON ALANYASPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "MAHMUT ERTUĞRUL TAŞKIRAN",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL REIS LIMA",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "FIDAN ALITI",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "EFECAN KARACA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "LEROY JOHAN FER",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "JOAO PEDRO BARBADAS NOVAIS",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "OĞUZ AYDIN",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "RICHARD CANDIDO COELHO",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "JURE BALKOVEC",
+                    "formaNo": "29"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ÖZDEMİR",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "FLORENT HADERGJONAJ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "YAVUZ AYGÜN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "FURKAN BAYIR",
+                    "formaNo": "4"
+                },
+                {
+                    "oyuncuAdi": "SERGIO DUVAN CORDOVA LEZAMA",
+                    "formaNo": "9"
+                },
+                {
+                    "oyuncuAdi": "NICOLAS JEAN PAUL NOEL JANVIER",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "PIONE SISTO IFOLO MAJILEIKWA",
+                    "formaNo": "18"
+                },
+                {
+                    "oyuncuAdi": "FATİH AKSOY",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "EMİRHAN ÇAVUŞ",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "EREN ALTINTAŞ",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "LOIDE ANTONIO AUGUSTO",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "CARLOS EDUARDO FERREIRA DE SOUZA",
+                    "formaNo": "28"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TEKKE"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "JOAO PEDRO BARBADAS NOVAIS",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+6.dk"
+                },
+                {
+                    "oyuncu": "FIDAN ALITI",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "36.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EFECAN KARACA",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "YUSUF ÖZDEMİR",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "JOAO PEDRO BARBADAS NOVAIS",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "NUNO MIGUEL REIS LIMA",
+                    "dakika": "88.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "FURKAN BAYIR",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "LOIDE ANTONIO AUGUSTO",
+                    "dakika": "72.dk"
+                },
+                {
+                    "oyuncu": "NICOLAS JEAN PAUL NOEL JANVIER",
+                    "dakika": "88.dk"
+                },
+                {
+                    "oyuncu": "SERGIO DUVAN CORDOVA LEZAMA",
+                    "dakika": "88.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "LEROY JOHAN FER",
+                    "dakika": "82.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "SİLTAŞ YAPI PENDİKSPOR FUTBOL A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ERDEM CANPOLAT",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "NUNO MIGUEL RIBEIRO DA CRUZ JERONIMO SEQUEIRRA",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "HALİL AKBUNAR",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "JOHER KHADIM RASSOUL",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "MEHMET UMUT NAYİR",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "GÖKCAN KAYA",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÖZGENÇ",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "İBRAHİM AKDAĞ",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "THIAM MAME BABA",
+                    "formaNo": "27"
+                },
+                {
+                    "oyuncuAdi": "ALPASLAN ÖZTÜRK",
+                    "formaNo": "33"
+                },
+                {
+                    "oyuncuAdi": "ERENCAN YARDIMCI",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "BURAK ÖĞÜR",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "LEANDRO DEYRINIO KAPPEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "EFE SAYHAN",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "MURAT AKÇA",
+                    "formaNo": "13"
+                },
+                {
+                    "oyuncuAdi": "BERKAY SÜLÜNGÖZ",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ABDOULAY DIABY",
+                    "formaNo": "21"
+                },
+                {
+                    "oyuncuAdi": "SERKAN ASAN",
+                    "formaNo": "61"
+                },
+                {
+                    "oyuncuAdi": "MELİH GÜNEY",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "ERDEM ÇALIK",
+                    "formaNo": "78"
+                }
+            ],
+            "teknikSorumlu": [
+                "IVO RICARDO ABREU VIEIRA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "İBRAHİM AKDAĞ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "82.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERDEM ÖZGENÇ",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "HALİL AKBUNAR",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "MEHMET UMUT NAYİR",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "ERENCAN YARDIMCI",
+                    "dakika": "72.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SERKAN ASAN",
+                    "dakika": "58.dk"
+                },
+                {
+                    "oyuncu": "LEANDRO DEYRINIO KAPPEL",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "MURAT AKÇA",
+                    "dakika": "90+3.dk"
+                },
+                {
+                    "oyuncu": "ABDOULAY DIABY",
+                    "dakika": "72.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "THIAM MAME BABA",
+                    "dakika": "78.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}

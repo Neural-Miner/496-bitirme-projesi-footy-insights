@@ -1,0 +1,354 @@
+{
+    "sezon": [
+        "2021-2022"
+    ],
+    "hafta": [
+        "10"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "DEMİR GRUP SİVASSPOR"
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "ALİ ŞAŞAL VURAL",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "ERDOĞAN YEŞİLYURT",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "DIMITRIOS GOUTAS",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "CANER OSMANPAŞA",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "UĞUR ÇİFTÇİ",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "ISAAC COFIE",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "HAKAN ARSLAN",
+                    "formaNo": "37"
+                },
+                {
+                    "oyuncuAdi": "MAX ALAIN GRADEL",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OLARENWAJU AYOBAMI KAYODE",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "PEDRO HENRIQUE KONZEN MEDINA DA SILVA",
+                    "formaNo": "16"
+                },
+                {
+                    "oyuncuAdi": "MUSTAPHA YATABARE",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "MUAMMER ZÜLFİKAR YILDIRIM",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "AHMET OĞUZ",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "SAMBA CAMARA",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "KEREM ATAKAN KESGİN",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "ZİYA ERDAL",
+                    "formaNo": "58"
+                },
+                {
+                    "oyuncuAdi": "ÖZKAN YİĞİTER",
+                    "formaNo": "62"
+                },
+                {
+                    "oyuncuAdi": "OKECHUKWU GODSON AZUBUIKE",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "FREDRIK STENSOE ULVESTAD",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "SEFA YILMAZ",
+                    "formaNo": "10"
+                },
+                {
+                    "oyuncuAdi": "LEKE SAMSON JAMES",
+                    "formaNo": "90"
+                }
+            ],
+            "teknikSorumlu": [
+                "RIZA ÇALIMBAY"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+7.dk"
+                },
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "74.dk"
+                },
+                {
+                    "oyuncu": "PEDRO HENRIQUE KONZEN MEDINA DA SILVA",
+                    "kartTuru": "Çift Sarı Kart",
+                    "dakika": "67.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "ERDOĞAN YEŞİLYURT",
+                    "dakika": "90+9.dk"
+                },
+                {
+                    "oyuncu": "MUSTAPHA YATABARE",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "ISAAC COFIE",
+                    "dakika": "90+9.dk"
+                },
+                {
+                    "oyuncu": "OLARENWAJU AYOBAMI KAYODE",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "90+1.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "SAMBA CAMARA",
+                    "dakika": "90+9.dk"
+                },
+                {
+                    "oyuncu": "LEKE SAMSON JAMES",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "AHMET OĞUZ",
+                    "dakika": "90+1.dk"
+                },
+                {
+                    "oyuncu": "SEFA YILMAZ",
+                    "dakika": "75.dk"
+                },
+                {
+                    "oyuncu": "FREDRIK STENSOE ULVESTAD",
+                    "dakika": "90+9.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MAX ALAIN GRADEL",
+                    "dakika": "7.dk",
+                    "golTipi": "F"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "ADANA DEMİRSPOR A.Ş."
+            ],
+            "skor": [
+                "1"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FERHAT KAPLAN",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "SAMET AKAYDİN",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SIMON DESIRE SYLVANUS DELI",
+                    "formaNo": "91"
+                },
+                {
+                    "oyuncuAdi": "JONAS SVENSSON",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "JOHER KHADIM RASSOUL",
+                    "formaNo": "95"
+                },
+                {
+                    "oyuncuAdi": "MATIAS EZEQUIEL VARGAS MARTIN",
+                    "formaNo": "77"
+                },
+                {
+                    "oyuncuAdi": "BIRKIR BJARNASON",
+                    "formaNo": "67"
+                },
+                {
+                    "oyuncuAdi": "SİNAN KURT",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "BENJAMİN FERNAND LUCIEN  FRANCOİS STAMBOULI",
+                    "formaNo": "90"
+                },
+                {
+                    "oyuncuAdi": "YUNUS AKGÜN",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "MARIO BARWUAH BALOTELLİ",
+                    "formaNo": "9"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "ARİJANET ANAN MURİC",
+                    "formaNo": "49"
+                },
+                {
+                    "oyuncuAdi": "KAAN KANAK",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "BRITT CURTIS ASSOMBALONGA",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "OSMAN TARIK ÇAMDAL",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "METEHAN MİMAROĞLU",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "BABAJIDE DAVID AKINTOLA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "GÖKHAN İNLER",
+                    "formaNo": "88"
+                },
+                {
+                    "oyuncuAdi": "LUCAS NAHUEL CASTRO",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "TAYYİP TALHA SANUÇ",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "YOUNES BELHANDA",
+                    "formaNo": "10"
+                }
+            ],
+            "teknikSorumlu": [
+                "VINCENZO MONTELLA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "BABAJIDE DAVID AKINTOLA",
+                    "kartTuru": "Kırmızı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "BRITT CURTIS ASSOMBALONGA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "84.dk"
+                },
+                {
+                    "oyuncu": "MARIO BARWUAH BALOTELLİ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "90+8.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "YUNUS AKGÜN",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "SİNAN KURT",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "JONAS SVENSSON",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "BENJAMİN FERNAND LUCIEN  FRANCOİS STAMBOULI",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "BIRKIR BJARNASON",
+                    "dakika": "69.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "YOUNES BELHANDA",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "GÖKHAN İNLER",
+                    "dakika": "69.dk"
+                },
+                {
+                    "oyuncu": "OSMAN TARIK ÇAMDAL",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "BABAJIDE DAVID AKINTOLA",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "BRITT CURTIS ASSOMBALONGA",
+                    "dakika": "69.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "MARIO BARWUAH BALOTELLİ",
+                    "dakika": "90+8.dk",
+                    "golTipi": "P"
+                }
+            ]
+        }
+    }
+}

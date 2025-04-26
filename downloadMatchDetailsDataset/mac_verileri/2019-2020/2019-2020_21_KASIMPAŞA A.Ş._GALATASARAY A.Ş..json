@@ -1,0 +1,296 @@
+{
+    "sezon": [
+        "2019-2020"
+    ],
+    "hafta": [
+        "21"
+    ],
+    "takimlar": {
+        "takim_1": {
+            "takimAdi": [
+                "KASIMPAŞA A.Ş."
+            ],
+            "skor": [
+                "0"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "FATİH ÖZTÜRK",
+                    "formaNo": "99"
+                },
+                {
+                    "oyuncuAdi": "THIAM MAME BABA",
+                    "formaNo": "11"
+                },
+                {
+                    "oyuncuAdi": "TARKAN SERBEST",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "formaNo": "17"
+                },
+                {
+                    "oyuncuAdi": "MİCKAEL SYLVAİN TIRPAN",
+                    "formaNo": "24"
+                },
+                {
+                    "oyuncuAdi": "TOMAS BRECKA",
+                    "formaNo": "25"
+                },
+                {
+                    "oyuncuAdi": "AYTAÇ KARA",
+                    "formaNo": "35"
+                },
+                {
+                    "oyuncuAdi": "DIEUMERCI NDONGALA",
+                    "formaNo": "70"
+                },
+                {
+                    "oyuncuAdi": "YASSINE MERIAH",
+                    "formaNo": "80"
+                },
+                {
+                    "oyuncuAdi": "OUSSAMA HADADI",
+                    "formaNo": "92"
+                },
+                {
+                    "oyuncuAdi": "FLORENT HADERGJONAJ",
+                    "formaNo": "94"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "RAMAZAN KÖSE",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "FURKAN ÇETİNKAYA",
+                    "formaNo": "57"
+                },
+                {
+                    "oyuncuAdi": "BERK ÇETİN",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "DOĞUCAN HASPOLAT",
+                    "formaNo": "3"
+                },
+                {
+                    "oyuncuAdi": "İLHAN DEPE",
+                    "formaNo": "26"
+                },
+                {
+                    "oyuncuAdi": "JORGE FILIPE OLIVEIRA FERNANDES",
+                    "formaNo": "44"
+                },
+                {
+                    "oyuncuAdi": "YUSUF ERDOĞAN",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "AHMET HAKAN DEMİRLİ",
+                    "formaNo": "53"
+                },
+                {
+                    "oyuncuAdi": "ANIL KOÇ",
+                    "formaNo": "71"
+                },
+                {
+                    "oyuncuAdi": "BI GOUA GERARD GOHOU",
+                    "formaNo": "30"
+                }
+            ],
+            "teknikSorumlu": [
+                "FUAT ÇAPA"
+            ],
+            "kartlar": [
+                {
+                    "oyuncu": "TOMAS BRECKA",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "60.dk"
+                },
+                {
+                    "oyuncu": "FLORENT HADERGJONAJ",
+                    "kartTuru": "Sarı Kart",
+                    "dakika": "20.dk"
+                }
+            ],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "RICARDO ANDRADE QUARESMA BERNARDO",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "TARKAN SERBEST",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "DIEUMERCI NDONGALA",
+                    "dakika": "65.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "İLHAN DEPE",
+                    "dakika": "57.dk"
+                },
+                {
+                    "oyuncu": "BI GOUA GERARD GOHOU",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "ANIL KOÇ",
+                    "dakika": "65.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "YASSINE MERIAH",
+                    "dakika": "7.dk",
+                    "golTipi": "K"
+                }
+            ]
+        },
+        "takim_2": {
+            "takimAdi": [
+                "GALATASARAY A.Ş."
+            ],
+            "skor": [
+                "3"
+            ],
+            "ilk11": [
+                {
+                    "oyuncuAdi": "NESTOR FERNANDO MUSLERA",
+                    "formaNo": "1"
+                },
+                {
+                    "oyuncuAdi": "JEAN MICHAEL SERI",
+                    "formaNo": "6"
+                },
+                {
+                    "oyuncuAdi": "ADEM BÜYÜK",
+                    "formaNo": "7"
+                },
+                {
+                    "oyuncuAdi": "RYAN HENK DONK",
+                    "formaNo": "15"
+                },
+                {
+                    "oyuncuAdi": "ÖMER BAYRAM",
+                    "formaNo": "19"
+                },
+                {
+                    "oyuncuAdi": "EMRE AKBABA",
+                    "formaNo": "20"
+                },
+                {
+                    "oyuncuAdi": "MARIANO FERREIRA FILHO",
+                    "formaNo": "22"
+                },
+                {
+                    "oyuncuAdi": "MARCELO JOSEMIR SARACCHI PINTOS",
+                    "formaNo": "36"
+                },
+                {
+                    "oyuncuAdi": "MARCOS DO NASCIMENTO TEIXEIRA",
+                    "formaNo": "45"
+                },
+                {
+                    "oyuncuAdi": "SOFIANE FEGHOULI",
+                    "formaNo": "89"
+                },
+                {
+                    "oyuncuAdi": "MARIO RENE JUNIOR LEMINA",
+                    "formaNo": "99"
+                }
+            ],
+            "yedekler": [
+                {
+                    "oyuncuAdi": "OKAN KOCUK",
+                    "formaNo": "34"
+                },
+                {
+                    "oyuncuAdi": "ŞENER ÖZBAYRAKLI",
+                    "formaNo": "2"
+                },
+                {
+                    "oyuncuAdi": "AHMET YILMAZ ÇALIK",
+                    "formaNo": "5"
+                },
+                {
+                    "oyuncuAdi": "SELÇUK İNAN",
+                    "formaNo": "8"
+                },
+                {
+                    "oyuncuAdi": "MARTIN LINNES",
+                    "formaNo": "14"
+                },
+                {
+                    "oyuncuAdi": "FLORIN ANDONE",
+                    "formaNo": "23"
+                },
+                {
+                    "oyuncuAdi": "JESSE TAMUNOBARABOYE SEKIDIKA",
+                    "formaNo": "28"
+                },
+                {
+                    "oyuncuAdi": "EMİN BAYRAM",
+                    "formaNo": "40"
+                },
+                {
+                    "oyuncuAdi": "TAYLAN ANTALYALI",
+                    "formaNo": "48"
+                },
+                {
+                    "oyuncuAdi": "HENRY CHUKWUEMEKA ONYEKURU",
+                    "formaNo": "70"
+                }
+            ],
+            "teknikSorumlu": [
+                "FATİH TERİM"
+            ],
+            "kartlar": [],
+            "oyundanCikanlar": [
+                {
+                    "oyuncu": "EMRE AKBABA",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "JEAN MICHAEL SERI",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "MARCELO JOSEMIR SARACCHI PINTOS",
+                    "dakika": "4.dk"
+                }
+            ],
+            "oyunaGirenler": [
+                {
+                    "oyuncu": "HENRY CHUKWUEMEKA ONYEKURU",
+                    "dakika": "65.dk"
+                },
+                {
+                    "oyuncu": "SELÇUK İNAN",
+                    "dakika": "80.dk"
+                },
+                {
+                    "oyuncu": "MARTIN LINNES",
+                    "dakika": "4.dk"
+                }
+            ],
+            "goller": [
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "22.dk",
+                    "golTipi": "P"
+                },
+                {
+                    "oyuncu": "ADEM BÜYÜK",
+                    "dakika": "43.dk",
+                    "golTipi": "F"
+                }
+            ]
+        }
+    }
+}
