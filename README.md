@@ -5,22 +5,20 @@ Bu döküman, projenin dizin yapısını ve her klasör/dosyanın hangi aşamada
 ## 📂 Proje Yapısı
 
 Proje, çeşitli modüller ve işlem adımlarından oluşmaktadır. Her bir bileşenin fonksiyonu aşağıda detaylı olarak açıklanmıştır:
-Veri Toplama & İşleme
+**Veri Toplama & İşleme**
 
 downloadMatchDetailsDataset/
-
 Aşama: Veri toplama
 İçerik: TFF web sitesinden maç meta-verilerini (takımlar, tarih, skor vb.) çeken ve JSON olarak kaydeden script'ler.
 
 
 VideoDataset/
-
 Aşama: Video indirme
 İçerik: BeIN Sports web scraping ile maç özet videolarının URL'lerini bulup indiren kodlar.
 
 
 
-Görsel Analiz
+**Oyuncu Takibi, Takım Sınıflandırılması**
 
 video_processingf_faz1.py
 
@@ -47,7 +45,7 @@ Aşama: Forma numarası okuma
 
 
 
-Olay Tespiti
+**Olay Tespiti**
 
 ballAndEventAction/
 
@@ -80,7 +78,7 @@ Aşama: Kritik gol kaçırma tespiti
 
 
 
-Dil İşleme ve Ses Entegrasyonu
+**Dil İşleme ve Ses Entegrasyonu**
 
 NLP-TTS-STT/
 
@@ -101,7 +99,7 @@ Aşama: Ses klonlama denemesi
 
 
 
-Veri Entegrasyonu ve Kullanıcı Arayüzü
+**Veri Entegrasyonu ve Kullanıcı Arayüzü**
 
 merge_last/
 
@@ -116,7 +114,8 @@ Aşama: Kullanıcı arayüzü
 
 
 
-Teknolojik Altyapı
+**Teknolojik Altyapı**
+
 Proje kapsamında kullanılan temel teknolojiler:
 
 Bilgisayarlı Görü: OpenCV, objekt tespiti ve takip
@@ -126,17 +125,17 @@ OCR: PaddleOCR (skor tabelası okuma ve forma numarası tanıma denemeleri)
 Web Teknolojileri: React.js (kullanıcı arayüzü)
 NLP ve Ses: Text-to-Speech teknolojileri
 
-Katkıda Bulunanlar
-- Hayrettin Kaan Özsoy - Team Lead
-  - Email: hkaanozsoy@gmail.com
+**Katkıda Bulunanlar**
 - Ali Şahin - Team Member
   - Email: alisahin7601@gmail.com
-- Alperen Tolga Karaçam - Team Member
+- Alperen Tolga Karaçam  
   - Email: alperentolgakaracam@gmail.com
-- Betül Biçer - Team Member
+- Betül Biçer 
   - Email: betul.bicer@icloud.com
-- İlayda Uysal - Team Member
+- İlayda Uysal 
   - Email: uysalilayda0212@gmail.com
+- Hayrettin Kaan Özsoy  
+  - Email: hkaanozsoy@gmail.com
 
 Referanslar
 
