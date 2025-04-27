@@ -126,4 +126,19 @@ OCR: PaddleOCR (skor tabelası okuma ve forma numarası tanıma denemeleri)
 Web Teknolojileri: React.js (kullanıcı arayüzü)
 NLP ve Ses: Text-to-Speech teknolojileri
 
+Katkıda Bulunanlar
+- Hayrettin Kaan Özsoy - Team Lead
+  - Email: hkaanozsoy@gmail.com
+- Ali Şahin - Team Member
+  - Email: alisahin7601@gmail.com
+- Alperen Tolga Karaçam - Team Member
+  - Email: alperentolgakaracam@gmail.com
+- Betül Biçer - Team Member
+  - Email: betul.bicer@icloud.com
+- İlayda Uysal - Team Member
+  - Email: uysalilayda0212@gmail.com
+
+Referanslar
+
+SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos (https://arxiv.org/abs/1804.04527)
 ---
