@@ -1,13 +1,20 @@
-# Footy Insights
+# ⚽ Footy Insights 🤖
+<br>
 
-Bu döküman, projenin dizin yapısını ve her klasör/dosyanın hangi aşamada kullanıldığını, ne işe yaradığını özetler.
+
+## 🔗 Demo Videoları ve Canlı Uygulama Bağlantısı
+
+- **Web Uygulama Demo Videosu:** https://drive.google.com/file/d/1d71Ew4_xp9COVWFonLoXknUcWPmERkRQ/
+- **Demo Maç Videosu:** https://drive.google.com/file/d/1yZiBLEA3ey0UJO8dsL5mdYHd3rF9JidT/
+- **Deployment Link:** https://neural-miner.github.io/footy-insights-app/
 <br>
 
 
 ## 📂 Proje Yapısı
 
 Proje, çeşitli modüller ve işlem adımlarından oluşmaktadır. Her bir bileşenin fonksiyonu aşağıda detaylı olarak açıklanmıştır:
-<br>
+<br><br>
+
 
 **Veri Toplama & İşleme**
 
@@ -93,6 +100,7 @@ Proje, çeşitli modüller ve işlem adımlarından oluşmaktadır. Her bir bile
 ## 💻 Teknolojik Altyapı
 
 Proje kapsamında kullanılan temel teknolojiler:
+<br><br>
 
 - **Bilgisayarlı Görü:** OpenCV, objekt tespiti ve takip
 - **Derin Öğrenme:** SoccerNet modelleri (futbol olaylarının tespiti için)
