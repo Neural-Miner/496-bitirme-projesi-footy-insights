@@ -104,16 +104,16 @@ Proje kapsamında kullanılan temel teknolojiler:
 
 
 ## 🦾 Katkıda Bulunanlar
-- Hayrettin Kaan Özsoy - *Project Manager*
-  - Email: hkaanozsoy@gmail.com
-- Ali Şahin - *Team Member*
-  - Email: alisahin7601@gmail.com
-- Alperen Tolga Karaçam - *Team Member*
-  - Email: alperentolgakaracam@gmail.com
-- Betül Biçer - *Team Member*
-  - Email: betul.bicer@icloud.com
-- İlayda Uysal - *Team Member*
-  - Email: uysalilayda0212@gmail.com
+- Hayrettin Kaan Özsoy - *Project Manager* <br>
+  hkaanozsoy@gmail.com
+- Ali Şahin - *Team Member* <br>
+  alisahin7601@gmail.com
+- Alperen Tolga Karaçam - *Team Member* <br>
+  alperentolgakaracam@gmail.com
+- Betül Biçer - *Team Member* <br>
+  betul.bicer@icloud.com
+- İlayda Uysal - *Team Member* <br>
+  uysalilayda0212@gmail.com
 <br>
 
 
